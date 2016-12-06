@@ -10,7 +10,6 @@ YTAudioBot is currently available in the following languages:
 | :-------------------- | :----------------------------- |
 | :us: English (en_US)  | [Dan](//github.com/delivrance) |
 | :it: Italiano (it_IT) | [Dan](//github.com/delivrance) |
-| :es: Italiano (es_ES) | [Gerardo](//github.com/balboag) |
 
 > Add yourself here once you submit your translations
 
