@@ -165,8 +165,8 @@
         ],
         [
             "{BAR_CHART} *Frequently asked questions*\\n\\n",
-            "`D:` *2. What does AAC/M4A mean?*\\n",
-            "`R:` AAC is an audio coding format designed to be the successor of the MP3 format and generally achieves ",
+            "`Q:` *2. What does AAC/M4A mean?*\\n",
+            "`A:` AAC is an audio coding format designed to be the successor of the MP3 format and generally achieves ",
             "better sound quality than MP3 at similar bit rates. M4A is a file extension, also known as the container ",
             "of both the actual AAC encoded audio and the tags of the audio itself."
         ],
