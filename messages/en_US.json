@@ -243,6 +243,7 @@
     "help_button": "{OPEN_BOOK} Help",
     "about_button": "{NEWSPAPER} About",
     "previous_button": "« Previous",
+    "back_button": "« Back",
     "next_button": "Next »",
     "cancel_button": "{CROSS_MARK} Cancel",
     "download_button": "{INBOX_TRAY} Download",
