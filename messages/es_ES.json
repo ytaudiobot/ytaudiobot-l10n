@@ -10,7 +10,7 @@
     "clear_history_warning": "{WARNING_SIGN} ¡Estás a punto de borrar tu historial completo!",
     "history_settings": [
         "{HOURGLASS} *Historial de descargas*\\n\\n",
-        "{No hay ítems|Hay un ítem|Hay # ítems} en tu historial de descargas."
+        "{Sin ítems todavía|Hay un ítem|Hay # ítems} en tu historial de descargas."
     ],
     "clear_history_confirmation": [
         "{WASTEBASKET} *Borrar todo el historial de descargas*\\n\\n",
@@ -25,8 +25,8 @@
     "added_years_ago": "Añadido {0 años|un año|# años}",
     "item_removed": "{CROSS_MARK} Ítem eliminado",
     "item_restored": "{HEAVY_PLUS_SIGN} Ítem restaurado",
-    "download_history_paused": "{BALLOT_BOX_WITH_CHECK} Descarga del historial pausada",
-    "download_history_resumed": "{WHITE_HEAVY_CHECK_MARK} Descarga del historial reanudada",
+    "download_history_paused": "{BALLOT_BOX_WITH_CHECK} Historial de descargas pausado",
+    "download_history_resumed": "{WHITE_HEAVY_CHECK_MARK} Historial de descargas reanudado",
     "download_history_cleared": "{WASTEBASKET} Historial de descarga borrado",
     "file_expired": [
         "{WARNING_SIGN} *Archivado caducado*\\n\\n",
@@ -45,8 +45,8 @@
         "https://telegram.me/storebot?start=YTAudioBot"
     ],
     "no_like": [
-        "{PENSIVE_FACE} *Sentimos oír esto, {name}.*\\n\\n",
-        "¿Hay algún problema con el bot? Por favor, dínoslo (en inglés o italiano):"
+        "{PENSIVE_FACE} *Sentimos oír eso, {name}.*\\n\\n",
+        "¿Hay algún problema con el bot? Por favor, cuéntanoslo (en inglés o italiano):"
     ],
     "rating_message": [
         "{WHITE_MEDIUM_STAR} *Valorar YTAudioBot*\\n\\n",
@@ -56,12 +56,12 @@
     "rate_later": "{HOURGLASS} *¡OK, te pregunté de nuevo en otro momento!*",
     "rate_never": "{PILE_OF_POO} *OK, no te volveré a preguntar de nuevo.*",
     "send_feedback": [
-        "{MEMO} *Enviar feedback*\\n\\n",
+        "{MEMO} *Enviar comentarios*\\n\\n",
         "Puedes sugerir cambios o mejoras para el bot, reportar bugs, o dejar un comentario a los creadores ",
         "(en inglés o italiano)."
     ],
     "sending_feedback_enabled": "{MEMO} Escribe tu mensaje",
-    "feedback_sent": "{HEAVY_CHECK_MARK} *Tu feedback ha sido enviado. ¡Gracias!*",
+    "feedback_sent": "{HEAVY_CHECK_MARK} *Tu comentario ha sido enviado. ¡Gracias!*",
     "showing_trending_results": "{FIRE} *Mostrando resultados de las tendencias*\\n\\n",
     "showing_youtube_results": "{RIGHT_POINTING_MAGNIFYING_GLASS} *Resultados de YouTube para \\\"*{terms}*\\\"*\\n\\n",
     "flood_wait": "{WARNING_SIGN} *¡No tan rápido! Espera {0 segundos|un segundo|# segundos} y reinténtalo.*",
@@ -73,7 +73,7 @@
         "{GLOBE_WITH_MERIDIANS} *Idioma*\\n\\n",
         "Elige tu idioma."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} Idioma establecido en {FLAG_FOR_SPAIN} español.",
+    "language_selected": "{HEAVY_CHECK_MARK} Idioma cambiado a {FLAG_FOR_SPAIN} español.",
     "same_language_selected": "{THINKING_FACE} El idioma del bot ya está en {FLAG_FOR_SPAIN} español",
     "video_processing_in_progress": "{CLOCKWISE_DOWNWARDS_AND_UPWARDS_OPEN_CIRCLE_ARROWS} *Procesado vídeo...*",
     "download_canceled": [
@@ -101,14 +101,14 @@
             "{OPEN_BOOK} *Ayuda (2 de 4)*\\n\\n",
             "Hay varias fromas de obtener la URL. Puedes, por ejemplo:\\n\\n",
             "— Usar el botón de compartir desde la app de YouTube.\\n",
-            "— Usar los bots integrados de Telegram @vid o @youtube.\\n",
+            "— Usar los bots integrados de Telegram: @vid o @youtube.\\n",
             "— Copiar/pegar el enlace desde tu navegador web."
         ],
         [
             "{OPEN_BOOK} *Ayuda (3 de 4)*\\n\\n",
-            "Una vez obtenida la ULR, envíamela.\\n\\n",
+            "Una vez obtenida la URL, envíamela.\\n\\n",
             "Si el vídeo ya ha sido descargado por otro usuario, se te enviará de inmediato, ",
-            "si no aparecerá el botón {INBOX_TRAY} *Descargar*. Tócalo, y tu archivo de audio estará disponible ",
+            "si no aparecerá el botón {INBOX_TRAY} *Descargar*. Tócalo, tu archivo de audio estará disponible ",
             "poco después."
         ],
         [
@@ -134,7 +134,7 @@
         "allá donde vayas.*"
     ],
     "feedback": [
-        "{SPEECH_BALLOON} *Feedback*\\n\\n",
+        "{SPEECH_BALLOON} *Comentarios*\\n\\n",
         "¡Hola, {name}! ¿Te gusta YTAudioBot?"
     ],
     "about": [
@@ -143,16 +143,16 @@
         "{version} _{day} de {month} de {year}_\\n\\n",
         "{PUBLIC_ADDRESS_LOUDSPEAKER} *Canal* - @YTAudio\\n",
         "{LINK_SYMBOL} *Sitio web* - https://ytaudiobot.ml\\n",
-        "{ENVELOPE} *E-Mail* - [support@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
+        "{ENVELOPE} *Email* - [support@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
         "{EYE} *Valoraciones* - {WHITE_MEDIUM_STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
         "{BUST_IN_SILHOUETTE} [{reviews_n}](https://storebot.me/bot/ytaudiobot)"
     ],
     "settings": [
         "{GEAR} *Ajustes*\\n\\n",
-        "{NEWSPAPER} *About* - Información sobre el bot\\n",
+        "{NEWSPAPER} *Acerca de* - Información del bot\\n",
         "{BAR_CHART} *FAQ* - Preguntas frecuentes\\n",
         "{GLOBE_WITH_MERIDIANS} *Idioma* - Cambiar idioma\\n",
-        "{SPEECH_BALLOON} *Feedback* - Envía tu feedback"
+        "{SPEECH_BALLOON} *Comentarios* - Enviar comentarios"
     ],
     "faq_list": [
         [
@@ -166,22 +166,22 @@
         [
             "{BAR_CHART} *Preguntas frecuentes*\\n\\n",
             "`P:` *2. ¿Qué significa AAC/M4A?*\\n",
-            "`R:` AAC es un formato de codificación de audio diseñado para ser el sucedor del formato MP3, y generalmente logra ",
-            "un sonido de mejor calidad que el MP3 en bit rates similares. M4A es una extensión de archivo, también conocida como contenedora ",
+            "`R:` AAC es un formato de codificación de audio diseñado para ser el sucesor del formato MP3, que generalmente logra ",
+            "un sonido de mejor calidad que el MP3 en tasas de bits similares. M4A es una extensión de archivo, también conocida como contenedora ",
             "de audio codificado en AAC y de las etiquetas del propio audio."
         ],
         [
             "{BAR_CHART} *Preguntas frecuentes*\\n\\n",
             "`P:` *3. ¡Algnos vídeos no funcionan!*\\n",
             "`R:` Algunos vídeos, debido a las restricciones por país de YouTube, pueden no estar disponibles desde nuestro centro de datos. Además, ",
-            "el bot no puede enviar archivos de audio que superen los 50 MB de tamaño, este límite puede cambiar en el futuro."
+            "el bot no puede enviar archivos de audio que superen los 50 MB. Este límite puede cambiar en el futuro."
         ],
         [
             "{BAR_CHART} *Preguntas frecuentes*\\n\\n",
             "`P:` *4. ¿Por qué los archivos tienen nombres raros?*\\n",
-            "`R:` Los archivos son guardados como `Título - VideoId.m4a`, sin embargo el `Título` puede no contener el 100% del título ",
-            "del vídeo debido a algunos caracteres inválidos. Esto no suele ser un problema ya que toda la información sobre ",
-            "el vídeo está embebida en las etiquetas del archivo de audio."
+            "`R:` Los archivos se guardan como `Título - IdVideo.m4a`, sin embargo el `Título` puede no contener el 100% del título ",
+            "del vídeo, debido a algunos caracteres inválidos. Esto no suele causar problemas ya que toda la información del ",
+            "vídeo está incrustada en las etiquetas del archivo de audio."
         ]
     ],
     "faq": [
@@ -193,40 +193,40 @@
     ],
     "months_names": [
         [
-            "Enero"
+            "enero"
         ],
         [
-            "Febrero"
+            "febrero"
         ],
         [
-            "Marzo"
+            "marzo"
         ],
         [
-            "Abril"
+            "abril"
         ],
         [
-            "Mayo"
+            "mayo"
         ],
         [
-            "Junio"
+            "junio"
         ],
         [
-            "Julio"
+            "julio"
         ],
         [
-            "Agosto"
+            "agosto"
         ],
         [
-            "Septiembre"
+            "septiembre"
         ],
         [
-            "Octubre"
+            "octubre"
         ],
         [
-            "Noviembre"
+            "noviembre"
         ],
         [
-            "Diciembre"
+            "diciembre"
         ]
     ],
     "start_button": "{CHEQUERED_FLAG} Start",
@@ -236,17 +236,14 @@
     "faq_button": "{BAR_CHART} FAQ",
     "like_button": "{THUMBS_UP_SIGN} ¡Me gusta!",
     "not_really_button": "{THINKING_FACE} No mucho",
-    "send_feedback_button": "{MEMO} Send feedback",
-    "feedback_button": "{SPEECH_BALLOON} Feedback",
+    "send_feedback_button": "{MEMO} Enviar comentarios",
+    "feedback_button": "{SPEECH_BALLOON} Comentarios",
     "settings_button": "{GEAR} Ajustes",
     "select_language_button": "{GLOBE_WITH_MERIDIANS} Idioma",
     "help_button": "{OPEN_BOOK} Ayuda",
     "about_button": "{NEWSPAPER} Acerca de",
     "previous_button": "« Anterior",
-<<<<<<< HEAD
-=======
-    "back_button": null,
->>>>>>> ytaudiobot/master
+    "back_button": "« Atrás",
     "next_button": "Siguiente »",
     "cancel_button": "{CROSS_MARK} Cancelar",
     "download_button": "{INBOX_TRAY} Descargar",
@@ -256,7 +253,7 @@
     "no_thanks_button": "{PILE_OF_POO} No, gracias",
     "channel_button": "{PUBLIC_ADDRESS_LOUDSPEAKER} Canal",
     "website_button": "{LINK_SYMBOL} Sitio web",
-    "email_button": "{ENVELOPE} E-Mail",
+    "email_button": "{ENVELOPE} Email",
     "ratings_button": "{EYE} Valoraciones",
     "help_translate_button": "{PERSON_WITH_FOLDED_HANDS} Ayudar a traducir",
     "history_button": "{HOURGLASS} Historial",
