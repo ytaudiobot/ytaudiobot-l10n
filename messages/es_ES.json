@@ -243,6 +243,10 @@
     "help_button": "{OPEN_BOOK} Ayuda",
     "about_button": "{NEWSPAPER} Acerca de",
     "previous_button": "« Anterior",
+<<<<<<< HEAD
+=======
+    "back_button": null,
+>>>>>>> ytaudiobot/master
     "next_button": "Siguiente »",
     "cancel_button": "{CROSS_MARK} Cancelar",
     "download_button": "{INBOX_TRAY} Descargar",
