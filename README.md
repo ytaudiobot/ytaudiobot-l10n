@@ -6,11 +6,12 @@ _Stay tuned for news and updates on our [Telegram Channel](//telegram.me/ytaudio
 
 YTAudioBot is currently available in the following languages:
 
-| **Language**          | **Contributors**               |
-| :-------------------- | :----------------------------- |
-| :us: English (en_US)  | [Dan](//github.com/delivrance) |
-| :it: Italiano (it_IT) | [Dan](//github.com/delivrance) |
-| :es: Español (es_ES) | [Gerardo](//github.com/balboag) |
+| **Language**               | **Contributors**                     |
+| :------------------------- | :----------------------------------- |
+| :us: English (en_US)       | [Dan](//github.com/delivrance)       |
+| :it: Italiano (it_IT)      | [Dan](//github.com/delivrance)       |
+| :es: Español (es_ES)       | [Gerardo](//github.com/balboag)      |
+| :brazil: Português (pt_BR) | [Rafael](//github.com/rafaelsturmer) |
 
 > Add yourself here once you submit your translations
 
