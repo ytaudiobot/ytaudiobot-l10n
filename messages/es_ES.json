@@ -1,13 +1,13 @@
 {
     "description": [
-        "¡Descarga vídeos de YouTube como archivos de audio para llevar allá donde vayas!\\n\\n",
+        "¡Descarga vídeos de YouTube como archivos de audio para llevar siempre contigo!\\n\\n",
         "Mirror: @YTAudio_Bot"
     ],
     "type_search_terms": "{MEMO} Escribe tus términos de búsqueda",
     "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} Buscar \\\"{terms}\\\" en YouTube",
     "error": "{PENSIVE_FACE} Ocurrió un error. Reinténtalo más tarde.",
-    "longer_download_time": "{WARNING_SIGN} *Este vídeo puede llevar más tiempo de lo normal. ¡La descarga puede incluso fallar!*",
-    "clear_history_warning": "{WARNING_SIGN} ¡Estás a punto de borrar tu historial completo!",
+    "longer_download_time": "{WARNING_SIGN} *Este vídeo puede llevar más tiempo de lo normal. ¡La descarga podría incluso fallar!*",
+    "clear_history_warning": "{WARNING_SIGN} ¡Estás a punto de borrar todo tu historial!",
     "history_settings": [
         "{HOURGLASS} *Historial de descargas*\\n\\n",
         "{Sin ítems todavía|Hay un ítem|Hay # ítems} en tu historial de descargas."
@@ -29,18 +29,18 @@
     "download_history_resumed": "{WHITE_HEAVY_CHECK_MARK} Historial de descargas reanudado",
     "download_history_cleared": "{WASTEBASKET} Historial de descarga borrado",
     "file_expired": [
-        "{WARNING_SIGN} *Archivado caducado*\\n\\n",
+        "{WARNING_SIGN} *Archivo caducado*\\n\\n",
         "Toca {command} para volver a descargar."
     ],
-    "more_info": "{PAGE_WITH_CURL} Más info.",
-    "video_id": "{SMALL_ORANGE_DIAMOND} ID del vídeo",
+    "more_info": "{PAGE_WITH_CURL} Más información",
+    "video_id": "{SMALL_ORANGE_DIAMOND} ID",
     "duration": "{SMALL_ORANGE_DIAMOND} Duración",
     "size": "{SMALL_ORANGE_DIAMOND} Tamaño",
     "listen_on_youtube": "{LINK_SYMBOL} Escuchar en YouTube",
     "like": [
         "{SPARKLES} *¡Gracias, {name}!*\\n\\n",
         "Estamos encantados de que te guste.\\n\\n",
-        "Puedes valorar el bot y poner\\n",
+        "Puedes valorar el bot con\\n",
         "5 estrellas {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} aquí:\\n",
         "https://telegram.me/storebot?start=YTAudioBot"
     ],
@@ -53,8 +53,8 @@
         "{name}, ¿te está gustando el bot?\\n",
         "Tómate un momento para valorarlo en StoreBot."
     ],
-    "rate_later": "{HOURGLASS} *¡OK, te pregunté de nuevo en otro momento!*",
-    "rate_never": "{PILE_OF_POO} *OK, no te volveré a preguntar de nuevo.*",
+    "rate_later": "{HOURGLASS} *¡OK, te lo volveré a preguntar en otro momento!*",
+    "rate_never": "{PILE_OF_POO} *OK, no te lo volveré a preguntar.*",
     "send_feedback": [
         "{MEMO} *Enviar comentarios*\\n\\n",
         "Puedes sugerir cambios o mejoras para el bot, reportar bugs, o dejar un comentario a los creadores ",
@@ -75,7 +75,7 @@
     ],
     "language_selected": "{HEAVY_CHECK_MARK} Idioma cambiado a {FLAG_FOR_SPAIN} español.",
     "same_language_selected": "{THINKING_FACE} El idioma del bot ya está en {FLAG_FOR_SPAIN} español",
-    "video_processing_in_progress": "{CLOCKWISE_DOWNWARDS_AND_UPWARDS_OPEN_CIRCLE_ARROWS} *Procesado vídeo...*",
+    "video_processing_in_progress": "{CLOCKWISE_DOWNWARDS_AND_UPWARDS_OPEN_CIRCLE_ARROWS} *Procesando vídeo...*",
     "download_canceled": [
         "{CROSS_MARK} *Descarga cancelada.\\n",
         "Toca *{command}* para volver a descargar.*"
@@ -99,7 +99,7 @@
         ],
         [
             "{OPEN_BOOK} *Ayuda (2 de 4)*\\n\\n",
-            "Hay varias fromas de obtener la URL. Puedes, por ejemplo:\\n\\n",
+            "Hay varias formas de obtener la URL. Puedes, por ejemplo:\\n\\n",
             "— Usar el botón de compartir desde la app de YouTube.\\n",
             "— Usar los bots integrados de Telegram: @vid o @youtube.\\n",
             "— Copiar/pegar el enlace desde tu navegador web."
@@ -108,12 +108,12 @@
             "{OPEN_BOOK} *Ayuda (3 de 4)*\\n\\n",
             "Una vez obtenida la URL, envíamela.\\n\\n",
             "Si el vídeo ya ha sido descargado por otro usuario, se te enviará de inmediato, ",
-            "si no aparecerá el botón {INBOX_TRAY} *Descargar*. Tócalo, tu archivo de audio estará disponible ",
+            "si no, aparecerá el botón {INBOX_TRAY} *Descargar*. Tócalo, tu archivo de audio estará disponible ",
             "poco después."
         ],
         [
             "{OPEN_BOOK} *Ayuda (4 de 4)*\\n\\n",
-            "Tras haberlo recibido y descargado, puedes tocar en el mensaje de audio y elegir *Guardar en música* ",
+            "Tras haberlo recibido y descargado, puedes tocar en el mensaje de audio y elegir *Guardar en música*, ",
             "para guardar el archivo de audio en el directorio de música de tu dispositivo.\\n\\n"
         ]
     ],
@@ -131,7 +131,7 @@
     "hi": "{SPARKLES} *¡Hola, {name}!*",
     "presentation": [
         "*Con *[YTAudioBot](https://ytaudiobot.ml)*, puedes descargar vídeos de YouTube como archivos de audio para llevar ",
-        "allá donde vayas.*"
+        "siempre contigo.*"
     ],
     "feedback": [
         "{SPEECH_BALLOON} *Comentarios*\\n\\n",
@@ -142,7 +142,7 @@
         "*YTAudioBot para Telegram*\\n",
         "{version} _{day} de {month} de {year}_\\n\\n",
         "{PUBLIC_ADDRESS_LOUDSPEAKER} *Canal* - @YTAudio\\n",
-        "{LINK_SYMBOL} *Sitio web* - https://ytaudiobot.ml\\n",
+        "{LINK_SYMBOL} *Web* - https://ytaudiobot.ml\\n",
         "{ENVELOPE} *Email* - [support@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
         "{EYE} *Valoraciones* - {WHITE_MEDIUM_STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
         "{BUST_IN_SILHOUETTE} [{reviews_n}](https://storebot.me/bot/ytaudiobot)"
@@ -151,44 +151,44 @@
         "{GEAR} *Ajustes*\\n\\n",
         "{NEWSPAPER} *Acerca de* - Información del bot\\n",
         "{BAR_CHART} *FAQ* - Preguntas frecuentes\\n",
-        "{GLOBE_WITH_MERIDIANS} *Idioma* - Cambiar idioma\\n",
+        "{GLOBE_WITH_MERIDIANS} *Idioma* - Cambiar el idioma\\n",
         "{SPEECH_BALLOON} *Comentarios* - Enviar comentarios"
     ],
     "faq_list": [
         [
             "{BAR_CHART} *Preguntas frecuentes*\\n\\n",
-            "`P:` *1. ¡Quiero elegir un formato de audio!*\\n",
+            "`P:` *1. ¡Quiero elegir el formato de audio!*\\n",
             "`R:` Nos enfocamos en la calidad, rendimiento y fiabilidad del servicio. ",
             "Para lograr conversiones súper rápidas de audio en la máxima calidad disponible en YouTube, sólo enviamos ",
-            "archivos AAC 128k codificados dentro del contenedor MPEG-4 Part 14 (MP4) con extensión M4A etiquetados con información de iTunes. ",
+            "archivos AAC 128k codificados dentro del contenedor MPEG-4 Part 14 (MP4) con extensión M4A y etiquetas con la información de iTunes. ",
             "Esta elección puede cambiar en el futuro."
         ],
         [
             "{BAR_CHART} *Preguntas frecuentes*\\n\\n",
             "`P:` *2. ¿Qué significa AAC/M4A?*\\n",
-            "`R:` AAC es un formato de codificación de audio diseñado para ser el sucesor del formato MP3, que generalmente logra ",
-            "un sonido de mejor calidad que el MP3 en tasas de bits similares. M4A es una extensión de archivo, también conocida como contenedora ",
-            "de audio codificado en AAC y de las etiquetas del propio audio."
+            "`R:` AAC es un formato de codificación de audio diseñado para ser el sucesor del formato MP3, y en general logra ",
+            "un sonido de mejor calidad que el MP3 con tasas de bits similares. M4A es una extensión de archivo, que funciona como contenedor ",
+            "del audio codificado en AAC y de las etiquetas del propio audio."
         ],
         [
             "{BAR_CHART} *Preguntas frecuentes*\\n\\n",
-            "`P:` *3. ¡Algnos vídeos no funcionan!*\\n",
+            "`P:` *3. ¡Algunos vídeos no funcionan!*\\n",
             "`R:` Algunos vídeos, debido a las restricciones por país de YouTube, pueden no estar disponibles desde nuestro centro de datos. Además, ",
             "el bot no puede enviar archivos de audio que superen los 50 MB. Este límite puede cambiar en el futuro."
         ],
         [
             "{BAR_CHART} *Preguntas frecuentes*\\n\\n",
-            "`P:` *4. ¿Por qué los archivos tienen nombres raros?*\\n",
-            "`R:` Los archivos se guardan como `Título - IdVideo.m4a`, sin embargo el `Título` puede no contener el 100% del título ",
-            "del vídeo, debido a algunos caracteres inválidos. Esto no suele causar problemas ya que toda la información del ",
-            "vídeo está incrustada en las etiquetas del archivo de audio."
+            "`P:` *4. ¿Por qué lox archivos tienen nombres raros?*\\n",
+            "`R:` Los archivos se guardan como `Título - IdVideo.m4a`, sin embargo, el `Título` puede variar con respecto al original ",
+            "del vídeo, debido a que puede contener algunos caracteres inválidos. Esto no suele causar problemas, ya que toda la información del ",
+            "vídeo está incrustada dentro de las etiquetas del archivo de audio."
         ]
     ],
     "faq": [
         "{BAR_CHART} *Preguntas frecuentes*\\n\\n",
-        "*1.* ¡Quiero elegir un formato de audio!\\n",
+        "*1.* ¡Quiero elegir el formato de audio!\\n",
         "*2.* ¿Qué significa AAC/M4A?\\n",
-        "*3.* ¡Algunos vídeos no funcionan!!\\n",
+        "*3.* ¡Algunos vídeos no funcionan!\\n",
         "*4.* ¿Por qué los archivos tienen nombres raros?\\n"
     ],
     "months_names": [
@@ -229,7 +229,7 @@
             "diciembre"
         ]
     ],
-    "start_button": "{CHEQUERED_FLAG} Start",
+    "start_button": "{CHEQUERED_FLAG} Iniciar",
     "language_button": "{FLAG_FOR_SPAIN} Español",
     "more_info_button": "{PAGE_WITH_CURL} Más información",
     "send_to_button": "{OUTBOX_TRAY} Enviar a...",
@@ -252,7 +252,7 @@
     "later_button": "{HOURGLASS} Más tarde",
     "no_thanks_button": "{PILE_OF_POO} No, gracias",
     "channel_button": "{PUBLIC_ADDRESS_LOUDSPEAKER} Canal",
-    "website_button": "{LINK_SYMBOL} Sitio web",
+    "website_button": "{LINK_SYMBOL} Web",
     "email_button": "{ENVELOPE} Email",
     "ratings_button": "{EYE} Valoraciones",
     "help_translate_button": "{PERSON_WITH_FOLDED_HANDS} Ayudar a traducir",
