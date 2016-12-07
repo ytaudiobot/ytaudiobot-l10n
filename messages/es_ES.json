@@ -6,7 +6,7 @@
     "type_search_terms": "{MEMO} Escribe tus términos de búsqueda",
     "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} Buscar \\\"{terms}\\\" en YouTube",
     "error": "{PENSIVE_FACE} Ocurrió un error. Reinténtalo más tarde.",
-    "longer_download_time": "{WARNING_SIGN} *Este vídeo puede llevar más tiempo de lo normal. ¡La descarga podría incluso fallar!*",
+    "longer_download_time": "{WARNING_SIGN} *Este vídeo puede tardar más tiempo de lo normal. ¡La descarga podría incluso fallar!*",
     "clear_history_warning": "{WARNING_SIGN} ¡Estás a punto de borrar todo tu historial!",
     "history_settings": [
         "{HOURGLASS} *Historial de descargas*\\n\\n",
@@ -14,7 +14,7 @@
     ],
     "clear_history_confirmation": [
         "{WASTEBASKET} *Borrar todo el historial de descargas*\\n\\n",
-        "¿Quieres borrar todo tu historial de descargas? *Esto no se puede deshacer.*"
+        "¿Quieres borrar todo tu historial de descargas? *Esta acción no se puede deshacer.*"
     ],
     "added_seconds_ago": "Añadido hace {0 segundos|un segundo|# segundos}",
     "added_minutes_ago": "Añadido hace {0 minutos|un minuto|# minutos}",
@@ -27,7 +27,7 @@
     "item_restored": "{HEAVY_PLUS_SIGN} Ítem restaurado",
     "download_history_paused": "{BALLOT_BOX_WITH_CHECK} Historial de descargas pausado",
     "download_history_resumed": "{WHITE_HEAVY_CHECK_MARK} Historial de descargas reanudado",
-    "download_history_cleared": "{WASTEBASKET} Historial de descarga borrado",
+    "download_history_cleared": "{WASTEBASKET} Historial de descargas borrado",
     "file_expired": [
         "{WARNING_SIGN} *Archivo caducado*\\n\\n",
         "Toca {command} para volver a descargar."
@@ -39,8 +39,8 @@
     "listen_on_youtube": "{LINK_SYMBOL} Escuchar en YouTube",
     "like": [
         "{SPARKLES} *¡Gracias, {name}!*\\n\\n",
-        "Estamos encantados de que te guste.\\n\\n",
-        "Puedes reseñar el bot con\\n",
+        "Nos alegramos de que te guste.\\n\\n",
+        "Puedes valorar el bot con\\n",
         "5 estrellas {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} aquí:\\n",
         "https://telegram.me/storebot?start=YTAudioBot"
     ],
@@ -50,10 +50,10 @@
     ],
     "rating_message": [
         "{WHITE_MEDIUM_STAR} *Valorar YTAudioBot*\\n\\n",
-        "{name}, ¿te está gustando el bot?\\n",
+        "{name}, ¿estás disfrutando del bot?\\n",
         "Tómate un momento para escribir una reseña en StoreBot."
     ],
-    "rate_later": "{HOURGLASS} *¡OK, te lo volveré a preguntar en otro momento!*",
+    "rate_later": "{HOURGLASS} *¡OK, te volveré a preguntarte en otro momento!*",
     "rate_never": "{PILE_OF_POO} *OK, no te lo volveré a preguntar.*",
     "send_feedback": [
         "{MEMO} *Enviar comentarios*\\n\\n",
@@ -66,14 +66,14 @@
     "showing_youtube_results": "{RIGHT_POINTING_MAGNIFYING_GLASS} *Resultados de YouTube para \\\"*{terms}*\\\"*\\n\\n",
     "flood_wait": "{WARNING_SIGN} *¡No tan rápido! Espera {0 segundos|un segundo|# segundos} y reinténtalo.*",
     "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} *Buscando por \\\"*{terms}*\\\"...*",
-    "video_not_available": "{PENSIVE_FACE} *Lo sentimos, este vídeo no está disponible ahora mismo. Reinténtalo más tarde.*",
-    "size_limit_exceeded": "{PENSIVE_FACE} *Lo sentimos, este video excede el límite de tamaño. Reinténtallo con otro.*",
+    "video_not_available": "{PENSIVE_FACE} *Lo sentimos, este vídeo no está disponible en estos momentos. Reinténtalo más tarde.*",
+    "size_limit_exceeded": "{PENSIVE_FACE} *Lo sentimos, este video excede el límite de tamaño. Reinténtalo con otro.*",
     "api_error": "{PENSIVE_FACE} *Lo sentimos, la operación solicitada no puede ser realizada en estos momentos. Reinténtalo más tarde.*",
     "select_language": [
         "{GLOBE_WITH_MERIDIANS} *Idioma*\\n\\n",
         "Elige tu idioma."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} Idioma cambiado a {FLAG_FOR_SPAIN} español.",
+    "language_selected": "{HEAVY_CHECK_MARK} Idioma configurado en {FLAG_FOR_SPAIN} español.",
     "same_language_selected": "{THINKING_FACE} El idioma del bot ya está en {FLAG_FOR_SPAIN} español",
     "video_processing_in_progress": "{CLOCKWISE_DOWNWARDS_AND_UPWARDS_OPEN_CIRCLE_ARROWS} *Procesando vídeo...*",
     "download_canceled": [
@@ -85,16 +85,16 @@
         "Reinténtalo: *{command}*.*"
     ],
     "download_timeout": [
-        "{WARNING_SIGN} *La descarga está llevando más de 60 segundos.\\n",
-        "¡Puedes solicitar otro vídeo, este será enviado tan pronto como sea posible!*"
+        "{WARNING_SIGN} *La descarga está tardando más de 60 segundos.\\n",
+        "¡Puedes solicitar otro vídeo, este se te enviará tan pronto como sea posible!*"
     ],
-    "download_successful": "{HEAVY_CHECK_MARK} *¡Audio descargado satisfactoriamente!*",
+    "download_successful": "{HEAVY_CHECK_MARK} *¡Audio descargado correctamente!*",
     "wait_previous_download": "{WARNING_SIGN} ¡Espera por tu descarga anterior!",
     "download_queue_full": "{WARNING_SIGN} La cola de descargas está llena. Reinténtalo más tarde.",
     "help_pages_list": [
         [
             "{OPEN_BOOK} *Ayuda (1 de 4)*\\n\\n",
-            "Lo único que necesitas es la URL del vídeo de YouTube del que quieres extraer el audio, como este:\\n\\n",
+            "Lo único que necesitas es la URL del vídeo de YouTube del que quieres extraer el audio, como esta:\\n\\n",
             "— https://youtu.be/SMWi7CLoZ2Q."
         ],
         [
@@ -106,7 +106,7 @@
         ],
         [
             "{OPEN_BOOK} *Ayuda (3 de 4)*\\n\\n",
-            "Una vez obtenida la URL, envíamela.\\n\\n",
+            "Una vez obtenida la Diseño CSS regueira usc/RL, envíamela.\\n\\n",
             "Si el vídeo ya ha sido descargado por otro usuario, se te enviará de inmediato, ",
             "si no, aparecerá el botón {INBOX_TRAY} *Descargar*. Tócalo, tu archivo de audio estará disponible ",
             "poco después."
@@ -166,7 +166,7 @@
         [
             "{BAR_CHART} *Preguntas frecuentes*\\n\\n",
             "`P:` *2. ¿Qué significa AAC/M4A?*\\n",
-            "`R:` AAC es un formato de codificación de audio diseñado para ser el sucesor del formato MP3, y en general logra ",
+            "`R:` AAC es un formato de codificación de audio diseñado para ser el sucesor del formato MP3, que en general logra ",
             "un sonido de mejor calidad que el MP3 con tasas de bits similares. M4A es una extensión de archivo, que funciona como contenedor ",
             "del audio codificado en AAC y de las etiquetas del propio audio."
         ],
@@ -174,14 +174,14 @@
             "{BAR_CHART} *Preguntas frecuentes*\\n\\n",
             "`P:` *3. ¡Algunos vídeos no funcionan!*\\n",
             "`R:` Algunos vídeos, debido a las restricciones por país de YouTube, pueden no estar disponibles desde nuestro centro de datos. Además, ",
-            "el bot no puede enviar archivos de audio que superen los 50 MB. Este límite puede cambiar en el futuro."
+            "el bot sólo puede enviar archivos de hasta 50 MB. Este límite puede cambiar en el futuro."
         ],
         [
             "{BAR_CHART} *Preguntas frecuentes*\\n\\n",
             "`P:` *4. ¿Por qué lox archivos tienen nombres raros?*\\n",
-            "`R:` Los archivos se guardan como `Título - IdVideo.m4a`, sin embargo, el `Título` puede variar con respecto al original ",
-            "del vídeo, debido a que puede contener algunos caracteres inválidos. Esto no suele causar problemas, ya que toda la información del ",
-            "vídeo está incrustada dentro de las etiquetas del archivo de audio."
+            "`R:` Los archivos se guardan como `Título - IdVideo.m4a`, sin embargo, el `Título` puede variar con respecto al original, ",
+            "debido a que puede contener algunos caracteres inválidos. Esto no suele causar problemas, ya que toda la información del ",
+            "vídeo está incrustada en las etiquetas del archivo de audio."
         ]
     ],
     "faq": [
