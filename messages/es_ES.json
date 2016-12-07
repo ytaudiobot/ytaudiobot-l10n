@@ -17,12 +17,12 @@
         "¿Quieres borrar todo tu historial de descargas? *Esto no se puede deshacer.*"
     ],
     "added_seconds_ago": "Añadido hace {0 segundos|un segundo|# segundos}",
-    "added_minutes_ago": "Añadido {0 minutos|un minuto|# minutos}",
-    "added_hours_ago": "Añadido {0 horas|una hora|# horas}",
-    "added_days_ago": "Añadido {0 días|un día|# días}",
-    "added_weeks_ago": "Añadido {0 semanas|una semana|# semanas}",
-    "added_months_ago": "Añadido {0 meses|un mes|# meses}",
-    "added_years_ago": "Añadido {0 años|un año|# años}",
+    "added_minutes_ago": "Añadido hace {0 minutos|un minuto|# minutos}",
+    "added_hours_ago": "Añadido hace {0 horas|una hora|# horas}",
+    "added_days_ago": "Añadido hace {0 días|un día|# días}",
+    "added_weeks_ago": "Añadido hace {0 semanas|una semana|# semanas}",
+    "added_months_ago": "Añadido hace {0 meses|un mes|# meses}",
+    "added_years_ago": "Añadido hace {0 años|un año|# años}",
     "item_removed": "{CROSS_MARK} Ítem eliminado",
     "item_restored": "{HEAVY_PLUS_SIGN} Ítem restaurado",
     "download_history_paused": "{BALLOT_BOX_WITH_CHECK} Historial de descargas pausado",
@@ -40,7 +40,7 @@
     "like": [
         "{SPARKLES} *¡Gracias, {name}!*\\n\\n",
         "Estamos encantados de que te guste.\\n\\n",
-        "Puedes valorar el bot con\\n",
+        "Puedes reseñar el bot con\\n",
         "5 estrellas {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} aquí:\\n",
         "https://telegram.me/storebot?start=YTAudioBot"
     ],
@@ -51,7 +51,7 @@
     "rating_message": [
         "{WHITE_MEDIUM_STAR} *Valorar YTAudioBot*\\n\\n",
         "{name}, ¿te está gustando el bot?\\n",
-        "Tómate un momento para valorarlo en StoreBot."
+        "Tómate un momento para escribir una reseña en StoreBot."
     ],
     "rate_later": "{HOURGLASS} *¡OK, te lo volveré a preguntar en otro momento!*",
     "rate_never": "{PILE_OF_POO} *OK, no te lo volveré a preguntar.*",
@@ -144,7 +144,7 @@
         "{PUBLIC_ADDRESS_LOUDSPEAKER} *Canal* - @YTAudio\\n",
         "{LINK_SYMBOL} *Web* - https://ytaudiobot.ml\\n",
         "{ENVELOPE} *Email* - [support@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
-        "{EYE} *Valoraciones* - {WHITE_MEDIUM_STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
+        "{EYE} *Reseñas* - {WHITE_MEDIUM_STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
         "{BUST_IN_SILHOUETTE} [{reviews_n}](https://storebot.me/bot/ytaudiobot)"
     ],
     "settings": [
@@ -254,7 +254,7 @@
     "channel_button": "{PUBLIC_ADDRESS_LOUDSPEAKER} Canal",
     "website_button": "{LINK_SYMBOL} Web",
     "email_button": "{ENVELOPE} Email",
-    "ratings_button": "{EYE} Valoraciones",
+    "ratings_button": "{EYE} Reseñas",
     "help_translate_button": "{PERSON_WITH_FOLDED_HANDS} Ayudar a traducir",
     "history_button": "{HOURGLASS} Historial",
     "remove_button": "{CROSS_MARK} Quitar",
