@@ -39,7 +39,7 @@
     "listen_on_youtube": "{LINK_SYMBOL} Ouvir no YouTube",
     "like": [
         "{SPARKLES} *Obrigado, {name}!*\\n\\n",
-        "que bom que gostou.\\n\\n",
+        "Que bom que gostou.\\n\\n",
         "Você pode avaliar o bot com\\n",
         "5 estrelas {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} aqui:\\n",
         "https://telegram.me/storebot?start=YTAudioBot"
@@ -157,29 +157,29 @@
     "faq_list": [
         [
             "{BAR_CHART} *Perguntas frequentes*\\n\\n",
-            "`Q:` *1. Eu quero mudar o formato do áudio!*\\n",
-            "`A:` Nós focamos em qualidade, performance e rentabilidade. ",
+            "`P:` *1. Eu quero mudar o formato do áudio!*\\n",
+            "`R:` Nós focamos em qualidade, performance e rentabilidade. ",
             "Para conseguir uma super rápida conversão de áudio na maior qualidade disponível no YouTube, nós enviamos apenas ",
             "arquivos AAC 128k codificadas em MPEG-4 Part 14 (MP4) contendo extensão M4A com tags de informações do iTunes. ",
             "Essa escolha pode mudar no futuro."
         ],
         [
             "{BAR_CHART} *Perguntas frequentes*\\n\\n",
-            "`Q:` *2. O que AAC/M4A significa?*\\n",
-            "`A:` AAC é um codec de áudio designado para ser o sucessor do formato MP3 e geralmente consegue ",
+            "`P:` *2. O que AAC/M4A significa?*\\n",
+            "`R:` AAC é um codec de áudio designado para ser o sucessor do formato MP3 e geralmente consegue ",
             "melhor qualidade de som do que MP3 em similare bit rates. M4A é uma extensão de arquivo, também conhecida por conter ",
             "o áudio AAC codificado e as tags do próprio áudio."
         ],
         [
             "{BAR_CHART} *Perguntas frequentes*\\n\\n",
-            "`Q:` *3. Alguns vídeos não funcionam!*\\n",
-            "`A:` Alguns vídeos, devido as restrições de país do YouTube, pode não estar disponível para nossa central de dados. E também, ",
+            "`P:` *3. Alguns vídeos não funcionam!*\\n",
+            "`R:` Alguns vídeos, devido as restrições de país do YouTube, pode não estar disponível para nossa central de dados. E também, ",
             "o bot pode enviar arquivos de áudio de no máximo 50 MB de tamanho, este limite pode se alterado no futuro."
         ],
         [
             "{BAR_CHART} *Perguntas frequentes*\\n\\n",
-            "`Q:` *4. Porque os arquivos tem nomes estranhos??*\\n",
-            "`A:` Os arquivos são salvos como `Título - IdDoVideo.m4a`, entretando o `Título` pode não refletir 100% o título ",
+            "`P:` *4. Porque os arquivos tem nomes estranhos??*\\n",
+            "`R:` Os arquivos são salvos como `Título - IdDoVideo.m4a`, entretando o `Título` pode não refletir 100% o título ",
             "do vídeo, devido a alguns caracteres inválidos. Isso geralmente não é um problema, desde que toda informação sobre ",
             "o vídeo esteja incluída nas tags do áudio."
         ]
