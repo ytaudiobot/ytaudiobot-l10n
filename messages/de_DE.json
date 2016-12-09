@@ -149,7 +149,7 @@
     ],
     "settings": [
         "{GEAR} *Einstellungen*\\n\\n",
-        "{NEWSPAPER} *Über* - Infos zu diesem Bot\\n",
+        "{NEWSPAPER} *Über* - Infos über diesem Bot\\n",
         "{BAR_CHART} *FAQ* - Häufig gestellte Fragen\\n",
         "{GLOBE_WITH_MERIDIANS} *Sprache* - Sprache ändern\\n",
         "{SPEECH_BALLOON} *Feedback* - Sende dein Feedback"
