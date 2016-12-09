@@ -4,7 +4,7 @@
         "Mirror: @YTAudio_Bot"
     ],
     "type_search_terms": "{MEMO} הכנס ביטויים לחיפוש",
-    "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} חיפוש \\\"{terms}\\\" ביוטיוב",
+    "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} ביוטיוב \\\"{terms}\\\" חיפוש",
     "error": "{PENSIVE_FACE} קרתה תקלה. תנסה שוב מאוחר יותר.",
     "longer_download_time": "{WARNING_SIGN} *הסרטון הזה יכול לקחת יותר זמן מבדרך כלל, ההורדה יכולה גם להיכשל!*",
     "clear_history_warning": "{WARNING_SIGN} אתה עומד למחוק את כל ההיסטוריה שלך!",
