@@ -73,7 +73,7 @@
         "{GLOBE_WITH_MERIDIANS} *שפה*\\n\\n",
         "בחר את השפה שלך."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} השפה שנבחרה {FLAG_FOR_ISRAEL} אנגלית.",
+    "language_selected": "{HEAVY_CHECK_MARK} השפה שנבחרה {FLAG_FOR_ISRAEL} עברית.",
     "same_language_selected": "{THINKING_FACE} השפה שנבחרה היא כבר {FLAG_FOR_ISRAEL} עברית",
     "video_processing_in_progress": "{CLOCKWISE_DOWNWARDS_AND_UPWARDS_OPEN_CIRCLE_ARROWS} *עיבוד הסרטון מתבצע...*",
     "download_canceled": [
@@ -243,7 +243,7 @@
     "help_button": "{OPEN_BOOK} עזרה",
     "about_button": "{NEWSPAPER} אודות",
     "previous_button": "הקודם »",
-    "back_button": "« חזרה",
+    "back_button": "חזרה »",
     "next_button": "« הבא ",
     "cancel_button": "{CROSS_MARK} בטל",
     "download_button": "{INBOX_TRAY} הורד",
