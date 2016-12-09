@@ -10,7 +10,7 @@
     "clear_history_warning": "{WARNING_SIGN} Du bist gerade dabei, deinen gesamten Verlauf zu löschen!",
     "history_settings": [
         "{HOURGLASS} *Verlauf deiner heruntergeladenen Audios*\\n\\n",
-        "{Es sind keine Dateien |Es ist eine Datei |Es sind # Dateien} im Download Verlauf vorhanden."
+        "{Es sind keine Dateien|Es ist eine Datei |Es sind # Dateien} im Download Verlauf vorhanden."
     ],
     "clear_history_confirmation": [
         "{WASTEBASKET} *Den gesamten Verlauf löschen*\\n\\n",
@@ -230,7 +230,7 @@
         ]
     ],
     "start_button": "{CHEQUERED_FLAG} Start",
-    "language_button": "{FLAG_FOR_UNITED_STATES} Englisch",
+    "language_button": "{FLAG_FOR_GERMANY} Deutsch",
     "more_info_button": "{PAGE_WITH_CURL} Mehr Infos",
     "send_to_button": "{OUTBOX_TRAY} Senden an...",
     "faq_button": "{BAR_CHART} FAQ",
