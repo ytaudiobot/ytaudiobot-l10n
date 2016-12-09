@@ -6,7 +6,7 @@
     "type_search_terms": "{MEMO} הכנס ביטויים לחיפוש",
     "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} ביוטיוב \\\"{terms}\\\" חיפוש",
     "error": "{PENSIVE_FACE} קרתה תקלה. תנסה שוב מאוחר יותר.",
-    "longer_download_time": "{WARNING_SIGN} *הסרטון הזה יכול לקחת יותר זמן מבדרך כלל, ההורדה יכולה גם להיכשל!*",
+    "longer_download_time": "{WARNING_SIGN} הסרטון הזה יכול לקחת יותר זמן מבדרך כלל, ההורדה יכולה גם להיכשל!*",
     "clear_history_warning": "{WARNING_SIGN} אתה עומד למחוק את כל ההיסטוריה שלך!",
     "history_settings": [
         "{HOURGLASS} *היסטורית הורדות*\\n\\n",
@@ -73,7 +73,7 @@
         "{GLOBE_WITH_MERIDIANS} *שפה*\\n\\n",
         "בחר את השפה שלך."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} השפה שנבחרה {FLAG_FOR_ISRAEL} עברית.",
+    "language_selected": "{HEAVY_CHECK_MARK} השפה שנבחרה היא {FLAG_FOR_ISRAEL} עברית.",
     "same_language_selected": "{THINKING_FACE} השפה שנבחרה היא כבר {FLAG_FOR_ISRAEL} עברית",
     "video_processing_in_progress": "{CLOCKWISE_DOWNWARDS_AND_UPWARDS_OPEN_CIRCLE_ARROWS} *עיבוד הסרטון מתבצע...*",
     "download_canceled": [
@@ -242,9 +242,9 @@
     "select_language_button": "{GLOBE_WITH_MERIDIANS} שפה",
     "help_button": "{OPEN_BOOK} עזרה",
     "about_button": "{NEWSPAPER} אודות",
-    "previous_button": "הקודם »",
-    "back_button": "חזרה »",
-    "next_button": "« הבא ",
+    "previous_button": "« הקודם",
+    "back_button": "« חזרה",
+    "next_button": "הבא »",
     "cancel_button": "{CROSS_MARK} בטל",
     "download_button": "{INBOX_TRAY} הורד",
     "how_it_works_button": "איך זה עובד {BLACK_QUESTION_MARK_ORNAMENT}",
