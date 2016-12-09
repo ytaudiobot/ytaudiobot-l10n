@@ -89,7 +89,7 @@
         "Feel free to request another video, this one will be sent to you as soon as possible!*"
     ],
     "download_successful": "{HEAVY_CHECK_MARK} *Audio successfully downloaded!*",
-    "wait_previous_download": "{WARNING_SIGN} Wait your previous download!",
+    "wait_previous_download": "{WARNING_SIGN} Wait for your previous download!",
     "download_queue_full": "{WARNING_SIGN} Download queue is full. Please try again later.",
     "help_pages_list": [
         [
