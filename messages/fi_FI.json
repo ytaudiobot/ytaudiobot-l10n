@@ -5,7 +5,7 @@
     ],
     "type_search_terms": "{MEMO} Kirjoita hakusanasi",
     "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} Etsi \\\"{terms}\\\" YouTubesta",
-    "error": "{PENSIVE_FACE} Tapahtui virhe. Yritä uudelleen myöhemmin.",
+    "error": "{PENSIVE_FACE} Tapahtui virhe. Yritä myöhemmin uudelleen.",
     "longer_download_time": "{WARNING_SIGN} *Tämä video vie aikaa pidempään kuin yleensä. Lataus saattaa jopa epäonnistua!*",
     "clear_history_warning": "{WARNING_SIGN} Haluatko tyhjentää koko historian?",
     "history_settings": [
@@ -66,9 +66,9 @@
     "showing_youtube_results": "{RIGHT_POINTING_MAGNIFYING_GLASS} *YouTube-hakutulokset hakusanalle \\\"*{terms}*\\\"*\\n\\n",
     "flood_wait": "{WARNING_SIGN} *Ei noin nopeasti! Odota {0 sekuntia|1 sekunti|# sekuntia} ja yritä uudelleen.*",
     "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} *Haetaan hakusanalla \\\"*{terms}*\\\"...*",
-    "video_not_available": "{PENSIVE_FACE} *Anteeksi, mutta video on saavuttamattomissa juuri nyt. Yritä uudelleen myöhemmin.*",
+    "video_not_available": "{PENSIVE_FACE} *Anteeksi, mutta video on saavuttamattomissa juuri nyt. Yritä myöhemmin uudelleen.*",
     "size_limit_exceeded": "{PENSIVE_FACE} *Anteeksi, mutta video ylittää kokorajoituksen. Yritä uudelleen toisella videolla.*",
-    "api_error": "{PENSIVE_FACE} *Anteeksi, mutta pyydettyä operaatiota ei voi suorittaa juuri nyt. Yritä uudelleen myöhemmin.*",
+    "api_error": "{PENSIVE_FACE} *Anteeksi, mutta pyydettyä operaatiota ei voi suorittaa juuri nyt. Yritä myöhemmin uudelleen.*",
     "select_language": [
         "{GLOBE_WITH_MERIDIANS} *Kieli*\\n\\n",
         "Valitse haluamasi kieli."
@@ -90,7 +90,7 @@
     ],
     "download_successful": "{HEAVY_CHECK_MARK} *Ääni onnistuneesti ladattu!*",
     "wait_previous_download": "{WARNING_SIGN} Odota edellistä lataustasi!",
-    "download_queue_full": "{WARNING_SIGN} Latausjono on täynnä. Yritä uudelleen myöhemmin.",
+    "download_queue_full": "{WARNING_SIGN} Latausjono on täynnä. Yritä myöhemmin uudelleen.",
     "help_pages_list": [
         [
             "{OPEN_BOOK} *Ohje (1/4)*\\n\\n",
