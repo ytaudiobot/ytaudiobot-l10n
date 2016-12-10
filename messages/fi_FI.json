@@ -10,7 +10,7 @@
     "clear_history_warning": "{WARNING_SIGN} Haluatko tyhjentää koko historian?",
     "history_settings": [
         "{HOURGLASS} *Lataushistoria*\\n\\n",
-        "{Lataushistoriassasi ei ole yhtään kohdetta|Lataushistoriassasi on yksi kohde|Lataushistoriassasi on # kohdetta}"
+        "Lataushistoriassasi {ei ole yhtään kohdetta|on yksi kohde|on # kohdetta}."
     ],
     "clear_history_confirmation": [
         "{WASTEBASKET} *Tyhjennä koko lataushistoria*\\n\\n",
@@ -25,8 +25,8 @@
     "added_years_ago": "Lisätty {0 vuotta|vuosi|# vuotta} sitten",
     "item_removed": "{CROSS_MARK} Kohde poistettu",
     "item_restored": "{HEAVY_PLUS_SIGN} Kohde palautettu",
-    "download_history_paused": "{BALLOT_BOX_WITH_CHECK} Lataushistoria pysäytetty",
-    "download_history_resumed": "{WHITE_HEAVY_CHECK_MARK} Lataushistoria jatkettu",
+    "download_history_paused": "{BALLOT_BOX_WITH_CHECK} Lataushistorian tallentaminen pysäytetty",
+    "download_history_resumed": "{WHITE_HEAVY_CHECK_MARK} Lataushistorian tallentamista jatkettu",
     "download_history_cleared": "{WASTEBASKET} Lataushistoria tyhjennetty",
     "file_expired": [
         "{WARNING_SIGN} *Tiedosto vanhentunut*\\n\\n",
@@ -57,7 +57,7 @@
     "rate_never": "{PILE_OF_POO} *Ok, en kysy enää sinulta uudestaan.*",
     "send_feedback": [
         "{MEMO} *Lähetä palautetta*\\n\\n",
-        "Voit ehdottaa muutoksia tai parannuksia bottiin, raportoida bugeista ja ongelmista tai lähettää viestin kehittäjille ",
+        "Voit ehdottaa muutoksia tai parannuksia bottiin, raportoida bugeista tai lähettää viestin kehittäjille ",
         "(englanniksi tai italiaksi)."
     ],
     "sending_feedback_enabled": "{MEMO} Kirjoita palautteesi",
@@ -71,7 +71,7 @@
     "api_error": "{PENSIVE_FACE} *Anteeksi, mutta pyydettyä operaatiota ei voi suorittaa juuri nyt. Yritä uudelleen myöhemmin.*",
     "select_language": [
         "{GLOBE_WITH_MERIDIANS} *Kieli*\\n\\n",
-        "Valitse kielesi."
+        "Valitse haluamasi kieli."
     ],
     "language_selected": "{HEAVY_CHECK_MARK} Kieleksi vaihdettu {FLAG_FOR_FINLAND} suomi.",
     "same_language_selected": "{THINKING_FACE} Botin kieli on jo {FLAG_FOR_FINLAND} suomi",
@@ -100,9 +100,9 @@
         [
             "{OPEN_BOOK} *Ohje (2/4)*\\n\\n",
             "On monia tapoja löytää URL-osoite. Voit esimerkiksi:\\n\\n",
-            "— Käytä YouTube-sovelluksen jakopainikkeita.\\n",
-            "— Käytä Telegramin inline-botteja @vid or @youtube.\\n",
-            "— Kopioi/liitä linkki selaimestasi."
+            "— Käyttää YouTube-sovelluksen jakopainikkeita.\\n",
+            "— Käyttää Telegramin inline-botteja @vid or @youtube.\\n",
+            "— Kopioida/liittää linkki selaimestasi."
         ],
         [
             "{OPEN_BOOK} *Ohje (3/4)*\\n\\n",
@@ -113,14 +113,14 @@
         ],
         [
             "{OPEN_BOOK} *Ohje (4/4)*\\n\\n",
-            "Kun olet saanut ja ladannut sen, voit painaa äänivestiä ja painaa *Tallenna musiikkiin* (*Save to music*)",
+            "Kun olet saanut ja ladannut sen, voit painaa äänivestiä ja painaa *Tallenna musiikkiin* (*Save to music*) ",
             "tallentaaksesi äänitiedoston laitteesi musiikkikansioon.\\n\\n"
         ]
     ],
     "tips_list": [
         [
             "{ELECTRIC_LIGHT_BULB} *Vinkki (1/2)*\\n\\n",
-            "Voit myös lähettä minulle videon IDn, kuten tämän:\\n\\n",
+            "Voit myös lähettää minulle videon IDn, kuten tämän:\\n\\n",
             "— `SMWi7CLoZ2Q`."
         ],
         [
@@ -130,7 +130,7 @@
     ],
     "hi": "{SPARKLES} *Hei {name}!*",
     "presentation": [
-        "**[YTAudioBotilla](https://ytaudiobot.ml)*, voit ladata YouTube-videoita vain-ääni-tiedostoina joita voit käyttää ",
+        "*Tämä on *[YTAudioBot](https://ytaudiobot.ml)*, jolla voit ladata YouTube-videoita vain-ääni-tiedostoina joita voit käyttää ",
         "missä ikinä haluatkaan.*"
     ],
     "feedback": [
@@ -140,7 +140,7 @@
     "about": [
         "{NEWSPAPER} *Tietoa*\\n\\n",
         "*YTAudioBot Telegramille*\\n",
-        "{version} _{day} {month}ta {year}_\\n\\n",
+        "{version} _{day}. {month}ta {year}_\\n\\n",
         "{PUBLIC_ADDRESS_LOUDSPEAKER} *Kanava* - @YTAudio\\n",
         "{LINK_SYMBOL} *Kotisivu* - https://ytaudiobot.ml\\n",
         "{ENVELOPE} *Sähköpostiosoite* - [support@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
@@ -149,7 +149,7 @@
     ],
     "settings": [
         "{GEAR} *Asetukset*\\n\\n",
-        "{NEWSPAPER} *About* - Tietoa botista\\n",
+        "{NEWSPAPER} *Tietoa* - Tietoa botista\\n",
         "{BAR_CHART} *UKK* - Usein kysytyt kysymykset\\n",
         "{GLOBE_WITH_MERIDIANS} *Kieli* - Vaihda kieli\\n",
         "{SPEECH_BALLOON} *Palaute* - Lähetä palautetta"
@@ -157,29 +157,29 @@
     "faq_list": [
         [
             "{BAR_CHART} *Usein kysytyt kysymykset*\\n\\n",
-            "`Q:` *1. Haluan valita audioformaatin!*\\n",
-            "`A:` Me panostamme laatuun, palvelun nopeuteen ja vakauteen. ",
-            "Saavuttaaksemme supernopeita äänen muunnoksia suurimmalla YouTubesta saatavalla laadulla, me lähetämme ainoastaan",
+            "`K:` *1. Haluan valita audioformaatin!*\\n",
+            "`V:` Me panostamme laatuun, palvelun nopeuteen ja vakauteen. ",
+            "Saavuttaaksemme supernopeita äänen muunnoksia suurimmalla YouTubesta saatavalla laadulla, me lähetämme ainoastaan ",
             "AAC 128k-enkoodattuja tiedostoja MPEG-4 Part 14 (MP4)-säiliön sisällä M4A-tiedostopäätteellä iTunes infon kanssa. ",
             "Tämä valinta saattaa muuttua tulevaisuudessa."
         ],
         [
             "{BAR_CHART} *Usein kysytyt kysymykset*\\n\\n",
-            "`Q:` *2. Mitä AAC/M4A tarkoittavat?*\\n",
-            "`A:` AAC on äänenkoodausformaatti, joka suunniteltiin MP3-formaatin seuraajaksi ja yleisesti saavuttaa ",
+            "`K:` *2. Mitä AAC/M4A tarkoittavat?*\\n",
+            "`V:` AAC on äänenkoodausformaatti, joka suunniteltiin MP3-formaatin seuraajaksi ja yleisesti saavuttaa ",
             "paremman äänenlaadun kuin MP3 samoilla bittinopeuksilla. M4A on tiedostoformaatti, joka myös tunnetaan ",
             "AAC-enkoodatun äänen ja tägien säiliönä."
         ],
         [
             "{BAR_CHART} *Usein kysytyt kysymykset*\\n\\n",
-            "`Q:` *3. Jotkin videot eivät toimi!*\\n",
-            "`A:` Jotkin videot, johtuen YouTuben maarajoituksista, saattaa olla meidän palvelinkeskuksemme saavuttamattomissa. Ongelmana saattaa olla myös se, että ",
+            "`K:` *3. Jotkin videot eivät toimi!*\\n",
+            "`V:` Jotkin videot, johtuen YouTuben maarajoituksista, saattaa olla meidän palvelinkeskuksemme saavuttamattomissa. Ongelmana saattaa olla myös se, että ",
             "tämä botti tällä hetkellä lähettää tiedostoja vain 50 megatavun rajaan asti. Kuitenkin, tämä rajoitus saattaa muuttua tulevaisuudessa."
         ],
         [
             "{BAR_CHART} *Usein kysytyt kysymykset*\\n\\n",
-            "`Q:` *4. Miksi tiedostoilla on outoja nimiä?*\\n",
-            "`A:` Tiedostojen nimet ovat tallennettu muodossa `Otsikko - VideoId.m4a`, tosin `Otsikko` ei 100% varmuudella ole videon otsikko ",
+            "`K:` *4. Miksi tiedostoilla on outoja nimiä?*\\n",
+            "`V:` Tiedostojen nimet ovat tallennettu muodossa `Otsikko - VideoId.m4a`, tosin `Otsikko` ei 100% varmuudella ole videon otsikko ",
             "johtuen joistain virheellisistä merkeistä. Tämä ei usein ole ongelma, kun kaikki oikea tieto ",
             "videosta on upotettu in the audiotiedoston tägeihin."
         ]
@@ -231,7 +231,7 @@
     ],
     "start_button": "{CHEQUERED_FLAG} Aloita",
     "language_button": "{FLAG_FOR_FINLAND} Suomi",
-    "more_info_button": "{PAGE_WITH_CURL} Lisää tietoa",
+    "more_info_button": "{PAGE_WITH_CURL} Lisätietoa",
     "send_to_button": "{OUTBOX_TRAY} Lähetä kohteeseen...",
     "faq_button": "{BAR_CHART} UKK",
     "like_button": "{THUMBS_UP_SIGN} Pidän siitä!",
