@@ -6,16 +6,16 @@ _Stay tuned for news and updates on our [Telegram Channel](//telegram.me/ytaudio
 
 YTAudioBot is currently available in the following languages:
 
-| **Language**               | **Contributors**                        |
-| :------------------------- | :-------------------------------------- |
-| :us: English (en_US)       | [Dan](//github.com/delivrance)          |
-| :it: Italiano (it_IT)      | [Dan](//github.com/delivrance)          |
-| :es: Español (es_ES)       | [Gerardo](//github.com/balboag)         |
-| :brazil: Português (pt_BR) | [Rafael](//github.com/rafaelsturmer)    |
+| **Language**               | **Contributors**                            |
+| :------------------------- | :------------------------------------------ |
+| :us: English (en_US)       | [Dan](//github.com/delivrance)              |
+| :it: Italiano (it_IT)      | [Dan](//github.com/delivrance)              |
+| :es: Español (es_ES)       | [Gerardo](//github.com/balboag)             |
+| :brazil: Português (pt_BR) | [Rafael](//github.com/rafaelsturmer)        |
 | :israel: עברית (he_IL)     | [PhantomGitHub](//github.com/PhantomGitHub) |
-| :de: Deutsch (de_DE)       | [Julian](//github.com/jwsp1) |
-| :finland: suomi (fi_FI)    | [Elias](//github.com/theel0ja)          |
-
+| :de: Deutsch (de_DE)       | [Julian](//github.com/jwsp1)                |
+| :finland: Suomi (fi_FI)    | [Elias](//github.com/theel0ja)              |
+| :greece: Ελληνικά (el_GR)  | [stamsarger](//github.com/stamsarger)       |
 
 > Add yourself here once you submit your translations
 
