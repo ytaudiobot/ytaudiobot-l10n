@@ -159,8 +159,8 @@
             "{BAR_CHART} *Usein kysytyt kysymykset*\\n\\n",
             "`K:` *1. Haluan valita audioformaatin!*\\n",
             "`V:` Me panostamme laatuun, palvelun nopeuteen ja vakauteen. ",
-            "Saavuttaaksemme supernopeita äänen muunnoksia suurimmalla YouTubesta saatavalla laadulla, me lähetämme ainoastaan ",
-            "AAC 128k-enkoodattuja tiedostoja MPEG-4 Part 14 (MP4)-säiliön sisällä M4A-tiedostopäätteellä iTunes infon kanssa. ",
+            "Saavuttaaksemme erittäin nopeita äänenmuunnoksia suurimmalla YouTubesta saatavalla laadulla, me lähetämme ainoastaan ",
+            "AAC 128k-enkoodattuja tiedostoja MPEG-4 Part 14 (MP4)-säiliömuodon sisällä M4A-tiedostopäätteellä iTunesin datan kanssa. ",
             "Tämä valinta saattaa muuttua tulevaisuudessa."
         ],
         [
@@ -168,20 +168,20 @@
             "`K:` *2. Mitä AAC/M4A tarkoittavat?*\\n",
             "`V:` AAC on äänenkoodausformaatti, joka suunniteltiin MP3-formaatin seuraajaksi ja yleisesti saavuttaa ",
             "paremman äänenlaadun kuin MP3 samoilla bittinopeuksilla. M4A on tiedostoformaatti, joka myös tunnetaan ",
-            "AAC-enkoodatun äänen ja tägien säiliönä."
+            "AAC-enkoodatun äänen ja tägien säiliömuotona."
         ],
         [
             "{BAR_CHART} *Usein kysytyt kysymykset*\\n\\n",
             "`K:` *3. Jotkin videot eivät toimi!*\\n",
             "`V:` Jotkin videot, johtuen YouTuben maarajoituksista, saattaa olla meidän palvelinkeskuksemme saavuttamattomissa. Ongelmana saattaa olla myös se, että ",
-            "tämä botti tällä hetkellä lähettää tiedostoja vain 50 megatavun rajaan asti. Kuitenkin, tämä rajoitus saattaa muuttua tulevaisuudessa."
+            "botti lähettää tiedostoja tällä hetkellä vain 50 megatavun rajaan asti. Kuitenkin tämä rajoitus saattaa muuttua tulevaisuudessa."
         ],
         [
             "{BAR_CHART} *Usein kysytyt kysymykset*\\n\\n",
             "`K:` *4. Miksi tiedostoilla on outoja nimiä?*\\n",
             "`V:` Tiedostojen nimet ovat tallennettu muodossa `Otsikko - VideoId.m4a`, tosin `Otsikko` ei 100% varmuudella ole videon otsikko ",
-            "johtuen joistain virheellisistä merkeistä. Tämä ei usein ole ongelma, kun kaikki oikea tieto ",
-            "videosta on upotettu in the audiotiedoston tägeihin."
+            "johtuen joistakin virheellisistä merkeistä. Tämä usein ei ole ongelma, kun kaikki oikea tieto ",
+            "videosta on upotettu audiotiedoston tägeihin."
         ]
     ],
     "faq": [
