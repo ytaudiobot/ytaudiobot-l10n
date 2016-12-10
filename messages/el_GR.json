@@ -98,169 +98,165 @@
             "— https://youtu.be/SMWi7CLoZ2Q."
         ],
         [
-            "{OPEN_BOOK} *Help (2 of 4)*\\n\\n",
-            "There are various ways to find the URL. You can, for example:\\n\\n",
-            "— Use the Share button from the YouTube app.\\n",
-            "— Use Telegram's inline bots @vid or @youtube.\\n",
-            "— Copy/paste the link from your browser."
+            "{OPEN_BOOK} *Βοήθεια (2 από 4)*\\n\\n",
+            "Υπάρχουν ποικίλοι τρόποι να βρεις το λινκ. Μπορείς, λόγου χάρη:\\n\\n",
+            "— Να χρησιμοποιήσεις το κουμπί \"Κοινοποίηση\" από την εφαρμογή YouTube.\\n",
+            "— Να χρησιμοποιήσεις τα inline bots του Telegram @vid or @youtube.\\n",
+            "— Να κάνεις αντιγραφή/επικόλληση το λινκ από τον browser."
         ],
         [
-            "{OPEN_BOOK} *Help (3 of 4)*\\n\\n",
-            "Once you've found the URL, send it to me.\\n\\n",
-            "If the video has already been downloaded by someone else it will be sent to you immediately, ",
-            "otherwise the button {INBOX_TRAY} *Download* will appear. Press it, and your audio file will be available ",
-            "shortly after."
+            "{OPEN_BOOK} *Βοήθεια (3 από 4)*\\n\\n",
+            "Έχοντας βρει το λινκ, στείλ' το σ' εμένα.\\n\\n",
+            "Εάν κάποιος άλλος έχει ήδη κατεβάσει το βίντεο, θα σου το στείλω κατ' ευθείαν ",
+            "ειδάλλως το κουμπί {INBOX_TRAY} *Λήψη* θα εμφανιστεί. Πάτα το, και το αρχείο θα είναι διαθέσιμο ",
+            "σύντομα."
         ],
         [
-            "{OPEN_BOOK} *Help (4 of 4)*\\n\\n",
-            "After having received and downloaded it, you can press on the audio message and hit *Save to music* ",
-            "to save the audio file in the Music folder of your device.\\n\\n"
+            "{OPEN_BOOK} *Βοήθεια (4 από 4)*\\n\\n",
+            "Έχοντας παραλάβει και κατεβάσει το video, μπορείς να πατήσεις το αρχείο και μετά *Save to music* ",
+            "για να το αποθηκεύσεις στον φάκελο και στην εφαρμογή Μουσική της συσκευής σου.\\n\\n"
         ]
     ],
     "tips_list": [
         [
-            "{ELECTRIC_LIGHT_BULB} *Tip (1 of 2)*\\n\\n",
-            "You can also send me only the video ID, like this one:\\n\\n",
+            "{ELECTRIC_LIGHT_BULB} *Συμβουλή (1 από 2)*\\n\\n",
+            "Μπορείς και να μου στείλεις μόνο το video ID, όπως αυτό:\\n\\n",
             "— `SMWi7CLoZ2Q`."
         ],
         [
-            "{ELECTRIC_LIGHT_BULB} *Tip (2 of 2)*\\n\\n",
-            "Join the channel @YTAudio for latest news and bot updates!"
+            "{ELECTRIC_LIGHT_BULB} *Συμβουλή (2 από 2)*\\n\\n",
+            "Μπες στο κανάλι @YTAudio για τα νεότερα χαρακτηριστικά!"
         ]
     ],
-    "hi": "{SPARKLES} *Hi, {name}!*",
+    "hi": "{SPARKLES} *Γεια, {name}!*",
     "presentation": [
-        "*With *[YTAudioBot](https://ytaudiobot.ml)*, you can download YouTube videos as audio-only files to take ",
-        "wherever you go.*"
+        "*Με το *[YTAudioBot](https://ytaudiobot.ml)*, κατεβάζεις YouTube videos ως αρχεία ήχου για να τα πάρεις ",
+        "όπου πας.*"
     ],
     "feedback": [
-        "{SPEECH_BALLOON} *Feedback*\\n\\n",
-        "Hi, {name}! Do you like YTAudioBot?"
+        "{SPEECH_BALLOON} *Αποστολή γνώμης*\\n\\n",
+        "Γεια, {name}! Σου αρέσει το YTAudioBot;"
     ],
     "about": [
-        "{NEWSPAPER} *About*\\n\\n",
-        "*YTAudioBot for Telegram*\\n",
+        "{NEWSPAPER} *Περί*\\n\\n",
+        "*YTAudioBot για το Telegram*\\n",
         "{version} _{month} {day}, {year}_\\n\\n",
-        "{PUBLIC_ADDRESS_LOUDSPEAKER} *Channel* - @YTAudio\\n",
+        "{PUBLIC_ADDRESS_LOUDSPEAKER} *Κανάλι* - @YTAudio\\n",
         "{LINK_SYMBOL} *Website* - https://ytaudiobot.ml\\n",
         "{ENVELOPE} *E-Mail* - [support@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
-        "{EYE} *Reviews* - {WHITE_MEDIUM_STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
+        "{EYE} *Κριτικές* - {WHITE_MEDIUM_STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
         "{BUST_IN_SILHOUETTE} [{reviews_n}](https://storebot.me/bot/ytaudiobot)"
     ],
     "settings": [
-        "{GEAR} *Settings*\\n\\n",
-        "{NEWSPAPER} *About* - Info about the bot\\n",
-        "{BAR_CHART} *FAQ* - Freq. asked questions\\n",
-        "{GLOBE_WITH_MERIDIANS} *Language* - Change language\\n",
-        "{SPEECH_BALLOON} *Feedback* - Send your feedback"
+        "{GEAR} *Ρυθμίσεις*\\n\\n",
+        "{NEWSPAPER} *Περί* - Περί του bot\\n",
+        "{BAR_CHART} *FAQ* - Συχνές ερωτήσεις\\n",
+        "{GLOBE_WITH_MERIDIANS} *Γλώσσα* - Αλλαγή γλώσσας\\n",
+        "{SPEECH_BALLOON} *Feedback* - Πες μας τη γνώμη σου"
     ],
     "faq_list": [
         [
-            "{BAR_CHART} *Frequently asked questions*\\n\\n",
-            "`Q:` *1. I want to choose the audio format!*\\n",
-            "`A:` We focus on quality, service performance and reliability. ",
-            "To achieve super-fast audio conversions at the highest quality available on YouTube, we only send ",
-            "AAC 128k encoded files inside a MPEG-4 Part 14 (MP4) container with M4A extension tagged with iTunes info. ",
-            "This choice might change in future."
+            "{BAR_CHART} *Συχνές ερωτήσεις*\\n\\n",
+            "`Q:` *1. Θέλω να επιλέγω το φορμάτ των αρχείων!*\\n",
+            "`A:` Επικεντρωνόμαστε στην ποιότητα, στην ταχύτητα στην εμπιστοσύνη. ",
+            "Για να καταφέρουμε πολύ γρήγορες μετατροπές ήχου στην υψηλότερη ποιότητα διαθέσιμη YouTube, στέλνουμε μόνο ",
+            "AAC 128k encoded αρχεία μέσα σε ένα MPEG-4 Part 14 (MP4) container με M4A επέκταση tagged με πληροφορίες από το iTunes. ",
+            "Αυτή η επιλογή μπορεί να αλλάξει στο μέλλον."
         ],
         [
-            "{BAR_CHART} *Frequently asked questions*\\n\\n",
-            "`Q:` *2. What does AAC/M4A mean?*\\n",
-            "`A:` AAC is an audio coding format designed to be the successor of the MP3 format and generally achieves ",
-            "better sound quality than MP3 at similar bit rates. M4A is a file extension, also known as the container ",
-            "of both the actual AAC encoded audio and the tags of the audio itself."
+            "{BAR_CHART} *Συχνές ερωτήσεις*\\n\\n",
+            "`Q:` *2. Τι σημαίνει AAC/M4A?*\\n",
+            null
         ],
         [
-            "{BAR_CHART} *Frequently asked questions*\\n\\n",
-            "`Q:` *3. Some videos don't work!*\\n",
-            "`A:` Some videos, due to YouTube's country restrictions, may not be available for our data center. Also, ",
-            "the bot can currently send audio files of up to 50 MB in size, this limit may be changed in the future."
+            "{BAR_CHART} *Συχνές ερωτήσεις*\\n\\n",
+            "`Q:` *3. Κάποια βίντεο δε δουλεύουν!*\\n",
+            "`A:` Κάποια video, εξαιτίας των περιορισμών χώρας του YouTube, μπορεί να μην είναι διαθέσιμα στα κέντρα μας. Επιπλέον, ",
+            "το bot μπορεί να στέλνει αρχεία μέχρι 50 MB, αυτό το όριο μπορεί να αλλάξει στο μέλλον."
         ],
         [
-            "{BAR_CHART} *Frequently asked questions*\\n\\n",
-            "`Q:` *4. Why do files have strange names?*\\n",
-            "`A:` The files are saved as `Title - VideoId.m4a`, however the `Title` might not reflect 100% the title ",
-            "of the video due to some invalid characters. This is usually not a problem since all the correct info about ",
-            "the video are embedded in the audio file tags."
+            "{BAR_CHART} *Συχνές ερωτήσεις*\\n\\n",
+            null,
+            null
         ]
     ],
     "faq": [
-        "{BAR_CHART} *Frequently asked questions*\\n\\n",
-        "*1.* I want to choose the audio format!\\n",
-        "*2.* What does AAC/M4A mean?\\n",
-        "*3.* Some videos don't work!\\n",
-        "*4.* Why do files have strange names?\\n"
+        "{BAR_CHART} *Συχνές ερωτήσεις*\\n\\n",
+        "*1.* Θέλω να επιλέγω το φορμάτ των αρχείων!\\n",
+        "*2.* Τι σημαίνει AAC/M4A;\\n",
+        "*3.* Κάποια videos δε δουλεύουν!\\n",
+        "*4.* Γιατί κάποια αρχεία έχουν περίεργα ονόματα;\n"
     ],
     "months_names": [
         [
-            "January"
+            "Ιανουάριος"
         ],
         [
-            "February"
+            "Φεβρουάριος"
         ],
         [
-            "March"
+            "Μάρτιος"
         ],
         [
-            "April"
+            "Απρίλιος"
         ],
         [
-            "May"
+            "Μάιος"
         ],
         [
-            "June"
+            "Ιούνιος"
         ],
         [
-            "July"
+            "Ιούλιος"
         ],
         [
-            "August"
+            "Αύγουστος"
         ],
         [
-            "September"
+            "Σεπτέμβριος"
         ],
         [
-            "October"
+            "Οκτώβριος"
         ],
         [
-            "November"
+            "Νοέμβριος"
         ],
         [
-            "December"
+            "Δεκέμβριος"
         ]
     ],
     "start_button": "{CHEQUERED_FLAG} Start",
-    "language_button": "{FLAG_FOR_UNITED_STATES} English",
-    "more_info_button": "{PAGE_WITH_CURL} More info",
-    "send_to_button": "{OUTBOX_TRAY} Send to...",
-    "faq_button": "{BAR_CHART} FAQ",
-    "like_button": "{THUMBS_UP_SIGN} I like it!",
-    "not_really_button": "{THINKING_FACE} Not really",
-    "send_feedback_button": "{MEMO} Send feedback",
+    "language_button": "{FLAG_FOR_GREECE} Ελληνικά",
+    "more_info_button": "{PAGE_WITH_CURL} Περισσότερες πληροφορίες",
+    "send_to_button": "{OUTBOX_TRAY} Στείλε σε...",
+    "faq_button": "{BAR_CHART} Συχνές ερωτήσεις",
+    "like_button": "{THUMBS_UP_SIGN} Μου αρέσει!",
+    "not_really_button": "{THINKING_FACE} Ούτε καν",
+    "send_feedback_button": "{MEMO} Στείλε feedback",
     "feedback_button": "{SPEECH_BALLOON} Feedback",
-    "settings_button": "{GEAR} Settings",
-    "select_language_button": "{GLOBE_WITH_MERIDIANS} Language",
-    "help_button": "{OPEN_BOOK} Help",
-    "about_button": "{NEWSPAPER} About",
-    "previous_button": "« Previous",
-    "back_button": "« Back",
-    "next_button": "Next »",
-    "cancel_button": "{CROSS_MARK} Cancel",
-    "download_button": "{INBOX_TRAY} Download",
-    "how_it_works_button": "{BLACK_QUESTION_MARK_ORNAMENT} How it works",
-    "rate_now_button": "{WHITE_MEDIUM_STAR} Rate now",
-    "later_button": "{HOURGLASS} Later",
-    "no_thanks_button": "{PILE_OF_POO} No, thanks",
-    "channel_button": "{PUBLIC_ADDRESS_LOUDSPEAKER} Channel",
+    "settings_button": "{GEAR} Ρυθμίσεις",
+    "select_language_button": "{GLOBE_WITH_MERIDIANS} Γλώσσα",
+    "help_button": "{OPEN_BOOK} Βοήθεια",
+    "about_button": "{NEWSPAPER} Περί",
+    "previous_button": "« Προηγούμενο",
+    "back_button": "« Πίσω",
+    "next_button": "Επόμενο »",
+    "cancel_button": "{CROSS_MARK} Ακύρωση",
+    "download_button": "{INBOX_TRAY} Λήψη",
+    "how_it_works_button": "{BLACK_QUESTION_MARK_ORNAMENT} Πώς δουλεύει",
+    "rate_now_button": "{WHITE_MEDIUM_STAR} Αξιολόγησε τώρα",
+    "later_button": "{HOURGLASS} Σε λίγο",
+    "no_thanks_button": "{PILE_OF_POO} Όχι, ευχαριστώ",
+    "channel_button": "{PUBLIC_ADDRESS_LOUDSPEAKER} Κανάλι",
     "website_button": "{LINK_SYMBOL} Website",
     "email_button": "{ENVELOPE} E-Mail",
-    "ratings_button": "{EYE} Reviews",
-    "help_translate_button": "{PERSON_WITH_FOLDED_HANDS} Help translate",
-    "history_button": "{HOURGLASS} History",
-    "remove_button": "{CROSS_MARK} Remove",
-    "restore_button": "{HEAVY_PLUS_SIGN} Restore",
-    "view_button": "{EYE} View",
-    "clear_all_button": "{WASTEBASKET} Clear all",
-    "pause_button": "{BALLOT_BOX_WITH_CHECK} Pause",
-    "resume_button": "{WHITE_HEAVY_CHECK_MARK} Resume"
+    "ratings_button": "{EYE} Αξιολογήσεις",
+    "help_translate_button": "{PERSON_WITH_FOLDED_HANDS} Βοήθησε να μεταφράσουμε",
+    "history_button": "{HOURGLASS} Ιστορικό",
+    "remove_button": "{CROSS_MARK} Σβήσε",
+    "restore_button": "{HEAVY_PLUS_SIGN} Επανάφερε",
+    "view_button": "{EYE} Προβολή",
+    "clear_all_button": "{WASTEBASKET} Σβήσ' τα όλα",
+    "pause_button": "{BALLOT_BOX_WITH_CHECK} Παύση",
+    "resume_button": "{WHITE_HEAVY_CHECK_MARK} Συνέχεια"
 }
