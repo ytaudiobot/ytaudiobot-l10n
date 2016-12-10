@@ -1,6 +1,6 @@
 {
     "description": [
-        "Lataa YouTube-videoita vain-ääni-tiedostoina, joita voit käyttää missä ikinä haluatkaan!\\n\\n",
+        "Lataa YouTube-videoita vain-ääni-tiedostoina, joita voit käyttää missä ikinä liikutkin!\\n\\n",
         "Peilausbotti/Mirror: @YTAudio_Bot"
     ],
     "type_search_terms": "{MEMO} Kirjoita hakusanasi",
@@ -131,7 +131,7 @@
     "hi": "{SPARKLES} *Hei {name}!*",
     "presentation": [
         "*Tämä on *[YTAudioBot](https://ytaudiobot.ml)*, jolla voit ladata YouTube-videoita vain-ääni-tiedostoina joita voit käyttää ",
-        "missä ikinä haluatkaan.*"
+        "missä ikinä liikutkin.*"
     ],
     "feedback": [
         "{SPEECH_BALLOON} *Palaute*\\n\\n",
