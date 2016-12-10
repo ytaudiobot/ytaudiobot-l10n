@@ -14,6 +14,7 @@ YTAudioBot is currently available in the following languages:
 | :brazil: Português (pt_BR) | [Rafael](//github.com/rafaelsturmer)    |
 | :israel: עברית (he_IL)     | [PhantomGitHub](//github.com/PhantomGitHub) |
 | :de: Deutsch (de_DE)       | [Julian](//github.com/jwsp1) |
+| :finland: suomi (fi_FI)    | [Elias](//github.com/theel0ja)          |
 
 
 > Add yourself here once you submit your translations
