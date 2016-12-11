@@ -1,6 +1,6 @@
 {
     "description": [
-        "Descarcă clip-uri de pe YouTube în format audio, să le poți lua cu tine oriunde mergi!\\n\\n",
+        "Descarcă clip-uri de pe YouTube în format audio, pentru a le lua cu tine oriunde mergi!\\n\\n",
         "Rezervă: @YTAudio_Bot"
     ],
     "type_search_terms": "{MEMO} Introdu termenii de căutare",
@@ -73,8 +73,8 @@
         "{GLOBE_WITH_MERIDIANS} *Limbă*\\n\\n",
         "Selectează-ți limba."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} Limba a fost setată în {FLAG_FOR_UNITED_STATES} Engleză.",
-    "same_language_selected": "{THINKING_FACE} Limba este deja setată în {FLAG_FOR_UNITED_STATES} Engleză",
+    "language_selected": "{HEAVY_CHECK_MARK} Limba a fost setată în {FLAG_FOR_ROMANIA} Română.",
+    "same_language_selected": "{THINKING_FACE} Limba este deja setată în {FLAG_FOR_ROMANIA} Română.",
     "video_processing_in_progress": "{CLOCKWISE_DOWNWARDS_AND_UPWARDS_OPEN_CIRCLE_ARROWS} *Se procesează clip-ul...*",
     "download_canceled": [
         "{CROSS_MARK} *Descărcare anulată.\\n",
@@ -130,7 +130,7 @@
     ],
     "hi": "{SPARKLES} *Bună, {name}!*",
     "presentation": [
-        "*Cu *[YTAudioBot](https://ytaudiobot.ml)*, poți descărca clip-uri de pe YouTube, în format audio, să le poți lua cu tine ",
+        "*Cu *[YTAudioBot](https://ytaudiobot.ml)*, poți descărca clip-uri de pe YouTube, în format audio, pentru a le lua cu tine ",
         "oriunde mergi.*"
     ],
     "feedback": [
@@ -230,7 +230,7 @@
         ]
     ],
     "start_button": "{CHEQUERED_FLAG} Start",
-    "language_button": "{FLAG_FOR_UNITED_STATES} Engleză",
+    "language_button": "{FLAG_FOR_ROMANIA} Română",
     "more_info_button": "{PAGE_WITH_CURL} Informații",
     "send_to_button": "{OUTBOX_TRAY} Trimite către...",
     "faq_button": "{BAR_CHART} FAQ",
