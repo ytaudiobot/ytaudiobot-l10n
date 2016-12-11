@@ -53,7 +53,7 @@
         "{name}, îți place acest bot?\\n",
         "Fă-ți timp pentru a adăuga o recenzie în StoreBot."
     ],
-    "rate_later": "{HOURGLASS} *Bine, te voi întreba din nou mai târziu!*",
+    "rate_later": "{HOURGLASS} *Bine, te voi întreba mai târziu!*",
     "rate_never": "{PILE_OF_POO} *Bine, nu te voi mai întreba.*",
     "send_feedback": [
         "{MEMO} *Trimite o părere*\\n\\n",
@@ -101,7 +101,7 @@
             "{OPEN_BOOK} *Ajutor (2 din 4)*\\n\\n",
             "Sunt multe modalități de a găsi link-ul URL. Poți, de exemplu:\\n\\n",
             "— Să folosești butonul Share din aplicația YouTube.\\n",
-            "— Să folosești boții ‘inline’ @vid sau @youtube.\\n",
+            "— Să folosești comenzile 'inline' @vid sau @youtube.\\n",
             "— Să copiezi/inserezi link-ul direct din browser."
         ],
         [
