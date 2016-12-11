@@ -16,13 +16,13 @@
         "{WASTEBASKET} *Șterge întregul istoric*\\n\\n",
         "Ești sigur că vrei să îți ștergi întregul istoric de descărcări? *Această acțiune nu va putea fi modificată.*"
     ],
-    "added_seconds_ago": "Adăugat cu {0 secunde|o secundă|# secunde} în urmă",
-    "added_minutes_ago": "Adăugat cu {0 minute|un minut|# minute} în urmă",
-    "added_hours_ago": "Adăugat cu {0 ore|o oră|# ore} în urmă",
-    "added_days_ago": "Adăugat cu {0 zile|o zi|# zile} în urmă",
-    "added_weeks_ago": "Adăugat cu {0 săptămâni|o săptămână|# săptămâni} în urmă",
-    "added_months_ago": "Adăugat cu {0 luni|o lună|# luni} în urmă",
-    "added_years_ago": "Adăugat cu {0 ani|un an|# ani} în urmă",
+    "added_seconds_ago": "Adăugat acum {0 secunde|o secundă|# secunde}",
+    "added_minutes_ago": "Adăugat acum {0 minute|un minut|# minute}",
+    "added_hours_ago": "Adăugat acum {0 ore|o oră|# ore}",
+    "added_days_ago": "Adăugat acum {0 zile|o zi|# zile}",
+    "added_weeks_ago": "Adăugat acum {0 săptămâni|o săptămână|# săptămâni}",
+    "added_months_ago": "Adăugat acum {0 luni|o lună|# luni}",
+    "added_years_ago": "Adăugat acum {0 ani|un an|# ani}",
     "item_removed": "{CROSS_MARK} Obiect șters",
     "item_restored": "{HEAVY_PLUS_SIGN} Obiect restaurat",
     "download_history_paused": "{BALLOT_BOX_WITH_CHECK} Istoricul a fost pus în pauză",
@@ -33,7 +33,7 @@
         "Apasă {command} pentru a descărca din nou."
     ],
     "more_info": "{PAGE_WITH_CURL} Informații",
-    "video_id": "{SMALL_ORANGE_DIAMOND} ID-ul clip-ului",
+    "video_id": "{SMALL_ORANGE_DIAMOND} ID clip",
     "duration": "{SMALL_ORANGE_DIAMOND} Durată",
     "size": "{SMALL_ORANGE_DIAMOND} Mărime",
     "listen_on_youtube": "{LINK_SYMBOL} Ascultă pe YouTube",
@@ -49,7 +49,7 @@
         "Ai găsit ceva în neregulă cu acest bot? Te rugăm, spune-ne (în Engleză sau Italiană):"
     ],
     "rating_message": [
-        "{WHITE_MEDIUM_STAR} *Adaugă o recenzie YTAudioBot*\\n\\n",
+        "{WHITE_MEDIUM_STAR} *Adaugă o recenzie pentru YTAudioBot*\\n\\n",
         "{name}, îți place acest bot?\\n",
         "Fă-ți timp pentru a adăuga o recenzie în StoreBot."
     ],
@@ -71,7 +71,7 @@
     "api_error": "{PENSIVE_FACE} *Ne pare rău, operațiunea nu poate fi efectuată chiar acum. Încearcă mai târziu.*",
     "select_language": [
         "{GLOBE_WITH_MERIDIANS} *Limbă*\\n\\n",
-        "Selectează-ți limba."
+        "Selectează limba."
     ],
     "language_selected": "{HEAVY_CHECK_MARK} Limba a fost setată în {FLAG_FOR_ROMANIA} Română.",
     "same_language_selected": "{THINKING_FACE} Limba este deja setată în {FLAG_FOR_ROMANIA} Română.",
@@ -102,18 +102,18 @@
             "Sunt multe modalități de a găsi link-ul URL. Poți, de exemplu:\\n\\n",
             "— Să folosești butonul Share din aplicația YouTube.\\n",
             "— Să folosești boții ‘inline’ @vid sau @youtube.\\n",
-            "— Copiază/inserează link-ul direct din browser."
+            "— Să copiezi/inserezi link-ul direct din browser."
         ],
         [
             "{OPEN_BOOK} *Ajutor (3 din 4)*\\n\\n",
             "După ce ai găsit link-ul URL, trimite-mi-l.\\n\\n",
             "Dacă clip-ul a fost deja descărcat de altcineva formatul audio îți va fi trimis imediat, ",
-            "dacă nu, va apărea butonul {INBOX_TRAY} *Descarcă*. Apasă-l, formatul audio îți va fi trimis ",
+            "dacă nu, va apărea butonul << {INBOX_TRAY} *Descarcă* >>. Apasă-l, formatul audio îți va fi trimis ",
             "imediat după."
         ],
         [
             "{OPEN_BOOK} *Ajutor (4 din 4)*\\n\\n",
-            "După ce l-ai primit și descărcat, poți apăsa mesajul audio, iar apoi butonul *Save to music* ",
+            "După ce l-ai primit și descărcat, poți apăsa mesajul audio, iar apoi butonul << *Save to music* >>",
             "pentru a salva fișierul audio în folderul Muzică din dispozitivul tău.\\n\\n"
         ]
     ],
@@ -140,7 +140,7 @@
     "about": [
         "{NEWSPAPER} *Despre*\\n\\n",
         "*YTAudioBot pentru Telegram*\\n",
-        "{version} _{month} {day}, {year}_\\n\\n",
+        "{version} _{day} {month} {year}_\\n\\n",
         "{PUBLIC_ADDRESS_LOUDSPEAKER} *Canal* - @YTAudio\\n",
         "{LINK_SYMBOL} *Website* - https://ytaudiobot.ml\\n",
         "{ENVELOPE} *E-Mail* - [support@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
@@ -247,7 +247,7 @@
     "next_button": "Următorul »",
     "cancel_button": "{CROSS_MARK} Anulează",
     "download_button": "{INBOX_TRAY} Descarcă",
-    "how_it_works_button": "{BLACK_QUESTION_MARK_ORNAMENT} Cum funcționează?",
+    "how_it_works_button": "{BLACK_QUESTION_MARK_ORNAMENT} Cum funcționează",
     "rate_now_button": "{WHITE_MEDIUM_STAR} Adaugă o recenzie",
     "later_button": "{HOURGLASS} Mai târziu",
     "no_thanks_button": "{PILE_OF_POO} Nu, mulțumesc",
