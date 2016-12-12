@@ -73,7 +73,7 @@
         "{GLOBE_WITH_MERIDIANS} *Sprache*\\n\\n",
         "Wähle eine Sprache aus."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} Die Sprache wurde auf {FLAG_FOR_GERMANY} Deutsch umgesetellt.",
+    "language_selected": "{HEAVY_CHECK_MARK} Die Sprache wurde auf {FLAG_FOR_GERMANY} Deutsch umgestellt.",
     "same_language_selected": "{THINKING_FACE} Die Sprache ist schon auf {FLAG_FOR_GERMANY} Deutsch",
     "video_processing_in_progress": "{CLOCKWISE_DOWNWARDS_AND_UPWARDS_OPEN_CIRCLE_ARROWS} *Konvertierung im Gang...*",
     "download_canceled": [
