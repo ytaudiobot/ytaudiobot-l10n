@@ -66,5 +66,5 @@ If you happen to find something to improve (without completely change the meanin
 
 ## Contacts
 - Telegram: [@haskell](//telegram.me/haskell).
-- E-Mail: [support@ytaudiobot.ml](mailto:support@ytaudiobot.ml).
+- E-Mail: [admin@ytaudiobot.ml](mailto:admin@ytaudiobot.ml).
 - YTAudioBot: :gear: **Settings >** :speech_balloon: **Feedback >** :memo: **Send feedback**.

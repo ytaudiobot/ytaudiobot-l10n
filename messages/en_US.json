@@ -143,7 +143,7 @@
         "{version} _{month} {day}, {year}_\\n\\n",
         "{PUBLIC_ADDRESS_LOUDSPEAKER} *Channel* - @YTAudio\\n",
         "{LINK_SYMBOL} *Website* - https://ytaudiobot.ml\\n",
-        "{ENVELOPE} *E-Mail* - [support@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
+        "{ENVELOPE} *E-Mail* - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
         "{EYE} *Reviews* - {WHITE_MEDIUM_STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
         "{BUST_IN_SILHOUETTE} [{reviews_n}](https://storebot.me/bot/ytaudiobot)"
     ],

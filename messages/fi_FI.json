@@ -143,7 +143,7 @@
         "{version} _{day}. {month}ta {year}_\\n\\n",
         "{PUBLIC_ADDRESS_LOUDSPEAKER} *Kanava* - @YTAudio\\n",
         "{LINK_SYMBOL} *Kotisivu* - https://ytaudiobot.ml\\n",
-        "{ENVELOPE} *Sähköpostiosoite* - [support@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
+        "{ENVELOPE} *Sähköpostiosoite* - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
         "{EYE} *Arvostelut* - {WHITE_MEDIUM_STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
         "{BUST_IN_SILHOUETTE} [{reviews_n}](https://storebot.me/bot/ytaudiobot)"
     ],
