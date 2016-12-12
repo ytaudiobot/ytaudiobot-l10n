@@ -13,7 +13,7 @@ YTAudioBot is currently available in the following languages:
 | :es: Español (es_ES)       | [Gerardo](//github.com/balboag)             |
 | :brazil: Português (pt_BR) | [Rafael](//github.com/rafaelsturmer)        |
 | :israel: עברית (he_IL)     | [PhantomGitHub](//github.com/PhantomGitHub) |
-| :de: Deutsch (de_DE)       | [Julian](//github.com/jwsp1)                |
+| :de: Deutsch (de_DE)       | [Julian](//github.com/jwsp1), Alex          |
 | :finland: Suomi (fi_FI)    | [Elias](//github.com/theel0ja)              |
 | :greece: Ελληνικά (el_GR)  | [stamsarger](//github.com/stamsarger)       |
 | :romania: Română (ro_RO)   | [NicuG](//telegram.me/nicug)                | 
