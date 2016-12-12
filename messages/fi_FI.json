@@ -73,8 +73,8 @@
         "{GLOBE_WITH_MERIDIANS} *Kieli*\\n\\n",
         "Valitse haluamasi kieli."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} Kieleksi vaihdettu {FLAG_FOR_FINLAND} suomi.",
-    "same_language_selected": "{THINKING_FACE} Botin kieli on jo {FLAG_FOR_FINLAND} suomi",
+    "language_selected": "{HEAVY_CHECK_MARK} Kieleksi vaihdettu {FLAG_FOR_FINLAND} Suomi.",
+    "same_language_selected": "{THINKING_FACE} Botin kieli on jo {FLAG_FOR_FINLAND} Suomi",
     "video_processing_in_progress": "{CLOCKWISE_DOWNWARDS_AND_UPWARDS_OPEN_CIRCLE_ARROWS} *Videon prosessointi käynnissä...*",
     "download_canceled": [
         "{CROSS_MARK} *Lataus peruutettu.\\n",
