@@ -11,7 +11,7 @@
     "clear_history_warning": "{WARNING_SIGN} Barcha tarixni o'chirishga yaqinsiz!",
     "history_settings": [
         "{HOURGLASS} *Yuklab olish tarixi*\\n\\n",
-        "{Predmet yo'q|Bitta predmet bor|#ta predmet bor} yuklab olingan tarixingizda."
+        "Yuklab olingan tarixingizda {Predmet yo'q|Bitta predmet bor|#ta predmet bor}."
     ],
     "clear_history_confirmation": [
         "{WASTEBASKET} *Yuklab olingan tarixni o'chirish*\\n\\n",
@@ -74,8 +74,8 @@
         "{GLOBE_WITH_MERIDIANS} *Til*\\n\\n",
         "Tilni tanlang."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} {FLAG_FOR_UNITED_STATES} Ingliz tili tanlandi.",
-    "same_language_selected": "{THINKING_FACE} Botning tili oldindan {FLAG_FOR_UNITED_STATES} Inglizchaga tanlangan",
+    "language_selected": "{HEAVY_CHECK_MARK} {FLAG_FOR_UZBEKISTAN} O'zbek tili tanlandi.",
+    "same_language_selected": "{THINKING_FACE} Botning tili oldindan {FLAG_FOR_UZBEKISTAN} O'zbekcha tanlangan",
     "video_processing_in_progress": "{CLOCKWISE_DOWNWARDS_AND_UPWARDS_OPEN_CIRCLE_ARROWS} *Video protsessda...*",
     "download_canceled": [
         "{CROSS_MARK} *Yuklash to'xtatildi.\\n",
@@ -94,44 +94,44 @@
     "download_queue_full": "{WARNING_SIGN} Yuklab olish navbati to'la. Iltimoz keyinroq urinib ko'ring.",
     "help_pages_list": [
         [
-            "{OPEN_BOOK} *Yordam (4dan 1)*\\n\\n",
-            "Sizga kerak bo'lgan narsa ma'lum bir YouTube video URL holos, misol uchun:\\n\\n",
+            "{OPEN_BOOK} *Yordam (1-4)*\\n\\n",
+            "Sizga kerak bo'lgan narsa, ma'lum bir YouTube video URL holos, misol uchun:\\n\\n",
             "— https://youtu.be/SMWi7CLoZ2Q."
         ],
         [
-            "{OPEN_BOOK} *Yordam (4dan 2)*\\n\\n",
+            "{OPEN_BOOK} *Yordam (2-4)*\\n\\n",
             "URL topishni bir necha usuli bor. Misol uchun siz:\\n\\n",
             "— YouTube programmasidan Baham Ko'rish tugmasini bosing.\\n",
             "— Telegramni quyidagi inline botlaridan foydalaning @vid yoki @youtube.\\n",
             "— Linkni borowseringizdan Copy qilib so'ngra botga Paste qiling."
         ],
         [
-            "{OPEN_BOOK} *Yordam (4dan 3)*\\n\\n",
+            "{OPEN_BOOK} *Yordam (3-4)*\\n\\n",
             "URL ni topgandan so'ng, uni menga jo'nating.\\n\\n",
             "Agar video boshqa foydalanuvchi tomonidan allaqachon yuklab olingan bo'lsa, u sizga darhol jo'natiladi, ",
             "Boshqa holda {INBOX_TRAY} *Yuklab olish* tugmasi paydo bo'ladi. Uni bosing, va sizning faylingiz tezda paydo ",
             "bo'ladi."
         ],
         [
-            "{OPEN_BOOK} *Help (4dan 4)*\\n\\n",
-            "Qabul qilib, yuklab olganingizdan so'ng, audio xabarni va *Saqlash* tugmasini bosing ",
+            "{OPEN_BOOK} *Help (4-4)*\\n\\n",
+            "Qabul qilib, yuklab olganingizdan so'ng, audio xabarni va *Saqlash* tugmasini bosing. ",
             "Audio Music folderingizga tushadi.\\n\\n"
         ]
     ],
     "tips_list": [
         [
-            "{ELECTRIC_LIGHT_BULB} *Maslahat (2dan 1)*\\n\\n",
+            "{ELECTRIC_LIGHT_BULB} *Maslahat (1-2)*\\n\\n",
             "Siz shuningdek video ID sini ham jo'natishingiz mumkin, misol uchun:\\n\\n",
             "— `SMWi7CLoZ2Q`."
         ],
         [
-            "{ELECTRIC_LIGHT_BULB} *Maslahat (2dan 2)*\\n\\n",
+            "{ELECTRIC_LIGHT_BULB} *Maslahat (2-2)*\\n\\n",
             "Botning so'ngi yangiliklari uchun @YTAudio kanaliga a'zo boling!"
         ]
     ],
     "hi": "{SPARKLES} *Salom, {name}!*",
     "presentation": [
-        "* *[YTAudioBot](https://ytaudiobot.ml)*, siz YouTube videolarini audio formatida yuklab olishingiz mumkin. ",
+        "* *[YTAudioBot](https://ytaudiobot.ml)*,  sizga YouTube videolarini audio formatida yuklab beradi. ",
         "*"
     ],
     "feedback": [
@@ -168,19 +168,19 @@
             "{BAR_CHART} *Ko'p so'raladigan savollar*\\n\\n",
             "`Q:` *2. AAC/M4A nimani anglatadi?*\\n",
             "`A:` AAC bu MP3 formatiga o'xshash audio bo'lib, odatda ",
-            "MP3 formatidan tiniqroq audio beradi. M4A bu fayl extensioni, shuningdek container deb nomlanadi",
+            "MP3 formatidan tiniqroq audio beradi. M4A bu fayl extensioni, shuningdek container deb nomlanadi ",
             "Original encoded audio, audio tagi bilan birga."
         ],
         [
             "{BAR_CHART} *Ko'p so'raladigan savollar*\\n\\n",
             "`Q:` *3. B'azi bir videolar ishlamayapti!*\\n",
             "`A:` Ba'zi bir videolar YouTube tomonidan cheklangan bo'ladi, va sizning data centeringiz uchun mavjud bo'lmasligi mumkin. Shuningdek, ",
-            "hozirda bot, hajmi 50MB gacha bo'lgan audiolarni jo'natishga qodir xolos, bu kelajakda o'zgarishi mumkin."
+            "hozirda bot, hajmi 50MB dan oshiq bo'lgan audiolarni jo'natishga qodir emas, lekin bu kelajakda o'zgarishi mumkin."
         ],
         [
             "{BAR_CHART} *Ko'p so'raladigan savollar*\\n\\n",
             "`Q:` *4. Nima uchun fayllar o'zgacha nomga ega?*\\n",
-            "`A:` Fayllar `Nomi - VideoId.m4a` kabi saqlanib qoladi, lekin `Nomi` video nomiga 100% o'xshmasligi mumkin",
+            "`A:` Fayllar  `Nom - VideoId.m4a`  kabi saqlanib qoladi, lekin `Nomi` video nomiga 100% o'xshmasligi ham mumkin ",
             "b'azi bir characterlar sababli. Bu odatda muammo emas chunki video haqidagi barcha ma'lumot ",
             "audio tag da birlashgan bo'ladi."
         ]
@@ -231,7 +231,7 @@
         ]
     ],
     "start_button": "{CHEQUERED_FLAG} Boshlash",
-    "language_button": "{FLAG_FOR_UNITED_STATES} Inglizcha",
+    "language_button": "{FLAG_FOR_UZBEKISTAN} O'zbek",
     "more_info_button": "{PAGE_WITH_CURL} Qo'shimcha ma'lumot",
     "send_to_button": "{OUTBOX_TRAY} Jo'natish...",
     "faq_button": "{BAR_CHART} KSS",
@@ -256,7 +256,7 @@
     "website_button": "{LINK_SYMBOL} Websayt",
     "email_button": "{ENVELOPE} E-Mail",
     "ratings_button": "{EYE} Ko'rib chiqishlar",
-    "help_translate_button": "{PERSON_WITH_FOLDED_HANDS} Tarjimon, husanboyga yordam berish",
+    "help_translate_button": "{PERSON_WITH_FOLDED_HANDS} Tarjimon, Husanboyga yordam.",
     "history_button": "{HOURGLASS} Tarix",
     "remove_button": "{CROSS_MARK} Olib tashlash",
     "restore_button": "{HEAVY_PLUS_SIGN} Qayta tiklash",
