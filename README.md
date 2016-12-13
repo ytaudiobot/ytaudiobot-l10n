@@ -17,7 +17,7 @@ YTAudioBot is currently available in the following languages:
 | :finland: Suomi (fi_FI)        | [Elias](//github.com/theel0ja)                      |
 | :greece: Ελληνικά (el_GR)      | [stamsarger](//github.com/stamsarger)               |
 | :romania: Română (ro_RO)       | [NicuG](//telegram.me/nicug)                        |
-| :uzbekistan: O'zbek (Lt_uz_UZ) | [HusanboyBayern](https://github.com/HusanboyBayern) |
+| :uzbekistan: O'zbek (Lt_uz_UZ) | [HusanboyBayern](//telegram.me/HusanboyBayern)      |
 
 > Add yourself here once you submit your translations
 
