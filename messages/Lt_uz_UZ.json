@@ -131,7 +131,7 @@
     ],
     "hi": "{SPARKLES} *Salom, {name}!*",
     "presentation": [
-        "* *[YTAudioBot](https://ytaudiobot.ml)*,  sizga YouTube videolarini audio formatida yuklab beradi. ",
+        "* *[YTAudioBot](https://ytaudiobot.ml)*, sizga YouTube videolarini audio formatida yuklab beradi. ",
         "*"
     ],
     "feedback": [
@@ -180,7 +180,7 @@
         [
             "{BAR_CHART} *Ko'p so'raladigan savollar*\\n\\n",
             "`S:` *4. Nima uchun fayllar o'zgacha nomga ega?*\\n",
-            "`J:` Fayllar  `Nom - VideoId.m4a`  kabi saqlanib qoladi, lekin `Nomi` video nomiga 100% o'xshmasligi ham mumkin ",
+            "`J:` Fayllar `Nom - VideoId.m4a` kabi saqlanib qoladi, lekin `Nomi` video nomiga 100% o'xshmasligi ham mumkin ",
             "b'azi bir characterlar sababli. Bu odatda muammo emas chunki video haqidagi barcha ma'lumot ",
             "audio tag da birlashgan bo'ladi."
         ]
@@ -256,7 +256,7 @@
     "website_button": "{LINK_SYMBOL} Websayt",
     "email_button": "{ENVELOPE} E-Mail",
     "ratings_button": "{EYE} Ko'rib chiqishlar",
-    "help_translate_button": "{PERSON_WITH_FOLDED_HANDS} Tarjimonga yordam berish.",
+    "help_translate_button": "{PERSON_WITH_FOLDED_HANDS} Tarjimonga yordam berish",
     "history_button": "{HOURGLASS} Tarix",
     "remove_button": "{CROSS_MARK} Olib tashlash",
     "restore_button": "{HEAVY_PLUS_SIGN} Qayta tiklash",

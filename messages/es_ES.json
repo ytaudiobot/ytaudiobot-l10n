@@ -74,8 +74,8 @@
         "{GLOBE_WITH_MERIDIANS} *Idioma*\\n\\n",
         "Elige tu idioma."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} Idioma configurado en {FLAG_FOR_SPAIN} español.",
-    "same_language_selected": "{THINKING_FACE} El idioma del bot ya está en {FLAG_FOR_SPAIN} español",
+    "language_selected": "{HEAVY_CHECK_MARK} Idioma configurado en {FLAG_FOR_SPAIN} Español.",
+    "same_language_selected": "{THINKING_FACE} El idioma del bot ya está en {FLAG_FOR_SPAIN} Español",
     "video_processing_in_progress": "{CLOCKWISE_DOWNWARDS_AND_UPWARDS_OPEN_CIRCLE_ARROWS} *Procesando vídeo...*",
     "download_canceled": [
         "{CROSS_MARK} *Descarga cancelada.\\n",
