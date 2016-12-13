@@ -74,8 +74,8 @@
         "{GLOBE_WITH_MERIDIANS} *Γλώσσα*\\n\\n",
         "Διάλεξε τη γλώσσα σου."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} Η γλώσσα τέθηκε {FLAG_FOR_UNITED_STATES} Αγγλικά.",
-    "same_language_selected": "{THINKING_FACE} Η γλώσσα του bot είναι ήδη {FLAG_FOR_UNITED_STATES} Αγγλικά",
+    "language_selected": "{HEAVY_CHECK_MARK} Η γλώσσα έγινε {FLAG_FOR_GREECE} Ελληνικά.",
+    "same_language_selected": "{THINKING_FACE} Η γλώσσα του bot είναι ήδη {FLAG_FOR_GREECE} Ελληνικά",
     "video_processing_in_progress": "{CLOCKWISE_DOWNWARDS_AND_UPWARDS_OPEN_CIRCLE_ARROWS} *Επεξεργασία του βίντεο...*",
     "download_canceled": [
         "{CROSS_MARK} *Το κατέβασμα ακυρώθηκε.\\n",
