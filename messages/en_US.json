@@ -89,7 +89,7 @@
         "Feel free to request another video, this one will be sent to you as soon as possible!*"
     ],
     "download_successful": "{HEAVY_CHECK_MARK} *Audio successfully downloaded!*",
-    "wait_previous_download": "{WARNING_SIGN} Wait your previous download!",
+    "wait_previous_download": "{WARNING_SIGN} Wait for your previous download!",
     "download_queue_full": "{WARNING_SIGN} Download queue is full. Please try again later.",
     "help_pages_list": [
         [
@@ -143,7 +143,7 @@
         "{version} _{month} {day}, {year}_\\n\\n",
         "{PUBLIC_ADDRESS_LOUDSPEAKER} *Channel* - @YTAudio\\n",
         "{LINK_SYMBOL} *Website* - https://ytaudiobot.ml\\n",
-        "{ENVELOPE} *E-Mail* - [support@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
+        "{ENVELOPE} *E-Mail* - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
         "{EYE} *Reviews* - {WHITE_MEDIUM_STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
         "{BUST_IN_SILHOUETTE} [{reviews_n}](https://storebot.me/bot/ytaudiobot)"
     ],
