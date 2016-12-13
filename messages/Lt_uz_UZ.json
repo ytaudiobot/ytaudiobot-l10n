@@ -1,10 +1,10 @@
-﻿{
-    "position": "0",
+{
+    "position": "9",
     "description": [
         "YouTube videolarni audio formatida yuklab oling va ular doimo siz bilan birga!\\n\\n",
         "Mirror: @YTAudio_Bot"
     ],
-    "	type_search_terms": "{MEMO} Qidirmoqchi bo'lgan atamangizni kiriting",
+    "type_search_terms": "{MEMO} Qidirmoqchi bo'lgan atamangizni kiriting",
     "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} \\\"{terms}\\\"ni YouTube da qidirish",
     "error": "{PENSIVE_FACE} Xato baydo bo'ldi. Keyinroq urinib ko'ring.",
     "longer_download_time": "{WARNING_SIGN} *Ushbu videoga ko'p vaqt sariflandi. Yuklab olish muvoffaqqiyatsizlikka ucharishi mumkin!*",
