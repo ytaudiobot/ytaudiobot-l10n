@@ -53,7 +53,7 @@
         "{name}, ¿estás disfrutando del bot?\\n",
         "Tómate un momento para escribir una reseña en StoreBot."
     ],
-    "rate_later": "{HOURGLASS} *¡OK, te volveré a preguntarte en otro momento!*",
+    "rate_later": "{HOURGLASS} *¡OK, te lo volveré a preguntar en otro momento!*",
     "rate_never": "{PILE_OF_POO} *OK, no te lo volveré a preguntar.*",
     "send_feedback": [
         "{MEMO} *Enviar comentarios*\\n\\n",
@@ -159,7 +159,7 @@
             "{BAR_CHART} *Preguntas frecuentes*\\n\\n",
             "`P:` *1. ¡Quiero elegir el formato de audio!*\\n",
             "`R:` Nos enfocamos en la calidad, rendimiento y fiabilidad del servicio. ",
-            "Para lograr conversiones súper rápidas de audio en la máxima calidad disponible en YouTube, sólo enviamos ",
+            "Para lograr conversiones de audio súper rápidas en la máxima calidad disponible en YouTube, sólo enviamos ",
             "archivos AAC 128k codificados dentro del contenedor MPEG-4 Part 14 (MP4) con extensión M4A y etiquetas con la información de iTunes. ",
             "Esta elección puede cambiar en el futuro."
         ],
@@ -168,7 +168,7 @@
             "`P:` *2. ¿Qué significa AAC/M4A?*\\n",
             "`R:` AAC es un formato de codificación de audio diseñado para ser el sucesor del formato MP3, que en general logra ",
             "un sonido de mejor calidad que el MP3 con tasas de bits similares. M4A es una extensión de archivo, que funciona como contenedor ",
-            "del audio codificado en AAC y de las etiquetas del propio audio."
+            "del audio codificado en AAC y de sus etiquetas."
         ],
         [
             "{BAR_CHART} *Preguntas frecuentes*\\n\\n",
@@ -178,8 +178,8 @@
         ],
         [
             "{BAR_CHART} *Preguntas frecuentes*\\n\\n",
-            "`P:` *4. ¿Por qué lox archivos tienen nombres raros?*\\n",
-            "`R:` Los archivos se guardan como `Título - IdVideo.m4a`, sin embargo, el `Título` puede variar con respecto al original, ",
+            "`P:` *4. ¿Por qué los archivos tienen nombres raros?*\\n",
+            "`R:` Los archivos se guardan como `Título - IdVideo.m4a`, sin embargo el `Título` puede variar con respecto al original, ",
             "debido a que puede contener algunos caracteres inválidos. Esto no suele causar problemas, ya que toda la información del ",
             "vídeo está incrustada en las etiquetas del archivo de audio."
         ]
