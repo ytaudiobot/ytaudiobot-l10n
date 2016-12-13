@@ -11,7 +11,7 @@
     "clear_history_warning": "{WARNING_SIGN} Barcha tarixni o'chirishga yaqinsiz!",
     "history_settings": [
         "{HOURGLASS} *Yuklab olish tarixi*\\n\\n",
-        "Yuklab olingan tarixingizda {Predmet yo'q|Bitta predmet bor|#ta predmet bor}."
+        "Yuklab olingan tarixingizda {Predmet yo'q|Bitta predmet bor|# predmet bor}."
     ],
     "clear_history_confirmation": [
         "{WASTEBASKET} *Yuklab olingan tarixni o'chirish*\\n\\n",
@@ -158,29 +158,29 @@
     "faq_list": [
         [
             "{BAR_CHART} *Ko'p so'raladigan savollar*\\n\\n",
-            "`Q:` *1. Audio formatini tanlamoqchiman!*\\n",
-            "`A:` Biz sifat, xizmat bajarish va ishonchlilikka ko'proq e'tibor beramiz. ",
+            "`S:` *1. Audio formatini tanlamoqchiman!*\\n",
+            "`J:` Biz sifat, xizmat bajarish va ishonchlilikka ko'proq e'tibor beramiz. ",
             "Sizga YouTube dagi audioni tiniq hamda tez yetkazish uchun, biz faqatgina ",
             "MPEG-4 Part 14 (MP4) da bo'lgan AAC 128k encoded fayllarni kontainerda M4A extension qo'shilgan iTunes info bilan birga jo'natamiz. ",
             "Lekin siz so'ragan qulaylik yaqinda qo'shilishi mumkin."
         ],
         [
             "{BAR_CHART} *Ko'p so'raladigan savollar*\\n\\n",
-            "`Q:` *2. AAC/M4A nimani anglatadi?*\\n",
-            "`A:` AAC bu MP3 formatiga o'xshash audio bo'lib, odatda ",
+            "`S:` *2. AAC/M4A nimani anglatadi?*\\n",
+            "`J:` AAC bu MP3 formatiga o'xshash audio bo'lib, odatda ",
             "MP3 formatidan tiniqroq audio beradi. M4A bu fayl extensioni, shuningdek container deb nomlanadi ",
             "Original encoded audio, audio tagi bilan birga."
         ],
         [
             "{BAR_CHART} *Ko'p so'raladigan savollar*\\n\\n",
-            "`Q:` *3. B'azi bir videolar ishlamayapti!*\\n",
-            "`A:` Ba'zi bir videolar YouTube tomonidan cheklangan bo'ladi, va sizning data centeringiz uchun mavjud bo'lmasligi mumkin. Shuningdek, ",
+            "`S:` *3. B'azi bir videolar ishlamayapti!*\\n",
+            "`J:` Ba'zi bir videolar YouTube tomonidan cheklangan bo'ladi, va sizning data centeringiz uchun mavjud bo'lmasligi mumkin. Shuningdek, ",
             "hozirda bot, hajmi 50MB dan oshiq bo'lgan audiolarni jo'natishga qodir emas, lekin bu kelajakda o'zgarishi mumkin."
         ],
         [
             "{BAR_CHART} *Ko'p so'raladigan savollar*\\n\\n",
-            "`Q:` *4. Nima uchun fayllar o'zgacha nomga ega?*\\n",
-            "`A:` Fayllar  `Nom - VideoId.m4a`  kabi saqlanib qoladi, lekin `Nomi` video nomiga 100% o'xshmasligi ham mumkin ",
+            "`S:` *4. Nima uchun fayllar o'zgacha nomga ega?*\\n",
+            "`J:` Fayllar  `Nom - VideoId.m4a`  kabi saqlanib qoladi, lekin `Nomi` video nomiga 100% o'xshmasligi ham mumkin ",
             "b'azi bir characterlar sababli. Bu odatda muammo emas chunki video haqidagi barcha ma'lumot ",
             "audio tag da birlashgan bo'ladi."
         ]
@@ -256,7 +256,7 @@
     "website_button": "{LINK_SYMBOL} Websayt",
     "email_button": "{ENVELOPE} E-Mail",
     "ratings_button": "{EYE} Ko'rib chiqishlar",
-    "help_translate_button": "{PERSON_WITH_FOLDED_HANDS} Tarjimon, Husanboyga yordam.",
+    "help_translate_button": "{PERSON_WITH_FOLDED_HANDS} Tarjimon husanboyga yordam.",
     "history_button": "{HOURGLASS} Tarix",
     "remove_button": "{CROSS_MARK} Olib tashlash",
     "restore_button": "{HEAVY_PLUS_SIGN} Qayta tiklash",
