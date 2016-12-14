@@ -192,8 +192,8 @@
         "*3.* B'azi bir videolar ishlamayapti!\\n",
         "*4.* Nima uchun fayllar o'zgacha nomga ega?\\n"
     ],
-    "contribute": Hissa qoshish,
-    "contributors": Hissa qoshganlar,
+    "contribute": null,
+    "contributors": null,
     "months_names": [
         [
             "Yanvar"
@@ -266,7 +266,7 @@
     "clear_all_button": "{WASTEBASKET} Barchasini tozalash",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Pausa",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Davom etish",
-    "contribute_button": Hissa qoshish,
-    "contributors_button": Hissa qoshganlar,
-    "open_project_button": Projectni ochish
+    "contribute_button": null,
+    "contributors_button": null,
+    "open_project_button": null
 }
