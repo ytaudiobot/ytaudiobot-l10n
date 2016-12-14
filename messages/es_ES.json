@@ -192,6 +192,8 @@
         "*3.* ¡Algunos vídeos no funcionan!\\n",
         "*4.* ¿Por qué los archivos tienen nombres raros?\\n"
     ],
+    "contribute": null,
+    "contributors": null,
     "months_names": [
         [
             "enero"
@@ -263,5 +265,8 @@
     "view_button": "{EYE} Ver",
     "clear_all_button": "{WASTEBASKET} Borrar todo",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Pausar",
-    "resume_button": "{WHITE_HEAVY_CHECK_MARK} Reanudar"
+    "resume_button": "{WHITE_HEAVY_CHECK_MARK} Reanudar",
+    "contribute_button": null,
+    "contributors_button": null,
+    "open_project_button": null
 }

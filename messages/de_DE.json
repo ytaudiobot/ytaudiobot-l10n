@@ -192,6 +192,8 @@
         "*3.* Manche Videos funktionieren nicht!\\n",
         "*4.* Warum haben die Dateien komische Namen?\\n"
     ],
+    "contribute": null,
+    "contributors": null,
     "months_names": [
         [
             "Januar"
@@ -263,5 +265,8 @@
     "view_button": "{EYE} Anzeigen",
     "clear_all_button": "{WASTEBASKET} Alles löschen",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Pause",
-    "resume_button": "{WHITE_HEAVY_CHECK_MARK} Fortsetzen"
+    "resume_button": "{WHITE_HEAVY_CHECK_MARK} Fortsetzen",
+    "contribute_button": null,
+    "contributors_button": null,
+    "open_project_button": null
 }

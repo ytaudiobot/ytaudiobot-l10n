@@ -192,6 +192,8 @@
         "*3.* Unele clip-uri nu funcționează!\\n",
         "*4.* De ce au fișierele nume străine?\\n"
     ],
+    "contribute": null,
+    "contributors": null,
     "months_names": [
         [
             "ianuarie"
@@ -263,6 +265,9 @@
     "view_button": "{EYE} Arată-mi",
     "clear_all_button": "{WASTEBASKET} Șterge tot",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Pauză",
-    "resume_button": "{WHITE_HEAVY_CHECK_MARK} Reia"
+    "resume_button": "{WHITE_HEAVY_CHECK_MARK} Reia",
+    "contribute_button": null,
+    "contributors_button": null,
+    "open_project_button": null
 }
 

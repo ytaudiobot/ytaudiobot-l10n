@@ -192,6 +192,8 @@
         "*3.* Jotkin videot eivät toimi!\\n",
         "*4.* Miksi tiedostoilla on outoja nimiä?\\n"
     ],
+    "contribute": null,
+    "contributors": null,
     "months_names": [
         [
             "tammikuu"
@@ -263,5 +265,8 @@
     "view_button": "{EYE} Näytä",
     "clear_all_button": "{WASTEBASKET} Poista kaikki",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Pysäytä",
-    "resume_button": "{WHITE_HEAVY_CHECK_MARK} Jatka"
+    "resume_button": "{WHITE_HEAVY_CHECK_MARK} Jatka",
+    "contribute_button": null,
+    "contributors_button": null,
+    "open_project_button": null
 }
