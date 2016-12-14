@@ -1,4 +1,5 @@
 {
+    "position": "0",
     "description": [
         "Download YouTube videos as audio-only files to take wherever you go!\\n\\n",
         "Mirror: @YTAudio_Bot"
@@ -191,6 +192,19 @@
         "*3.* Some videos don't work!\\n",
         "*4.* Why do files have strange names?\\n"
     ],
+    "contribute": [
+        "{PERSON_WITH_FOLDED_HANDS} *Help translate*\\n\\n",
+        "{name}! If you want @YTAudioBot to speak your language or want to improve an existing one, you can help us!\\n\\n",
+        "We've set up a guide just for this, [here](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
+        "Knowledge of the English language is required.\\n\\n",
+        "We welcome new languages and improvements! Feel free to join us, every help is gratefully accepted!"
+    ],
+    "contributors": [
+        "{BUSTS_IN_SILHOUETTE} *Contributors*\\n\\n",
+        "{HEAVY_BLACK_HEART} We would like to warmly thank the translation contributors:\\n\\n",
+        "{contributors}\\n\\n",
+        "— @YTAudioBot"
+    ],
     "months_names": [
         [
             "January"
@@ -262,5 +276,8 @@
     "view_button": "{EYE} View",
     "clear_all_button": "{WASTEBASKET} Clear all",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Pause",
-    "resume_button": "{WHITE_HEAVY_CHECK_MARK} Resume"
+    "resume_button": "{WHITE_HEAVY_CHECK_MARK} Resume",
+    "contribute_button": "{PERSON_WITH_FOLDED_HANDS} Contribute",
+    "contributors_button": "{BUSTS_IN_SILHOUETTE} Contributors",
+    "open_project_button": "{CARD_INDEX_DIVIDERS} Open project"
 }

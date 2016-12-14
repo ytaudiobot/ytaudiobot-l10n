@@ -1,4 +1,5 @@
 {
+    "position": "3",
     "description": [
         "Baixe áudios do YouTube para ouvir em qualquer lugar!\\n\\n",
         "Mirror: @YTAudio_Bot"
@@ -191,6 +192,8 @@
         "*3.* Alguns vídeos não funcionam!\\n",
         "*4.* Porque os arquivos tem nomes estranhos?\\n"
     ],
+    "contribute": null,
+    "contributors": null,
     "months_names": [
         [
             "Janeiro"
@@ -262,6 +265,9 @@
     "view_button": "{EYE} Ver",
     "clear_all_button": "{WASTEBASKET} Apagar tudo",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Pausar",
-    "resume_button": "{WHITE_HEAVY_CHECK_MARK} Resumir"
+    "resume_button": "{WHITE_HEAVY_CHECK_MARK} Resumir",
+    "contribute_button": null,
+    "contributors_button": null,
+    "open_project_button": null
 }
 

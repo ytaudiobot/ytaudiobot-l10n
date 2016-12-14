@@ -1,4 +1,5 @@
 {
+    "position": "4",
     "description": [
         "הורד סרטונים מיוטיוב כקבצי שמע וקח אותם לכל מקום!\\n\\n",
         "Mirror: @YTAudio_Bot"
@@ -191,6 +192,8 @@
         "*3.* חלק מהסרטונים לא עובדים!\\n",
         "*4.* למה לקבצים יש שמות מוזרים?\\n"
     ],
+    "contribute": null,
+    "contributors": null,
     "months_names": [
         [
             "ינואר"
@@ -262,5 +265,8 @@
     "view_button": "{EYE} צפה",
     "clear_all_button": "{WASTEBASKET} הסר הכל",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} עצור",
-    "resume_button": "{WHITE_HEAVY_CHECK_MARK} המשך"
+    "resume_button": "{WHITE_HEAVY_CHECK_MARK} המשך",
+    "contribute_button": null,
+    "contributors_button": null,
+    "open_project_button": null
 }

@@ -1,10 +1,11 @@
 {
+    "position": "5",
     "description": [
         "Lade dir YouTube-Videos als Audiodateien herunter und habe sie immer mit dabei!\\n\\n",
         "Mirror: @YTAudio_Bot"
     ],
     "type_search_terms": "{MEMO} Schreibe deinen Suchbegriff",
-    "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} Suche \\\"{terms}\\\" bei YouTube",
+    "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} Suche \\\"{terms}\\\" auf YouTube",
     "error": "{PENSIVE_FACE} Es ist ein Fehler aufgetreten. Versuche es später erneut.",
     "longer_download_time": "{WARNING_SIGN} *Der Download dieses Videos kann länger dauern als sonst und kann eventuell sogar fehlschlagen!*",
     "clear_history_warning": "{WARNING_SIGN} Du bist gerade dabei, deinen gesamten Verlauf zu löschen!",
@@ -25,7 +26,7 @@
     "added_years_ago": "Vor {0 Jahren|einem Jahr|# Jahren} hinzugefügt",
     "item_removed": "{CROSS_MARK} Datei gelöscht",
     "item_restored": "{HEAVY_PLUS_SIGN} Datei wiederhergestellt",
-    "download_history_paused": "{BALLOT_BOX_WITH_CHECK} Dowload Verlauf gestoppt",
+    "download_history_paused": "{BALLOT_BOX_WITH_CHECK} Download Verlauf gestoppt",
     "download_history_resumed": "{WHITE_HEAVY_CHECK_MARK} Download Verlauf fortgesetzt",
     "download_history_cleared": "{WASTEBASKET} Download Verlauf gelöscht",
     "file_expired": [
@@ -51,13 +52,13 @@
     "rating_message": [
         "{WHITE_MEDIUM_STAR} *Bewerte YTAudioBot*\\n\\n",
         "{name}, findest du diesen Bot nützlich?\\n",
-        "Nimm' dir bitte einen kurzen Moment und bewerte uns beim StoreBot."
+        "Nimm' dir bitte einen kurzen Moment Zeit und bewerte uns beim StoreBot."
     ],
     "rate_later": "{HOURGLASS} *Okay, ich werde dich später erneut fragen!*",
     "rate_never": "{PILE_OF_POO} *Okay, ich werde dich nicht noch einmal fragen.*",
     "send_feedback": [
         "{MEMO} *Feedback senden*\\n\\n",
-        "Du kannst dem Entwickler Veränderungs- bzw. Verbesserungsvörschlage zu diesem Bot senden, Fehler melden, oder einen Kommentar abgeben ",
+        "Du kannst nun dem Entwickler Veränderungs- bzw. Verbesserungsvörschlage zu diesem Bot senden, Fehler melden, oder einen Kommentar abgeben ",
         "(in Englisch oder Italienisch)."
     ],
     "sending_feedback_enabled": "{MEMO} Schreibe dein Feedback",
@@ -149,7 +150,7 @@
     ],
     "settings": [
         "{GEAR} *Einstellungen*\\n\\n",
-        "{NEWSPAPER} *Über* - Infos über diesem Bot\\n",
+        "{NEWSPAPER} *Über* - Infos über diesen Bot\\n",
         "{BAR_CHART} *FAQ* - Häufig gestellte Fragen\\n",
         "{GLOBE_WITH_MERIDIANS} *Sprache* - Sprache ändern\\n",
         "{SPEECH_BALLOON} *Feedback* - Sende dein Feedback"
@@ -158,17 +159,17 @@
         [
             "{BAR_CHART} *Häufig gestellte Fragen*\\n\\n",
             "`F:` *1. Ich möchte gern das Audio-Format auswählen!*\\n",
-            "`A:` Wir fokussieren und auf Qualität, Stabilität und Verlässlichkeit. ",
+            "`A:` Wir fokussieren uns auf Qualität, Stabilität und Verlässlichkeit. ",
             "Um unsere super-schnellen Konvertierung mit der bei YouTube am besten verfügbaren Qualität zu gewährleisten, senden wir derzeit ausschließlich ",
             "AAC 128k codierte Dateien in MPEG-4 Part 14 (MP4) mit M4A Dateinamenserweiterung und iTunes Infos zum Song. ",
-            "Diese Möglichkeit könnte sich in Zukunft ändern."
+            "Dies könnte sich in Zukunft ändern."
         ],
         [
             "{BAR_CHART} *Häufig gestellte Fragen*\\n\\n",
             "`F:` *2. Was heißt AAC/M4A?*\\n",
             "`A:` AAC ist ein Audioformat, welches das MP3-Format ablöst. Dieses erreicht ",
             "trotz vergleichbarer Bit-Rate eine bessere Klangqualität als MP3. M4A ist eine Dateinamenserweiterung, die komprimierte Audiodateien im MPEG-4 Containerformat ",
-            "beschreibt und wird für die eigentliche AAC Kodierung sowie für die Info des  Audios verwendet."
+            "beschreibt und wird für die eigentliche AAC Kodierung sowie für die Info des Audios verwendet."
         ],
         [
             "{BAR_CHART} *Häufig gestellte Fragen*\\n\\n",
@@ -179,8 +180,8 @@
         [
             "{BAR_CHART} *Häufig gestellte Fragen*\\n\\n",
             "`F:` *4. Warum haben die Dateien komische Namen?*\\n",
-            "`A:` Die Dateien sind als `Titel - VideoId.m4a` gespeichert, wobei der `Titel` aufrund ungültiger Zeichen nicht zu 100% dem Titel des ",
-            "Videos entsprechen kann. Dies ist normalerweise kein Problem, da die korrekte Info über ",
+            "`A:` Die Dateien sind als `Titel - VideoId.m4a` gespeichert, wobei der `Titel` aufgrund ungültiger Zeichen nicht zu 100% dem Titel des ",
+            "Videos entsprechen könnte. Dies ist normalerweise kein Problem, da die korrekte Info über ",
             "das Video in den Tags der Audiodatei vorhanden ist."
         ]
     ],
@@ -190,6 +191,19 @@
         "*2.* Was heißt AAC/M4A?\\n",
         "*3.* Manche Videos funktionieren nicht!\\n",
         "*4.* Warum haben die Dateien komische Namen?\\n"
+    ],
+     "contribute": [
+        "{PERSON_WITH_FOLDED_HANDS} *Helfe, den Bot zu übersetzen*\\n\\n",
+        "{name}! Wenn du möchstest, dass @YTAudioBot auch deine Sprache spricht, oder du eine schon verfügbare Sprache verbessern möchtest, kannst du uns gerne helfen!\\n\\n",
+        "Wir haben diesbezüglich eine Anleitung vorbereitet, die du hier finden kannst: [here](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
+        "Beachte, dass du Grundkenntnisse der englischen Sprache beherrschen musst.\\n\\n",
+        "Wir freuen uns auf neue Sprachen und Verbesserungen! Schließe dich uns an, jede Hilfe wird dankend angenommen!"
+    ],
+     "contributors": [
+        "{BUSTS_IN_SILHOUETTE} *Beiträger*\\n\\n",
+        "{HEAVY_BLACK_HEART} Wir danken herzlich den folgenden Übersetzern:\\n\\n",
+        "{contributors}\\n\\n",
+        "— @YTAudioBot"
     ],
     "months_names": [
         [
@@ -234,7 +248,7 @@
     "more_info_button": "{PAGE_WITH_CURL} Mehr Infos",
     "send_to_button": "{OUTBOX_TRAY} Senden an...",
     "faq_button": "{BAR_CHART} FAQ",
-    "like_button": "{THUMBS_UP_SIGN} Ich mag es!",
+    "like_button": "{THUMBS_UP_SIGN} Der Bot ist super!",
     "not_really_button": "{THINKING_FACE} Nicht wirklich",
     "send_feedback_button": "{MEMO} Sende Feedback",
     "feedback_button": "{SPEECH_BALLOON} Feedback",
@@ -262,5 +276,8 @@
     "view_button": "{EYE} Anzeigen",
     "clear_all_button": "{WASTEBASKET} Alles löschen",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Pause",
-    "resume_button": "{WHITE_HEAVY_CHECK_MARK} Fortsetzen"
+    "resume_button": "{WHITE_HEAVY_CHECK_MARK} Fortsetzen",
+    "contribute_button": "{PERSON_WITH_FOLDED_HANDS} Mithelfen",
+    "contributors_button": "{BUSTS_IN_SILHOUETTE} Beiträger",
+    "open_project_button": "{CARD_INDEX_DIVIDERS} Offenes Projekt"
 }
