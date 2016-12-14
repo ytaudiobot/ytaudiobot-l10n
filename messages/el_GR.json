@@ -8,7 +8,7 @@
     "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} Αναζήτηση \\\"{terms}\\\" στο YouTube",
     "error": "{PENSIVE_FACE} Ένα σφάλμα συνέβη. Δοκίμασε ξανά αργότερα.",
     "longer_download_time": "{WARNING_SIGN} *Αυτό το βίντεο μπορεί να πάρει παραπάνω απ' ό,τι συνήθως. Μπορεί και να αποτύχει!*",
-    "clear_history_warning": "{WARNING_SIGN} You are about to clear your entire history!",
+    "clear_history_warning": "{WARNING_SIGN} Είσαι έτοιμος να σβήσεις όλο το ιστορικό!",
     "history_settings": [
         "{HOURGLASS} *Ιστορικό κατεβάσματος*\\n\\n",
         "{Καθόλου τραγούδια|Ένα τραγούδι|# τραγούδια} στο ιστορικό κατεβάσματός σας."
@@ -36,7 +36,7 @@
     "more_info": "{PAGE_WITH_CURL} Περισσότερες πληροφορίες",
     "video_id": "{SMALL_ORANGE_DIAMOND} Video ID",
     "duration": "{SMALL_ORANGE_DIAMOND} Διάρκεια",
-    "size": "{SMALL_ORANGE_DIAMOND} Size",
+    "size": "{SMALL_ORANGE_DIAMOND} Μέγεθος",
     "listen_on_youtube": "{LINK_SYMBOL} Δες στο YouTube",
     "like": [
         "{SPARKLES} *Ευχαριστώ, {name}!*\\n\\n",
@@ -69,7 +69,7 @@
     "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} *Ψάχνω για \\\"*{terms}*\\\"...*",
     "video_not_available": "{PENSIVE_FACE} *Sorry, αυτό το video δεν είναι διαθέσιμο τώρα. Ξαναδές μετά.*",
     "size_limit_exceeded": "{PENSIVE_FACE} *Sorry, αυτό το video είναι πολύ μεγάλο. Ξαναδές με ένα άλλο.*",
-    "api_error": "{PENSIVE_FACE} *Sorry, the requested operation can't be performed right now. Try again later.*",
+    "api_error": "{PENSIVE_FACE} *Sorry, δεν μπορώ να το κάνω αυτό προς το παρόν. Ξαναδοκίμασε αργότερα.*",
     "select_language": [
         "{GLOBE_WITH_MERIDIANS} *Γλώσσα*\\n\\n",
         "Διάλεξε τη γλώσσα σου."
@@ -277,7 +277,7 @@
     "clear_all_button": "{WASTEBASKET} Σβήσ' τα όλα",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Παύση",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Συνέχεια",
-    "contribute_button": null,
-    "contributors_button": null,
-    "open_project_button": null
+    "contribute_button": "{PERSON_WITH_FOLDED_HANDS} Σύμβαλε",
+    "contributors_button": "{BUSTS_IN_SILHOUETTE} Εθελοντές",
+    "open_project_button": "{CARD_INDEX_DIVIDERS} Ανοιχτό project"
 }
