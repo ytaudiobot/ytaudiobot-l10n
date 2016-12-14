@@ -277,7 +277,7 @@
     "clear_all_button": "{WASTEBASKET} Σβήσ' τα όλα",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Παύση",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Συνέχεια",
-    "contribute_button": null,
-    "contributors_button": null,
-    "open_project_button": null
+    "contribute_button": "{PERSON_WITH_FOLDED_HANDS} Σύμβαλε",
+    "contributors_button": "{BUSTS_IN_SILHOUETTE} Εθελοντές",
+    "open_project_button": "{CARD_INDEX_DIVIDERS} Ανοιχτό project"
 }
