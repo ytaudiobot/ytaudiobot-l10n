@@ -64,7 +64,7 @@
     "sending_feedback_enabled": "{MEMO} Fikringizni yozing",
     "feedback_sent": "{HEAVY_CHECK_MARK} *Bot haqida fikringiz jo'natildi. E'tiboringiz uchun raxmat!*",
     "showing_trending_results": "{FIRE} *Natijalar ko'rsatilmoqda*\\n\\n",
-    "showing_youtube_results": "{RIGHT_POINTING_MAGNIFYING_GLASS} *\\\"*{terms}*\\\"*\\n\\n lar uchun YouTube natijalari",
+    "showing_youtube_results": "{RIGHT_POINTING_MAGNIFYING_GLASS} *\\\"*{terms}*\\\"*\\n\\n uchun YouTube natijalari",
     "flood_wait": "{WARNING_SIGN} *Bunchalik tez emasda! {0 sekund|1 sekund|# sekund} kuting va qayta urinib ko'ring.*",
     "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} *Qidirilmoqda \\\"*{terms}*\\\"...*",
     "video_not_available": "{PENSIVE_FACE} *Kechirasiz, bu video hozirda mavjud emas. Keyinroq urinib ko'ring.*",
@@ -109,7 +109,7 @@
             "{OPEN_BOOK} *Yordam (3-4)*\\n\\n",
             "URL ni topgandan so'ng, uni menga jo'nating.\\n\\n",
             "Agar video boshqa foydalanuvchi tomonidan allaqachon yuklab olingan bo'lsa, u sizga darhol jo'natiladi, ",
-            "Boshqa holda {INBOX_TRAY} *Yuklab olish* tugmasi paydo bo'ladi. Uni bosing, va sizning faylingiz tezda paydo ",
+            "Boshqa holda {INBOX_TRAY} *Yuklab olish* tugmasi chiqadi. Uni bosing, va sizning faylingiz tezda paydo ",
             "bo'ladi."
         ],
         [
@@ -192,8 +192,8 @@
         "*3.* B'azi bir videolar ishlamayapti!\\n",
         "*4.* Nima uchun fayllar o'zgacha nomga ega?\\n"
     ],
-    "contribute": null,
-    "contributors": null,
+    "contribute": "Hissa qo'shish",
+    "contributors": "Tarjimonlar",
     "months_names": [
         [
             "Yanvar"
@@ -262,11 +262,11 @@
     "history_button": "{HOURGLASS} Tarix",
     "remove_button": "{CROSS_MARK} Olib tashlash",
     "restore_button": "{HEAVY_PLUS_SIGN} Qayta tiklash",
-    "view_button": "{EYE} Ko'rinish",
+    "view_button": "{EYE} Ko'rish",
     "clear_all_button": "{WASTEBASKET} Barchasini tozalash",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Pausa",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Davom etish",
-    "contribute_button": null,
-    "contributors_button": null,
+    "contribute_button": "Hissa qo'shish",
+    "contributors_button": "Tarjimonlar",
     "open_project_button": null
 }
