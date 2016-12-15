@@ -74,8 +74,8 @@
         "{GLOBE_WITH_MERIDIANS} *语言*\\n\\n",
         "选择你的语言。"
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} 语言已被设定为 {FLAG_FOR_UNITED_STATES} 简体中文。",
-    "same_language_selected": "{THINKING_FACE} 机器人的语言已经被设置为 {FLAG_FOR_UNITED_STATES} 简体中文",
+    "language_selected": "{HEAVY_CHECK_MARK} 语言已被设定为 {FLAG_FOR_CHINA} 简体中文。",
+    "same_language_selected": "{THINKING_FACE} 机器人的语言已经被设置为 {FLAG_FOR_CHINA} 简体中文",
     "video_processing_in_progress": "{CLOCKWISE_DOWNWARDS_AND_UPWARDS_OPEN_CIRCLE_ARROWS} *视频正在处理...*",
     "download_canceled": [
         "{CROSS_MARK} *下载已取消\\n",
@@ -245,7 +245,7 @@
         ]
     ],
     "start_button": "{CHEQUERED_FLAG} 开始",
-    "language_button": "{FLAG_FOR_UNITED_STATES} 简体中文",
+    "language_button": "{FLAG_FOR_CHINA} 简体中文",
     "more_info_button": "{PAGE_WITH_CURL} 更多信息",
     "send_to_button": "{OUTBOX_TRAY} 发送给...",
     "faq_button": "{BAR_CHART} 常见问题",
