@@ -11,7 +11,7 @@
     "clear_history_warning": "{WARNING_SIGN} 此操作会清空你的历史操作!",
     "history_settings": [
         "{HOURGLASS} *下载历史*\\n\\n",
-        "你的下载历史{|有1个条目|有#个项目}。"
+        "你的下载历史{没有条目|有1个条目|有#个条目}。"
     ],
     "clear_history_confirmation": [
         "{WASTEBASKET} *清空所有下载历史*\\n\\n",
@@ -83,7 +83,7 @@
     ],
     "download_error": [
         "{PENSIVE_FACE} *对不起，发生未知错误\\n",
-        "点击重试*{command}*.*"
+        "点击重试*{command}*。*"
     ],
     "download_timeout": [
         "{WARNING_SIGN} *此下载需要花费超过60秒。\\n",
@@ -196,7 +196,7 @@
     "contribute": [
         "{PERSON_WITH_FOLDED_HANDS} *帮助翻译*\\n\\n",
         "{name}！如果你希望 @YTAudioBot 使用你的语言或者改进现有的语言，请帮助我们吧！\\n\\n",
-        "我们写了一份帮助你参与翻译的文档 [这里](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
+        "我们写了一份帮助你参与翻译的文档 [这里](https://github.com/ytaudiobot/ytaudiobot-l10n)。 ",
         "你需要有英语的知识\\n\\n",
         "我们欢迎任何的语言和改进，请加入我们，我们衷心感谢你的任何帮助！"
     ],
