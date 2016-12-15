@@ -192,8 +192,8 @@
         "*3.* B'azi bir videolar ishlamayapti!\\n",
         "*4.* Nima uchun fayllar o'zgacha nomga ega?\\n"
     ],
-    "contribute": null,
-    "contributors": null,
+    "contribute": "Hissa qo'shish",
+    "contributors": "Tarjimonlar",
     "months_names": [
         [
             "Yanvar"
