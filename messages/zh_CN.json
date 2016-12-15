@@ -1,0 +1,284 @@
+{
+    "position": "0",
+    "description": [
+        "下载YouTube视频的音频文件，并存储在任何地方\\n\\n",
+        "Mirror: @YTAudio_Bot"
+    ],
+    "type_search_terms": "{MEMO} 输入搜索关键字",
+    "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} 在YouTube搜索 \\\"{terms}\\\" ",
+    "error": "{PENSIVE_FACE} 发生未知错误，请稍后重试",
+    "longer_download_time": "{WARNING_SIGN} *下载此视频的音频文件需要较长的时间。可能会导致下载失败*",
+    "clear_history_warning": "{WARNING_SIGN} 此操作会清空你的历史操作!",
+    "history_settings": [
+        "{HOURGLASS} *下载历史*\\n\\n",
+        "你的下载历史{|有1个条目|有#个项目}。"
+    ],
+    "clear_history_confirmation": [
+        "{WASTEBASKET} *清空所有下载历史*\\n\\n",
+        "你确定要清空所有下载历史吗？ *你可以撤销此操作。*"
+    ],
+    "added_seconds_ago": "{0 秒|1 秒|# 秒}前添加的",
+    "added_minutes_ago": "{0 分钟|1 分钟|# 分钟} 前添加的",
+    "added_hours_ago": "{0 小时|1 小时|# 小时} 前添加的",
+    "added_days_ago": "{0 天|1 天|# 天} 前添加的",
+    "added_weeks_ago": "{0 周|1 周|# 周} 前添加的",
+    "added_months_ago": "{0个月|1个月|#个月} 前添加的",
+    "added_years_ago": "、{0 年|1年|# 年} 前添加的",
+    "item_removed": "{CROSS_MARK} 条目已删除",
+    "item_restored": "{HEAVY_PLUS_SIGN} 条目已还原",
+    "download_history_paused": "{BALLOT_BOX_WITH_CHECK} 暂停下载的条目",
+    "download_history_resumed": "{WHITE_HEAVY_CHECK_MARK} 正在下载的条目",
+    "download_history_cleared": "{WASTEBASKET} 已删除的条目",
+    "file_expired": [
+        "{WARNING_SIGN} *文件已过期*\\n\\n",
+        "点击{command}重新下载。"
+    ],
+    "more_info": "{PAGE_WITH_CURL} 更多信息",
+    "video_id": "{SMALL_ORANGE_DIAMOND} 视频编号",
+    "duration": "{SMALL_ORANGE_DIAMOND} 时间长度",
+    "size": "{SMALL_ORANGE_DIAMOND} 文件大小",
+    "listen_on_youtube": "{LINK_SYMBOL} 打开YouTube播放",
+    "like": [
+        "{SPARKLES} *多谢，{name}!*\\n\\n",
+        "很高兴你喜欢我们的工作\\n\\n",
+        "你可以评论这个机器人\\n",
+        "并且给予我们5星{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}点击这里：\\n",
+        "https://telegram.me/storebot?start=YTAudioBot"
+    ],
+    "no_like": [
+        "{PENSIVE_FACE} *{name}，无法提供优质的服务，我们感到十分抱歉*\\n\\n",
+        "请问这个机器人有什么令你不满意的吗？请（使用英语或者意大利语）告诉我们吧："
+    ],
+    "rating_message": [
+        "{WHITE_MEDIUM_STAR} *评论YTAudioBot*\\n\\n",
+        "{name}，你喜欢这个机器人吗？\\n",
+        "花费你一点时间在StoreBot留下评论吧。"
+    ],
+    "rate_later": "{HOURGLASS} *好的，我会晚点再提醒你*",
+    "rate_never": "{PILE_OF_POO} *对不起，我不会再打扰你了*",
+    "send_feedback": [
+        "{MEMO} *发送回馈*\\n\\n",
+        "你可以为这个机器人提供一些建议、反馈Bugs或者与开发者讨论",
+        "(请使用英语或意大利语，谢谢)."
+    ],
+    "sending_feedback_enabled": "{MEMO} 请输入你的反馈信息",
+    "feedback_sent": "{HEAVY_CHECK_MARK} *你的反馈信息已经发送了，谢谢！*",
+    "showing_trending_results": "{FIRE} *显示时下流行*\\n\\n",
+    "showing_youtube_results": "{RIGHT_POINTING_MAGNIFYING_GLASS} *\\\"*{terms}*\\\"在YouTube的搜索结果*\\n\\n",
+    "flood_wait": "{WARNING_SIGN} *请不要频繁操作！ 等待{0 秒|1 秒|# 秒}后重新尝试吧。*",
+    "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} *正在搜索\\\"*{terms}*\\\"...*",
+    "video_not_available": "{PENSIVE_FACE} *对不起，这个视频现在无法下载，请稍后重试。*",
+    "size_limit_exceeded": "{PENSIVE_FACE} *对不起，这个视频超过文件大小限制，请选择其他视频*",
+    "api_error": "{PENSIVE_FACE} *对不起，此请求操作无法被立刻执行。请稍后重试*",
+    "select_language": [
+        "{GLOBE_WITH_MERIDIANS} *语言*\\n\\n",
+        "选择你的语言。"
+    ],
+    "language_selected": "{HEAVY_CHECK_MARK} 语言已被设定为 {FLAG_FOR_UNITED_STATES} 简体中文。",
+    "same_language_selected": "{THINKING_FACE} 机器人的语言已经被设置为 {FLAG_FOR_UNITED_STATES} 简体中文",
+    "video_processing_in_progress": "{CLOCKWISE_DOWNWARDS_AND_UPWARDS_OPEN_CIRCLE_ARROWS} *视频正在处理...*",
+    "download_canceled": [
+        "{CROSS_MARK} *下载已取消\\n",
+        "点击*{command}*重新下载。*"
+    ],
+    "download_error": [
+        "{PENSIVE_FACE} *对不起，发生未知错误\\n",
+        "点击重试*{command}*.*"
+    ],
+    "download_timeout": [
+        "{WARNING_SIGN} *此下载需要花费超过60秒。\\n",
+        "你可以继续下载其他视频，我们会在处理完之后尽快通知你*"
+    ],
+    "download_successful": "{HEAVY_CHECK_MARK} *音频文件成功下载！*",
+    "wait_previous_download": "{WARNING_SIGN} 正等待上一条下载完成",
+    "download_queue_full": "{WARNING_SIGN} 下载队列已满，请稍后再重试！",
+    "help_pages_list": [
+        [
+            "{OPEN_BOOK} *帮助手册 (1 of 4)*\\n\\n",
+            "你只需要获得你想要下载音频文件的YouTube视频链接，例如：\\n\\n",
+            "— https://youtu.be/SMWi7CLoZ2Q."
+        ],
+        [
+            "{OPEN_BOOK} *帮助手册 (2 of 4)*\\n\\n",
+            "有许多方法获得视频链接，例如你可以：\\n\\n",
+            "— 在YouTube应用中点击分享\\n",
+            "— 使用Telegram的内嵌机器人@vid或者@youtube。\\n",
+            "— 从你的浏览器中复制并粘贴"
+        ],
+        [
+            "{OPEN_BOOK} *帮助手册 (3 of 4)*\\n\\n",
+            "当你已经获得视频链接，请发送给我\\n\\n",
+            "如果这个视频曾经被其他人下载过，我会立即发送给你",
+            "否则 {INBOX_TRAY} *下载* 会出现。点击下载按钮，",
+            "你要想的音频文件，会在短时间内处理完。"
+        ],
+        [
+            "{OPEN_BOOK} *帮助手册 (4 of 4)*\\n\\n",
+            "当你接收到音频文件并且下载完之后，你可以点击音频文件并且点击*保存到音乐库* ",
+            "音频文件会保存在你设备中的Music目录下\\n\\n"
+        ]
+    ],
+    "tips_list": [
+        [
+            "{ELECTRIC_LIGHT_BULB} *提示 (1 of 2)*\\n\\n",
+            "你也可以发送视频ID给我，例如：\\n\\n",
+            "— `SMWi7CLoZ2Q`."
+        ],
+        [
+            "{ELECTRIC_LIGHT_BULB} *提示 (2 of 2)*\\n\\n",
+            "加入@YTAudio 频道获取最新的消息和机器人更新日志！"
+        ]
+    ],
+    "hi": "{SPARKLES} *你好，{name}!*",
+    "presentation": [
+        "*使用 *[YTAudioBot](https://ytaudiobot.ml)*，你可以下载YouTube视频的音频文件",
+        "并且保存在任何地方*"
+    ],
+    "feedback": [
+        "{SPEECH_BALLOON} *反馈*\\n\\n",
+        "你好，{name}！你喜欢YTAudioBot吗？"
+    ],
+    "about": [
+        "{NEWSPAPER} *关于*\\n\\n",
+        "*YTAudioBot for Telegram*\\n",
+        "{version} _{month} {day}, {year}_\\n\\n",
+        "{PUBLIC_ADDRESS_LOUDSPEAKER} *频道* - @YTAudio\\n",
+        "{LINK_SYMBOL} *网站* - https://ytaudiobot.ml\\n",
+        "{ENVELOPE} *邮箱* - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
+        "{EYE} *评论* - {WHITE_MEDIUM_STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
+        "{BUST_IN_SILHOUETTE} [{reviews_n}](https://storebot.me/bot/ytaudiobot)"
+    ],
+    "settings": [
+        "{GEAR} *设置*\\n\\n",
+        "{NEWSPAPER} *关于* - 机器人的相关信息\\n",
+        "{BAR_CHART} *FAQ* - 常见问题\\n",
+        "{GLOBE_WITH_MERIDIANS} *语言* - 更改语言\\n",
+        "{SPEECH_BALLOON} *反馈* - 发送你的反馈"
+    ],
+    "faq_list": [
+        [
+            "{BAR_CHART} *常见问题*\\n\\n",
+            "`Q:` *1.我可以选择音频文件的格式吗？*\\n",
+            "`A:` 我们十分在意音频文件音质、服务器性能和可靠性。为了能够",
+            "将YouTube上的视频文件高速转换为高音质音频文件，我们只发送包",
+            "含在MPEG-4 Part 14 (MP4)内使用AAC 128k 编码的M4A格式的",
+            "音频文件，并且这些M4A音频文件包含有iTunes的标签信息。但将来",
+            "你将可以选择导出不同的音频文件格式。"
+        ],
+        [
+            "{BAR_CHART} *常见问题*\\n\\n",
+            "`Q:` *2. 什么是AAC/M4A？*\\n",
+            "`A:` AAC是一种设计替代MP3格式下一代音频文件的编码方式，",
+            "在与MP3格式保持相近比特率的同时拥有更高的音质。M4A是一",
+            "种文件扩展，包含有以AAC编码的音频文件和音频文件的标签。"
+        ],
+        [
+            "{BAR_CHART} *常见问题*\\n\\n",
+            "`Q:` *3. 一些视频无法正常工作！*\\n",
+            "`A:` 由于YouTube的国家地区限制，一些视频无法被我们的数据中心获取。同",
+            "时现在此机器人发送的音频文件有50 MB的大小限制，我们以后会改变这个限制。"
+        ],
+        [
+            "{BAR_CHART} *常见问题*\\n\\n",
+            "`Q:` *4. 为什么下载的文件会有一个奇怪的名字？*\\n",
+            "`A:` 文件会被保存为`标题 - 视频ID.m4a`，但是这个`标题`也许不是跟视频原标题完全一样",
+            "这是因为视频原标题含有非法字符。不过关于这个视频的正确信息是内嵌在音频文件标签里面的",
+            "，所以你不需要太担心这个问题。"
+        ]
+    ],
+    "faq": [
+        "{BAR_CHART} *常见问题*\\n\\n",
+        "*1.* 我可以选择音频文件的格式吗？\\n",
+        "*2.* 什么是AAC/M4A？\\n",
+        "*3.* 一些视频无法正常工作！\\n",
+        "*4.* 为什么下载的文件会有一个奇怪的名字？\\n"
+    ],
+    "contribute": [
+        "{PERSON_WITH_FOLDED_HANDS} *帮助翻译*\\n\\n",
+        "{name}！如果你希望 @YTAudioBot 使用你的语言或者改进现有的语言，请帮助我们吧！\\n\\n",
+        "我们写了一份帮助你参与翻译的文档 [这里](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
+        "你需要有英语的知识\\n\\n",
+        "我们欢迎任何的语言和改进，请加入我们，我们衷心感谢你的任何帮助！"
+    ],
+    "contributors": [
+        "{BUSTS_IN_SILHOUETTE} *贡献者*\\n\\n",
+        "{HEAVY_BLACK_HEART} 我们衷心感谢一些翻译贡献者：\\n\\n",
+        "{contributors}\\n\\n",
+        "— @YTAudioBot"
+    ],
+    "months_names": [
+        [
+            "一月"
+        ],
+        [
+            "二月"
+        ],
+        [
+            "三月"
+        ],
+        [
+            "四月"
+        ],
+        [
+            "五月"
+        ],
+        [
+            "六月"
+        ],
+        [
+            "七月"
+        ],
+        [
+            "八月"
+        ],
+        [
+            "九月"
+        ],
+        [
+            "十月"
+        ],
+        [
+            "十一月"
+        ],
+        [
+            "十二月"
+        ]
+    ],
+    "start_button": "{CHEQUERED_FLAG} 开始",
+    "language_button": "{FLAG_FOR_UNITED_STATES} 简体中文",
+    "more_info_button": "{PAGE_WITH_CURL} 更多信息",
+    "send_to_button": "{OUTBOX_TRAY} 发送给...",
+    "faq_button": "{BAR_CHART} 常见问题",
+    "like_button": "{THUMBS_UP_SIGN} 我喜欢这个机器人",
+    "not_really_button": "{THINKING_FACE} 并不太喜欢",
+    "send_feedback_button": "{MEMO} 发送反馈",
+    "feedback_button": "{SPEECH_BALLOON} 反馈",
+    "settings_button": "{GEAR} 设置",
+    "select_language_button": "{GLOBE_WITH_MERIDIANS} 语言",
+    "help_button": "{OPEN_BOOK} 帮助手册",
+    "about_button": "{NEWSPAPER} 关于",
+    "previous_button": "« 上一步",
+    "back_button": "« 返回",
+    "next_button": "下一步 »",
+    "cancel_button": "{CROSS_MARK} 取消",
+    "download_button": "{INBOX_TRAY} 下载",
+    "how_it_works_button": "{BLACK_QUESTION_MARK_ORNAMENT} 如何工作",
+    "rate_now_button": "{WHITE_MEDIUM_STAR} 现在评论",
+    "later_button": "{HOURGLASS} 以后提醒",
+    "no_thanks_button": "{PILE_OF_POO} 不了，谢谢",
+    "channel_button": "{PUBLIC_ADDRESS_LOUDSPEAKER} 频道",
+    "website_button": "{LINK_SYMBOL} 网站",
+    "email_button": "{ENVELOPE} 电子邮箱",
+    "ratings_button": "{EYE} 评论",
+    "help_translate_button": "{PERSON_WITH_FOLDED_HANDS} 帮助翻译",
+    "history_button": "{HOURGLASS} 历史",
+    "remove_button": "{CROSS_MARK} 删除",
+    "restore_button": "{HEAVY_PLUS_SIGN} 还原",
+    "view_button": "{EYE} 查看",
+    "clear_all_button": "{WASTEBASKET} 清除全部",
+    "pause_button": "{BALLOT_BOX_WITH_CHECK} 暂停",
+    "resume_button": "{WHITE_HEAVY_CHECK_MARK} 继续",
+    "contribute_button": "{PERSON_WITH_FOLDED_HANDS} 参与贡献",
+    "contributors_button": "{BUSTS_IN_SILHOUETTE} 贡献者",
+    "open_project_button": "{CARD_INDEX_DIVIDERS} 访问项目"
+}
