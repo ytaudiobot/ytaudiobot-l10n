@@ -192,14 +192,14 @@
         "*3.* Manche Videos funktionieren nicht!\\n",
         "*4.* Warum haben die Dateien komische Namen?\\n"
     ],
-     "contribute": [
+    "contribute": [
         "{PERSON_WITH_FOLDED_HANDS} *Helfe, den Bot zu übersetzen*\\n\\n",
         "{name}! Wenn du möchstest, dass @YTAudioBot auch deine Sprache spricht, oder du eine schon verfügbare Sprache verbessern möchtest, kannst du uns gerne helfen!\\n\\n",
-        "Wir haben diesbezüglich eine Anleitung vorbereitet, die du hier finden kannst: [here](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
+        "Wir haben diesbezüglich eine Anleitung vorbereitet, die du [hier](https://github.com/ytaudiobot/ytaudiobot-l10n) finden kannst. ",
         "Beachte, dass du Grundkenntnisse der englischen Sprache beherrschen musst.\\n\\n",
-        "Wir freuen uns auf neue Sprachen und Verbesserungen! Schließe dich uns an, jede Hilfe wird dankend angenommen!"
+        "Wir freuen uns auf neue Sprachen und Verbesserungen! Schließe dich uns an - jede Hilfe wird dankend angenommen!"
     ],
-     "contributors": [
+    "contributors": [
         "{BUSTS_IN_SILHOUETTE} *Beiträger*\\n\\n",
         "{HEAVY_BLACK_HEART} Wir danken herzlich den folgenden Übersetzern:\\n\\n",
         "{contributors}\\n\\n",
@@ -279,5 +279,5 @@
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Fortsetzen",
     "contribute_button": "{PERSON_WITH_FOLDED_HANDS} Mithelfen",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Beiträger",
-    "open_project_button": "{CARD_INDEX_DIVIDERS} Offenes Projekt"
+    "open_project_button": "{CARD_INDEX_DIVIDERS} Projekt öffnen"
 }

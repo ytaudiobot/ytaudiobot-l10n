@@ -11,7 +11,7 @@
     "clear_history_warning": "{WARNING_SIGN} Barcha tarixni o'chirishga yaqinsiz!",
     "history_settings": [
         "{HOURGLASS} *Yuklab olish tarixi*\\n\\n",
-        "Yuklab olingan tarixingizda {Predmet yo'q|Bitta predmet bor|# predmet bor}."
+        "Yuklab olingan tarixingizda {Predmet yo'q|1 predmet bor|# predmet bor}."
     ],
     "clear_history_confirmation": [
         "{WASTEBASKET} *Yuklab olingan tarixni o'chirish*\\n\\n",
@@ -51,7 +51,7 @@
     ],
     "rating_message": [
         "{WHITE_MEDIUM_STAR} *YTAudioBot ga ovoz berish*\\n\\n",
-        "{name}, bot sizga yoqayaptimi?\\n",
+        "{name}, Bot sizga yoqayaptimi?\\n",
         "StoreBot da botga ovoz bering ."
     ],
     "rate_later": "{HOURGLASS} *Ma'qul, boshqa payt so'rayman!*",
@@ -64,18 +64,18 @@
     "sending_feedback_enabled": "{MEMO} Fikringizni yozing",
     "feedback_sent": "{HEAVY_CHECK_MARK} *Bot haqida fikringiz jo'natildi. E'tiboringiz uchun raxmat!*",
     "showing_trending_results": "{FIRE} *Natijalar ko'rsatilmoqda*\\n\\n",
-    "showing_youtube_results": "{RIGHT_POINTING_MAGNIFYING_GLASS} *\\\"*{terms}*\\\"*\\n\\n lar uchun YouTube natijalari",
-    "flood_wait": "{WARNING_SIGN} *Bunchalik tez emasda! {0 sekund|1 sekund|# sekund} kuting va qayata urinib ko'ring.*",
+    "showing_youtube_results": "{RIGHT_POINTING_MAGNIFYING_GLASS} *\\\"*{terms}*\\\"*\\n\\n uchun YouTube natijalari",
+    "flood_wait": "{WARNING_SIGN} *Bunchalik tez emasda! {0 sekund|1 sekund|# sekund} kuting va qayta urinib ko'ring.*",
     "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} *Qidirilmoqda \\\"*{terms}*\\\"...*",
     "video_not_available": "{PENSIVE_FACE} *Kechirasiz, bu video hozirda mavjud emas. Keyinroq urinib ko'ring.*",
-    "size_limit_exceeded": "{PENSIVE_FACE} *Kechirasiz, bu videoning hajmi limitdan yuqori. Boshqasini urib ko'ring.*",
+    "size_limit_exceeded": "{PENSIVE_FACE} *Kechirasiz, bu videoning hajmi limitdan yuqori. Boshqasini urinib ko'ring.*",
     "api_error": "{PENSIVE_FACE} *Kechirasiz, so'ralgan operatsiya hozirda amalga oshmaydi. Keyinroq urinib ko'ring.*",
     "select_language": [
         "{GLOBE_WITH_MERIDIANS} *Til*\\n\\n",
         "Tilni tanlang."
     ],
     "language_selected": "{HEAVY_CHECK_MARK} {FLAG_FOR_UZBEKISTAN} O'zbek tili tanlandi.",
-    "same_language_selected": "{THINKING_FACE} Botning tili oldindan {FLAG_FOR_UZBEKISTAN} O'zbekcha tanlangan",
+    "same_language_selected": "{THINKING_FACE} Botning tili oldindan {FLAG_FOR_UZBEKISTAN} O'zbekchaga tanlangan",
     "video_processing_in_progress": "{CLOCKWISE_DOWNWARDS_AND_UPWARDS_OPEN_CIRCLE_ARROWS} *Video protsessda...*",
     "download_canceled": [
         "{CROSS_MARK} *Yuklash to'xtatildi.\\n",
@@ -95,27 +95,27 @@
     "help_pages_list": [
         [
             "{OPEN_BOOK} *Yordam (1-4)*\\n\\n",
-            "Sizga kerak bo'lgan narsa, ma'lum bir YouTube video URL holos, misol uchun:\\n\\n",
+            "Sizga kerak bo'lgan narsa, ma'lum bir YouTube video URL si holos, misol uchun:\\n\\n",
             "— https://youtu.be/SMWi7CLoZ2Q."
         ],
         [
             "{OPEN_BOOK} *Yordam (2-4)*\\n\\n",
-            "URL topishni bir necha usuli bor. Misol uchun siz:\\n\\n",
+            "URL ni topishni bir necha usuli bor. Misol uchun siz:\\n\\n",
             "— YouTube programmasidan Baham Ko'rish tugmasini bosing.\\n",
-            "— Telegramni quyidagi inline botlaridan foydalaning @vid yoki @youtube.\\n",
+            "— Telegramni quyidagi inline botlaridan foydalaning, @vid yoki @youtube.\\n",
             "— Linkni borowseringizdan Copy qilib so'ngra botga Paste qiling."
         ],
         [
             "{OPEN_BOOK} *Yordam (3-4)*\\n\\n",
             "URL ni topgandan so'ng, uni menga jo'nating.\\n\\n",
             "Agar video boshqa foydalanuvchi tomonidan allaqachon yuklab olingan bo'lsa, u sizga darhol jo'natiladi, ",
-            "Boshqa holda {INBOX_TRAY} *Yuklab olish* tugmasi paydo bo'ladi. Uni bosing, va sizning faylingiz tezda paydo ",
+            "Boshqa holda {INBOX_TRAY} *Yuklab olish* tugmasi chiqadi. Uni bosing, va sizning faylingiz tezda paydo ",
             "bo'ladi."
         ],
         [
-            "{OPEN_BOOK} *Help (4-4)*\\n\\n",
-            "Qabul qilib, yuklab olganingizdan so'ng, audio xabarni va *Saqlash* tugmasini bosing. ",
-            "Audio Music folderingizga tushadi.\\n\\n"
+            "{OPEN_BOOK} *Yordam (4-4)*\\n\\n",
+            "Qabul qilib, yuklab olganingizdan so'ng, audio xabar va *Saqlash* tugmasini bosing. ",
+            "Audio, Music folderingizga tushadi.\\n\\n"
         ]
     ],
     "tips_list": [
@@ -139,7 +139,7 @@
         "Salom, {name}! YTAudioBot sizga yoqdimi?"
     ],
     "about": [
-        "{NEWSPAPER} *Haqida*\\n\\n",
+        "{NEWSPAPER} *Bot Haqida*\\n\\n",
         "*Telegram uchun YTAudioBot*\\n",
         "{version} _{month} {day}, {year}_\\n\\n",
         "{PUBLIC_ADDRESS_LOUDSPEAKER} *Kanal* - @YTAudio\\n",
@@ -168,7 +168,7 @@
             "{BAR_CHART} *Ko'p so'raladigan savollar*\\n\\n",
             "`S:` *2. AAC/M4A nimani anglatadi?*\\n",
             "`J:` AAC bu MP3 formatiga o'xshash audio bo'lib, odatda ",
-            "MP3 formatidan tiniqroq audio beradi. M4A bu fayl extensioni, shuningdek container deb nomlanadi ",
+            "MP3 formatidan tiniqroq audio beradi. M4A bu fayl extensioni, shuningdek container deb nomlanadi, ",
             "Original encoded audio, audio tagi bilan birga."
         ],
         [
@@ -181,7 +181,7 @@
             "{BAR_CHART} *Ko'p so'raladigan savollar*\\n\\n",
             "`S:` *4. Nima uchun fayllar o'zgacha nomga ega?*\\n",
             "`J:` Fayllar `Nom - VideoId.m4a` kabi saqlanib qoladi, lekin `Nomi` video nomiga 100% o'xshmasligi ham mumkin ",
-            "b'azi bir characterlar sababli. Bu odatda muammo emas chunki video haqidagi barcha ma'lumot ",
+            "b'azi bir characterlar sababli. Bu odatda muammo emas, chunki video haqidagi barcha ma'lumot ",
             "audio tag da birlashgan bo'ladi."
         ]
     ],
@@ -262,11 +262,11 @@
     "history_button": "{HOURGLASS} Tarix",
     "remove_button": "{CROSS_MARK} Olib tashlash",
     "restore_button": "{HEAVY_PLUS_SIGN} Qayta tiklash",
-    "view_button": "{EYE} Ko'rinish",
+    "view_button": "{EYE} Ko'rish",
     "clear_all_button": "{WASTEBASKET} Barchasini tozalash",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Pausa",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Davom etish",
-    "contribute_button": null,
-    "contributors_button": null,
+    "contribute_button": "Hissa qo'shish",
+    "contributors_button": "Tarjimonlar",
     "open_project_button": null
 }

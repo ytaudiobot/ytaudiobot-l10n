@@ -192,8 +192,19 @@
         "*3.* Jotkin videot eivät toimi!\\n",
         "*4.* Miksi tiedostoilla on outoja nimiä?\\n"
     ],
-    "contribute": null,
-    "contributors": null,
+    "contribute": [
+        "{PERSON_WITH_FOLDED_HANDS} *Auta kääntämään*\\n\\n",
+        "{name}! Jos haluat @YTAudioBot:in puhumaan omaa kieltäsi tai parannella olemassa olevaa, voit auttaa meitä!\\n\\n",
+        "Teimme ohjeen siihen, [täällä](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
+        "Englannin kielen taitoa vaaditaan.\\n\\n",
+        "Toivotamme tervetulleeksi kaikki uudet kielet ja parannukset! Voit vapaasti liittyä meihin, jokainen apu otetaan kiitollisena vastaan!"
+    ],
+    "contributors": [
+        "{BUSTS_IN_SILHOUETTE} *Avustajat*\\n\\n",
+        "{HEAVY_BLACK_HEART} Haluamme lämpimästi kiittää seuraavia kääntäjiä:\\n\\n",
+        "{contributors}\\n\\n",
+        "— @YTAudioBot"
+    ],
     "months_names": [
         [
             "tammikuu"
@@ -266,7 +277,7 @@
     "clear_all_button": "{WASTEBASKET} Poista kaikki",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Pysäytä",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Jatka",
-    "contribute_button": null,
-    "contributors_button": null,
-    "open_project_button": null
+    "contribute_button": "{PERSON_WITH_FOLDED_HANDS} Avusta",
+    "contributors_button": "{BUSTS_IN_SILHOUETTE} Avustajat",
+    "open_project_button": "{CARD_INDEX_DIVIDERS} Avaa projekti"
 }

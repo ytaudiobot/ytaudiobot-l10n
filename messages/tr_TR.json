@@ -1,0 +1,282 @@
+{
+    "position": "12",
+    "description": [
+        "YouTube videolarını, gittiğiniz her yere götürmek için yalnızca ses dosyaları olarak indirin!\\n\\n",
+        "Diğer: @YTAudio_Bot"
+    ],
+    "type_search_terms": "{MEMO} Arama terimlerinizi yazın",
+    "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} YouTube'da \\\"{terms}\\\" Ara",
+    "error": "{PENSIVE_FACE} Bir hata oluştu. Daha sonra tekrar deneyin.",
+    "longer_download_time": "{WARNING_SIGN} *Bu video her zamankinden daha uzun sürebilir. İndirme başarısız olabilir!*",
+    "clear_history_warning": "{WARNING_SIGN} Tüm geçmişinizi temizlemek üzeresiniz!",
+    "history_settings": [
+        "{HOURGLASS} *İndirme geçmişi*\\n\\n",
+        "{Hiçbir öğe yok|Bir öğe var|Ürün # tane var} İndirme geçmişinizde."
+    ],
+    "clear_history_confirmation": [
+        "{WASTEBASKET} *Tüm indirme geçmişini temizle*\\n\\n",
+        "İndirme geçmişinin tamamını silmek istediğinizden emin misiniz? *Bunu geri alamazsın.*"
+    ],
+    "added_seconds_ago": "Önce {0 saniye|a saniye|# saniye} eklendi",
+    "added_minutes_ago": "Önce {0 dakika|a dakika|# dakika} eklendi",
+    "added_hours_ago": "Önce {0 saat|a saat|# saat} eklendi",
+    "added_days_ago": "Önce {0 gün|a gün|# gün} eklendi",
+    "added_weeks_ago": "Önce {0 hafta|hafta|# hafta} eklendi",
+    "added_months_ago": "Önce {0 ay|ay|# ay} eklendi",
+    "added_years_ago": "Önce {0 yıl|yıl|# yıl} eklendi",
+    "item_removed": "{CROSS_MARK} Öğe kaldırıldı",
+    "item_restored": "{HEAVY_PLUS_SIGN} Öğe geri yüklendi",
+    "download_history_paused": "{BALLOT_BOX_WITH_CHECK} İndirme geçmişi duraklatıldı",
+    "download_history_resumed": "{WHITE_HEAVY_CHECK_MARK} İndirme geçmişi devam etti",
+    "download_history_cleared": "{WASTEBASKET} İndirme geçmişi silindi",
+    "file_expired": [
+        "{WARNING_SIGN} *Dosya doldu*\\n\\n",
+        "Basın {command} Tekrar indirmek için."
+    ],
+    "more_info": "{PAGE_WITH_CURL} Daha fazla bilgi",
+    "video_id": "{SMALL_ORANGE_DIAMOND} Video Kimliği",
+    "duration": "{SMALL_ORANGE_DIAMOND} Süre",
+    "size": "{SMALL_ORANGE_DIAMOND} Boyut",
+    "listen_on_youtube": "{LINK_SYMBOL} YouTube'da dinle",
+    "like": [
+        "{SPARKLES} *teşekkür ederim, {name}!*\\n\\n",
+        "Beğendiğiniz için mutluyuz.\\n\\n",
+        "Botu puanlayabilir ve\\n",
+        "5 yıldız {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} verebilirsiniz:\\n",
+        "https://telegram.me/storebot?start=YTAudioBot"
+    ],
+    "no_like": [
+        "{PENSIVE_FACE} *Bunu duyduğumuz için özür dileriz, {name}.*\\n\\n",
+        "Botta bir sorun mu var? Lütfen bize söyle (İngilizce veya İtalyanca):"
+    ],
+    "rating_message": [
+        "{WHITE_MEDIUM_STAR} *Oyla YTAudioBot*\\n\\n",
+        "{name}, Botun tadını çıkarıyor musun?\\n",
+        "StoreBot'ta oy vermek için bir dakikanızı ayırın."
+    ],
+    "rate_later": "{HOURGLASS} *Tamam, sana başka zaman daha soracağım!*",
+    "rate_never": "{PILE_OF_POO} *Tamam, bir daha asla sormayacağım.*",
+    "send_feedback": [
+        "{MEMO} *Geribildirim yolla*\\n\\n",
+        "Botta değişiklik veya iyileştirmeler önermek, hataları bildirmek veya yaratıcılara bir açıklama gönder ",
+        "(İngilizce veya İtalyanca)."
+    ],
+    "sending_feedback_enabled": "{MEMO} Geribildiriminizi yazın",
+    "feedback_sent": "{HEAVY_CHECK_MARK} *Geribildiriminiz gönderilmiştir. Teşekkür ederim!*",
+    "showing_trending_results": "{FIRE} *Trend sonuçlar gösteriliyor*\\n\\n",
+    "showing_youtube_results": "{RIGHT_POINTING_MAGNIFYING_GLASS} *için YouTube sonuçları \\\"*{terms}*\\\"*\\n\\n",
+    "flood_wait": "{WARNING_SIGN} *Çok hızlı değil! Bekleyin {0 saniye|a saniye|# saniye} ve yeniden dene.*",
+    "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} *Arıyor \\\"*{terms}*\\\"...*",
+    "video_not_available": "{PENSIVE_FACE} *Üzgünüz, şu anda video kullanılamıyor. Daha sonra tekrar deneyin.*",
+    "size_limit_exceeded": "{PENSIVE_FACE} *Maalesef bu video boyut sınırını aşıyor. Başka biriyle tekrar deneyin.*",
+    "api_error": "{PENSIVE_FACE} *Maalesef, istenen işlem şu anda gerçekleştirilemiyor. Daha sonra tekrar deneyin.*",
+    "select_language": [
+        "{GLOBE_WITH_MERIDIANS} *Dil*\\n\\n",
+        "Dilinizi seçiniz."
+    ],
+    "language_selected": "{HEAVY_CHECK_MARK} Dil seti {FLAG_FOR_TURKEY} Türkçe.",
+    "same_language_selected": "{THINKING_FACE} Bot'un dili zaten içeride {FLAG_FOR_TURKEY} Türkçe",
+    "video_processing_in_progress": "{CLOCKWISE_DOWNWARDS_AND_UPWARDS_OPEN_CIRCLE_ARROWS} *Video işleme devam ediyor...*",
+    "download_canceled": [
+        "{CROSS_MARK} *İndirme işlemi iptal edildi.\\n",
+        "Tekrar indirmek için * {command} * tuşuna basın..*"
+    ],
+    "download_error": [
+        "{PENSIVE_FACE} *Maalesef, beklenmeyen bir hata oluştu.\\n",
+        "Tekrar dene: *{command}*.*"
+    ],
+    "download_timeout": [
+        "{WARNING_SIGN} *İndirme 60 saniyeden fazla sürüyor.\\n",
+        "Başka bir video talep etmekten çekinmeyin, bu video bir an önce size gönderilecektir!*"
+    ],
+    "download_successful": "{HEAVY_CHECK_MARK} *Ses başarılı bir şekilde indirildi!*",
+    "wait_previous_download": "{WARNING_SIGN} Önceki indirmenizi bekleyin!",
+    "download_queue_full": "{WARNING_SIGN} İndirme sırası doldu. Lütfen daha sonra tekrar deneyiniz.",
+    "help_pages_list": [
+        [
+            "{OPEN_BOOK} *Yardım (1 of 4)*\\n\\n",
+            "İhtiyacınız olan tek şey, ses olarak indirmek istediğiniz YouTube videosunun URL'si, bunun gibi yapıştırınız:\\n\\n",
+            "— https://youtu.be/pi8WpLSCB3I."
+        ],
+        [
+            "{OPEN_BOOK} *Yardım (2 of 4)*\\n\\n",
+            "URL'yi bulmak için çeşitli yollar vardır. Örneğin:\\n\\n",
+            "— YouTube uygulamasındaki Paylaş düğmesini kullanın.\\n",
+            "— Telegram'ın satır içi bot'larını @vid veya @youtube'u kullanın.\\n",
+            "— Bağlantıyı tarayıcınızdan kopyala / yapıştırın."
+        ],
+        [
+            "{OPEN_BOOK} *Yardım (3 of 4)*\\n\\n",
+            "URL'yi bulduktan sonra bana gönderin.\\n\\n",
+            "Video başka biri tarafından indirilmişse hemen size gönderilecektir., ",
+            "Aksi halde {INBOX_TRAY} *Download* düğmesi görünecektir. Bastığınızda ses dosyası kullanılabilir olacak ",
+            "hemen ardından."
+        ],
+        [
+            "{OPEN_BOOK} *Yardım (4 of 4)*\\n\\n",
+            "Alınır ve indirildikten sonra, sesli mesaja basabilir ve *Kaydetme tuşuna basabilirsiniz* ",
+            "Ses Dosyasını Müzik Klasörüne Kaydetmek İçin.\\n\\n"
+        ]
+    ],
+    "tips_list": [
+        [
+            "{ELECTRIC_LIGHT_BULB} *Taktik (1 of 2)*\\n\\n",
+            "Ayrıca bana yalnızca şu video kimliğini de gönderebilirsiniz:\\n\\n",
+            "— `SMWi7CLoZ2Q`."
+        ],
+        [
+            "{ELECTRIC_LIGHT_BULB} *Taktik (2 of 2)*\\n\\n",
+            "En son haberler ve bot güncellemeleri için @YTAudio kanalına katılın!"
+        ]
+    ],
+    "hi": "{SPARKLES} *Merhaba, {name}!*",
+    "presentation": [
+        "*İle *[YTAudioBot](https://ytaudiobot.ml)*, YouTube videolarını yalnızca ses dosyaları olarak indirebilirsiniz ",
+        "Nereye gidersen git*"
+    ],
+    "feedback": [
+        "{SPEECH_BALLOON} *Geri Bildirim*\\n\\n",
+        "Merhaba, {name}! YTAudioBot Beğendiniz mi?"
+    ],
+    "about": [
+        "{NEWSPAPER} *Hakkında*\\n\\n",
+        "*Telegram için YTAudioBot*\\n",
+        "{version} _{month} {day}, {year}_\\n\\n",
+        "{PUBLIC_ADDRESS_LOUDSPEAKER} *Kanal* - @YTAudio\\n",
+        "{LINK_SYMBOL} *Site* - https://ytaudiobot.ml\\n",
+        "{ENVELOPE} *E-Mail* - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
+        "{EYE} *Yorumlar* - {WHITE_MEDIUM_STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
+        "{BUST_IN_SILHOUETTE} [{reviews_n}](https://storebot.me/bot/ytaudiobot)"
+    ],
+    "settings": [
+        "{GEAR} *Ayarlar*\\n\\n",
+        "{NEWSPAPER} *Hakkında* - Bot hakkında bilgi\\n",
+        "{BAR_CHART} *SSS* - Sıkça Sorulan Sorular\\n",
+        "{GLOBE_WITH_MERIDIANS} *Dil* - Dilini Seç\\n",
+        "{SPEECH_BALLOON} *Geri Bildirim* - Geri Bildirimini Gönder"
+    ],
+    "faq_list": [
+        [
+            "{BAR_CHART} *Sık sorulan Sorular*\\n\\n",
+            "`Q:` *1.Ses formatı seçmek istiyorum!*\\n",
+            "`A:` Kaliteye, hizmet performansına ve güvenilirliğine odaklanıyoruz. ",
+            "YouTube'da bulunan en yüksek kalitede süper hızlı ses dönüştürmeleri yapmak için, yalnızca",
+            "ITunes bilgi ile etiketlenmiş M4A uzantılı bir MPEG-4 Part 14 (MP4) konteynerinde AAC 128k kodlanmış dosyalar kullanıyoruz. ",
+            "Bu seçim gelecekte değişebilir."
+        ],
+        [
+            "{BAR_CHART} *Sık sorulan Sorular*\\n\\n",
+            "`Q:` *2. AAC / M4A ne anlama gelir?*\\n",
+            "`A:` AAC, MP3 formatının ardıllığı için tasarlanmış bir ses kodlama formatıdır ve genel olarak ",
+            "Benzer bit hızlarında MP3'den daha iyi ses kalitesi. M4A, konteyner olarak da bilinen bir dosya uzantısıdır",
+            "Hem gerçek AAC kodlanmış sesin hem de sesin etiketlerinin kendisidir."
+        ],
+        [
+            "{BAR_CHART} *Sık sorulan Sorular*\\n\\n",
+            "`Q:` *3. Bazı videolar çalışmıyor!*\\n",
+            "`A:` YouTube'un ülke kısıtlamaları nedeniyle bazı videolar veri merkezimiz tarafından kullanılamayabilir. Ayrıca,",
+            "Bot şu an 50 MB'a kadar ses dosyaları gönderebilir, bu sınır ileride değiştirilebilir."
+        ],
+        [
+            "{BAR_CHART} *Sık sorulan Sorular*\\n\\n",
+            "`Q:` *4. Dosyalarda neden garip isimler var?*\\n",
+            "`A:` Dosyalar `Title - VideoId.m4a` olarak kaydedilir, ancak` Title` başlığın% 100'ünü yansıtmayabilir ",
+            "Videonun bazı geçersiz karakterler nedeniyle Tüm doğru bilgi bu yana genellikle sorun değildir."
+        ]
+    ],
+    "faq": [
+        "{BAR_CHART} *Sık sorulan Sorular*\\n\\n",
+        "*1.* Ses formatı seçmek istiyorum!\\n",
+        "*2.* AAC / M4A ne anlama gelir?\\n",
+        "*3.* Bazı videolar çalışmıyor!\\n",
+        "*4.*Dosyalarda neden garip isimler var?\\n"
+    ],
+    "contribute": [
+        "{PERSON_WITH_FOLDED_HANDS} *Tercüme et*\\n\\n",
+        "{name}!@YTAudioBot'un sizin dilinizi konuşmasını istiyorsanız veya mevcut bir dilini geliştirmek istiyorsanız, bize yardım edebilirsiniz!\\n\\n",
+        "Bunun için sadece bir rehber oluşturduk, [here](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
+        "Bunun için sadece İngilizce bilgisi gerekiyor,.\\n\\n",
+        "Yeni dilleri ve geliştirmeleri memnuniyetle karşılıyoruz! Bize katılmaktan çekinmeyin, her yardım minnetle kabul edilir!"
+    ],
+    "contributors": [
+        "{BUSTS_IN_SILHOUETTE} *Katkıda bulunan*\\n\\n",
+        "{HEAVY_BLACK_HEART} Çeviri katılımcılarına sıcak bir şekilde teşekkürlerimizi sunarız:\\n\\n",
+        "{contributors}\\n\\n",
+        "— @YTAudioBot"
+    ],
+    "months_names": [
+        [
+            "Ocak"
+        ],
+        [
+            "Şubat"
+        ],
+        [
+            "Mart"
+        ],
+        [
+            "Nisan"
+        ],
+        [
+            "Mayıs"
+        ],
+        [
+            "Haziran"
+        ],
+        [
+            "Temmuz"
+        ],
+        [
+            "Ağustos"
+        ],
+        [
+            "Eylül"
+        ],
+        [
+            "Ekim"
+        ],
+        [
+            "Kasım"
+        ],
+        [
+            "Aralık"
+        ]
+    ],
+    "start_button": "{CHEQUERED_FLAG} Başlat",
+    "language_button": "{FLAG_FOR_TURKEY} Türkçe",
+    "more_info_button": "{PAGE_WITH_CURL} Daha fazla",
+    "send_to_button": "{OUTBOX_TRAY} Gönderiliyor...",
+    "faq_button": "{BAR_CHART} SSS",
+    "like_button": "{THUMBS_UP_SIGN} Bunu Sevdim!",
+    "not_really_button": "{THINKING_FACE} Pek sayılmaz",
+    "send_feedback_button": "{MEMO} Geribildirim yolla",
+    "feedback_button": "{SPEECH_BALLOON} Geri Bildirim",
+    "settings_button": "{GEAR} Ayarlar",
+    "select_language_button": "{GLOBE_WITH_MERIDIANS} Dil",
+    "help_button": "{OPEN_BOOK} Yardım",
+    "about_button": "{NEWSPAPER} Hakkında",
+    "previous_button": "« Önceki",
+    "back_button": "« Geri",
+    "next_button": "İleri »",
+    "cancel_button": "{CROSS_MARK} Vazgeç",
+    "download_button": "{INBOX_TRAY} İndir",
+    "how_it_works_button": "{BLACK_QUESTION_MARK_ORNAMENT} Nasıl çalışır",
+    "rate_now_button": "{WHITE_MEDIUM_STAR} Şimdi oyla",
+    "later_button": "{HOURGLASS} Sonra",
+    "no_thanks_button": "{PILE_OF_POO} Hayır teşekkürler",
+    "channel_button": "{PUBLIC_ADDRESS_LOUDSPEAKER} Kanal",
+    "website_button": "{LINK_SYMBOL} Web sitesi",
+    "email_button": "{ENVELOPE} E-Mail",
+    "ratings_button": "{EYE} Yorumlar",
+    "help_translate_button": "{PERSON_WITH_FOLDED_HANDS} Tercüme et",
+    "history_button": "{HOURGLASS} Geçmiş",
+    "remove_button": "{CROSS_MARK} Kaldır",
+    "restore_button": "{HEAVY_PLUS_SIGN} Geri yükle",
+    "view_button": "{EYE} Görünüm",
+    "clear_all_button": "{WASTEBASKET} Tümünü Temizle",
+    "pause_button": "{BALLOT_BOX_WITH_CHECK} Durdur",
+    "resume_button": "{WHITE_HEAVY_CHECK_MARK} Devam Ettir",
+    "contribute_button": "{PERSON_WITH_FOLDED_HANDS} Katkıda Bulunanlar",
+    "contributors_button": "{BUSTS_IN_SILHOUETTE} Katkıda Bulunan",
+    "open_project_button": "{CARD_INDEX_DIVIDERS} Projeyi Aç"
+}
