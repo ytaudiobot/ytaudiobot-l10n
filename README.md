@@ -6,19 +6,20 @@ _Stay tuned for news and updates on our [Telegram Channel](//telegram.me/ytaudio
 
 YTAudioBot is currently available in the following languages:
 
-| **Language**                   | **Contributors**                                    |
-| :----------------------------- | :-------------------------------------------------- |
-| :us: English (en_US)           | [Dan](//github.com/delivrance)                      |
-| :it: Italiano (it_IT)          | [Dan](//github.com/delivrance)                      |
-| :es: Español (es_ES)           | [Gerardo](//github.com/balboag)                     |
-| :brazil: Português (pt_BR)     | [Rafael](//github.com/rafaelsturmer)                |
-| :israel: עברית (he_IL)         | [PhantomGitHub](//github.com/PhantomGitHub)         |
-| :de: Deutsch (de_DE)           | [Julian](//github.com/jwsp1), Alex                  |
-| :finland: Suomi (fi_FI)        | [Elias](//github.com/theel0ja)                      |
-| :greece: Ελληνικά (el_GR)      | [stamsarger](//github.com/stamsarger)               |
-| :romania: Română (ro_RO)       | [NicuG](//telegram.me/nicug)                        |
-| :uzbekistan: O'zbek (Lt_uz_UZ) | [HusanboyBayern](//telegram.me/HusanboyBayern)      |
-| :cn: Chinese(zh_Cn)            | [Kris](//telegram.me/littlekris)                    |
+| **Language**                         | **Contributors**                                    |
+| :----------------------------------- | :-------------------------------------------------- |
+| :us: English (en_US)                 | [Dan](//github.com/delivrance)                      |
+| :it: Italiano (it_IT)                | [Dan](//github.com/delivrance)                      |
+| :es: Español (es_ES)                 | [Gerardo](//github.com/balboag)                     |
+| :brazil: Português (pt_BR)           | [Rafael](//github.com/rafaelsturmer)                |
+| :israel: עברית (he_IL)               | [PhantomGitHub](//github.com/PhantomGitHub)         |
+| :de: Deutsch (de_DE)                 | [Julian](//github.com/jwsp1), Alex                  |
+| :finland: Suomi (fi_FI)              | [Elias](//github.com/theel0ja)                      |
+| :greece: Ελληνικά (el_GR)            | [stamsarger](//github.com/stamsarger)               |
+| :romania: Română (ro_RO)             | [NicuG](//telegram.me/nicug)                        |
+| :uzbekistan: O'zbek (Lt_uz_UZ)       | [HusanboyBayern](//telegram.me/HusanboyBayern)      |
+| :indonesia: Bahasa Indonesia (id_ID) | [Aldian Hudaya](//telegram.me/oichidan)             |
+| :cn: Chinese (zh_Cn)                 | [Kris](//telegram.me/littlekris)                    |
 > Add yourself here once you submit your translations
 
 All translations, except English (en_US) and Italiano (it_IT), are made by volunteers who decided to help.

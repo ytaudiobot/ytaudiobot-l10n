@@ -65,7 +65,7 @@
     "feedback_sent": "{HEAVY_CHECK_MARK} *המשוב שלך נשלח. תודה!*",
     "showing_trending_results": "{FIRE} *מראה תוצאות פופולריות*\\n\\n",
     "showing_youtube_results": "{RIGHT_POINTING_MAGNIFYING_GLASS} *תוצאות יוטיוב ל- \\\"*{terms}*\\\"*\\n\\n",
-    "flood_wait": "{WARNING_SIGN} *לא כל כך מהר! חכה {0 seconds|a second|# seconds} ונסה שוב.*",
+    "flood_wait": "{WARNING_SIGN} *לא כל כך מהר! חכה {0 שניות|שניות|# שניות} ונסה שוב.*",
     "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} *מחפש את \\\"*{terms}*\\\"...*",
     "video_not_available": "{PENSIVE_FACE} *מצטערים, הסרטון הזה לא זמין כרגע. נסה מאוחר יותר.*",
     "size_limit_exceeded": "{PENSIVE_FACE} *מצטערים, הסרטון הזה חורג מעבר למגבלת הגודל. נסה שוב מאוחר יותר.*",
