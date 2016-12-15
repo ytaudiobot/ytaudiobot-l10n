@@ -18,7 +18,7 @@ YTAudioBot is currently available in the following languages:
 | :greece: Ελληνικά (el_GR)      | [stamsarger](//github.com/stamsarger)               |
 | :romania: Română (ro_RO)       | [NicuG](//telegram.me/nicug)                        |
 | :uzbekistan: O'zbek (Lt_uz_UZ) | [HusanboyBayern](//telegram.me/HusanboyBayern)      |
-| :indonesia: Bahasa Indonesia (id_ID) | [Aldian Hudaya]((//telegram.me/oichidan)      |
+| :indonesia: Bahasa Indonesia (id_ID) | [Aldian Hudaya](//telegram.me/oichidan)      |
 
 > Add yourself here once you submit your translations
 
