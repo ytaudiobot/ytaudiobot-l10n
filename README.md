@@ -22,7 +22,8 @@ YTAudioBot is currently available in the following languages:
 | :cn: **简体中文** ([zh_CN](messages/zh_CN.json))                 | [Kris](//telegram.me/littlekris)                                   |
 | :taiwan: **繁體中文** ([zh_TW](messages/zh_TW.json))             | [Kris](//telegram.me/littlekris)                                   |
 | :tr: **Türkçe** ([tr_TR](messages/tr_TR.json))                  | [EypCnn](//github.com/EypCnn), [Ilker Binzet](//github.com/binzet) |
- > Add yourself here once you submit your translations
+| :saudi_arabia: **اللغة العربية** ([ar_SA](messages/ar_SA.json)) | [Mohammad Fahad](//twitter.com/mohmd1429)                         |
+> Add yourself here once you submit your translations
 
 All translations, except English (en_US) and Italiano (it_IT), are made by volunteers who decided to help.
 More translations and improved translations in any language are gratefully accepted!
