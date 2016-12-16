@@ -6,22 +6,15 @@ _Stay tuned for news and updates on our [Telegram Channel](//telegram.me/ytaudio
 
 YTAudioBot is currently available in the following languages:
 
-| Language | Contributors |
-| :--- | :--- |
-| :us: **English** (en_US) | [Dan](//github.com/delivrance) |
-| :it: **Italiano** (it_IT) | [Dan](//github.com/delivrance) |
-| :es: **Español** (es_ES) | [Gerardo](//github.com/balboag) |
-| :brazil: **Português** (pt_BR) | [Rafael](//github.com/rafaelsturmer) |
-| :israel: **עברית** (he_IL) | [PhantomGitHub](//github.com/PhantomGitHub) |
-| :de: **Deutsch** (de_DE) | [Julian](//github.com/jwsp1), Alex |
-| :finland: **Suomi** (fi_FI) | [Elias](//github.com/theel0ja) |
-| :greece: **Ελληνικά** (el_GR) | [stamsarger](//github.com/stamsarger) |
-| :romania: **Română** (ro_RO) | [NicuG](//telegram.me/nicug) |
-| :uzbekistan: **O'zbek** (Lt_uz_UZ) | [HusanboyBayern](//telegram.me/HusanboyBayern) |
-| :indonesia: **Bahasa Indonesia** (id_ID) | [Aldian Hudaya](//telegram.me/oichidan) |
-| :cn: **中文 (简体)** (zh_CN) | [Kris](//telegram.me/littlekris) |
-| :taiwan: **中文 (繁體)** (zh_TW) | [Kris](//telegram.me/littlekris) |
-| :tr: **Türkçe** (tr_TR) | [EypCnn](//github.com/EypCnn), [Ilker Binzet](//github.com/binzet) |
+| Language | Contributors | Language | Contributors |
+| :--- | :--- | :--- | :--- |
+| :us: **English** (en_US) | [Dan](//github.com/delivrance) | :greece: **Ελληνικά** (el_GR) | [stamsarger](//github.com/stamsarger) |
+| :it: **Italiano** (it_IT) | [Dan](//github.com/delivrance) | :romania: **Română** (ro_RO) | [NicuG](//telegram.me/nicug) |
+| :es: **Español** (es_ES) | [Gerardo](//github.com/balboag) | :uzbekistan: **O'zbek** (Lt_uz_UZ) | [HusanboyBayern](//telegram.me/HusanboyBayern) |
+| :brazil: **Português** (pt_BR) | [Rafael](//github.com/rafaelsturmer) | :indonesia: **Bahasa Indonesia** (id_ID) | [Aldian Hudaya](//telegram.me/oichidan) |
+| :israel: **עברית** (he_IL) | [PhantomGitHub](//github.com/PhantomGitHub) | :cn: **中文 (简体)** (zh_CN) | [Kris](//telegram.me/littlekris) |
+| :de: **Deutsch** (de_DE) | [Julian](//github.com/jwsp1), Alex | :taiwan: **中文 (繁體)** (zh_TW) | [Kris](//telegram.me/littlekris) |
+| :finland: **Suomi** (fi_FI) | [Elias](//github.com/theel0ja) | :tr: **Türkçe** (tr_TR) | [EypCnn](//github.com/EypCnn), [Ilker Binzet](//github.com/binzet) |
 > Add yourself here once you submit your translations
 
 All translations, except English (en_US) and Italiano (it_IT), are made by volunteers who decided to help.
