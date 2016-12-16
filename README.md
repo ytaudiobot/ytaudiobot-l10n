@@ -20,7 +20,7 @@ YTAudioBot is currently available in the following languages:
 | :uzbekistan: **O'zbek** (Lt_uz_UZ)       | [HusanboyBayern](//telegram.me/HusanboyBayern)                     |
 | :indonesia: **Bahasa Indonesia** (id_ID) | [Aldian Hudaya](//telegram.me/oichidan)                            |
 | :cn: **中文 (简体)** (zh_CN)              | [Kris](//telegram.me/littlekris)                                   |
-| :taiwan: **中文 (繁體)**(zh_TW)           | [Kris](//telegram.me/littlekris)                                   |
+| :taiwan: **中文 (繁體)** (zh_TW)          | [Kris](//telegram.me/littlekris)                                   |
 | :tr: **Türkçe** (tr_TR)                  | [EypCnn](//github.com/EypCnn), [Ilker Binzet](//github.com/binzet) |
 > Add yourself here once you submit your translations
 
