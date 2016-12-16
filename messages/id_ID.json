@@ -115,7 +115,7 @@
         [
             "{OPEN_BOOK} *Bantuan (4 dari 4)*\\n\\n",
             "Setelah menerima dan mengunduh, anda dapat menekan pesan audio dan tekan *Simpan ke Musik*/*Save to Music* ",
-            "untuk menyimpan berkas audionya ke folder Musik perangkat anda.\\n\\n"
+            "untuk menyimpan berkas audionya ke folder Musik perangkat anda."
         ]
     ],
     "tips_list": [
@@ -190,7 +190,7 @@
         "*1.* Saya ingin memilih format audionya!\\n",
         "*2.* Apa itu AAC/M4A?\\n",
         "*3.* Video tertentu tidak bekerja!\\n",
-        "*4.* Kenapa berkasnya punya nama-nama aneh?\\n"
+        "*4.* Kenapa berkasnya punya nama-nama aneh?"
     ],
     "contribute": [
         "{PERSON_WITH_FOLDED_HANDS} *Bantu menerjemahkan!*\\n\\n",

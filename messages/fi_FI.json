@@ -115,7 +115,7 @@
         [
             "{OPEN_BOOK} *Ohje (4/4)*\\n\\n",
             "Kun olet saanut ja ladannut sen, voit painaa äänivestiä ja painaa *Tallenna musiikkiin* (*Save to music*) ",
-            "tallentaaksesi äänitiedoston laitteesi musiikkikansioon.\\n\\n"
+            "tallentaaksesi äänitiedoston laitteesi musiikkikansioon."
         ]
     ],
     "tips_list": [
@@ -190,7 +190,7 @@
         "*1.* Haluan valita audioformaatin!\\n",
         "*2.* Mitä AAC/M4A tarkoittavat?\\n",
         "*3.* Jotkin videot eivät toimi!\\n",
-        "*4.* Miksi tiedostoilla on outoja nimiä?\\n"
+        "*4.* Miksi tiedostoilla on outoja nimiä?"
     ],
     "contribute": [
         "{PERSON_WITH_FOLDED_HANDS} *Auta kääntämään*\\n\\n",

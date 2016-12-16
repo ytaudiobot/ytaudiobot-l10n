@@ -115,7 +115,7 @@
         [
             "{OPEN_BOOK} *Help (4 of 4)*\\n\\n",
             "After having received and downloaded it, you can press on the audio message and hit *Save to music* ",
-            "to save the audio file in the Music folder of your device.\\n\\n"
+            "to save the audio file in the Music folder of your device."
         ]
     ],
     "tips_list": [
@@ -190,7 +190,7 @@
         "*1.* I want to choose the audio format!\\n",
         "*2.* What does AAC/M4A mean?\\n",
         "*3.* Some videos don't work!\\n",
-        "*4.* Why do files have strange names?\\n"
+        "*4.* Why do files have strange names?"
     ],
     "contribute": [
         "{PERSON_WITH_FOLDED_HANDS} *Help translate*\\n\\n",

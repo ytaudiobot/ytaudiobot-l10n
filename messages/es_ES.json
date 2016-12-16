@@ -115,7 +115,7 @@
         [
             "{OPEN_BOOK} *Ayuda (4 de 4)*\\n\\n",
             "Tras haberlo recibido y descargado, puedes tocar en el mensaje de audio y elegir *Guardar en música*, ",
-            "para guardar el archivo de audio en el directorio de música de tu dispositivo.\\n\\n"
+            "para guardar el archivo de audio en el directorio de música de tu dispositivo."
         ]
     ],
     "tips_list": [
@@ -135,7 +135,7 @@
         "siempre contigo.*"
     ],
     "feedback": [
-        "{SPEECH_BALLOON} *Comentarios*\\n\\n",
+        "{SPEECH_BALLOON} *Feedback*\\n\\n",
         "¡Hola, {name}! ¿Te gusta YTAudioBot?"
     ],
     "about": [
@@ -150,10 +150,10 @@
     ],
     "settings": [
         "{GEAR} *Ajustes*\\n\\n",
-        "{NEWSPAPER} *Acerca de* - Información del bot\\n",
+        "{NEWSPAPER} *Acerca de* - Info. sobre el bot\\n",
         "{BAR_CHART} *FAQ* - Preguntas frecuentes\\n",
-        "{GLOBE_WITH_MERIDIANS} *Idioma* - Cambiar el idioma\\n",
-        "{SPEECH_BALLOON} *Comentarios* - Enviar comentarios"
+        "{GLOBE_WITH_MERIDIANS} *Idioma* - Cambiar idioma\\n",
+        "{SPEECH_BALLOON} *Feedback* - Enviar comentarios"
     ],
     "faq_list": [
         [
@@ -190,18 +190,18 @@
         "*1.* ¡Quiero elegir el formato de audio!\\n",
         "*2.* ¿Qué significa AAC/M4A?\\n",
         "*3.* ¡Algunos vídeos no funcionan!\\n",
-        "*4.* ¿Por qué los archivos tienen nombres raros?\\n"
+        "*4.* ¿Por qué los archivos tienen nombres raros?"
     ],
     "contribute": [
         "{PERSON_WITH_FOLDED_HANDS} *Ayudar a traducir*\\n\\n",
-        "¡{name}! Si quieres que @YTAudioBot hable tu idioma o quieres mejorar una traducción existente, ¡puedes ayudarnos!\\n\\n",
-        "Hemos elaborado una guía para esto, [aquí](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
-        "Se requiere conocimiento del idioma inglés.\\n\\n",
-        "¡Cada nuevo idioma y propuesta de mejora es bienvenida! ¡Únete a nosotros, toda ayuda es aceptada con gratitud!"
+        "¡{name}! Si quieres que @YTAudioBot hable en tu idioma, o quieres mejorar una traducción existente, ¡puedes ayudarnos!\\n\\n",
+        "Hemos elaborado una guía sólo para esto, [aquí](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
+        "Se requiere tener conocimiento del idioma inglés.\\n\\n",
+        "¡Nuevos idiomas y mejoras son bienvenidas! ¡Únete a nosotros, se agradece toda ayuda!"
     ],
     "contributors": [
-        "{BUSTS_IN_SILHOUETTE} *Colaboradores*\\n\\n",
-        "{HEAVY_BLACK_HEART} Nos gustaría agradecer a los siguientes traductores:\\n\\n",
+        "{BUSTS_IN_SILHOUETTE} *Contribuidores*\\n\\n",
+        "{HEAVY_BLACK_HEART} Queremos agradecer a los siguientes traductores:\\n\\n",
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
@@ -251,7 +251,7 @@
     "like_button": "{THUMBS_UP_SIGN} ¡Me gusta!",
     "not_really_button": "{THINKING_FACE} No mucho",
     "send_feedback_button": "{MEMO} Enviar comentarios",
-    "feedback_button": "{SPEECH_BALLOON} Comentarios",
+    "feedback_button": "{SPEECH_BALLOON} Feedback",
     "settings_button": "{GEAR} Ajustes",
     "select_language_button": "{GLOBE_WITH_MERIDIANS} Idioma",
     "help_button": "{OPEN_BOOK} Ayuda",
@@ -277,7 +277,7 @@
     "clear_all_button": "{WASTEBASKET} Borrar todo",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Pausar",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Reanudar",
-    "contribute_button": "{PERSON_WITH_FOLDED_HANDS} Colaborar",
-    "contributors_button": "{BUSTS_IN_SILHOUETTE} Colaboradores",
+    "contribute_button": "{PERSON_WITH_FOLDED_HANDS} Contribuir",
+    "contributors_button": "{BUSTS_IN_SILHOUETTE} Contribuidores",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Abrir proyecto"
 }
