@@ -115,7 +115,7 @@
         [
             "{OPEN_BOOK} *Yardım (4 of 4)*\\n\\n",
             "Alınır ve indirildikten sonra, sesli mesaja basabilir ve *Kaydetme tuşuna basabilirsiniz* ",
-            "Ses Dosyasını Müzik Klasörüne Kaydetmek İçin.\\n\\n"
+            "Ses Dosyasını Müzik Klasörüne Kaydetmek İçin."
         ]
     ],
     "tips_list": [
@@ -189,7 +189,7 @@
         "*1.* Ses formatı seçmek istiyorum!\\n",
         "*2.* AAC / M4A ne anlama gelir?\\n",
         "*3.* Bazı videolar çalışmıyor!\\n",
-        "*4.*Dosyalarda neden garip isimler var?\\n"
+        "*4.* Dosyalarda neden garip isimler var?\\n"
     ],
     "contribute": [
         "{PERSON_WITH_FOLDED_HANDS} *Tercüme et*\\n\\n",

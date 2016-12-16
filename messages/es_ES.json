@@ -115,7 +115,7 @@
         [
             "{OPEN_BOOK} *Ayuda (4 de 4)*\\n\\n",
             "Tras haberlo recibido y descargado, puedes tocar en el mensaje de audio y elegir *Guardar en música*, ",
-            "para guardar el archivo de audio en el directorio de música de tu dispositivo.\\n\\n"
+            "para guardar el archivo de audio en el directorio de música de tu dispositivo."
         ]
     ],
     "tips_list": [
@@ -190,7 +190,7 @@
         "*1.* ¡Quiero elegir el formato de audio!\\n",
         "*2.* ¿Qué significa AAC/M4A?\\n",
         "*3.* ¡Algunos vídeos no funcionan!\\n",
-        "*4.* ¿Por qué los archivos tienen nombres raros?\\n"
+        "*4.* ¿Por qué los archivos tienen nombres raros?"
     ],
     "contribute": [
         "{PERSON_WITH_FOLDED_HANDS} *Ayudar a traducir*\\n\\n",

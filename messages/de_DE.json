@@ -115,7 +115,7 @@
         [
             "{OPEN_BOOK} *Hilfe (4 von 4)*\\n\\n",
             "Nachdem du die Audiodatei erhalten und heruntergeladen hast, kannst du auf *Musik speichern* drücken, ",
-            "um die Audiodatei in dem Musik-Verzeichnis deines Handys zu speichern.\\n\\n"
+            "um die Audiodatei in dem Musik-Verzeichnis deines Handys zu speichern."
         ]
     ],
     "tips_list": [
@@ -190,7 +190,7 @@
         "*1.* Ich möchte gern das Audio-Format auswählen!\\n",
         "*2.* Was heißt AAC/M4A?\\n",
         "*3.* Manche Videos funktionieren nicht!\\n",
-        "*4.* Warum haben die Dateien komische Namen?\\n"
+        "*4.* Warum haben die Dateien komische Namen?"
     ],
     "contribute": [
         "{PERSON_WITH_FOLDED_HANDS} *Helfe, den Bot zu übersetzen*\\n\\n",

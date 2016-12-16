@@ -115,7 +115,7 @@
         [
             "{OPEN_BOOK} *Ajuda (4 de 4)*\\n\\n",
             "Após recebido e baixado o áudio, você pode pressionar a mensagem do áudio e clicar em *Salvar em músicas* ",
-            "para salvar o áudio na pasta de músicas de seu aparelho.\\n\\n"
+            "para salvar o áudio na pasta de músicas de seu aparelho."
         ]
     ],
     "tips_list": [
@@ -190,7 +190,7 @@
         "*1.* Eu quero alterar o formato do áudio!\\n",
         "*2.* O que AAC/M4A significa?\\n",
         "*3.* Alguns vídeos não funcionam!\\n",
-        "*4.* Porque os arquivos tem nomes estranhos?\\n"
+        "*4.* Porque os arquivos tem nomes estranhos?"
     ],
     "contribute": null,
     "contributors": null,

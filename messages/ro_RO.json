@@ -115,7 +115,7 @@
         [
             "{OPEN_BOOK} *Ajutor (4 din 4)*\\n\\n",
             "După ce l-ai primit și descărcat, poți apăsa mesajul audio, iar apoi butonul *Save to music* ",
-            "pentru a salva fișierul audio în folderul Muzică din dispozitivul tău.\\n\\n"
+            "pentru a salva fișierul audio în folderul Muzică din dispozitivul tău."
         ]
     ],
     "tips_list": [
@@ -190,7 +190,7 @@
         "*1.* Vreau să aleg formatul audio!\\n",
         "*2.* Ce înseamnă AAC/M4A?\\n",
         "*3.* Unele clip-uri nu funcționează!\\n",
-        "*4.* De ce au fișierele nume străine?\\n"
+        "*4.* De ce au fișierele nume străine?"
     ],
     "contribute": null,
     "contributors": null,
