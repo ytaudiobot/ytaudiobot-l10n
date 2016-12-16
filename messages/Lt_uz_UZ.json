@@ -266,7 +266,7 @@
     "clear_all_button": "{WASTEBASKET} Barchasini tozalash",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Pausa",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Davom etish",
-    "contribute_button": "Hissa qo'shish",
-    "contributors_button": "Tarjimonlar",
+    "contribute_button": "{PERSON_WITH_FOLDED_HANDS} Hissa qo'shish",
+    "contributors_button": "{BUSTS_IN_SILHOUETTE} Tarjimonlar",
     "open_project_button": null
 }
