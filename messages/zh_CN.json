@@ -15,7 +15,7 @@
     ],
     "clear_history_confirmation": [
         "{WASTEBASKET} *清空所有下载历史*\\n\\n",
-        "你确定要清空所有下载历史吗？ *你可以撤销此操作。*"
+        "你确定要清空所有下载历史吗？ *此操作不可撤销。*"
     ],
     "added_seconds_ago": "{0 秒|1 秒|# 秒}前添加的",
     "added_minutes_ago": "{0 分钟|1 分钟|# 分钟} 前添加的",
@@ -26,23 +26,23 @@
     "added_years_ago": "、{0 年|1年|# 年} 前添加的",
     "item_removed": "{CROSS_MARK} 条目已删除",
     "item_restored": "{HEAVY_PLUS_SIGN} 条目已还原",
-    "download_history_paused": "{BALLOT_BOX_WITH_CHECK} 暂停下载的条目",
-    "download_history_resumed": "{WHITE_HEAVY_CHECK_MARK} 正在下载的条目",
+    "download_history_paused": "{BALLOT_BOX_WITH_CHECK} 暂停下载任务",
+    "download_history_resumed": "{WHITE_HEAVY_CHECK_MARK} 继续下载任务",
     "download_history_cleared": "{WASTEBASKET} 已删除的条目",
     "file_expired": [
         "{WARNING_SIGN} *文件已过期*\\n\\n",
         "点击{command}重新下载。"
     ],
-    "more_info": "{PAGE_WITH_CURL} 更多信息",
-    "video_id": "{SMALL_ORANGE_DIAMOND} 视频编号",
+    "more_info": "{PAGE_WITH_CURL} 详细信息",
+    "video_id": "{SMALL_ORANGE_DIAMOND} 视频ID",
     "duration": "{SMALL_ORANGE_DIAMOND} 时间长度",
     "size": "{SMALL_ORANGE_DIAMOND} 文件大小",
-    "listen_on_youtube": "{LINK_SYMBOL} 打开YouTube播放",
+    "listen_on_youtube": "{LINK_SYMBOL} 在YouTube中播放",
     "like": [
         "{SPARKLES} *多谢，{name}!*\\n\\n",
         "很高兴你喜欢我们的工作\\n\\n",
-        "你可以评论这个机器人\\n",
-        "并且给予我们5星{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}点击这里：\\n",
+        "你可以评论这个机器人并且给予\\n",
+        "我们5星{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}点击这里：\\n",
         "https://telegram.me/storebot?start=YTAudioBot"
     ],
     "no_like": [
@@ -57,9 +57,9 @@
     "rate_later": "{HOURGLASS} *好的，我会晚点再提醒你*",
     "rate_never": "{PILE_OF_POO} *对不起，我不会再打扰你了*",
     "send_feedback": [
-        "{MEMO} *发送回馈*\\n\\n",
+        "{MEMO} *发送反馈*\\n\\n",
         "你可以为这个机器人提供一些建议、反馈Bugs或者与开发者讨论",
-        "(请使用英语或意大利语，谢谢)."
+        "(请使用英语或意大利语，谢谢)。"
     ],
     "sending_feedback_enabled": "{MEMO} 请输入你的反馈信息",
     "feedback_sent": "{HEAVY_CHECK_MARK} *你的反馈信息已经发送了，谢谢！*",
@@ -101,16 +101,16 @@
         [
             "{OPEN_BOOK} *帮助手册 (2 of 4)*\\n\\n",
             "有许多方法获得视频链接，例如你可以：\\n\\n",
-            "— 在YouTube应用中点击分享\\n",
-            "— 使用Telegram的内嵌机器人@vid或者@youtube。\\n",
+            "— 在YouTube应用中点击分享按钮\\n",
+            "— 使用Telegram的内联机器人 @vid或者 @youtube。\\n",
             "— 从你的浏览器中复制并粘贴"
         ],
         [
             "{OPEN_BOOK} *帮助手册 (3 of 4)*\\n\\n",
             "当你已经获得视频链接，请发送给我\\n\\n",
-            "如果这个视频曾经被其他人下载过，我会立即发送给你",
-            "否则 {INBOX_TRAY} *下载* 会出现。点击下载按钮，",
-            "你要想的音频文件，会在短时间内处理完。"
+            "如果这个视频曾经被其他人下载过，我会立即转发给你。",
+            "如果没有， {INBOX_TRAY} *下载* 按钮会出现。点击下载按钮，",
+            "我们会短时间内处理好你的下载请求，并将音频文件发送给你。"
         ],
         [
             "{OPEN_BOOK} *帮助手册 (4 of 4)*\\n\\n",
@@ -126,7 +126,7 @@
         ],
         [
             "{ELECTRIC_LIGHT_BULB} *提示 (2 of 2)*\\n\\n",
-            "加入@YTAudio 频道获取最新的消息和机器人更新日志！"
+            "加入 @YTAudio 频道获取最新的消息和机器人更新日志！"
         ]
     ],
     "hi": "{SPARKLES} *你好，{name}!*",
@@ -160,17 +160,17 @@
             "{BAR_CHART} *常见问题*\\n\\n",
             "`Q:` *1.我可以选择音频文件的格式吗？*\\n",
             "`A:` 我们十分在意音频文件音质、服务器性能和可靠性。为了能够",
-            "将YouTube上的视频文件高速转换为高音质音频文件，我们只发送包",
-            "含在MPEG-4 Part 14 (MP4)内使用AAC 128k 编码的M4A格式的",
-            "音频文件，并且这些M4A音频文件包含有iTunes的标签信息。但将来",
-            "你将可以选择导出不同的音频文件格式。"
+            "将YouTube上的视频文件高速转换为高音质音频文件，我们只发送使",
+            "用AAC 128k 编码的以MPEG-4 Part 14 (MP4)为容器的M4A格式的",
+            "音频文件，并且这些M4A音频文件包含有iTunes的标签信息。但未来",
+            "我们会提供导出不同的音频文件格式的服务。"
         ],
         [
             "{BAR_CHART} *常见问题*\\n\\n",
             "`Q:` *2. 什么是AAC/M4A？*\\n",
-            "`A:` AAC是一种设计替代MP3格式下一代音频文件的编码方式，",
-            "在与MP3格式保持相近比特率的同时拥有更高的音质。M4A是一",
-            "种文件扩展，包含有以AAC编码的音频文件和音频文件的标签。"
+            "`A:` AAC是一种比MP3格式更高阶的音频编码方式，",
+            "在与MP3格式保持相近比特率的同时拥有更高的音质。M4A是",
+            "AAC编码的一种文件格式，包含有以AAC编码的音频文件和音频文件的标签。"
         ],
         [
             "{BAR_CHART} *常见问题*\\n\\n",
@@ -196,8 +196,8 @@
     "contribute": [
         "{PERSON_WITH_FOLDED_HANDS} *帮助翻译*\\n\\n",
         "{name}！如果你希望 @YTAudioBot 使用你的语言或者改进现有的语言，请帮助我们吧！\\n\\n",
-        "我们写了一份帮助你参与翻译的文档 [这里](https://github.com/ytaudiobot/ytaudiobot-l10n)。 ",
-        "你需要有英语的知识\\n\\n",
+        "我们写了一份帮助你参与翻译的文档在 [这里](https://github.com/ytaudiobot/ytaudiobot-l10n)。 ",
+        "此工作要求你拥有一点英语的知识\\n\\n",
         "我们欢迎任何的语言和改进，请加入我们，我们衷心感谢你的任何帮助！"
     ],
     "contributors": [
@@ -250,7 +250,7 @@
     "send_to_button": "{OUTBOX_TRAY} 发送给...",
     "faq_button": "{BAR_CHART} 常见问题",
     "like_button": "{THUMBS_UP_SIGN} 我喜欢这个机器人",
-    "not_really_button": "{THINKING_FACE} 并不太喜欢",
+    "not_really_button": "{THINKING_FACE} 还不够好",
     "send_feedback_button": "{MEMO} 发送反馈",
     "feedback_button": "{SPEECH_BALLOON} 反馈",
     "settings_button": "{GEAR} 设置",
@@ -262,7 +262,7 @@
     "next_button": "下一步 »",
     "cancel_button": "{CROSS_MARK} 取消",
     "download_button": "{INBOX_TRAY} 下载",
-    "how_it_works_button": "{BLACK_QUESTION_MARK_ORNAMENT} 如何工作",
+    "how_it_works_button": "{BLACK_QUESTION_MARK_ORNAMENT} 如何开始",
     "rate_now_button": "{WHITE_MEDIUM_STAR} 现在评论",
     "later_button": "{HOURGLASS} 以后提醒",
     "no_thanks_button": "{PILE_OF_POO} 不了，谢谢",

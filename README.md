@@ -18,8 +18,9 @@ YTAudioBot is currently available in the following languages:
 | :greece: Ελληνικά (el_GR)            | [stamsarger](//github.com/stamsarger)               |
 | :romania: Română (ro_RO)             | [NicuG](//telegram.me/nicug)                        |
 | :uzbekistan: O'zbek (Lt_uz_UZ)       | [HusanboyBayern](//telegram.me/HusanboyBayern)      |
-| :indonesia: Bahasa Indonesia (id_ID) | [Aldian Hudaya](//telegram.me/oichidan)             |
-| :cn: Chinese (zh_Cn)                 | [Kris](//telegram.me/littlekris)                    |
+| :indonesia: Bahasa Indonesia (id_ID) | [Aldian Hudaya](//telegram.me/oichidan)             |
+| :cn: 简体中文(zh_CN)                 | [Kris](//telegram.me/littlekris)                    |
+| :cn: 繁體中文(zh_TW)                 | [Kris](//telegram.me/littlekris)                    |
 > Add yourself here once you submit your translations
 
 All translations, except English (en_US) and Italiano (it_IT), are made by volunteers who decided to help.
