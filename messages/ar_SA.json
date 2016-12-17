@@ -1,0 +1,282 @@
+{
+    "position": "14",
+    "description": [
+        "تحميل مقاطع اليوتيوب كملفات صوتية لأخذها اينما ذهبت !\\n\\n",
+        "مماثل ل: @YTAudio_Bot"
+    ],
+    "type_search_terms": "{MEMO} اكتب عبارات بحثك",
+    "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} بحث \\\"{terms}\\\" في اليوتيوب",
+    "error": "{PENSIVE_FACE} حدث خطأ. حاول مرة اخرى لاحقاً.",
+    "longer_download_time": "{WARNING_SIGN} *هذا الفيديو من الممكن ان يأخذ وقت اطول من العتاد. وربما يفشل تحميله!*",
+    "clear_history_warning": "{WARNING_SIGN} انت على وشك حذف جميع المحفوظات!",
+    "history_settings": [
+        "{HOURGLASS} *تاريخ المحفوظات*\\n\\n",
+        "{لا يوجد عناصر|يوجد عنصر واحد فقط|يوجد عدد  # عنصر} في تاريخ محفوظاتك."
+    ],
+    "clear_history_confirmation": [
+        "{WASTEBASKET} *حذف جميع المحفوظات*\\n\\n",
+        "هل انت متأكد من انك تريد حذف جميع محفوظاتك *لا يمكن التراجع عن هذه الخطوة.*"
+    ],
+    "added_seconds_ago": "أضيف قبل {0 ثانية | ثانية | # ثواني}.",
+    "added_minutes_ago": "أضيف قبل {0 دقيقة | دقيقة | # دقائق}.",
+    "added_hours_ago": "أضيف قبل {0 ساعة | ساعة | # ساعات}.",
+    "added_days_ago": "أضيف قبل {0 يوم | يوم | # ايام}.",
+    "added_weeks_ago": "أضيف قبل {0 اسبوع | اسوبع | # اسابيع}.",
+    "added_months_ago": "اضيف قبل {0 اشهر|شهر|# شهر}.",
+    "added_years_ago": "أضيف قبل {0 سنة | سنة | # سنين}.",
+    "item_removed": "{CROSS_MARK} تم حذف الملف",
+    "item_restored": "{HEAVY_PLUS_SIGN} تم استعادة الملف",
+    "download_history_paused": "{BALLOT_BOX_WITH_CHECK} ايقاف تاريخ المحفوظات مؤقتاً",
+    "download_history_resumed": "{WHITE_HEAVY_CHECK_MARK} استئناف تاريخ المحفوظات",
+    "download_history_cleared": "{WASTEBASKET} تم محو جميع المحفوظات",
+    "file_expired": [
+        "{WARNING_SIGN} *انتهت صلاحية الملف*\\n\\n",
+        "اضغط على {command} لإعادة التحميل مجدداً."
+    ],
+    "more_info": "{PAGE_WITH_CURL} مزيد من المعلومات",
+    "video_id": "{SMALL_ORANGE_DIAMOND} معرف الفيديو في يوتيوب",
+    "duration": "{SMALL_ORANGE_DIAMOND} المدة",
+    "size": "{SMALL_ORANGE_DIAMOND} الحجم",
+    "listen_on_youtube": "{LINK_SYMBOL} استمع في يوتيوب",
+    "like": [
+        "{SPARKLES} *شكراً, {name}!*\\n\\n",
+        "اننا سعداء لإعجابكم.\\n\\n",
+        "يمكنك تقييم البوت واعطائنا\\n",
+        "5 نجمات {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} هنا:\\n",
+        "https://telegram.me/storebot?start=YTAudioBot"
+    ],
+    "no_like": [
+        "{PENSIVE_FACE} *نعتذر منكم لسماع هذا, {name}.*\\n\\n",
+        "هل واجهت مشكلة في هذا البوت؟ اخبرنا رجاءً (باللغة الانجليزية او الايطالية):"
+    ],
+    "rating_message": [
+        "{WHITE_MEDIUM_STAR} *تقييم YTAudioBot*\\n\\n",
+        "{name}, هل يعجبك البوت؟\\n",
+        "اعطنا من وقتك القليل وقيّمنا في StoreBot."
+    ],
+    "rate_later": "{HOURGLASS} *حسنا، سوف أسألك في وقت آخر!*",
+    "rate_never": "{PILE_OF_POO} *حسناً، لن اسألك ابداً.*",
+    "send_feedback": [
+        "{MEMO} *ارسل ملاحظاتك وتعليقاتك*\\n\\n",
+        "يمكنك اقتراح تغييرات أو تحسينات على البوت، الإبلاغ عن أخطاء، أو إرسال تعليق إلى المنشئين",
+        "(باللغة الانجليزية او الايطالية)."
+    ],
+    "sending_feedback_enabled": "{MEMO} اكتب ملاحظاتك اوتعليقاتك",
+    "feedback_sent": "{HEAVY_CHECK_MARK} *تم ارسال ملاحظاتك. شكراً لك!*",
+    "showing_trending_results": "{FIRE} *عرض النتائج الأكثر رواجا*\\n\\n",
+    "showing_youtube_results": "{RIGHT_POINTING_MAGNIFYING_GLASS} *نتائج بحث اليوتيوب ل \\\"*{terms}*\\\"*\\n\\n",
+    "flood_wait": "{WARNING_SIGN} *ليس بهذه السرعة! انتظر {0 ثانية | ثانية | # ثواني} ثم اعد المحاولة.*",
+    "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} *جاري البحث عن \\\"*{terms}*\\\"...*",
+    "video_not_available": "{PENSIVE_FACE} *عذرا، هذا الفيديو غير متاح في الوقت الحالي. حاول مرة أخرى في وقت لاحق.*",
+    "size_limit_exceeded": "{PENSIVE_FACE} *عذرا، يتجاوز هذا الفيديو الحد الأقصى للحجم. أعد المحاولة مع فيديو آخر.*",
+    "api_error": "{PENSIVE_FACE} *عذرا، العملية المطلوبة لا يمكن تنفيذها حالياً. حاول مرة أخرى لاحقاً.*",
+    "select_language": [
+        "{GLOBE_WITH_MERIDIANS} *اللغة*\\n\\n",
+        "اختر اللغة."
+    ],
+    "language_selected": "{HEAVY_CHECK_MARK} تم ضبط اللغة لـ {FLAG_FOR_SAUDI_ARABIA} اللغة العربية.",
+    "same_language_selected": "{THINKING_FACE} لغة البوت هي بالفعل {FLAG_FOR_SAUDI_ARABIA} اللغة العربية",
+    "video_processing_in_progress": "{CLOCKWISE_DOWNWARDS_AND_UPWARDS_OPEN_CIRCLE_ARROWS} *جار معالجة الفيديو...*",
+    "download_canceled": [
+        "{CROSS_MARK} *تم الغاء التحميل.\\n",
+        "اضغط *{command}* للتحميل مجدداً.*"
+    ],
+    "download_error": [
+        "{PENSIVE_FACE} * عذراً، حدث خطأ غير متوقع.\\n",
+        "اعادة المحاولة: *{command}*.*"
+    ],
+    "download_timeout": [
+        "{WARNING_SIGN} *التحميل سيتغرق أكثر من 60 ثانية.\\n",
+        "يمكنك طلب فيديو آخر، سيتم ارسال هذا الفيديو حالماً يجهز!*"
+    ],
+    "download_successful": "{HEAVY_CHECK_MARK} *تم تحميل الملف الصوتي!*",
+    "wait_previous_download": "{WARNING_SIGN} انتظر التحميل السابق!",
+    "download_queue_full": "{WARNING_SIGN} قائمة انتظار التحميل ممتلئة، حاول لاحقاً.",
+    "help_pages_list": [
+        [
+            "{OPEN_BOOK} *التعليمات (1 من 4)*\\n\\n",
+            "الشيء الوحيد الذي تحتاجه هو رابط مقطع اليوتيوب الذي تريد استخراج الصوت منه، مثل هذا:\\n\\n",
+            "— https://youtu.be/SMWi7CLoZ2Q."
+        ],
+        [
+            "{OPEN_BOOK} * التعليمات (2 من 4)*\\n\\n",
+            "هناك عدة طرق للحصول على رابط المقطع. فعلى سبيل المثال::\\n\\n",
+            "— يمكنك استخدام زر المشاركة من تطبيق اليوتيوب.\\n",
+            "— يمكنك كذلك استخدام بوتات التيليقرام الداخلية بكتابة @vid او @youtube داخل مربع الكتابة.\\n",
+            "— نسخ / لصق الرابط من المتصفح."
+        ],
+        [
+            "{OPEN_BOOK} *التعليمات (3 من 4)*\\n\\n",
+            "بمجرد ان تجد الرابط، ارسله لي.\\n\\n",
+            "اذا كان الفيديو قد تحميله وتحويله مسبقاً من قبل شخص اخر، سيتم ارساله لك مباشرة, ",
+            "وإلا فإنه سيظهر زر {INBOX_TRAY} * تحميل *.اضغطه، وسوف يتم تحويل المقطع وارساله كملف صوتي لك",
+            "بعد فتره وجيزه."
+        ],
+        [
+            "{OPEN_BOOK} *التعليمات (4 من 4)*\\n\\n",
+            "بعد ان تحمّل الملف الصوتي، يمكنك الدخول إليه واختيار * حفظ إلى الموسيقى *.",
+            "لحفظ الملف في مجلد الصوتيات في جهازك، يمكنك ايضا مشاركته لأي تطبيق آخر."
+        ]
+    ],
+    "tips_list": [
+        [
+            "{ELECTRIC_LIGHT_BULB} *نصائح (1 من 2)*\\n\\n",
+            "يمكنك ايضا ارسال رابط اليوتيوب على هذا الشكل:\\n\\n",
+            "— `SMWi7CLoZ2Q`."
+        ],
+        [
+            "{ELECTRIC_LIGHT_BULB} *نصائح (2 من 2)*\\n\\n",
+            "انضم إلى قناة @YTAudio لتحصل على آخر اخبار بوت وتحديثاته!"
+        ]
+    ],
+    "hi": "{SPARKLES} *أهلاً بك, {name}!*",
+    "presentation": [
+        "*مع *[YTAudioBot](https://ytaudiobot.ml)*, يمكنك تحميل مقاطع اليوتيوب كملفات صوتية فقط",
+        "لتأخذها معك لأي مكان.*"
+    ],
+    "feedback": [
+        "{SPEECH_BALLOON} * ملاحظاتك وتعليقاتك*\\n\\n",
+        "اهلاً, {name}! هل يعجبك YTAudioBot؟"
+    ],
+    "about": [
+        "{NEWSPAPER} *حول*\\n\\n",
+        "*YTAudioBot للتليقرام*\\n",
+        "{version} _{month} {day}, {year}_\\n\\n",
+        "{PUBLIC_ADDRESS_LOUDSPEAKER} *Channel* - @YTAudio\\n",
+        "{LINK_SYMBOL} *الموقع الالكتروني* - https://ytaudiobot.ml\\n",
+        "{ENVELOPE} *البريد الالكتروني* - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
+        "{EYE} *تقييمنا هو* - {WHITE_MEDIUM_STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
+        "{BUST_IN_SILHOUETTE} [{reviews_n}](https://storebot.me/bot/ytaudiobot)"
+    ],
+    "settings": [
+        "{GEAR} *الإعدادات*\\n\\n",
+        "{NEWSPAPER} *حول* - Info about the bot\\n",
+        "{BAR_CHART} *الأسئلة المتكررة* - الأسئلة المتكررة\\n",
+        "{GLOBE_WITH_MERIDIANS} *اللغة* - تغيير اللغة\\n",
+        "{SPEECH_BALLOON} * الملاحظات والتعليقات* - ارسل ملاحظاتك او تعليقاتك"
+    ],
+    "faq_list": [
+        [
+            "{BAR_CHART} *الأسئلة المتكررة*\\n\\n",
+            "`س:` *1. أريد أن اختيار صيغة الصوت!*\\n",
+            "`ج:` نحن نركز على الجودة والأداء وقابلية الاتسخدام والسهولة. ",
+            "ولتحقيق اسرع تحويل ملفات صوتية في أعلى جودة على اليوتيوب نحن نرسل لك ملف بالترميز ",
+            "AAC 128k داخل ملف MPEG-4 part 14 (باستخدام الحاوية MP4) مع امتداد M4A ذات كلمات دلالية مع معلومات للآيتيونز. ",
+            "قد يتغير هذا الاختيار في المستقبل."
+        ],
+        [
+            "{BAR_CHART} *الأسئلة المتكررة*\\n\\n",
+            "`س:` *2. ماذا يعني AAC / M4A?*\\n",
+            "`ج:` AAC هو نوع من انواع ترميز الصوت صُمم ليكون بديلاً عن ترميز MP3 ويحقق بشكل عام ",
+            "جودة صوت أفضل من MP3 بمعدلات بت مشابهة. M4A هو امتداد الملف، المعروف أيضا باسم الحاوية",
+            "لكل من، ترميز AAC الصوتي ويضاً علامة امتداد الملف الصوتي نفسه"
+        ],
+        [
+            "{BAR_CHART} *الأسئلة المتكررة*\\n\\n",
+            "`س:` *3. بعض الفيديوات لا تعمل!*\\n",
+            "`ج:` بعض الفيديوات قد لا تعمل بسبب قيود اليوتيوب لتوفير المحتوى في بعض البلدان، والتي قد لا يستطيع مقر مركز البيانات الخاص بنا الحصول عليها بسبب موقعه، ايضا البوت يستطيع حاليًا ارسال ملف صوتي حتى حجم 50 ميقابايت، هذا الحد يمكن ان يتغير في المستقبل"
+        ],
+        [
+            "{BAR_CHART} *الأسئلة المتكررة*\\n\\n",
+            "`س:` *4. لماذا بعض الملفات اسماؤها غريبة؟*\\n",
+            "`ج:` يتم حفظ الملفات كـ `العنوان - فلان الفلاني.m4a`, ولكن `العنوان` قد لا يكون صحيح 100% من اسم المقطع ",
+            "نظرا لبعض أحرف غير صالحة. هذه ليست عادةً مشكلة، لأن كل المعلومات الصحيحة عن",
+            "الفيديو تم تضمينها في الكلمات دلالية للملف الصوتي"
+        ]
+    ],
+    "faq": [
+        "{BAR_CHART} *الأسئلة المتكررة*\\n\\n",
+        "*1.* أريد أن اختيار صيغة الصوت!\\n",
+        "*2.* ماذا يعني AAC / M4A؟\\n",
+        "*3.* بعض الفيديوات لا تعمل!\\n",
+        "*4.* لماذا بعض الملفات اسماؤها غريبة؟"
+    ],
+    "contribute": [
+        "{PERSON_WITH_FOLDED_HANDS} *المساعدة في الترجمة*\\n\\n",
+        "{name}! اذا كنت تريد @YTAudioBot لتتحدث لغتك او ترغب في تحسين هذه الترجمة, تستطيع خدمتنا وسنكون ممتنين!\\n\\n",
+        "في الحقيقة لقد أنشأنا دليل خاص لأجل هذا, [هنا](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
+        "يجب ان تكون ملم باللغة الانجليزية.\\n\\n",
+        "نحن نرحب باللغات الجديدة اوالتحسينات! لا تتردد في الانضمام إلينا، يتم قبول كل مساعدة بامتنان!"
+    ],
+    "contributors": [
+        "{BUSTS_IN_SILHOUETTE} *المساهمين*\\n\\n",
+        "{HEAVY_BLACK_HEART} نود أن نشكر بحرارة المساهمين في الترجمة:\\n\\n",
+        "{contributors}\\n\\n",
+        "— @YTAudioBot"
+    ],
+    "months_names": [
+        [
+            "يناير"
+        ],
+        [
+            "فبراير"
+        ],
+        [
+            "مارس"
+        ],
+        [
+            "ابريل"
+        ],
+        [
+            "مايو"
+        ],
+        [
+            "يونيو"
+        ],
+        [
+            "يوليو"
+        ],
+        [
+            "أغسطس"
+        ],
+        [
+            "سبتمبر"
+        ],
+        [
+            "أكتوبر"
+        ],
+        [
+            "نوفمبر"
+        ],
+        [
+            "ديسمبر"
+        ]
+    ],
+    "start_button": "{CHEQUERED_FLAG} إبدأ",
+    "language_button": "{FLAG_FOR_SAUDI_ARABIA} اللغة العربية",
+    "more_info_button": "{PAGE_WITH_CURL} مزيد من المعلومات",
+    "send_to_button": "{OUTBOX_TRAY} إرسال إلى...",
+    "faq_button": "{BAR_CHART} الأسئلة المتكررة",
+    "like_button": "{THUMBS_UP_SIGN} بالتأكيد!",
+    "not_really_button": "{THINKING_FACE} ليس تماما",
+    "send_feedback_button": "{MEMO} ارسل تعليقاتك وملاحظاتك",
+    "feedback_button": "{SPEECH_BALLOON} التعليقات او الملاحظات",
+    "settings_button": "{GEAR} الإعدادات",
+    "select_language_button": "{GLOBE_WITH_MERIDIANS} اللغة",
+    "help_button": "{OPEN_BOOK} التعليمات",
+    "about_button": "{NEWSPAPER} حول",
+    "previous_button": "« السابق",
+    "back_button": "« عودة",
+    "next_button": "التالي »",
+    "cancel_button": "{CROSS_MARK} إلغاء",
+    "download_button": "{INBOX_TRAY} تحميل",
+    "how_it_works_button": "{BLACK_QUESTION_MARK_ORNAMENT} كيف يعمل",
+    "rate_now_button": "{WHITE_MEDIUM_STAR} قيّمنا الآن",
+    "later_button": "{HOURGLASS} لاحقاً",
+    "no_thanks_button": "{PILE_OF_POO} لا، شكراً",
+    "channel_button": "{PUBLIC_ADDRESS_LOUDSPEAKER} القناة",
+    "website_button": "{LINK_SYMBOL} الموقع",
+    "email_button": "{ENVELOPE} البريد الاكتروني",
+    "ratings_button": "{EYE} التقييم",
+    "help_translate_button": "{PERSON_WITH_FOLDED_HANDS} ساعدنا على الترجمة",
+    "history_button": "{HOURGLASS} التاريخ",
+    "remove_button": "{CROSS_MARK} حذف",
+    "restore_button": "{HEAVY_PLUS_SIGN} استعادة",
+    "view_button": "{EYE} مشاهدة",
+    "clear_all_button": "{WASTEBASKET} حذف الكل",
+    "pause_button": "{BALLOT_BOX_WITH_CHECK} ايقاف مؤقت",
+    "resume_button": "{WHITE_HEAVY_CHECK_MARK} استئناف",
+    "contribute_button": "{PERSON_WITH_FOLDED_HANDS} ساهم",
+    "contributors_button": "{BUSTS_IN_SILHOUETTE} المساهمون",
+    "open_project_button": "{CARD_INDEX_DIVIDERS} فتح مشروع"
+}
