@@ -159,29 +159,29 @@
     "faq_list": [
         [
             "{BAR_CHART} *Sık sorulan Sorular*\\n\\n",
-            "`Q:` *1.Ses formatı seçmek istiyorum!*\\n",
-            "`A:` Kaliteye, hizmet performansına ve güvenilirliğine odaklanıyoruz. ",
+            "`S:` *1.Ses formatı seçmek istiyorum!*\\n",
+            "`C:` Kaliteye, hizmet performansına ve güvenilirliğine odaklanıyoruz. ",
             "YouTube'da bulunan en yüksek kalitede süper hızlı ses dönüştürmeleri yapmak için, yalnızca",
             "ITunes bilgi ile etiketlenmiş M4A uzantılı bir MPEG-4 Part 14 (MP4) konteynerinde AAC 128k kodlanmış dosyalar kullanıyoruz. ",
             "Bu seçim gelecekte değişebilir."
         ],
         [
             "{BAR_CHART} *Sık sorulan Sorular*\\n\\n",
-            "`Q:` *2. AAC / M4A ne anlama gelir?*\\n",
-            "`A:` AAC, MP3 formatının ardıllığı için tasarlanmış bir ses kodlama formatıdır ve genel olarak ",
+            "`S:` *2. AAC / M4A ne anlama gelir?*\\n",
+            "`C:` AAC, MP3 formatının ardıllığı için tasarlanmış bir ses kodlama formatıdır ve genel olarak ",
             "Benzer bit hızlarında MP3'den daha iyi ses kalitesi. M4A, konteyner olarak da bilinen bir dosya uzantısıdır",
             "Hem gerçek AAC kodlanmış sesin hem de sesin etiketlerinin kendisidir."
         ],
         [
             "{BAR_CHART} *Sık sorulan Sorular*\\n\\n",
-            "`Q:` *3. Bazı videolar çalışmıyor!*\\n",
-            "`A:` YouTube'un ülke kısıtlamaları nedeniyle bazı videolar veri merkezimiz tarafından kullanılamayabilir. Ayrıca,",
+            "`S:` *3. Bazı videolar çalışmıyor!*\\n",
+            "`C:` YouTube'un ülke kısıtlamaları nedeniyle bazı videolar veri merkezimiz tarafından kullanılamayabilir. Ayrıca,",
             "Bot şu an 50 MB'a kadar ses dosyaları gönderebilir, bu sınır ileride değiştirilebilir."
         ],
         [
             "{BAR_CHART} *Sık sorulan Sorular*\\n\\n",
-            "`Q:` *4. Dosyalarda neden garip isimler var?*\\n",
-            "`A:` Dosyalar `Title - VideoId.m4a` olarak kaydedilir, ancak` Title` başlığın% 100'ünü yansıtmayabilir ",
+            "`S:` *4. Dosyalarda neden garip isimler var?*\\n",
+            "`C:` Dosyalar `Title - VideoId.m4a` olarak kaydedilir, ancak` Title` başlığın% 100'ünü yansıtmayabilir ",
             "Videonun bazı geçersiz karakterler nedeniyle Tüm doğru bilgi bu yana genellikle sorun değildir."
         ]
     ],
