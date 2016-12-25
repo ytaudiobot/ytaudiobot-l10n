@@ -1,5 +1,6 @@
 {
-    "position": "4",
+    "position": 4,
+    "right_to_left": true,
     "description": [
         "הורד סרטונים מיוטיוב כקבצי שמע וקח אותם לכל מקום!\\n\\n",
         "Mirror: @YTAudio_Bot"

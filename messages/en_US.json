@@ -1,5 +1,6 @@
 {
-    "position": "0",
+    "position": 0,
+    "right_to_left": false,
     "description": [
         "Download YouTube videos as audio-only files to take wherever you go!\\n\\n",
         "Mirror: @YTAudio_Bot"

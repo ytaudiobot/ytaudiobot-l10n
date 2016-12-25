@@ -1,5 +1,6 @@
 {
-    "position": "2",
+    "position": 2,
+    "right_to_left": false,
     "description": [
         "¡Descarga vídeos de YouTube como archivos de audio para llevar siempre contigo!\\n\\n",
         "Mirror: @YTAudio_Bot"

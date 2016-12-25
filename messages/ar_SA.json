@@ -1,5 +1,6 @@
 {
-    "position": "14",
+    "position": 14,
+    "right_to_left": true,
     "description": [
         "تحميل مقاطع اليوتيوب كملفات صوتية لأخذها اينما ذهبت !\\n\\n",
         "مماثل ل: @YTAudio_Bot"

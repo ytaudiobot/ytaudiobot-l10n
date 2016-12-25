@@ -1,5 +1,6 @@
 {
-    "position": "9",
+    "position": 9,
+    "right_to_left": false,
     "description": [
         "YouTube videolarni audio formatida yuklab oling va ular doimo siz bilan birga!\\n\\n",
         "Mirror: @YTAudio_Bot"
