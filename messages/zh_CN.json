@@ -31,7 +31,7 @@
     "download_history_cleared": "{WASTEBASKET} 已删除的条目",
     "file_expired": [
         "{WARNING_SIGN} *文件已过期*\\n\\n",
-        "点击{command}重新下载。"
+        "点击 {command} 重新下载。"
     ],
     "more_info": "{PAGE_WITH_CURL} 详细信息",
     "video_id": "{SMALL_ORANGE_DIAMOND} 视频ID",
@@ -79,11 +79,11 @@
     "video_processing_in_progress": "{CLOCKWISE_DOWNWARDS_AND_UPWARDS_OPEN_CIRCLE_ARROWS} *视频正在处理...*",
     "download_canceled": [
         "{CROSS_MARK} *下载已取消\\n",
-        "点击*{command}*重新下载。*"
+        "点击 *{command}* 重新下载。*"
     ],
     "download_error": [
         "{PENSIVE_FACE} *对不起，发生未知错误\\n",
-        "点击重试*{command}*。*"
+        "点击重试 *{command}* 。*"
     ],
     "download_timeout": [
         "{WARNING_SIGN} *此下载需要花费超过60秒。\\n",
@@ -114,7 +114,7 @@
         ],
         [
             "{OPEN_BOOK} *帮助手册 (4 of 4)*\\n\\n",
-            "当你接收到音频文件并且下载完之后，你可以长按音频文件并且点击*保存到音乐库* ",
+            "当你接收到音频文件并且下载完之后，你可以点击文件右上角并且点击*保存到音乐库* ",
             "音频文件会保存在你设备中的Music目录下"
         ]
     ],
@@ -141,7 +141,7 @@
     "about": [
         "{NEWSPAPER} *关于*\\n\\n",
         "*YTAudioBot for Telegram*\\n",
-        "{version} _{month} {day}, {year}_\\n\\n",
+        "{version} _{year}年{month}{day}日_\\n\\n",
         "{PUBLIC_ADDRESS_LOUDSPEAKER} *频道* - @YTAudio\\n",
         "{LINK_SYMBOL} *网站* - https://ytaudiobot.ml\\n",
         "{ENVELOPE} *邮箱* - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
