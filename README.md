@@ -6,6 +6,8 @@ _Stay tuned for news and updates on our [Telegram Channel](//telegram.me/ytaudio
 
 YTAudioBot is currently available in the following languages:
 
+| Language                                                        | Contributors                                                       |
+| :-------------------------------------------------------------- | :----------------------------------------------------------------- |
 | :us: **English** ([en_US](messages/en_US.json))                 | [Dan](//github.com/delivrance)                                     |
 | :it: **Italiano** ([it_IT](messages/it_IT.json))                | [Dan](//github.com/delivrance)                                     |
 | :es: **Español** ([es_ES](messages/es_ES.json))                 | [Gerardo](//github.com/balboag)                                    |
