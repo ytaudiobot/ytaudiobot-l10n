@@ -24,7 +24,6 @@ Language | Contributors | Translated
 **(WIP)** :taiwan: **繁體中文** ([zh_TW](messages/zh_TW.json)) | [Kris](//telegram.me/littlekris) | 100%
 **(WIP)** :saudi_arabia: **العربية** ([ar_SA](messages/ar_SA.json)) | [Mohammad Fahad](//twitter.com/mohmd1429) | 100%
 
->>>>>>> upstream/master
 > Add yourself here once you submit your translations
 
 All translations, except English (en_US) and Italiano (it_IT), are made by volunteers who decided to help.
