@@ -48,7 +48,7 @@
     ],
     "no_like": [
         "{PENSIVE_FACE} *{name}，无法提供优质的服务，我们感到十分抱歉*\\n\\n",
-        "请问这个机器人有什么令你不满意的吗？请（使用英语或者意大利语）告诉我们吧："
+        "请问这个机器人有什么令你不满意的吗?请(使用英语或者意大利语?告诉我们吧:"
     ],
     "rating_message": [
         "{WHITE_MEDIUM_STAR} *评论YTAudioBot*\\n\\n",
@@ -60,7 +60,7 @@
     "send_feedback": [
         "{MEMO} *发送反馈*\\n\\n",
         "你可以为这个机器人提供一些建议、反馈Bugs或者与开发者讨论",
-        "(请使用英语或意大利语，谢谢)。"
+        "(请使用英语或意大利语，谢谢)"
     ],
     "sending_feedback_enabled": "{MEMO} 请输入你的反馈信息",
     "feedback_sent": "{HEAVY_CHECK_MARK} *你的反馈信息已经发送了，谢谢！*",
@@ -69,8 +69,8 @@
     "flood_wait": "{WARNING_SIGN} *请不要频繁操作！ 等待{0 秒|1 秒|# 秒}后重新尝试吧。*",
     "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} *正在搜索\\\"*{terms}*\\\"...*",
     "video_not_available": "{PENSIVE_FACE} *对不起，这个视频现在无法下载，请稍后重试。*",
-    "size_limit_exceeded": "{PENSIVE_FACE} *对不起，这个视频超过文件大小限制，请选择其他视频*",
-    "api_error": "{PENSIVE_FACE} *对不起，此请求操作无法被立刻执行。请稍后重试*",
+    "size_limit_exceeded": "{PENSIVE_FACE} *对不起，这个视频超过文件大小限制，请选择其他视频!*",
+    "api_error": "{PENSIVE_FACE} *对不起，此请求操作无法被立刻执行。请稍后重试!*",
     "select_language": [
         "{GLOBE_WITH_MERIDIANS} *语言*\\n\\n",
         "选择你的语言。"
@@ -104,7 +104,7 @@
             "有许多方法获得视频链接，例如你可以：\\n\\n",
             "— 在YouTube应用中点击分享按钮\\n",
             "— 使用Telegram的内联机器人 @vid 或者 @youtube \\n",
-            "— 从你的浏览器中复制并粘贴"
+            "— 从你的浏览器中复制链接并粘贴到这里"
         ],
         [
             "{OPEN_BOOK} *帮助手册 (3 of 4)*\\n\\n",

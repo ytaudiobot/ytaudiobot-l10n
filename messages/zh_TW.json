@@ -48,7 +48,7 @@
     ],
     "no_like": [
         "{PENSIVE_FACE} *{name}，無法爲你提供優質的服務，我們感到十分抱歉*\\n\\n",
-        "對於這個機器人有任何不滿意的地方都可以回饋給我們（請使用英語或意大利語）："
+        "請問這個機器人還有什麼讓你感到不滿意的嗎?請使用(英語或者意大利語)告訴我們吧:"
     ],
     "rating_message": [
         "{WHITE_MEDIUM_STAR} *評論YTAudioBot*\\n\\n",
@@ -60,7 +60,7 @@
     "send_feedback": [
         "{MEMO} *傳送回饋*\\n\\n",
         "你可以爲這個機器人提供一些建議、回饋Bugs或者與開發者討論",
-        "(請使用英語或意大利語，謝謝)。"
+        "(請使用英語或意大利語，謝謝)"
     ],
     "sending_feedback_enabled": "{MEMO} 請輸入你的回饋信息",
     "feedback_sent": "{HEAVY_CHECK_MARK} *你的回饋信息已經傳送，謝謝！*",
@@ -70,7 +70,7 @@
     "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} *正在搜索\\\"*{terms}*\\\"...*",
     "video_not_available": "{PENSIVE_FACE} *對不起，這個視頻現在無法下載，請稍後重試。*",
     "size_limit_exceeded": "{PENSIVE_FACE} *對不起，這個視頻超過文件大小限制，請選擇其他視頻*",
-    "api_error": "{PENSIVE_FACE} *對不起，此請求操作無法被立即執行。請稍後重試*",
+    "api_error": "{PENSIVE_FACE} *對不起，此請求操作無法被立即執行。請稍後重試!*",
     "select_language": [
         "{GLOBE_WITH_MERIDIANS} *語言*\\n\\n",
         "選擇你的語言。"
@@ -104,7 +104,7 @@
             "你有多種方法去獲得視頻鏈接，例如你可以：\\n\\n",
             "— 在YouTube應用程式中點擊分享按鈕\\n",
             "— 使用Telegram的內聯機器人 @vid 或者 @youtube \\n",
-            "— 從你的瀏覽器中復制並粘帖"
+            "— 從你的瀏覽器中復制鏈接並粘帖到這裏"
         ],
         [
             "{OPEN_BOOK} *幫助手冊 (3 of 4)*\\n\\n",
