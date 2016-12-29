@@ -8,8 +8,8 @@ YTAudioBot is currently available in the following languages:
 
 Language | Contributors | Translated
 :-- | :-- | :--
-:us: **English** ([en_US](messages/en_US.json)) | [Dan](//github.com/delivrance) | 100%
-:it: **Italiano** ([it_IT](messages/it_IT.json)) | [Dan](//github.com/delivrance) | 100%
+:us: **English** ([en_US](messages/en_US.json)) | [Dan](//github.com/delivrance) | -
+:it: **Italiano** ([it_IT](messages/it_IT.json)) | [Dan](//github.com/delivrance) | -
 :es: **Español** ([es_ES](messages/es_ES.json)) | [Gerardo](//github.com/balboag) | 100%
 :brazil: **Português** ([pt_BR](messages/pt_BR.json)) | [Rafael](//github.com/rafaelsturmer) | [**95.1%**](https://github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
 :israel: **עברית** ([he_IL](messages/he_IL.json)) | [PhantomGitHub](//github.com/PhantomGitHub) | 100%
