@@ -11,13 +11,13 @@ YTAudioBot is currently available in the following languages:
 | :us: **English** ([en_US](messages/en_US.json))                 | [Dan](//github.com/delivrance)                                     |
 | :it: **Italiano** ([it_IT](messages/it_IT.json))                | [Dan](//github.com/delivrance)                                     |
 | :es: **Español** ([es_ES](messages/es_ES.json))                 | [Gerardo](//github.com/balboag)                                    |
-| :brazil: **Português** ([pt_BR](messages/pt_BR.json))           | [Rafael](//github.com/rafaelsturmer)                               |
+| **(95.1%)** :brazil: **Português** ([pt_BR](messages/pt_BR.json))           | [Rafael](//github.com/rafaelsturmer)                               |
 | :israel: **עברית** ([he_IL](messages/he_IL.json))               | [PhantomGitHub](//github.com/PhantomGitHub)                        |
 | :de: **Deutsch** ([de_DE](messages/de_DE.json))                 | [Julian](//github.com/jwsp1), Alex                                 |
 | :finland: **Suomi** ([fi_FI](messages/fi_FI.json))              | [Elias](//github.com/theel0ja)                                     |
 | :greece: **Ελληνικά** ([el_GR](messages/el_GR.json))            | [stamsarger](//github.com/stamsarger)                              |
-| :romania: **Română** ([ro_RO](messages/ro_RO.json))             | [NicuG](//telegram.me/nicug)                                       |
-| :uzbekistan: **O'zbek** ([Lt_uz_UZ](messages/Lt_uz_UZ.json))    | [HusanboyBayern](//telegram.me/HusanboyBayern)                     |
+| **(95.1%)** :romania: **Română** ([ro_RO](messages/ro_RO.json))             | [NicuG](//telegram.me/nicug)                                       |
+| **(97.1%)** :uzbekistan: **O'zbek** ([Lt_uz_UZ](messages/Lt_uz_UZ.json))    | [HusanboyBayern](//telegram.me/HusanboyBayern)                     |
 | :indonesia: **Bahasa Indonesia** ([id_ID](messages/id_ID.json)) | [Aldian Hudaya](//telegram.me/oichidan)                            |
 | :tr: **Türkçe** ([tr_TR](messages/tr_TR.json))                  | [EypCnn](//github.com/EypCnn), [Ilker Binzet](//github.com/binzet) |
 | **(WIP)** :cn: **简体中文** ([zh_CN](messages/zh_CN.json))                 | [Kris](//telegram.me/littlekris)                                   |
