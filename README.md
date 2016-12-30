@@ -20,8 +20,8 @@ Language | Contributors | Translated
 :uzbekistan: **O'zbek** ([Lt_uz_UZ](messages/Lt_uz_UZ.json)) | [HusanboyBayern](//telegram.me/HusanboyBayern) | [**97.1%**](https://github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
 :indonesia: **Bahasa Indonesia** ([id_ID](messages/id_ID.json)) | [Aldian Hudaya](//telegram.me/oichidan) | 100%
 :tr: **Türkçe** ([tr_TR](messages/tr_TR.json)) | [EypCnn](//github.com/EypCnn), [Ilker Binzet](//github.com/binzet) | 100%
-**(WIP)** :cn: **简体中文** ([zh_CN](messages/zh_CN.json)) | [Kris](//telegram.me/littlekris) | 100%
-**(WIP)** :taiwan: **繁體中文** ([zh_TW](messages/zh_TW.json)) | [Kris](//telegram.me/littlekris) | 100%
+:cn: **简体中文** ([zh_CN](messages/zh_CN.json)) | [Kris](//telegram.me/littlekris) | 100%
+:taiwan: **繁體中文** ([zh_TW](messages/zh_TW.json)) | [Kris](//telegram.me/littlekris) | 100%
 **(WIP)** :saudi_arabia: **العربية** ([ar_SA](messages/ar_SA.json)) | [Mohammad Fahad](//twitter.com/mohmd1429) | 100%
 
 > Add yourself here once you submit your translations
