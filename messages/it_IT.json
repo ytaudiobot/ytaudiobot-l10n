@@ -195,7 +195,7 @@
         "*4.* Perché i file hanno nomi strani?"
     ],
     "contribute": [
-        "{PERSON_WITH_FOLDED_HANDS} *Aiuta a tradurre*\\n\\n",
+        "{CYCLONE} *Aiuta a tradurre*\\n\\n",
         "{name}! Se vuoi che @YTAudioBot parli la tua lingua oppure se vuoi migliorarne una già esistente, puoi aiutarci!\\n\\n",
         "Abbiamo creato una guida solo per questo, [qui](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
         "È richiesta la conoscenza della lingua Inglese.\\n\\n",
@@ -271,7 +271,7 @@
     "website_button": "{LINK_SYMBOL} Sito web",
     "email_button": "{ENVELOPE} E-Mail",
     "ratings_button": "{EYE} Recensioni",
-    "help_translate_button": "{PERSON_WITH_FOLDED_HANDS} Aiuta a tradurre",
+    "help_translate_button": "{CYCLONE} Aiuta a tradurre",
     "history_button": "{HOURGLASS} Cronologia",
     "remove_button": "{CROSS_MARK} Rimuovi",
     "restore_button": "{HEAVY_PLUS_SIGN} Ripristina",
@@ -279,7 +279,7 @@
     "clear_all_button": "{WASTEBASKET} Cancella tutto",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Sospendi",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Riattiva",
-    "contribute_button": "{PERSON_WITH_FOLDED_HANDS} Collabora",
+    "contribute_button": "{BUST_IN_SILHOUETTE} Collabora",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Collaboratori",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Apri progetto"
 }

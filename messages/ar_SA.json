@@ -193,7 +193,7 @@
         "*4.* لماذا بعض الملفات اسماؤها غريبة؟"
     ],
     "contribute": [
-        "{PERSON_WITH_FOLDED_HANDS} *المساعدة في الترجمة*\\n\\n",
+        "{CYCLONE} *المساعدة في الترجمة*\\n\\n",
         "{name}! اذا كنت تريد @YTAudioBot لتتحدث لغتك او ترغب في تحسين هذه الترجمة, تستطيع خدمتنا وسنكون ممتنين!\\n\\n",
         "في الحقيقة لقد أنشأنا دليل خاص لأجل هذا, [هنا](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
         "يجب ان تكون ملم باللغة الانجليزية.\\n\\n",
@@ -269,7 +269,7 @@
     "website_button": "{LINK_SYMBOL} الموقع",
     "email_button": "{ENVELOPE} البريد الاكتروني",
     "ratings_button": "{EYE} التقييم",
-    "help_translate_button": "{PERSON_WITH_FOLDED_HANDS} ساعدنا على الترجمة",
+    "help_translate_button": "{CYCLONE} ساعدنا على الترجمة",
     "history_button": "{HOURGLASS} السجل",
     "remove_button": "{CROSS_MARK} حذف",
     "restore_button": "{HEAVY_PLUS_SIGN} استعادة",
@@ -277,7 +277,7 @@
     "clear_all_button": "{WASTEBASKET} حذف الكل",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} ايقاف مؤقت",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} استئناف",
-    "contribute_button": "{PERSON_WITH_FOLDED_HANDS} ساهم",
+    "contribute_button": "{BUST_IN_SILHOUETTE} ساهم",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} المساهمون",
     "open_project_button": "{CARD_INDEX_DIVIDERS} فتح مشروع"
 }

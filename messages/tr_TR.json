@@ -193,7 +193,7 @@
         "*4.* Dosyalarda neden garip isimler var?"
     ],
     "contribute": [
-        "{PERSON_WITH_FOLDED_HANDS} *Tercüme et*\\n\\n",
+        "{CYCLONE} *Tercüme et*\\n\\n",
         "{name}!@YTAudioBot'un sizin dilinizi konuşmasını istiyorsanız veya mevcut bir dilini geliştirmek istiyorsanız, bize yardım edebilirsiniz!\\n\\n",
         "Bunun için sadece bir rehber oluşturduk, [here](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
         "Bunun için sadece İngilizce bilgisi gerekiyor,.\\n\\n",
@@ -269,7 +269,7 @@
     "website_button": "{LINK_SYMBOL} Web sitesi",
     "email_button": "{ENVELOPE} E-Mail",
     "ratings_button": "{EYE} Yorumlar",
-    "help_translate_button": "{PERSON_WITH_FOLDED_HANDS} Tercüme et",
+    "help_translate_button": "{CYCLONE} Tercüme et",
     "history_button": "{HOURGLASS} Geçmiş",
     "remove_button": "{CROSS_MARK} Kaldır",
     "restore_button": "{HEAVY_PLUS_SIGN} Geri yükle",
@@ -277,7 +277,7 @@
     "clear_all_button": "{WASTEBASKET} Tümünü Temizle",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Durdur",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Devam Ettir",
-    "contribute_button": "{PERSON_WITH_FOLDED_HANDS} Katkıda Bulunanlar",
+    "contribute_button": "{BUST_IN_SILHOUETTE} Katkıda Bulunanlar",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Katkıda Bulunan",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Projeyi Aç"
 }

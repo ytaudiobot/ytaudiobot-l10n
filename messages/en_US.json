@@ -194,7 +194,7 @@
         "*4.* Why do files have strange names?"
     ],
     "contribute": [
-        "{PERSON_WITH_FOLDED_HANDS} *Help translate*\\n\\n",
+        "{CYCLONE} *Help translate*\\n\\n",
         "{name}! If you want @YTAudioBot to speak your language or want to improve an existing one, you can help us!\\n\\n",
         "We've set up a guide just for this, [here](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
         "Knowledge of the English language is required.\\n\\n",
@@ -270,7 +270,7 @@
     "website_button": "{LINK_SYMBOL} Website",
     "email_button": "{ENVELOPE} E-Mail",
     "ratings_button": "{EYE} Reviews",
-    "help_translate_button": "{PERSON_WITH_FOLDED_HANDS} Help translate",
+    "help_translate_button": "{CYCLONE} Help translate",
     "history_button": "{HOURGLASS} History",
     "remove_button": "{CROSS_MARK} Remove",
     "restore_button": "{HEAVY_PLUS_SIGN} Restore",
@@ -278,7 +278,7 @@
     "clear_all_button": "{WASTEBASKET} Clear all",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Pause",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Resume",
-    "contribute_button": "{PERSON_WITH_FOLDED_HANDS} Contribute",
+    "contribute_button": "{BUST_IN_SILHOUETTE} Contribute",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Contributors",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Open project"
 }

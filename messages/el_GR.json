@@ -194,7 +194,7 @@
         "*4.* Γιατί κάποια αρχεία έχουν περίεργα ονόματα;"
     ],
     "contribute": [
-        "{PERSON_WITH_FOLDED_HANDS} *Βοήθησε να μεταφράσουμε*\\n\\n",
+        "{CYCLONE} *Βοήθησε να μεταφράσουμε*\\n\\n",
         "{name}! Αν θες το @YTAudioBot να μιλάει τη γλώσσα σου ή να βελτιώσεις μια υπάρχουσα γλώσσα, μπορείς να μας βοηθήσεις!\\n\\n",
         "Φτιάξαμε έναν οδηγό αποκλειστικά γι' αυτό, [εδώ](https://github.com/ytaudiobot/ytaudiobot-l10n). (στα Αγγλικά) ",
         "Απαιτείται η γνώση της Αγγλικής γλώσσας.\\n\\n",
@@ -270,7 +270,7 @@
     "website_button": "{LINK_SYMBOL} Website",
     "email_button": "{ENVELOPE} E-Mail",
     "ratings_button": "{EYE} Αξιολογήσεις",
-    "help_translate_button": "{PERSON_WITH_FOLDED_HANDS} Βοήθησε να μεταφράσουμε",
+    "help_translate_button": "{CYCLONE} Βοήθησε να μεταφράσουμε",
     "history_button": "{HOURGLASS} Ιστορικό",
     "remove_button": "{CROSS_MARK} Σβήσε",
     "restore_button": "{HEAVY_PLUS_SIGN} Επανάφερε",
@@ -278,7 +278,7 @@
     "clear_all_button": "{WASTEBASKET} Σβήσ' τα όλα",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Παύση",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Συνέχεια",
-    "contribute_button": "{PERSON_WITH_FOLDED_HANDS} Σύμβαλε",
+    "contribute_button": "{BUST_IN_SILHOUETTE} Σύμβαλε",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Εθελοντές",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Ανοιχτό project"
 }

@@ -195,7 +195,7 @@
         "*4.* 为什么下载的文件会有一个奇怪的名字？"
     ],
     "contribute": [
-        "{PERSON_WITH_FOLDED_HANDS} *帮助翻译*\\n\\n",
+        "{CYCLONE} *帮助翻译*\\n\\n",
         "{name}！如果你希望 @YTAudioBot 使用你的语言或者改进现有的语言，请帮助我们吧！\\n\\n",
         "我们写了一份帮助你参与翻译的文档在 [这里](https://github.com/ytaudiobot/ytaudiobot-l10n)。 ",
         "此工作要求你拥有一点英语的知识\\n\\n",
@@ -271,7 +271,7 @@
     "website_button": "{LINK_SYMBOL} 网站",
     "email_button": "{ENVELOPE} 电子邮箱",
     "ratings_button": "{EYE} 评论",
-    "help_translate_button": "{PERSON_WITH_FOLDED_HANDS} 帮助翻译",
+    "help_translate_button": "{CYCLONE} 帮助翻译",
     "history_button": "{HOURGLASS} 历史",
     "remove_button": "{CROSS_MARK} 删除",
     "restore_button": "{HEAVY_PLUS_SIGN} 还原",
@@ -279,7 +279,7 @@
     "clear_all_button": "{WASTEBASKET} 清除全部",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} 暂停",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} 继续",
-    "contribute_button": "{PERSON_WITH_FOLDED_HANDS} 参与贡献",
+    "contribute_button": "{BUST_IN_SILHOUETTE} 参与贡献",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} 贡献者",
     "open_project_button": "{CARD_INDEX_DIVIDERS} 访问项目"
 }

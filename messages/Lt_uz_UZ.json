@@ -259,7 +259,7 @@
     "website_button": "{LINK_SYMBOL} Websayt",
     "email_button": "{ENVELOPE} E-Mail",
     "ratings_button": "{EYE} Ko'rib chiqishlar",
-    "help_translate_button": "{PERSON_WITH_FOLDED_HANDS} Tarjimonga yordam berish",
+    "help_translate_button": "{CYCLONE} Tarjimonga yordam berish",
     "history_button": "{HOURGLASS} Tarix",
     "remove_button": "{CROSS_MARK} Olib tashlash",
     "restore_button": "{HEAVY_PLUS_SIGN} Qayta tiklash",
@@ -267,7 +267,7 @@
     "clear_all_button": "{WASTEBASKET} Barchasini tozalash",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Pausa",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Davom etish",
-    "contribute_button": "{PERSON_WITH_FOLDED_HANDS} Hissa qo'shish",
+    "contribute_button": "{BUST_IN_SILHOUETTE} Hissa qo'shish",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Tarjimonlar",
     "open_project_button": null
 }

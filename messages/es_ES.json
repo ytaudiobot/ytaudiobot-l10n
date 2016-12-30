@@ -194,7 +194,7 @@
         "*4.* ¿Por qué los archivos tienen nombres raros?"
     ],
     "contribute": [
-        "{PERSON_WITH_FOLDED_HANDS} *Ayudar a traducir*\\n\\n",
+        "{CYCLONE} *Ayudar a traducir*\\n\\n",
         "¡{name}! Si quieres que @YTAudioBot hable en tu idioma, o quieres mejorar una traducción existente, ¡puedes ayudarnos!\\n\\n",
         "Hemos elaborado una guía sólo para esto, [aquí](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
         "Se requiere tener conocimiento del idioma inglés.\\n\\n",
@@ -270,7 +270,7 @@
     "website_button": "{LINK_SYMBOL} Web",
     "email_button": "{ENVELOPE} Email",
     "ratings_button": "{EYE} Reseñas",
-    "help_translate_button": "{PERSON_WITH_FOLDED_HANDS} Ayudar a traducir",
+    "help_translate_button": "{CYCLONE} Ayudar a traducir",
     "history_button": "{HOURGLASS} Historial",
     "remove_button": "{CROSS_MARK} Quitar",
     "restore_button": "{HEAVY_PLUS_SIGN} Restaurar",
@@ -278,7 +278,7 @@
     "clear_all_button": "{WASTEBASKET} Borrar todo",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Pausar",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Reanudar",
-    "contribute_button": "{PERSON_WITH_FOLDED_HANDS} Contribuir",
+    "contribute_button": "{BUST_IN_SILHOUETTE} Contribuir",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Contribuidores",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Abrir proyecto"
 }

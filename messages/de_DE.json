@@ -194,7 +194,7 @@
         "*4.* Warum haben die Dateien komische Namen?"
     ],
     "contribute": [
-        "{PERSON_WITH_FOLDED_HANDS} *Helfe, den Bot zu übersetzen*\\n\\n",
+        "{CYCLONE} *Helfe, den Bot zu übersetzen*\\n\\n",
         "{name}! Wenn du möchstest, dass @YTAudioBot auch deine Sprache spricht, oder du eine schon verfügbare Sprache verbessern möchtest, kannst du uns gerne helfen!\\n\\n",
         "Wir haben diesbezüglich eine Anleitung vorbereitet, die du [hier](https://github.com/ytaudiobot/ytaudiobot-l10n) finden kannst. ",
         "Beachte, dass du Grundkenntnisse der englischen Sprache beherrschen musst.\\n\\n",
@@ -270,7 +270,7 @@
     "website_button": "{LINK_SYMBOL} Webseite",
     "email_button": "{ENVELOPE} E-Mail",
     "ratings_button": "{EYE} Bewertungen",
-    "help_translate_button": "{PERSON_WITH_FOLDED_HANDS} Diesen Bot übersetzen",
+    "help_translate_button": "{CYCLONE} Diesen Bot übersetzen",
     "history_button": "{HOURGLASS} Verlauf",
     "remove_button": "{CROSS_MARK} Entfernen",
     "restore_button": "{HEAVY_PLUS_SIGN} Wiederherstellen",
@@ -278,7 +278,7 @@
     "clear_all_button": "{WASTEBASKET} Alles löschen",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Pause",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Fortsetzen",
-    "contribute_button": "{PERSON_WITH_FOLDED_HANDS} Mithelfen",
+    "contribute_button": "{BUST_IN_SILHOUETTE} Mithelfen",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Beiträger",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Projekt öffnen"
 }

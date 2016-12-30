@@ -194,7 +194,7 @@
         "*4.* למה לקבצים יש שמות מוזרים?"
     ],
     "contribute": [
-        "{PERSON_WITH_FOLDED_HANDS} *עזור לתרגם*\\n\\n",
+        "{CYCLONE} *עזור לתרגם*\\n\\n",
         "היי {name}! אם אתה רוצה ש-@YTAudioBot ידבר בשפה שלך או רוצה לשפר שפה קיימת, אתה יכול לעזור לנו!\\n\\n",
         "כתבנו מדריך בדיוק בשביל זה, [פה](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
         "בשביל לתרגם חובה לדעת לדבר אנגלית.\\n\\n",
@@ -270,7 +270,7 @@
     "website_button": "{LINK_SYMBOL} אתר",
     "email_button": "{ENVELOPE} אימייל",
     "ratings_button": "{EYE} ביקורות",
-    "help_translate_button": "{PERSON_WITH_FOLDED_HANDS} עזור לתרגם",
+    "help_translate_button": "{CYCLONE} עזור לתרגם",
     "history_button": "{HOURGLASS} היסטוריה",
     "remove_button": "{CROSS_MARK} הסר",
     "restore_button": "{HEAVY_PLUS_SIGN} שחזר",
@@ -278,7 +278,7 @@
     "clear_all_button": "{WASTEBASKET} הסר הכל",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} עצור",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} המשך",
-    "contribute_button": "{PERSON_WITH_FOLDED_HANDS} תרגם",
+    "contribute_button": "{BUST_IN_SILHOUETTE} תרגם",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} מתרגמים",
     "open_project_button": "{CARD_INDEX_DIVIDERS} פתח את הפרויקט"
 }

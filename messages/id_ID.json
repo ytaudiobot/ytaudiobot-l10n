@@ -194,7 +194,7 @@
         "*4.* Kenapa berkasnya punya nama-nama aneh?"
     ],
     "contribute": [
-        "{PERSON_WITH_FOLDED_HANDS} *Bantu menerjemahkan!*\\n\\n",
+        "{CYCLONE} *Bantu menerjemahkan!*\\n\\n",
         "{name}, jika anda ingin @YTAudioBot berbicara dalam bahasa anda atau anda ingin meningkatkan kualitas bahasa yang anda, anda dapat membantu kami!\\n\\n",
         "Kami telah menyiapkan petunjuk untuk hal ini, [disini](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
         "Untuk itu, anda memerlukan pemahaman Bahasa Inggris yang baik.\\n\\n",
@@ -270,7 +270,7 @@
     "website_button": "{LINK_SYMBOL} Situs web",
     "email_button": "{ENVELOPE} E-Mail",
     "ratings_button": "{EYE} Ulasan",
-    "help_translate_button": "{PERSON_WITH_FOLDED_HANDS} Bantu menerjemahkan",
+    "help_translate_button": "{CYCLONE} Bantu menerjemahkan",
     "history_button": "{HOURGLASS} Riwayat",
     "remove_button": "{CROSS_MARK} Hapus",
     "restore_button": "{HEAVY_PLUS_SIGN} Pulihkan",
@@ -278,7 +278,7 @@
     "clear_all_button": "{WASTEBASKET} Hapus semua",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Tunda",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Lanjutkan",
-    "contribute_button": "{PERSON_WITH_FOLDED_HANDS} Kontribusi",
+    "contribute_button": "{BUST_IN_SILHOUETTE} Kontribusi",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Kontributor",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Buka proyek"
 }
