@@ -23,7 +23,7 @@ Language | Contributors | Translated
 :cn: **简体中文** ([zh_CN](messages/zh_CN.json)) | [Kris](//telegram.me/littlekris) | 100%
 :taiwan: **繁體中文** ([zh_TW](messages/zh_TW.json)) | [Kris](//telegram.me/littlekris) | 100%
 **(WIP)** :saudi_arabia: **العربية** ([ar_SA](messages/ar_SA.json)) | [Mohammad Fahad](//twitter.com/mohmd1429) | 100%
-:japan: **日本語** ([ja_JP](messages/ja_JP.json)) | [Rei](//github.com/unwind-protect) |  Missing FAQ only
+:jp: **日本語** ([ja_JP](messages/ja_JP.json)) | [Rei](//github.com/unwind-protect) |  Missing FAQ only
 
 > Add yourself here once you submit your translations
 
