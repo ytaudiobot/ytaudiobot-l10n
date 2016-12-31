@@ -130,14 +130,14 @@
             "Join the channel @YTAudio for latest news and bot updates!"
         ]
     ],
-    "hi": "{SPARKLES} *こんいちは、 {name}！*",
+    "hi": "{SPARKLES} *こんにちは、 {name}！*",
     "presentation": [
         "*With *[YTAudioBot](https://ytaudiobot.ml)*, you can download YouTube videos as audio-only files to take ",
         "wherever you go.*"
     ],
     "feedback": [
         "{SPEECH_BALLOON} *フィードバック*\\n\\n",
-        "こんいちは, {name}! YTAudioBot ボットが好きですか？"
+        "こんにちは, {name}! YTAudioBot ボットが好きですか？"
     ],
     "about": [
         "{NEWSPAPER} *について*\\n\\n",
