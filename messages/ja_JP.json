@@ -130,14 +130,14 @@
             "Join the channel @YTAudio for latest news and bot updates!"
         ]
     ],
-    "hi": "{SPARKLES} *こんにちは、 {name}！*",
+    "hi": "{SPARKLES} *こんいちは、 {name}！*",
     "presentation": [
         "*With *[YTAudioBot](https://ytaudiobot.ml)*, you can download YouTube videos as audio-only files to take ",
         "wherever you go.*"
     ],
     "feedback": [
         "{SPEECH_BALLOON} *フィードバック*\\n\\n",
-        "こんにちは, {name}! YTAudioBot ボットが好きですか？"
+        "こんいちは, {name}! YTAudioBot ボットが好きですか？"
     ],
     "about": [
         "{NEWSPAPER} *について*\\n\\n",
@@ -207,18 +207,42 @@
         "— @YTAudioBot"
     ],
     "months_names": [
-        [ "1月" ],
-        [ "2月" ],
-        [ "3月" ],
-        [ "4月" ],
-        [ "5月" ],
-        [ "6月" ],
-        [ "7月" ],
-        [ "8月" ],
-        [ "9月" ],
-        [ "10月" ],
-        [ "11月" ],
-        [ "12月" ]
+        [
+            "1月"
+        ],
+        [
+            "2月"
+        ],
+        [
+            "3月"
+        ],
+        [
+            "4月"
+        ],
+        [
+            "5月"
+        ],
+        [
+            "6月"
+        ],
+        [
+            "7月"
+        ],
+        [
+            "8月"
+        ],
+        [
+            "9月"
+        ],
+        [
+            "10月"
+        ],
+        [
+            "11月"
+        ],
+        [
+            "12月"
+        ]
     ],
     "start_button": "{CHEQUERED_FLAG} スタート",
     "language_button": "{FLAG_FOR_JAPAN} 日本語",
