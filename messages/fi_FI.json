@@ -93,42 +93,38 @@
     "download_successful": "{HEAVY_CHECK_MARK} *Ääni onnistuneesti ladattu!*",
     "wait_previous_download": "{WARNING_SIGN} Odota edellistä lataustasi!",
     "download_queue_full": "{WARNING_SIGN} Latausjono on täynnä. Yritä myöhemmin uudelleen.",
-    "help_pages_list": [
-        [
-            "{OPEN_BOOK} *Ohje (1/4)*\\n\\n",
-            "Ainoa asia jonka tarvitset on YouTube-videon linkki, josta haluat ottaa äänen, kuten tämän:\\n\\n",
-            "— https://youtu.be/SMWi7CLoZ2Q."
-        ],
-        [
-            "{OPEN_BOOK} *Ohje (2/4)*\\n\\n",
-            "On monia tapoja löytää URL-osoite. Voit esimerkiksi:\\n\\n",
-            "— Käyttää YouTube-sovelluksen jakopainikkeita.\\n",
-            "— Käyttää Telegramin inline-botteja @vid or @youtube.\\n",
-            "— Kopioida/liittää linkki selaimestasi."
-        ],
-        [
-            "{OPEN_BOOK} *Ohje (3/4)*\\n\\n",
-            "Kun olet löytänyt URL-osoitteen, lähetä se minulle.\\n\\n",
-            "Jos jokin toinen henkilö on ladannut saman videon, tiedosto lähetetään heti sinulle, ",
-            "muutoin painike {INBOX_TRAY} *Lataa* ilmestyy. Paina sitä, ja äänitiedosto ilmestyy ",
-            "hetken kuluttua."
-        ],
-        [
-            "{OPEN_BOOK} *Ohje (4/4)*\\n\\n",
-            "Kun olet saanut ja ladannut sen, voit painaa äänivestiä ja painaa *Tallenna musiikkiin* (*Save to music*) ",
-            "tallentaaksesi äänitiedoston laitteesi musiikkikansioon."
-        ]
+    "help_1": [
+        "{OPEN_BOOK} *Ohje (1/4)*\\n\\n",
+        "Ainoa asia jonka tarvitset on YouTube-videon linkki, josta haluat ottaa äänen, kuten tämän:\\n\\n",
+        "— https://youtu.be/SMWi7CLoZ2Q."
     ],
-    "tips_list": [
-        [
-            "{ELECTRIC_LIGHT_BULB} *Vinkki (1/2)*\\n\\n",
-            "Voit myös lähettää minulle videon IDn, kuten tämän:\\n\\n",
-            "— `SMWi7CLoZ2Q`."
-        ],
-        [
-            "{ELECTRIC_LIGHT_BULB} *Vinkki (2/2)*\\n\\n",
-            "Liity kanavalle @YTAudio saadaksesi uusimmat uutiset ja päivitykset!"
-        ]
+    "help_2": [
+        "{OPEN_BOOK} *Ohje (2/4)*\\n\\n",
+        "On monia tapoja löytää URL-osoite. Voit esimerkiksi:\\n\\n",
+        "— Käyttää YouTube-sovelluksen jakopainikkeita.\\n",
+        "— Käyttää Telegramin inline-botteja @vid or @youtube.\\n",
+        "— Kopioida/liittää linkki selaimestasi."
+    ],
+    "help_3": [
+        "{OPEN_BOOK} *Ohje (3/4)*\\n\\n",
+        "Kun olet löytänyt URL-osoitteen, lähetä se minulle.\\n\\n",
+        "Jos jokin toinen henkilö on ladannut saman videon, tiedosto lähetetään heti sinulle, ",
+        "muutoin painike {INBOX_TRAY} *Lataa* ilmestyy. Paina sitä, ja äänitiedosto ilmestyy ",
+        "hetken kuluttua."
+    ],
+    "help_4": [
+        "{OPEN_BOOK} *Ohje (4/4)*\\n\\n",
+        "Kun olet saanut ja ladannut sen, voit painaa äänivestiä ja painaa *Tallenna musiikkiin* (*Save to music*) ",
+        "tallentaaksesi äänitiedoston laitteesi musiikkikansioon."
+    ],
+    "tip_1": [
+        "{ELECTRIC_LIGHT_BULB} *Vinkki (1/2)*\\n\\n",
+        "Voit myös lähettää minulle videon IDn, kuten tämän:\\n\\n",
+        "— `SMWi7CLoZ2Q`."
+    ],
+    "tip_2": [
+        "{ELECTRIC_LIGHT_BULB} *Vinkki (2/2)*\\n\\n",
+        "Liity kanavalle @YTAudio saadaksesi uusimmat uutiset ja päivitykset!"
     ],
     "hi": "{SPARKLES} *Hei {name}!*",
     "presentation": [
@@ -156,37 +152,35 @@
         "{GLOBE_WITH_MERIDIANS} *Kieli* - Vaihda kieli\\n",
         "{SPEECH_BALLOON} *Palaute* - Lähetä palautetta"
     ],
-    "faq_list": [
-        [
-            "{BAR_CHART} *Usein kysytyt kysymykset*\\n\\n",
-            "`K:` *1. Haluan valita audioformaatin!*\\n",
-            "`V:` Me panostamme laatuun, palvelun nopeuteen ja vakauteen. ",
-            "Saavuttaaksemme erittäin nopeita äänenmuunnoksia suurimmalla YouTubesta saatavalla laadulla, me lähetämme ainoastaan ",
-            "AAC 128k-enkoodattuja tiedostoja MPEG-4 Part 14 (MP4)-säiliömuodon sisällä M4A-tiedostopäätteellä iTunesin datan kanssa. ",
-            "Tämä valinta saattaa muuttua tulevaisuudessa."
-        ],
-        [
-            "{BAR_CHART} *Usein kysytyt kysymykset*\\n\\n",
-            "`K:` *2. Mitä AAC/M4A tarkoittavat?*\\n",
-            "`V:` AAC on äänenkoodausformaatti, joka suunniteltiin MP3-formaatin seuraajaksi ja yleisesti saavuttaa ",
-            "paremman äänenlaadun kuin MP3 samoilla bittinopeuksilla. M4A on tiedostoformaatti, joka myös tunnetaan ",
-            "AAC-enkoodatun äänen ja tägien säiliömuotona."
-        ],
-        [
-            "{BAR_CHART} *Usein kysytyt kysymykset*\\n\\n",
-            "`K:` *3. Jotkin videot eivät toimi!*\\n",
-            "`V:` Jotkin videot, johtuen YouTuben maarajoituksista, saattaa olla meidän palvelinkeskuksemme saavuttamattomissa. Ongelmana saattaa olla myös se, että ",
-            "botti lähettää tiedostoja tällä hetkellä vain 50 megatavun rajaan asti. Kuitenkin tämä rajoitus saattaa muuttua tulevaisuudessa."
-        ],
-        [
-            "{BAR_CHART} *Usein kysytyt kysymykset*\\n\\n",
-            "`K:` *4. Miksi tiedostoilla on outoja nimiä?*\\n",
-            "`V:` Tiedostojen nimet ovat tallennettu muodossa `Otsikko - VideoId.m4a`, tosin `Otsikko` ei 100% varmuudella ole videon otsikko ",
-            "johtuen joistakin virheellisistä merkeistä. Tämä usein ei ole ongelma, kun kaikki oikea tieto ",
-            "videosta on upotettu audiotiedoston tägeihin."
-        ]
+    "faq_1": [
+        "{BAR_CHART} *Usein kysytyt kysymykset*\\n\\n",
+        "`K:` *1. Haluan valita audioformaatin!*\\n",
+        "`V:` Me panostamme laatuun, palvelun nopeuteen ja vakauteen. ",
+        "Saavuttaaksemme erittäin nopeita äänenmuunnoksia suurimmalla YouTubesta saatavalla laadulla, me lähetämme ainoastaan ",
+        "AAC 128k-enkoodattuja tiedostoja MPEG-4 Part 14 (MP4)-säiliömuodon sisällä M4A-tiedostopäätteellä iTunesin datan kanssa. ",
+        "Tämä valinta saattaa muuttua tulevaisuudessa."
     ],
-    "faq": [
+    "faq_2": [
+        "{BAR_CHART} *Usein kysytyt kysymykset*\\n\\n",
+        "`K:` *2. Mitä AAC/M4A tarkoittavat?*\\n",
+        "`V:` AAC on äänenkoodausformaatti, joka suunniteltiin MP3-formaatin seuraajaksi ja yleisesti saavuttaa ",
+        "paremman äänenlaadun kuin MP3 samoilla bittinopeuksilla. M4A on tiedostoformaatti, joka myös tunnetaan ",
+        "AAC-enkoodatun äänen ja tägien säiliömuotona."
+    ],
+    "faq_3": [
+        "{BAR_CHART} *Usein kysytyt kysymykset*\\n\\n",
+        "`K:` *3. Jotkin videot eivät toimi!*\\n",
+        "`V:` Jotkin videot, johtuen YouTuben maarajoituksista, saattaa olla meidän palvelinkeskuksemme saavuttamattomissa. Ongelmana saattaa olla myös se, että ",
+        "botti lähettää tiedostoja tällä hetkellä vain 50 megatavun rajaan asti. Kuitenkin tämä rajoitus saattaa muuttua tulevaisuudessa."
+    ],
+    "faq_4": [
+        "{BAR_CHART} *Usein kysytyt kysymykset*\\n\\n",
+        "`K:` *4. Miksi tiedostoilla on outoja nimiä?*\\n",
+        "`V:` Tiedostojen nimet ovat tallennettu muodossa `Otsikko - VideoId.m4a`, tosin `Otsikko` ei 100% varmuudella ole videon otsikko ",
+        "johtuen joistakin virheellisistä merkeistä. Tämä usein ei ole ongelma, kun kaikki oikea tieto ",
+        "videosta on upotettu audiotiedoston tägeihin."
+    ],
+    "faq_menu": [
         "{BAR_CHART} *Usein kysytyt kysymykset*\\n\\n",
         "*1.* Haluan valita audioformaatin!\\n",
         "*2.* Mitä AAC/M4A tarkoittavat?\\n",
@@ -206,44 +200,18 @@
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
-    "months_names": [
-        [
-            "tammikuu"
-        ],
-        [
-            "helmikuu"
-        ],
-        [
-            "maaliskuu"
-        ],
-        [
-            "huhtikuu"
-        ],
-        [
-            "toukokuu"
-        ],
-        [
-            "kesäkuu"
-        ],
-        [
-            "heinäkuu"
-        ],
-        [
-            "elokuu"
-        ],
-        [
-            "syyskuu"
-        ],
-        [
-            "lokakuu"
-        ],
-        [
-            "marraskuu"
-        ],
-        [
-            "joulukuu"
-        ]
-    ],
+    "month_1": "tammikuu",
+    "month_2": "helmikuu",
+    "month_3": "maaliskuu",
+    "month_4": "huhtikuu",
+    "month_5": "toukokuu",
+    "month_6": "kesäkuu",
+    "month_7": "heinäkuu",
+    "month_8": "elokuu",
+    "month_9": "syyskuu",
+    "month_10": "lokakuu",
+    "month_11": "marraskuu",
+    "month_12": "joulukuu",
     "start_button": "{CHEQUERED_FLAG} Aloita",
     "language_button": "{FLAG_FOR_FINLAND} Suomi",
     "more_info_button": "{PAGE_WITH_CURL} Lisätietoa",

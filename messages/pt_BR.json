@@ -93,42 +93,38 @@
     "download_successful": "{HEAVY_CHECK_MARK} *Áudio baixado com sucesso!*",
     "wait_previous_download": "{WARNING_SIGN} Espere seu download anterior!",
     "download_queue_full": "{WARNING_SIGN} A lista de downloads está cheia. Por favor, tente novamente mais tarde.",
-    "help_pages_list": [
-        [
-            "{OPEN_BOOK} *Ajuda (1 de 4)*\\n\\n",
-            "A única coisa que você precisa é a URL do vídeo do YouTube que você quer extrair o áudio, como essa:\\n\\n",
-            "— https://youtu.be/SMWi7CLoZ2Q."
-        ],
-        [
-            "{OPEN_BOOK} *Ajuda (2 de 4)*\\n\\n",
-            "Há várias maneiras de encontrar a URL. Você pode, por exemplo:\\n\\n",
-            "— Usar o botão de compartilhar pelo app do YouTube.\\n",
-            "— Usar inline bots do Telegram @vid ou @youtube.\\n",
-            "— Copiar/Colar o link do seu navegador."
-        ],
-        [
-            "{OPEN_BOOK} *Ajuda (3 de 4)*\\n\\n",
-            "Quando pegar a URL, envie para mim.\\n\\n",
-            "Se o vídeo já foi baixado por outra pessoa, o áudio será enviado para você imediatamente, ",
-            "se não, o botão {INBOX_TRAY} *Download* irá aparecer. Pressione-o e seu arquivo de áudio estará disponível ",
-            "logo."
-        ],
-        [
-            "{OPEN_BOOK} *Ajuda (4 de 4)*\\n\\n",
-            "Após recebido e baixado o áudio, você pode pressionar a mensagem do áudio e clicar em *Salvar em músicas* ",
-            "para salvar o áudio na pasta de músicas de seu aparelho."
-        ]
+    "help_1": [
+        "{OPEN_BOOK} *Ajuda (1 de 4)*\\n\\n",
+        "A única coisa que você precisa é a URL do vídeo do YouTube que você quer extrair o áudio, como essa:\\n\\n",
+        "— https://youtu.be/SMWi7CLoZ2Q."
     ],
-    "tips_list": [
-        [
-            "{ELECTRIC_LIGHT_BULB} *Dicas (1 de 2)*\\n\\n",
-            "Voce pode também enviar apenas no ID do vídeo, como este:\\n\\n",
-            "— `SMWi7CLoZ2Q`."
-        ],
-        [
-            "{ELECTRIC_LIGHT_BULB} *Dicas (2 de 2)*\\n\\n",
-            "Entre no canal @YTAudio para últimas noticias e atualizações do bot!"
-        ]
+    "help_2": [
+        "{OPEN_BOOK} *Ajuda (2 de 4)*\\n\\n",
+        "Há várias maneiras de encontrar a URL. Você pode, por exemplo:\\n\\n",
+        "— Usar o botão de compartilhar pelo app do YouTube.\\n",
+        "— Usar inline bots do Telegram @vid ou @youtube.\\n",
+        "— Copiar/Colar o link do seu navegador."
+    ],
+    "help_3": [
+        "{OPEN_BOOK} *Ajuda (3 de 4)*\\n\\n",
+        "Quando pegar a URL, envie para mim.\\n\\n",
+        "Se o vídeo já foi baixado por outra pessoa, o áudio será enviado para você imediatamente, ",
+        "se não, o botão {INBOX_TRAY} *Download* irá aparecer. Pressione-o e seu arquivo de áudio estará disponível ",
+        "logo."
+    ],
+    "help_4": [
+        "{OPEN_BOOK} *Ajuda (4 de 4)*\\n\\n",
+        "Após recebido e baixado o áudio, você pode pressionar a mensagem do áudio e clicar em *Salvar em músicas* ",
+        "para salvar o áudio na pasta de músicas de seu aparelho."
+    ],
+    "tip_1": [
+        "{ELECTRIC_LIGHT_BULB} *Dicas (1 de 2)*\\n\\n",
+        "Voce pode também enviar apenas no ID do vídeo, como este:\\n\\n",
+        "— `SMWi7CLoZ2Q`."
+    ],
+    "tip_2": [
+        "{ELECTRIC_LIGHT_BULB} *Dicas (2 de 2)*\\n\\n",
+        "Entre no canal @YTAudio para últimas noticias e atualizações do bot!"
     ],
     "hi": "{SPARKLES} *Olá, {name}!*",
     "presentation": [
@@ -156,37 +152,35 @@
         "{GLOBE_WITH_MERIDIANS} *Idioma* - Alterar idioma\\n",
         "{SPEECH_BALLOON} *Feedback* - Envie seu feedback"
     ],
-    "faq_list": [
-        [
-            "{BAR_CHART} *Perguntas frequentes*\\n\\n",
-            "`P:` *1. Eu quero mudar o formato do áudio!*\\n",
-            "`R:` Nós focamos em qualidade, performance e rentabilidade. ",
-            "Para conseguir uma super rápida conversão de áudio na maior qualidade disponível no YouTube, nós enviamos apenas ",
-            "arquivos AAC 128k codificadas em MPEG-4 Part 14 (MP4) contendo extensão M4A com tags de informações do iTunes. ",
-            "Essa escolha pode mudar no futuro."
-        ],
-        [
-            "{BAR_CHART} *Perguntas frequentes*\\n\\n",
-            "`P:` *2. O que AAC/M4A significa?*\\n",
-            "`R:` AAC é um codec de áudio designado para ser o sucessor do formato MP3 e geralmente consegue ",
-            "melhor qualidade de som do que MP3 em similare bit rates. M4A é uma extensão de arquivo, também conhecida por conter ",
-            "o áudio AAC codificado e as tags do próprio áudio."
-        ],
-        [
-            "{BAR_CHART} *Perguntas frequentes*\\n\\n",
-            "`P:` *3. Alguns vídeos não funcionam!*\\n",
-            "`R:` Alguns vídeos, devido as restrições de país do YouTube, pode não estar disponível para nossa central de dados. E também, ",
-            "o bot pode enviar arquivos de áudio de no máximo 50 MB de tamanho, este limite pode se alterado no futuro."
-        ],
-        [
-            "{BAR_CHART} *Perguntas frequentes*\\n\\n",
-            "`P:` *4. Porque os arquivos tem nomes estranhos??*\\n",
-            "`R:` Os arquivos são salvos como `Título - IdDoVideo.m4a`, entretando o `Título` pode não refletir 100% o título ",
-            "do vídeo, devido a alguns caracteres inválidos. Isso geralmente não é um problema, desde que toda informação sobre ",
-            "o vídeo esteja incluída nas tags do áudio."
-        ]
+    "faq_1": [
+        "{BAR_CHART} *Perguntas frequentes*\\n\\n",
+        "`P:` *1. Eu quero mudar o formato do áudio!*\\n",
+        "`R:` Nós focamos em qualidade, performance e rentabilidade. ",
+        "Para conseguir uma super rápida conversão de áudio na maior qualidade disponível no YouTube, nós enviamos apenas ",
+        "arquivos AAC 128k codificadas em MPEG-4 Part 14 (MP4) contendo extensão M4A com tags de informações do iTunes. ",
+        "Essa escolha pode mudar no futuro."
     ],
-    "faq": [
+    "faq_2": [
+        "{BAR_CHART} *Perguntas frequentes*\\n\\n",
+        "`P:` *2. O que AAC/M4A significa?*\\n",
+        "`R:` AAC é um codec de áudio designado para ser o sucessor do formato MP3 e geralmente consegue ",
+        "melhor qualidade de som do que MP3 em similare bit rates. M4A é uma extensão de arquivo, também conhecida por conter ",
+        "o áudio AAC codificado e as tags do próprio áudio."
+    ],
+    "faq_3": [
+        "{BAR_CHART} *Perguntas frequentes*\\n\\n",
+        "`P:` *3. Alguns vídeos não funcionam!*\\n",
+        "`R:` Alguns vídeos, devido as restrições de país do YouTube, pode não estar disponível para nossa central de dados. E também, ",
+        "o bot pode enviar arquivos de áudio de no máximo 50 MB de tamanho, este limite pode se alterado no futuro."
+    ],
+    "faq_4": [
+        "{BAR_CHART} *Perguntas frequentes*\\n\\n",
+        "`P:` *4. Porque os arquivos tem nomes estranhos??*\\n",
+        "`R:` Os arquivos são salvos como `Título - IdDoVideo.m4a`, entretando o `Título` pode não refletir 100% o título ",
+        "do vídeo, devido a alguns caracteres inválidos. Isso geralmente não é um problema, desde que toda informação sobre ",
+        "o vídeo esteja incluída nas tags do áudio."
+    ],
+    "faq_menu": [
         "{BAR_CHART} *Perguntas frequentes*\\n\\n",
         "*1.* Eu quero alterar o formato do áudio!\\n",
         "*2.* O que AAC/M4A significa?\\n",
@@ -195,44 +189,18 @@
     ],
     "contribute": null,
     "contributors": null,
-    "months_names": [
-        [
-            "Janeiro"
-        ],
-        [
-            "Fevereiro"
-        ],
-        [
-            "Março"
-        ],
-        [
-            "Abril"
-        ],
-        [
-            "Maio"
-        ],
-        [
-            "Junho"
-        ],
-        [
-            "Julio"
-        ],
-        [
-            "Agosto"
-        ],
-        [
-            "Setembro"
-        ],
-        [
-            "Outubro"
-        ],
-        [
-            "Novembro"
-        ],
-        [
-            "Dezembro"
-        ]
-    ],
+    "month_1": "Janeiro",
+    "month_2": "Fevereiro",
+    "month_3": "Março",
+    "month_4": "Abril",
+    "month_5": "Maio",
+    "month_6": "Junho",
+    "month_7": "Julio",
+    "month_8": "Agosto",
+    "month_9": "Setembro",
+    "month_10": "Outubro",
+    "month_11": "Novembro",
+    "month_12": "Dezembro",
     "start_button": "{CHEQUERED_FLAG} Começar",
     "language_button": "{FLAG_FOR_BRAZIL} Português",
     "more_info_button": "{PAGE_WITH_CURL} Mais informações",
@@ -271,4 +239,3 @@
     "contributors_button": null,
     "open_project_button": null
 }
-

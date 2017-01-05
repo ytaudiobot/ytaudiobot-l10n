@@ -93,42 +93,38 @@
     "download_successful": "{HEAVY_CHECK_MARK} *Ses başarılı bir şekilde indirildi!*",
     "wait_previous_download": "{WARNING_SIGN} Önceki indirmenizi bekleyin!",
     "download_queue_full": "{WARNING_SIGN} İndirme sırası doldu. Lütfen daha sonra tekrar deneyiniz.",
-    "help_pages_list": [
-        [
-            "{OPEN_BOOK} *Yardım (1 of 4)*\\n\\n",
-            "İhtiyacınız olan tek şey, ses olarak indirmek istediğiniz YouTube videosunun URL'si, bunun gibi yapıştırınız:\\n\\n",
-            "— https://youtu.be/pi8WpLSCB3I."
-        ],
-        [
-            "{OPEN_BOOK} *Yardım (2 of 4)*\\n\\n",
-            "URL'yi bulmak için çeşitli yollar vardır. Örneğin:\\n\\n",
-            "— YouTube uygulamasındaki Paylaş düğmesini kullanın.\\n",
-            "— Telegram'ın satır içi bot'larını @vid veya @youtube'u kullanın.\\n",
-            "— Bağlantıyı tarayıcınızdan kopyala / yapıştırın."
-        ],
-        [
-            "{OPEN_BOOK} *Yardım (3 of 4)*\\n\\n",
-            "URL'yi bulduktan sonra bana gönderin.\\n\\n",
-            "Video başka biri tarafından indirilmişse hemen size gönderilecektir., ",
-            "Aksi halde {INBOX_TRAY} *Download* düğmesi görünecektir. Bastığınızda ses dosyası kullanılabilir olacak ",
-            "hemen ardından."
-        ],
-        [
-            "{OPEN_BOOK} *Yardım (4 of 4)*\\n\\n",
-            "Alınır ve indirildikten sonra, sesli mesaja basabilir ve *Kaydetme tuşuna basabilirsiniz* ",
-            "Ses Dosyasını Müzik Klasörüne Kaydetmek İçin."
-        ]
+    "help_1": [
+        "{OPEN_BOOK} *Yardım (1 of 4)*\\n\\n",
+        "İhtiyacınız olan tek şey, ses olarak indirmek istediğiniz YouTube videosunun URL'si, bunun gibi yapıştırınız:\\n\\n",
+        "— https://youtu.be/pi8WpLSCB3I."
     ],
-    "tips_list": [
-        [
-            "{ELECTRIC_LIGHT_BULB} *Taktik (1 of 2)*\\n\\n",
-            "Ayrıca bana yalnızca şu video kimliğini de gönderebilirsiniz:\\n\\n",
-            "— `SMWi7CLoZ2Q`."
-        ],
-        [
-            "{ELECTRIC_LIGHT_BULB} *Taktik (2 of 2)*\\n\\n",
-            "En son haberler ve bot güncellemeleri için @YTAudio kanalına katılın!"
-        ]
+    "help_2": [
+        "{OPEN_BOOK} *Yardım (2 of 4)*\\n\\n",
+        "URL'yi bulmak için çeşitli yollar vardır. Örneğin:\\n\\n",
+        "— YouTube uygulamasındaki Paylaş düğmesini kullanın.\\n",
+        "— Telegram'ın satır içi bot'larını @vid veya @youtube'u kullanın.\\n",
+        "— Bağlantıyı tarayıcınızdan kopyala / yapıştırın."
+    ],
+    "help_3": [
+        "{OPEN_BOOK} *Yardım (3 of 4)*\\n\\n",
+        "URL'yi bulduktan sonra bana gönderin.\\n\\n",
+        "Video başka biri tarafından indirilmişse hemen size gönderilecektir., ",
+        "Aksi halde {INBOX_TRAY} *Download* düğmesi görünecektir. Bastığınızda ses dosyası kullanılabilir olacak ",
+        "hemen ardından."
+    ],
+    "help_4": [
+        "{OPEN_BOOK} *Yardım (4 of 4)*\\n\\n",
+        "Alınır ve indirildikten sonra, sesli mesaja basabilir ve *Kaydetme tuşuna basabilirsiniz* ",
+        "Ses Dosyasını Müzik Klasörüne Kaydetmek İçin."
+    ],
+    "tip_1": [
+        "{ELECTRIC_LIGHT_BULB} *Taktik (1 of 2)*\\n\\n",
+        "Ayrıca bana yalnızca şu video kimliğini de gönderebilirsiniz:\\n\\n",
+        "— `SMWi7CLoZ2Q`."
+    ],
+    "tip_2": [
+        "{ELECTRIC_LIGHT_BULB} *Taktik (2 of 2)*\\n\\n",
+        "En son haberler ve bot güncellemeleri için @YTAudio kanalına katılın!"
     ],
     "hi": "{SPARKLES} *Merhaba, {name}!*",
     "presentation": [
@@ -156,36 +152,34 @@
         "{GLOBE_WITH_MERIDIANS} *Dil* - Dilini Seç\\n",
         "{SPEECH_BALLOON} *Geri Bildirim* - Geri Bildirimini Gönder"
     ],
-    "faq_list": [
-        [
-            "{BAR_CHART} *Sık sorulan Sorular*\\n\\n",
-            "`S:` *1.Ses formatı seçmek istiyorum!*\\n",
-            "`C:` Kaliteye, hizmet performansına ve güvenilirliğine odaklanıyoruz. ",
-            "YouTube'da bulunan en yüksek kalitede süper hızlı ses dönüştürmeleri yapmak için, yalnızca",
-            "ITunes bilgi ile etiketlenmiş M4A uzantılı bir MPEG-4 Part 14 (MP4) konteynerinde AAC 128k kodlanmış dosyalar kullanıyoruz. ",
-            "Bu seçim gelecekte değişebilir."
-        ],
-        [
-            "{BAR_CHART} *Sık sorulan Sorular*\\n\\n",
-            "`S:` *2. AAC / M4A ne anlama gelir?*\\n",
-            "`C:` AAC, MP3 formatının ardıllığı için tasarlanmış bir ses kodlama formatıdır ve genel olarak ",
-            "Benzer bit hızlarında MP3'den daha iyi ses kalitesi. M4A, konteyner olarak da bilinen bir dosya uzantısıdır",
-            "Hem gerçek AAC kodlanmış sesin hem de sesin etiketlerinin kendisidir."
-        ],
-        [
-            "{BAR_CHART} *Sık sorulan Sorular*\\n\\n",
-            "`S:` *3. Bazı videolar çalışmıyor!*\\n",
-            "`C:` YouTube'un ülke kısıtlamaları nedeniyle bazı videolar veri merkezimiz tarafından kullanılamayabilir. Ayrıca,",
-            "Bot şu an 50 MB'a kadar ses dosyaları gönderebilir, bu sınır ileride değiştirilebilir."
-        ],
-        [
-            "{BAR_CHART} *Sık sorulan Sorular*\\n\\n",
-            "`S:` *4. Dosyalarda neden garip isimler var?*\\n",
-            "`C:` Dosyalar `Title - VideoId.m4a` olarak kaydedilir, ancak` Title` başlığın% 100'ünü yansıtmayabilir ",
-            "Videonun bazı geçersiz karakterler nedeniyle Tüm doğru bilgi bu yana genellikle sorun değildir."
-        ]
+    "faq_1": [
+        "{BAR_CHART} *Sık sorulan Sorular*\\n\\n",
+        "`S:` *1.Ses formatı seçmek istiyorum!*\\n",
+        "`C:` Kaliteye, hizmet performansına ve güvenilirliğine odaklanıyoruz. ",
+        "YouTube'da bulunan en yüksek kalitede süper hızlı ses dönüştürmeleri yapmak için, yalnızca",
+        "ITunes bilgi ile etiketlenmiş M4A uzantılı bir MPEG-4 Part 14 (MP4) konteynerinde AAC 128k kodlanmış dosyalar kullanıyoruz. ",
+        "Bu seçim gelecekte değişebilir."
     ],
-    "faq": [
+    "faq_2": [
+        "{BAR_CHART} *Sık sorulan Sorular*\\n\\n",
+        "`S:` *2. AAC / M4A ne anlama gelir?*\\n",
+        "`C:` AAC, MP3 formatının ardıllığı için tasarlanmış bir ses kodlama formatıdır ve genel olarak ",
+        "Benzer bit hızlarında MP3'den daha iyi ses kalitesi. M4A, konteyner olarak da bilinen bir dosya uzantısıdır",
+        "Hem gerçek AAC kodlanmış sesin hem de sesin etiketlerinin kendisidir."
+    ],
+    "faq_3": [
+        "{BAR_CHART} *Sık sorulan Sorular*\\n\\n",
+        "`S:` *3. Bazı videolar çalışmıyor!*\\n",
+        "`C:` YouTube'un ülke kısıtlamaları nedeniyle bazı videolar veri merkezimiz tarafından kullanılamayabilir. Ayrıca,",
+        "Bot şu an 50 MB'a kadar ses dosyaları gönderebilir, bu sınır ileride değiştirilebilir."
+    ],
+    "faq_4": [
+        "{BAR_CHART} *Sık sorulan Sorular*\\n\\n",
+        "`S:` *4. Dosyalarda neden garip isimler var?*\\n",
+        "`C:` Dosyalar `Title - VideoId.m4a` olarak kaydedilir, ancak` Title` başlığın% 100'ünü yansıtmayabilir ",
+        "Videonun bazı geçersiz karakterler nedeniyle Tüm doğru bilgi bu yana genellikle sorun değildir."
+    ],
+    "faq_menu": [
         "{BAR_CHART} *Sık sorulan Sorular*\\n\\n",
         "*1.* Ses formatı seçmek istiyorum!\\n",
         "*2.* AAC / M4A ne anlama gelir?\\n",
@@ -205,44 +199,18 @@
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
-    "months_names": [
-        [
-            "Ocak"
-        ],
-        [
-            "Şubat"
-        ],
-        [
-            "Mart"
-        ],
-        [
-            "Nisan"
-        ],
-        [
-            "Mayıs"
-        ],
-        [
-            "Haziran"
-        ],
-        [
-            "Temmuz"
-        ],
-        [
-            "Ağustos"
-        ],
-        [
-            "Eylül"
-        ],
-        [
-            "Ekim"
-        ],
-        [
-            "Kasım"
-        ],
-        [
-            "Aralık"
-        ]
-    ],
+    "month_1": "Ocak",
+    "month_2": "Şubat",
+    "month_3": "Mart",
+    "month_4": "Nisan",
+    "month_5": "Mayıs",
+    "month_6": "Haziran",
+    "month_7": "Temmuz",
+    "month_8": "Ağustos",
+    "month_9": "Eylül",
+    "month_10": "Ekim",
+    "month_11": "Kasım",
+    "month_12": "Aralık",
     "start_button": "{CHEQUERED_FLAG} Başlat",
     "language_button": "{FLAG_FOR_TURKEY} Türkçe",
     "more_info_button": "{PAGE_WITH_CURL} Daha fazla",

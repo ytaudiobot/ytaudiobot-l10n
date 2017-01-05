@@ -93,42 +93,38 @@
     "download_successful": "{HEAVY_CHECK_MARK} *Audio scaricato con successo!*",
     "wait_previous_download": "{WARNING_SIGN} Aspetta il tuo download precedente!",
     "download_queue_full": "{WARNING_SIGN} La coda download è piena. Riprova più tardi.",
-    "help_pages_list": [
-        [
-            "{OPEN_BOOK} *Guida (1 di 4)*\\n\\n",
-            "L'unica cosa che ti serve è l'URL del video YouTube dal quale vuoi estrarre l'audio, come questo:\\n\\n",
-            "— https://youtu.be/SMWi7CLoZ2Q."
-        ],
-        [
-            "{OPEN_BOOK} *Guida (2 di 4)*\\n\\n",
-            "Ci sono vari modi per trovare l'URL. Puoi, ad esempio:\\n\\n",
-            "— Usare il pulsante Condividi dall'app di YouTube.\\n",
-            "— Usare i bot inline di Telegram @vid o @youtube.\\n",
-            "— Fare copia/incolla del link dal tuo browser."
-        ],
-        [
-            "{OPEN_BOOK} *Guida (3 di 4)*\\n\\n",
-            "Una volta trovato l'URL, inviamelo.\\n\\n",
-            "Se il video è già stato scaricato da qualcun altro ti verrà inviato immediatamente, ",
-            "altrimenti apparirà il pulsante {INBOX_TRAY} *Scarica*. Premilo, e il tuo file audio sarà disponibile ",
-            "poco dopo."
-        ],
-        [
-            "{OPEN_BOOK} *Guida (4 di 4)*\\n\\n",
-            "Dopo averlo ricevuto e scaricato, puoi premere sopra il messaggio audio e cliccare *Salva nella musica* per ",
-            "salvare il file audio nella cartella Musica del tuo dispositivo."
-        ]
+    "help_1": [
+        "{OPEN_BOOK} *Guida (1 di 4)*\\n\\n",
+        "L'unica cosa che ti serve è l'URL del video YouTube dal quale vuoi estrarre l'audio, come questo:\\n\\n",
+        "— https://youtu.be/SMWi7CLoZ2Q."
     ],
-    "tips_list": [
-        [
-            "{ELECTRIC_LIGHT_BULB} *Suggerimento (1 di 2)*\\n\\n",
-            "Puoi inviarmi anche solo l'ID del video, come questo:\\n\\n",
-            "— `SMWi7CLoZ2Q`."
-        ],
-        [
-            "{ELECTRIC_LIGHT_BULB} *Suggerimento (2 di 2)*\\n\\n",
-            "Unisciti al canale @YTAudio per le ultime news e aggiornamenti del bot!"
-        ]
+    "help_2": [
+        "{OPEN_BOOK} *Guida (2 di 4)*\\n\\n",
+        "Ci sono vari modi per trovare l'URL. Puoi, ad esempio:\\n\\n",
+        "— Usare il pulsante Condividi dall'app di YouTube.\\n",
+        "— Usare i bot inline di Telegram @vid o @youtube.\\n",
+        "— Fare copia/incolla del link dal tuo browser."
+    ],
+    "help_3": [
+        "{OPEN_BOOK} *Guida (3 di 4)*\\n\\n",
+        "Una volta trovato l'URL, inviamelo.\\n\\n",
+        "Se il video è già stato scaricato da qualcun altro ti verrà inviato immediatamente, ",
+        "altrimenti apparirà il pulsante {INBOX_TRAY} *Scarica*. Premilo, e il tuo file audio sarà disponibile ",
+        "poco dopo."
+    ],
+    "help_4": [
+        "{OPEN_BOOK} *Guida (4 di 4)*\\n\\n",
+        "Dopo averlo ricevuto e scaricato, puoi premere sopra il messaggio audio e cliccare *Salva nella musica* per ",
+        "salvare il file audio nella cartella Musica del tuo dispositivo."
+    ],
+    "tip_1": [
+        "{ELECTRIC_LIGHT_BULB} *Suggerimento (1 di 2)*\\n\\n",
+        "Puoi inviarmi anche solo l'ID del video, come questo:\\n\\n",
+        "— `SMWi7CLoZ2Q`."
+    ],
+    "tip_2": [
+        "{ELECTRIC_LIGHT_BULB} *Suggerimento (2 di 2)*\\n\\n",
+        "Unisciti al canale @YTAudio per le ultime news e aggiornamenti del bot!"
     ],
     "hi": "{SPARKLES} *Ciao, {name}!*",
     "presentation": [
@@ -156,38 +152,36 @@
         "{GLOBE_WITH_MERIDIANS} *Lingua* - Cambia la lingua del bot\\n",
         "{SPEECH_BALLOON} *Feedback* - Invia il tuo feedback"
     ],
-    "faq_list": [
-        [
-            "{BAR_CHART} *Domande frequenti*\\n\\n",
-            "`D:` *1. Voglio scegliere il formato audio!*\\n",
-            "`R:` Noi puntiamo sulla qualità, le prestazioni e l'affidabilità del servizio. ",
-            "Per ottenere conversioni audio super-veloci alla più alta qualità disponibile su YouTube, inviamo solo file ",
-            "codificati in AAC 128k all'interno di un contenitore MPEG-4 Part 14 (MP4) con estensione M4A taggati con ",
-            "informazioni iTunes. Questa scelta potrebbe cambiare in futuro."
-        ],
-        [
-            "{BAR_CHART} *Domande frequenti*\\n\\n",
-            "`D:` *2. Cosa significa AAC/M4A?*\\n",
-            "`R:` AAC è un formato audio progettato per essere il successore del formato MP3 e in genere raggiunge una ",
-            "migliore qualità audio rispetto al MP3 con bit rate simili. M4A, invece, oltre ad essere un'estensione ",
-            "di file è anche il contenitore sia dell'audio vero e proprio codificato in AAC che dei tag dell'audio stesso."
-        ],
-        [
-            "{BAR_CHART} *Domande frequenti*\\n\\n",
-            "`D:` *3. Alcuni video non funzionano!*\\n",
-            "`R:` Alcuni video, a causa di restrizioni geografiche da parte di YouTube, potrebbero non essere disponibili ",
-            "per il nostro data center. Inoltre, il bot attualmente può inviare file audio fino a una dimensione di 50 MB, ",
-            "questo limite potrebbe cambiare in futuro."
-        ],
-        [
-            "{BAR_CHART} *Domande frequenti*\\n\\n",
-            "`D:` *4. Perché i file hanno nomi strani?*\\n",
-            "`R:` I file vengono salvati nel formato `Titolo - VideoId.m4a`, tuttavia il `Titolo` potrebbe non ",
-            "corrispondere al 100% con il titolo del video a causa di alcuni caratteri invalidi. Solitamente questo non ",
-            "è un problema in quanto tutte le informazioni corrette del video sono incorporate nei tag del file audio."
-        ]
+    "faq_1": [
+        "{BAR_CHART} *Domande frequenti*\\n\\n",
+        "`D:` *1. Voglio scegliere il formato audio!*\\n",
+        "`R:` Noi puntiamo sulla qualità, le prestazioni e l'affidabilità del servizio. ",
+        "Per ottenere conversioni audio super-veloci alla più alta qualità disponibile su YouTube, inviamo solo file ",
+        "codificati in AAC 128k all'interno di un contenitore MPEG-4 Part 14 (MP4) con estensione M4A taggati con ",
+        "informazioni iTunes. Questa scelta potrebbe cambiare in futuro."
     ],
-    "faq": [
+    "faq_2": [
+        "{BAR_CHART} *Domande frequenti*\\n\\n",
+        "`D:` *2. Cosa significa AAC/M4A?*\\n",
+        "`R:` AAC è un formato audio progettato per essere il successore del formato MP3 e in genere raggiunge una ",
+        "migliore qualità audio rispetto al MP3 con bit rate simili. M4A, invece, oltre ad essere un'estensione ",
+        "di file è anche il contenitore sia dell'audio vero e proprio codificato in AAC che dei tag dell'audio stesso."
+    ],
+    "faq_3": [
+        "{BAR_CHART} *Domande frequenti*\\n\\n",
+        "`D:` *3. Alcuni video non funzionano!*\\n",
+        "`R:` Alcuni video, a causa di restrizioni geografiche da parte di YouTube, potrebbero non essere disponibili ",
+        "per il nostro data center. Inoltre, il bot attualmente può inviare file audio fino a una dimensione di 50 MB, ",
+        "questo limite potrebbe cambiare in futuro."
+    ],
+    "faq_4": [
+        "{BAR_CHART} *Domande frequenti*\\n\\n",
+        "`D:` *4. Perché i file hanno nomi strani?*\\n",
+        "`R:` I file vengono salvati nel formato `Titolo - VideoId.m4a`, tuttavia il `Titolo` potrebbe non ",
+        "corrispondere al 100% con il titolo del video a causa di alcuni caratteri invalidi. Solitamente questo non ",
+        "è un problema in quanto tutte le informazioni corrette del video sono incorporate nei tag del file audio."
+    ],
+    "faq_menu": [
         "{BAR_CHART} *Domande frequenti*\\n\\n",
         "*1.* Voglio scegliere il formato audio!\\n",
         "*2.* Cosa significa AAC/M4A?\\n",
@@ -207,44 +201,18 @@
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
-    "months_names": [
-        [
-            "Gennaio"
-        ],
-        [
-            "Febbraio"
-        ],
-        [
-            "Marzo"
-        ],
-        [
-            "Aprile"
-        ],
-        [
-            "Maggio"
-        ],
-        [
-            "Giugno"
-        ],
-        [
-            "Luglio"
-        ],
-        [
-            "Agosto"
-        ],
-        [
-            "Settembre"
-        ],
-        [
-            "Ottobre"
-        ],
-        [
-            "Novembre"
-        ],
-        [
-            "Dicembre"
-        ]
-    ],
+    "month_1": "Gennaio",
+    "month_2": "Febbraio",
+    "month_3": "Marzo",
+    "month_4": "Aprile",
+    "month_5": "Maggio",
+    "month_6": "Giugno",
+    "month_7": "Luglio",
+    "month_8": "Agosto",
+    "month_9": "Settembre",
+    "month_10": "Ottobre",
+    "month_11": "Novembre",
+    "month_12": "Dicembre",
     "start_button": "{CHEQUERED_FLAG} Avvia",
     "language_button": "{FLAG_FOR_ITALY} Italiano",
     "more_info_button": "{PAGE_WITH_CURL} Più info",

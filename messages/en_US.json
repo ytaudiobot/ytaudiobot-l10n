@@ -93,42 +93,38 @@
     "download_successful": "{HEAVY_CHECK_MARK} *Audio successfully downloaded!*",
     "wait_previous_download": "{WARNING_SIGN} Wait for your previous download!",
     "download_queue_full": "{WARNING_SIGN} Download queue is full. Please try again later.",
-    "help_pages_list": [
-        [
-            "{OPEN_BOOK} *Help (1 of 4)*\\n\\n",
-            "The only thing you need is the URL of the YouTube video you want to extract the audio from, like this one:\\n\\n",
-            "— https://youtu.be/SMWi7CLoZ2Q."
-        ],
-        [
-            "{OPEN_BOOK} *Help (2 of 4)*\\n\\n",
-            "There are various ways to find the URL. You can, for example:\\n\\n",
-            "— Use the Share button from the YouTube app.\\n",
-            "— Use Telegram's inline bots @vid or @youtube.\\n",
-            "— Copy/paste the link from your browser."
-        ],
-        [
-            "{OPEN_BOOK} *Help (3 of 4)*\\n\\n",
-            "Once you've found the URL, send it to me.\\n\\n",
-            "If the video has already been downloaded by someone else it will be sent to you immediately, ",
-            "otherwise the button {INBOX_TRAY} *Download* will appear. Press it, and your audio file will be available ",
-            "shortly after."
-        ],
-        [
-            "{OPEN_BOOK} *Help (4 of 4)*\\n\\n",
-            "After having received and downloaded it, you can press on the audio message and hit *Save to music* ",
-            "to save the audio file in the Music folder of your device."
-        ]
+    "help_1": [
+        "{OPEN_BOOK} *Help (1 of 4)*\\n\\n",
+        "The only thing you need is the URL of the YouTube video you want to extract the audio from, like this one:\\n\\n",
+        "— https://youtu.be/SMWi7CLoZ2Q."
     ],
-    "tips_list": [
-        [
-            "{ELECTRIC_LIGHT_BULB} *Tip (1 of 2)*\\n\\n",
-            "You can also send me only the video ID, like this one:\\n\\n",
-            "— `SMWi7CLoZ2Q`."
-        ],
-        [
-            "{ELECTRIC_LIGHT_BULB} *Tip (2 of 2)*\\n\\n",
-            "Join the channel @YTAudio for latest news and bot updates!"
-        ]
+    "help_2": [
+        "{OPEN_BOOK} *Help (2 of 4)*\\n\\n",
+        "There are various ways to find the URL. You can, for example:\\n\\n",
+        "— Use the Share button from the YouTube app.\\n",
+        "— Use Telegram's inline bots @vid or @youtube.\\n",
+        "— Copy/paste the link from your browser."
+    ],
+    "help_3": [
+        "{OPEN_BOOK} *Help (3 of 4)*\\n\\n",
+        "Once you've found the URL, send it to me.\\n\\n",
+        "If the video has already been downloaded by someone else it will be sent to you immediately, ",
+        "otherwise the button {INBOX_TRAY} *Download* will appear. Press it, and your audio file will be available ",
+        "shortly after."
+    ],
+    "help_4": [
+        "{OPEN_BOOK} *Help (4 of 4)*\\n\\n",
+        "After having received and downloaded it, you can press on the audio message and hit *Save to music* ",
+        "to save the audio file in the Music folder of your device."
+    ],
+    "tip_1": [
+        "{ELECTRIC_LIGHT_BULB} *Tip (1 of 2)*\\n\\n",
+        "You can also send me only the video ID, like this one:\\n\\n",
+        "— `SMWi7CLoZ2Q`."
+    ],
+    "tip_2": [
+        "{ELECTRIC_LIGHT_BULB} *Tip (2 of 2)*\\n\\n",
+        "Join the channel @YTAudio for latest news and bot updates!"
     ],
     "hi": "{SPARKLES} *Hi, {name}!*",
     "presentation": [
@@ -156,37 +152,35 @@
         "{GLOBE_WITH_MERIDIANS} *Language* - Change language\\n",
         "{SPEECH_BALLOON} *Feedback* - Send your feedback"
     ],
-    "faq_list": [
-        [
-            "{BAR_CHART} *Frequently asked questions*\\n\\n",
-            "`Q:` *1. I want to choose the audio format!*\\n",
-            "`A:` We focus on quality, service performance and reliability. ",
-            "To achieve super-fast audio conversions at the highest quality available on YouTube, we only send ",
-            "AAC 128k encoded files inside a MPEG-4 Part 14 (MP4) container with M4A extension tagged with iTunes info. ",
-            "This choice might change in future."
-        ],
-        [
-            "{BAR_CHART} *Frequently asked questions*\\n\\n",
-            "`Q:` *2. What does AAC/M4A mean?*\\n",
-            "`A:` AAC is an audio coding format designed to be the successor of the MP3 format and generally achieves ",
-            "better sound quality than MP3 at similar bit rates. M4A is a file extension, also known as the container ",
-            "of both the actual AAC encoded audio and the tags of the audio itself."
-        ],
-        [
-            "{BAR_CHART} *Frequently asked questions*\\n\\n",
-            "`Q:` *3. Some videos don't work!*\\n",
-            "`A:` Some videos, due to YouTube's country restrictions, may not be available for our data center. Also, ",
-            "the bot can currently send audio files of up to 50 MB in size, this limit may be changed in the future."
-        ],
-        [
-            "{BAR_CHART} *Frequently asked questions*\\n\\n",
-            "`Q:` *4. Why do files have strange names?*\\n",
-            "`A:` The files are saved as `Title - VideoId.m4a`, however the `Title` might not reflect 100% the title ",
-            "of the video due to some invalid characters. This is usually not a problem since all the correct info about ",
-            "the video are embedded in the audio file tags."
-        ]
+    "faq_1": [
+        "{BAR_CHART} *Frequently asked questions*\\n\\n",
+        "`Q:` *1. I want to choose the audio format!*\\n",
+        "`A:` We focus on quality, service performance and reliability. ",
+        "To achieve super-fast audio conversions at the highest quality available on YouTube, we only send ",
+        "AAC 128k encoded files inside a MPEG-4 Part 14 (MP4) container with M4A extension tagged with iTunes info. ",
+        "This choice might change in future."
     ],
-    "faq": [
+    "faq_2": [
+        "{BAR_CHART} *Frequently asked questions*\\n\\n",
+        "`Q:` *2. What does AAC/M4A mean?*\\n",
+        "`A:` AAC is an audio coding format designed to be the successor of the MP3 format and generally achieves ",
+        "better sound quality than MP3 at similar bit rates. M4A is a file extension, also known as the container ",
+        "of both the actual AAC encoded audio and the tags of the audio itself."
+    ],
+    "faq_3": [
+        "{BAR_CHART} *Frequently asked questions*\\n\\n",
+        "`Q:` *3. Some videos don't work!*\\n",
+        "`A:` Some videos, due to YouTube's country restrictions, may not be available for our data center. Also, ",
+        "the bot can currently send audio files of up to 50 MB in size, this limit may be changed in the future."
+    ],
+    "faq_4": [
+        "{BAR_CHART} *Frequently asked questions*\\n\\n",
+        "`Q:` *4. Why do files have strange names?*\\n",
+        "`A:` The files are saved as `Title - VideoId.m4a`, however the `Title` might not reflect 100% the title ",
+        "of the video due to some invalid characters. This is usually not a problem since all the correct info about ",
+        "the video are embedded in the audio file tags."
+    ],
+    "faq_menu": [
         "{BAR_CHART} *Frequently asked questions*\\n\\n",
         "*1.* I want to choose the audio format!\\n",
         "*2.* What does AAC/M4A mean?\\n",
@@ -206,44 +200,18 @@
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
-    "months_names": [
-        [
-            "January"
-        ],
-        [
-            "February"
-        ],
-        [
-            "March"
-        ],
-        [
-            "April"
-        ],
-        [
-            "May"
-        ],
-        [
-            "June"
-        ],
-        [
-            "July"
-        ],
-        [
-            "August"
-        ],
-        [
-            "September"
-        ],
-        [
-            "October"
-        ],
-        [
-            "November"
-        ],
-        [
-            "December"
-        ]
-    ],
+    "month_1": "January",
+    "month_2": "February",
+    "month_3": "March",
+    "month_4": "April",
+    "month_5": "May",
+    "month_6": "June",
+    "month_7": "July",
+    "month_8": "August",
+    "month_9": "September",
+    "month_10": "October",
+    "month_11": "November",
+    "month_12": "December",
     "start_button": "{CHEQUERED_FLAG} Start",
     "language_button": "{FLAG_FOR_UNITED_STATES} English",
     "more_info_button": "{PAGE_WITH_CURL} More info",

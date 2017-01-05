@@ -93,42 +93,38 @@
     "download_successful": "{HEAVY_CHECK_MARK} *Audio muvoffaqqiyatli yuklab olindi!*",
     "wait_previous_download": "{WARNING_SIGN} Oldingi yuklab olishni kuting!",
     "download_queue_full": "{WARNING_SIGN} Yuklab olish navbati to'la. Iltimoz keyinroq urinib ko'ring.",
-    "help_pages_list": [
-        [
-            "{OPEN_BOOK} *Yordam (1-4)*\\n\\n",
-            "Sizga kerak bo'lgan narsa, ma'lum bir YouTube video URL si holos, misol uchun:\\n\\n",
-            "— https://youtu.be/SMWi7CLoZ2Q."
-        ],
-        [
-            "{OPEN_BOOK} *Yordam (2-4)*\\n\\n",
-            "URL ni topishni bir necha usuli bor. Misol uchun siz:\\n\\n",
-            "— YouTube programmasidan Baham Ko'rish tugmasini bosing.\\n",
-            "— Telegramni quyidagi inline botlaridan foydalaning, @vid yoki @youtube.\\n",
-            "— Linkni borowseringizdan Copy qilib so'ngra botga Paste qiling."
-        ],
-        [
-            "{OPEN_BOOK} *Yordam (3-4)*\\n\\n",
-            "URL ni topgandan so'ng, uni menga jo'nating.\\n\\n",
-            "Agar video boshqa foydalanuvchi tomonidan allaqachon yuklab olingan bo'lsa, u sizga darhol jo'natiladi, ",
-            "Boshqa holda {INBOX_TRAY} *Yuklab olish* tugmasi chiqadi. Uni bosing, va sizning faylingiz tezda paydo ",
-            "bo'ladi."
-        ],
-        [
-            "{OPEN_BOOK} *Yordam (4-4)*\\n\\n",
-            "Qabul qilib, yuklab olganingizdan so'ng, audio xabar va *Saqlash* tugmasini bosing. ",
-            "Audio, Music folderingizga tushadi."
-        ]
+    "help_1": [
+        "{OPEN_BOOK} *Yordam (1-4)*\\n\\n",
+        "Sizga kerak bo'lgan narsa, ma'lum bir YouTube video URL si holos, misol uchun:\\n\\n",
+        "— https://youtu.be/SMWi7CLoZ2Q."
     ],
-    "tips_list": [
-        [
-            "{ELECTRIC_LIGHT_BULB} *Maslahat (1-2)*\\n\\n",
-            "Siz shuningdek video ID sini ham jo'natishingiz mumkin, misol uchun:\\n\\n",
-            "— `SMWi7CLoZ2Q`."
-        ],
-        [
-            "{ELECTRIC_LIGHT_BULB} *Maslahat (2-2)*\\n\\n",
-            "Botning so'ngi yangiliklari uchun @YTAudio kanaliga a'zo boling!"
-        ]
+    "help_2": [
+        "{OPEN_BOOK} *Yordam (2-4)*\\n\\n",
+        "URL ni topishni bir necha usuli bor. Misol uchun siz:\\n\\n",
+        "— YouTube programmasidan Baham Ko'rish tugmasini bosing.\\n",
+        "— Telegramni quyidagi inline botlaridan foydalaning, @vid yoki @youtube.\\n",
+        "— Linkni borowseringizdan Copy qilib so'ngra botga Paste qiling."
+    ],
+    "help_3": [
+        "{OPEN_BOOK} *Yordam (3-4)*\\n\\n",
+        "URL ni topgandan so'ng, uni menga jo'nating.\\n\\n",
+        "Agar video boshqa foydalanuvchi tomonidan allaqachon yuklab olingan bo'lsa, u sizga darhol jo'natiladi, ",
+        "Boshqa holda {INBOX_TRAY} *Yuklab olish* tugmasi chiqadi. Uni bosing, va sizning faylingiz tezda paydo ",
+        "bo'ladi."
+    ],
+    "help_4": [
+        "{OPEN_BOOK} *Yordam (4-4)*\\n\\n",
+        "Qabul qilib, yuklab olganingizdan so'ng, audio xabar va *Saqlash* tugmasini bosing. ",
+        "Audio, Music folderingizga tushadi."
+    ],
+    "tip_1": [
+        "{ELECTRIC_LIGHT_BULB} *Maslahat (1-2)*\\n\\n",
+        "Siz shuningdek video ID sini ham jo'natishingiz mumkin, misol uchun:\\n\\n",
+        "— `SMWi7CLoZ2Q`."
+    ],
+    "tip_2": [
+        "{ELECTRIC_LIGHT_BULB} *Maslahat (2-2)*\\n\\n",
+        "Botning so'ngi yangiliklari uchun @YTAudio kanaliga a'zo boling!"
     ],
     "hi": "{SPARKLES} *Salom, {name}!*",
     "presentation": [
@@ -156,37 +152,35 @@
         "{GLOBE_WITH_MERIDIANS} *Til* - Tilni o'zgartirish\\n",
         "{SPEECH_BALLOON} *Fikrlar* - Fikringizni jo'nating"
     ],
-    "faq_list": [
-        [
-            "{BAR_CHART} *Ko'p so'raladigan savollar*\\n\\n",
-            "`S:` *1. Audio formatini tanlamoqchiman!*\\n",
-            "`J:` Biz sifat, xizmat bajarish va ishonchlilikka ko'proq e'tibor beramiz. ",
-            "Sizga YouTube dagi audioni tiniq hamda tez yetkazish uchun, biz faqatgina ",
-            "MPEG-4 Part 14 (MP4) da bo'lgan AAC 128k encoded fayllarni kontainerda M4A extension qo'shilgan iTunes info bilan birga jo'natamiz. ",
-            "Lekin siz so'ragan qulaylik yaqinda qo'shilishi mumkin."
-        ],
-        [
-            "{BAR_CHART} *Ko'p so'raladigan savollar*\\n\\n",
-            "`S:` *2. AAC/M4A nimani anglatadi?*\\n",
-            "`J:` AAC bu MP3 formatiga o'xshash audio bo'lib, odatda ",
-            "MP3 formatidan tiniqroq audio beradi. M4A bu fayl extensioni, shuningdek container deb nomlanadi, ",
-            "Original encoded audio, audio tagi bilan birga."
-        ],
-        [
-            "{BAR_CHART} *Ko'p so'raladigan savollar*\\n\\n",
-            "`S:` *3. B'azi bir videolar ishlamayapti!*\\n",
-            "`J:` Ba'zi bir videolar YouTube tomonidan cheklangan bo'ladi, va sizning data centeringiz uchun mavjud bo'lmasligi mumkin. Shuningdek, ",
-            "hozirda bot, hajmi 50MB dan oshiq bo'lgan audiolarni jo'natishga qodir emas, lekin bu kelajakda o'zgarishi mumkin."
-        ],
-        [
-            "{BAR_CHART} *Ko'p so'raladigan savollar*\\n\\n",
-            "`S:` *4. Nima uchun fayllar o'zgacha nomga ega?*\\n",
-            "`J:` Fayllar `Nom - VideoId.m4a` kabi saqlanib qoladi, lekin `Nomi` video nomiga 100% o'xshmasligi ham mumkin ",
-            "b'azi bir characterlar sababli. Bu odatda muammo emas, chunki video haqidagi barcha ma'lumot ",
-            "audio tag da birlashgan bo'ladi."
-        ]
+    "faq_1": [
+        "{BAR_CHART} *Ko'p so'raladigan savollar*\\n\\n",
+        "`S:` *1. Audio formatini tanlamoqchiman!*\\n",
+        "`J:` Biz sifat, xizmat bajarish va ishonchlilikka ko'proq e'tibor beramiz. ",
+        "Sizga YouTube dagi audioni tiniq hamda tez yetkazish uchun, biz faqatgina ",
+        "MPEG-4 Part 14 (MP4) da bo'lgan AAC 128k encoded fayllarni kontainerda M4A extension qo'shilgan iTunes info bilan birga jo'natamiz. ",
+        "Lekin siz so'ragan qulaylik yaqinda qo'shilishi mumkin."
     ],
-    "faq": [
+    "faq_2": [
+        "{BAR_CHART} *Ko'p so'raladigan savollar*\\n\\n",
+        "`S:` *2. AAC/M4A nimani anglatadi?*\\n",
+        "`J:` AAC bu MP3 formatiga o'xshash audio bo'lib, odatda ",
+        "MP3 formatidan tiniqroq audio beradi. M4A bu fayl extensioni, shuningdek container deb nomlanadi, ",
+        "Original encoded audio, audio tagi bilan birga."
+    ],
+    "faq_3": [
+        "{BAR_CHART} *Ko'p so'raladigan savollar*\\n\\n",
+        "`S:` *3. B'azi bir videolar ishlamayapti!*\\n",
+        "`J:` Ba'zi bir videolar YouTube tomonidan cheklangan bo'ladi, va sizning data centeringiz uchun mavjud bo'lmasligi mumkin. Shuningdek, ",
+        "hozirda bot, hajmi 50MB dan oshiq bo'lgan audiolarni jo'natishga qodir emas, lekin bu kelajakda o'zgarishi mumkin."
+    ],
+    "faq_4": [
+        "{BAR_CHART} *Ko'p so'raladigan savollar*\\n\\n",
+        "`S:` *4. Nima uchun fayllar o'zgacha nomga ega?*\\n",
+        "`J:` Fayllar `Nom - VideoId.m4a` kabi saqlanib qoladi, lekin `Nomi` video nomiga 100% o'xshmasligi ham mumkin ",
+        "b'azi bir characterlar sababli. Bu odatda muammo emas, chunki video haqidagi barcha ma'lumot ",
+        "audio tag da birlashgan bo'ladi."
+    ],
+    "faq_menu": [
         "{BAR_CHART} *Ko'p so'raladigan savollar*\\n\\n",
         "*1.* Audio formatini tanlamoqchiman!\\n",
         "*2.* AAC/M4A nimani anglatadi?\\n",
@@ -195,44 +189,18 @@
     ],
     "contribute": null,
     "contributors": null,
-    "months_names": [
-        [
-            "Yanvar"
-        ],
-        [
-            "Febral"
-        ],
-        [
-            "Mart"
-        ],
-        [
-            "Aprel"
-        ],
-        [
-            "May"
-        ],
-        [
-            "Iyun"
-        ],
-        [
-            "Iyul"
-        ],
-        [
-            "Avgust"
-        ],
-        [
-            "Sentabr"
-        ],
-        [
-            "Oktabr"
-        ],
-        [
-            "Noyabr"
-        ],
-        [
-            "Dekabr"
-        ]
-    ],
+    "month_1": "Yanvar",
+    "month_2": "Febral",
+    "month_3": "Mart",
+    "month_4": "Aprel",
+    "month_5": "May",
+    "month_6": "Iyun",
+    "month_7": "Iyul",
+    "month_8": "Avgust",
+    "month_9": "Sentabr",
+    "month_10": "Oktabr",
+    "month_11": "Noyabr",
+    "month_12": "Dekabr",
     "start_button": "{CHEQUERED_FLAG} Boshlash",
     "language_button": "{FLAG_FOR_UZBEKISTAN} O'zbek",
     "more_info_button": "{PAGE_WITH_CURL} Qo'shimcha ma'lumot",

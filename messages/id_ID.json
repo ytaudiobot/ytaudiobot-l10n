@@ -93,42 +93,38 @@
     "download_successful": "{HEAVY_CHECK_MARK} *Audio berhasil diunduh!*",
     "wait_previous_download": "{WARNING_SIGN} Masih menunggu unduhan anda sebelumnya!",
     "download_queue_full": "{WARNING_SIGN} Permintaan unduhan penuh, harap coba lagi nanti.",
-    "help_pages_list": [
-        [
-            "{OPEN_BOOK} *Bantuan (1 dari 4)*\\n\\n",
-            "Satu-satunya hal yang anda butuhkan adalah tautan/URL video YouTube yang ingin anda unduh audionya, contoh: \\n\\n",
-            "— https://youtu.be/SMWi7CLoZ2Q."
-        ],
-        [
-            "{OPEN_BOOK} *Bantuan (2 dari 4)*\\n\\n",
-            "Ada banyak cara untuk mendapatkan tautan. Misalnya:\\n\\n",
-            "— Menggunakan tombol Share/Bagikan dari aplikasi YouTube;\\n",
-            "— Menggunakan bot @vid atau @youtube Telegram; atau\\n",
-            "— Menyalin dan menempelkan tautannya dari browser anda."
-        ],
-        [
-            "{OPEN_BOOK} *Bantuan (3 dari 4)*\\n\\n",
-            "Setelah anda mendapatkan tautannya, kirimkan ke saya.\\n\\n",
-            "Jika videonya sudah diunduh orang lain, audionya akan segera dikirimkan kepada anda sesegera mungkin, ",
-            "jika tidak tombol {INBOX_TRAY} *Unduh* akan muncul. Tekan, dan audio yang anda inginkan akan tersedia ",
-            "segera setelah itu."
-        ],
-        [
-            "{OPEN_BOOK} *Bantuan (4 dari 4)*\\n\\n",
-            "Setelah menerima dan mengunduh, anda dapat menekan pesan audio dan tekan *Simpan ke Musik*/*Save to Music* ",
-            "untuk menyimpan berkas audionya ke folder Musik perangkat anda."
-        ]
+    "help_1": [
+        "{OPEN_BOOK} *Bantuan (1 dari 4)*\\n\\n",
+        "Satu-satunya hal yang anda butuhkan adalah tautan/URL video YouTube yang ingin anda unduh audionya, contoh: \\n\\n",
+        "— https://youtu.be/SMWi7CLoZ2Q."
     ],
-    "tips_list": [
-        [
-            "{ELECTRIC_LIGHT_BULB} *Tip (1 dari 2)*\\n\\n",
-            "Anda juga dapat mengirimkan hanya ID videonya saja, seperti:\\n\\n",
-            "— `SMWi7CLoZ2Q`."
-        ],
-        [
-            "{ELECTRIC_LIGHT_BULB} *Tip (2 dari 2)*\\n\\n",
-            "Bergabung dengan kanal @YTAudio untuk informasi terkini dan pembaharuan bot!"
-        ]
+    "help_2": [
+        "{OPEN_BOOK} *Bantuan (2 dari 4)*\\n\\n",
+        "Ada banyak cara untuk mendapatkan tautan. Misalnya:\\n\\n",
+        "— Menggunakan tombol Share/Bagikan dari aplikasi YouTube;\\n",
+        "— Menggunakan bot @vid atau @youtube Telegram; atau\\n",
+        "— Menyalin dan menempelkan tautannya dari browser anda."
+    ],
+    "help_3": [
+        "{OPEN_BOOK} *Bantuan (3 dari 4)*\\n\\n",
+        "Setelah anda mendapatkan tautannya, kirimkan ke saya.\\n\\n",
+        "Jika videonya sudah diunduh orang lain, audionya akan segera dikirimkan kepada anda sesegera mungkin, ",
+        "jika tidak tombol {INBOX_TRAY} *Unduh* akan muncul. Tekan, dan audio yang anda inginkan akan tersedia ",
+        "segera setelah itu."
+    ],
+    "help_4": [
+        "{OPEN_BOOK} *Bantuan (4 dari 4)*\\n\\n",
+        "Setelah menerima dan mengunduh, anda dapat menekan pesan audio dan tekan *Simpan ke Musik*/*Save to Music* ",
+        "untuk menyimpan berkas audionya ke folder Musik perangkat anda."
+    ],
+    "tip_1": [
+        "{ELECTRIC_LIGHT_BULB} *Tip (1 dari 2)*\\n\\n",
+        "Anda juga dapat mengirimkan hanya ID videonya saja, seperti:\\n\\n",
+        "— `SMWi7CLoZ2Q`."
+    ],
+    "tip_2": [
+        "{ELECTRIC_LIGHT_BULB} *Tip (2 dari 2)*\\n\\n",
+        "Bergabung dengan kanal @YTAudio untuk informasi terkini dan pembaharuan bot!"
     ],
     "hi": "{SPARKLES} *Halo, {name}!*",
     "presentation": [
@@ -156,37 +152,35 @@
         "{GLOBE_WITH_MERIDIANS} *Bahasa* - Ganti Bahasa\\n",
         "{SPEECH_BALLOON} *Tanggapan* - Kirim tanggapan anda"
     ],
-    "faq_list": [
-        [
-            "{BAR_CHART} *Pertanyaan Sering Terajukan (FAQ/PST)*\\n\\n",
-            "`Q:` *Saya ingin memilih format audionya!*\\n",
-            "`A:` Kami berfokus pada kualitas, performa layanan dan reliabilitas. ",
-            "Untuk mencapai konversi audio super cepat pada kualitas tertinggi yag ada di YouTube, kami hanya mengirimkan ",
-            "file ter-enkode AAC 128k di dalam pemuat MPEG-4 Bagian 14 (MP4) dengan ekstensi M4A beserta informasi iTunes. ",
-            "Pilihan ini dapat berubah di waktu yang akan datang."
-        ],
-        [
-            "{BAR_CHART} *Pertanyaan Sering Terajukan (FAQ/PST)*\\n\\n",
-            "`Q:` *2. Apa itu AAC/M4A?*\\n",
-            "`A:` AAC adalah format pengkodean audio yang didesain untuk menjadi penerus format MP3 dan biasanya ",
-            "kualitas suaranya lebih baik ketimbang MP3 pada tingkat bit serupa. M4A adalah ekstensi berkasnya, ",
-            "yang juga dikenal sebagai pemuat audio ter-enkode AAC dan tag audio itu sendiri."
-        ],
-        [
-            "{BAR_CHART} *Pertanyaan Sering Terajukan (FAQ/PST)*\\n\\n",
-            "`Q:` *3. Video tertentu tidak bekerja!*\\n",
-            "`A:` Beberapa video, karena pembatasan negara oleh YouTube, bisa jadi tidak tersedia pada pusat data kami. ",
-            "Selain itu, bot ini juga hanya dapat mengirimkan berkas berukuran maksimal 50 MB--dapat berubah di waktu dekat."
-        ],
-        [
-            "{BAR_CHART} *Pertanyaan Sering Terajukan (FAQ/PST)*\\n\\n",
-            "`Q:` *4. Kenapa berkasnya punya nama-nama aneh?*\\n",
-            "`A:` Berkasnya disimpan dengan nama `Judul - ID Video.m4a`, namun `Judul` belum tentu mencerminkan judul asli ",
-            "videonya karena adanya karakter yang tidak benar. Ini biasanya bukan masalah karena semua informasi benar ",
-            "tentang video tersebut disisipkan dalam tag berkas audionya."
-        ]
+    "faq_1": [
+        "{BAR_CHART} *Pertanyaan Sering Terajukan (FAQ/PST)*\\n\\n",
+        "`Q:` *Saya ingin memilih format audionya!*\\n",
+        "`A:` Kami berfokus pada kualitas, performa layanan dan reliabilitas. ",
+        "Untuk mencapai konversi audio super cepat pada kualitas tertinggi yag ada di YouTube, kami hanya mengirimkan ",
+        "file ter-enkode AAC 128k di dalam pemuat MPEG-4 Bagian 14 (MP4) dengan ekstensi M4A beserta informasi iTunes. ",
+        "Pilihan ini dapat berubah di waktu yang akan datang."
     ],
-    "faq": [
+    "faq_2": [
+        "{BAR_CHART} *Pertanyaan Sering Terajukan (FAQ/PST)*\\n\\n",
+        "`Q:` *2. Apa itu AAC/M4A?*\\n",
+        "`A:` AAC adalah format pengkodean audio yang didesain untuk menjadi penerus format MP3 dan biasanya ",
+        "kualitas suaranya lebih baik ketimbang MP3 pada tingkat bit serupa. M4A adalah ekstensi berkasnya, ",
+        "yang juga dikenal sebagai pemuat audio ter-enkode AAC dan tag audio itu sendiri."
+    ],
+    "faq_3": [
+        "{BAR_CHART} *Pertanyaan Sering Terajukan (FAQ/PST)*\\n\\n",
+        "`Q:` *3. Video tertentu tidak bekerja!*\\n",
+        "`A:` Beberapa video, karena pembatasan negara oleh YouTube, bisa jadi tidak tersedia pada pusat data kami. ",
+        "Selain itu, bot ini juga hanya dapat mengirimkan berkas berukuran maksimal 50 MB--dapat berubah di waktu dekat."
+    ],
+    "faq_4": [
+        "{BAR_CHART} *Pertanyaan Sering Terajukan (FAQ/PST)*\\n\\n",
+        "`Q:` *4. Kenapa berkasnya punya nama-nama aneh?*\\n",
+        "`A:` Berkasnya disimpan dengan nama `Judul - ID Video.m4a`, namun `Judul` belum tentu mencerminkan judul asli ",
+        "videonya karena adanya karakter yang tidak benar. Ini biasanya bukan masalah karena semua informasi benar ",
+        "tentang video tersebut disisipkan dalam tag berkas audionya."
+    ],
+    "faq_menu": [
         "{BAR_CHART} *Pertanyaan Sering Terajukan (FAQ/PST)*\\n\\n",
         "*1.* Saya ingin memilih format audionya!\\n",
         "*2.* Apa itu AAC/M4A?\\n",
@@ -206,44 +200,18 @@
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
-    "months_names": [
-        [
-            "Januari"
-        ],
-        [
-            "Februari"
-        ],
-        [
-            "Maret"
-        ],
-        [
-            "April"
-        ],
-        [
-            "Mei"
-        ],
-        [
-            "Juni"
-        ],
-        [
-            "Juli"
-        ],
-        [
-            "Agustus"
-        ],
-        [
-            "September"
-        ],
-        [
-            "Oktober"
-        ],
-        [
-            "November"
-        ],
-        [
-            "Desember"
-        ]
-    ],
+    "month_1": "Januari",
+    "month_2": "Februari",
+    "month_3": "Maret",
+    "month_4": "April",
+    "month_5": "Mei",
+    "month_6": "Juni",
+    "month_7": "Juli",
+    "month_8": "Agustus",
+    "month_9": "September",
+    "month_10": "Oktober",
+    "month_11": "November",
+    "month_12": "Desember",
     "start_button": "{CHEQUERED_FLAG} Mulai",
     "language_button": "{FLAG_FOR_INDONESIA} Bahasa Indonesia",
     "more_info_button": "{PAGE_WITH_CURL} Rincian",

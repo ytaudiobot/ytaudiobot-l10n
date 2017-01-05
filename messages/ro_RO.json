@@ -93,42 +93,38 @@
     "download_successful": "{HEAVY_CHECK_MARK} *Formatul audio a fost descărcat cu succes!*",
     "wait_previous_download": "{WARNING_SIGN} Așteaptă pentru descărcarea anterioară!",
     "download_queue_full": "{WARNING_SIGN} Lista pentru descărcări este plină. Încearcă mai târziu.",
-    "help_pages_list": [
-        [
-            "{OPEN_BOOK} *Ajutor (1 din 4)*\\n\\n",
-            "Singurul lucru de care ai nevoie este link-ul URL al clip-ului de pe YouTube, din care vrei să extragi formatul audio, ca acesta:\\n\\n",
-            "— https://youtu.be/SMWi7CLoZ2Q."
-        ],
-        [
-            "{OPEN_BOOK} *Ajutor (2 din 4)*\\n\\n",
-            "Sunt multe modalități de a găsi link-ul URL. Poți, de exemplu:\\n\\n",
-            "— Să folosești butonul Share din aplicația YouTube.\\n",
-            "— Să folosești comenzile 'inline' @vid sau @youtube.\\n",
-            "— Să copiezi/inserezi link-ul direct din browser."
-        ],
-        [
-            "{OPEN_BOOK} *Ajutor (3 din 4)*\\n\\n",
-            "După ce ai găsit link-ul URL, trimite-mi-l.\\n\\n",
-            "Dacă clip-ul a fost deja descărcat de altcineva formatul audio îți va fi trimis imediat, ",
-            "dacă nu, va apărea {INBOX_TRAY} *Descarcă* ca buton. Apasă-l, formatul audio îți va fi trimis ",
-            "imediat după."
-        ],
-        [
-            "{OPEN_BOOK} *Ajutor (4 din 4)*\\n\\n",
-            "După ce l-ai primit și descărcat, poți apăsa mesajul audio, iar apoi butonul *Save to music* ",
-            "pentru a salva fișierul audio în folderul Muzică din dispozitivul tău."
-        ]
+    "help_1": [
+        "{OPEN_BOOK} *Ajutor (1 din 4)*\\n\\n",
+        "Singurul lucru de care ai nevoie este link-ul URL al clip-ului de pe YouTube, din care vrei să extragi formatul audio, ca acesta:\\n\\n",
+        "— https://youtu.be/SMWi7CLoZ2Q."
     ],
-    "tips_list": [
-        [
-            "{ELECTRIC_LIGHT_BULB} *Pont (1 din 2)*\\n\\n",
-            "Poți, de asemenea, să îmi trimiți doar ID-ul clip-ului, ca acesta:\\n\\n",
-            "— `SMWi7CLoZ2Q`."
-        ],
-        [
-            "{ELECTRIC_LIGHT_BULB} *Pont (2 din 2)*\\n\\n",
-            "Înscrie-te în canalul @YTAudio pentru ultimele noutăți și actualizări!"
-        ]
+    "help_2": [
+        "{OPEN_BOOK} *Ajutor (2 din 4)*\\n\\n",
+        "Sunt multe modalități de a găsi link-ul URL. Poți, de exemplu:\\n\\n",
+        "— Să folosești butonul Share din aplicația YouTube.\\n",
+        "— Să folosești comenzile 'inline' @vid sau @youtube.\\n",
+        "— Să copiezi/inserezi link-ul direct din browser."
+    ],
+    "help_3": [
+        "{OPEN_BOOK} *Ajutor (3 din 4)*\\n\\n",
+        "După ce ai găsit link-ul URL, trimite-mi-l.\\n\\n",
+        "Dacă clip-ul a fost deja descărcat de altcineva formatul audio îți va fi trimis imediat, ",
+        "dacă nu, va apărea {INBOX_TRAY} *Descarcă* ca buton. Apasă-l, formatul audio îți va fi trimis ",
+        "imediat după."
+    ],
+    "help_4": [
+        "{OPEN_BOOK} *Ajutor (4 din 4)*\\n\\n",
+        "După ce l-ai primit și descărcat, poți apăsa mesajul audio, iar apoi butonul *Save to music* ",
+        "pentru a salva fișierul audio în folderul Muzică din dispozitivul tău."
+    ],
+    "tip_1": [
+        "{ELECTRIC_LIGHT_BULB} *Pont (1 din 2)*\\n\\n",
+        "Poți, de asemenea, să îmi trimiți doar ID-ul clip-ului, ca acesta:\\n\\n",
+        "— `SMWi7CLoZ2Q`."
+    ],
+    "tip_2": [
+        "{ELECTRIC_LIGHT_BULB} *Pont (2 din 2)*\\n\\n",
+        "Înscrie-te în canalul @YTAudio pentru ultimele noutăți și actualizări!"
     ],
     "hi": "{SPARKLES} *Bună, {name}!*",
     "presentation": [
@@ -156,37 +152,35 @@
         "{GLOBE_WITH_MERIDIANS} *Limbă* - Schimbă limba\\n",
         "{SPEECH_BALLOON} *Părere* - Trimite-ți părerea"
     ],
-    "faq_list": [
-        [
-            "{BAR_CHART} *Întrebări frecvente*\\n\\n",
-            "`Î:` *1. Vreau să aleg formatul audio!*\\n",
-            "`R:` Ne focusăm pe calitate, performanța serviciilor și încredere. ",
-            "Pentru a avea conversie audio super-rapidă, la cea mai înaltă calitate disponibilă pe YouTube, trimitem doar ",
-            "fișiere codate AAC 128k, în interiorul unui recipient MPEG-4 Part 14 (MP4), cu extensia M4A, setat cu informațiile iTunes. ",
-            "Această alegere se poate modifica în viitor."
-        ],
-        [
-            "{BAR_CHART} *Întrebări frecvente*\\n\\n",
-            "`Î:` *2. Ce înseamnă AAC/M4A?*\\n",
-            "`R:` AAC este un mod de codare audio, proiectat pentru a fi succesorul formatului MP3 și, de obicei, realizează ",
-            "o calitate mai bună a sunetului decât formatul MP3, la aceleași rate de biți. M4A este o extensie de fișier, știută și drept recipientul ",
-            "atât a fișierelor audio codate AAC, cât și a tag-urilor audio în sine."
-        ],
-        [
-            "{BAR_CHART} *Întrebări frecvente*\\n\\n",
-            "`Î:` *3. Unele clip-uri nu funcționează!*\\n",
-            "`R:` Unele clip-uri, din cauza restricției YouTube pentru anumite țări, este posibil să nu fie disponibile centrului nostru de date. De asemenea, ",
-            "bot-ul poate trimite fișiere audio nu mai mari de 50 MB, această limită s-ar putea schimba în viitor."
-        ],
-        [
-            "{BAR_CHART} *Întrebări frecvente*\\n\\n",
-            "`Î:` *4. De ce au fișierele nume străine?*\\n",
-            "`R:` Fișierele sunt salvate ca `Titlu - IDClip.m4a`, oricum, `Titlu` poate să nu reflecte 100% titlul ",
-            "clip-ului, din cauza unor caractere invalide. De obicei, aceasta nu este o problemă, atât timp cât toate informațiile despre ",
-            "clip sunt incorporate în tag-ul fișierului audio."
-        ]
+    "faq_1": [
+        "{BAR_CHART} *Întrebări frecvente*\\n\\n",
+        "`Î:` *1. Vreau să aleg formatul audio!*\\n",
+        "`R:` Ne focusăm pe calitate, performanța serviciilor și încredere. ",
+        "Pentru a avea conversie audio super-rapidă, la cea mai înaltă calitate disponibilă pe YouTube, trimitem doar ",
+        "fișiere codate AAC 128k, în interiorul unui recipient MPEG-4 Part 14 (MP4), cu extensia M4A, setat cu informațiile iTunes. ",
+        "Această alegere se poate modifica în viitor."
     ],
-    "faq": [
+    "faq_2": [
+        "{BAR_CHART} *Întrebări frecvente*\\n\\n",
+        "`Î:` *2. Ce înseamnă AAC/M4A?*\\n",
+        "`R:` AAC este un mod de codare audio, proiectat pentru a fi succesorul formatului MP3 și, de obicei, realizează ",
+        "o calitate mai bună a sunetului decât formatul MP3, la aceleași rate de biți. M4A este o extensie de fișier, știută și drept recipientul ",
+        "atât a fișierelor audio codate AAC, cât și a tag-urilor audio în sine."
+    ],
+    "faq_3": [
+        "{BAR_CHART} *Întrebări frecvente*\\n\\n",
+        "`Î:` *3. Unele clip-uri nu funcționează!*\\n",
+        "`R:` Unele clip-uri, din cauza restricției YouTube pentru anumite țări, este posibil să nu fie disponibile centrului nostru de date. De asemenea, ",
+        "bot-ul poate trimite fișiere audio nu mai mari de 50 MB, această limită s-ar putea schimba în viitor."
+    ],
+    "faq_4": [
+        "{BAR_CHART} *Întrebări frecvente*\\n\\n",
+        "`Î:` *4. De ce au fișierele nume străine?*\\n",
+        "`R:` Fișierele sunt salvate ca `Titlu - IDClip.m4a`, oricum, `Titlu` poate să nu reflecte 100% titlul ",
+        "clip-ului, din cauza unor caractere invalide. De obicei, aceasta nu este o problemă, atât timp cât toate informațiile despre ",
+        "clip sunt incorporate în tag-ul fișierului audio."
+    ],
+    "faq_menu": [
         "{BAR_CHART} *Întrebări frecvente*\\n\\n",
         "*1.* Vreau să aleg formatul audio!\\n",
         "*2.* Ce înseamnă AAC/M4A?\\n",
@@ -195,44 +189,18 @@
     ],
     "contribute": null,
     "contributors": null,
-    "months_names": [
-        [
-            "ianuarie"
-        ],
-        [
-            "februarie"
-        ],
-        [
-            "martie"
-        ],
-        [
-            "aprilie"
-        ],
-        [
-            "mai"
-        ],
-        [
-            "iunie"
-        ],
-        [
-            "iulie"
-        ],
-        [
-            "august"
-        ],
-        [
-            "septembrie"
-        ],
-        [
-            "octombrie"
-        ],
-        [
-            "noiembrie"
-        ],
-        [
-            "decembrie"
-        ]
-    ],
+    "month_1": "ianuarie",
+    "month_2": "februarie",
+    "month_3": "martie",
+    "month_4": "aprilie",
+    "month_5": "mai",
+    "month_6": "iunie",
+    "month_7": "iulie",
+    "month_8": "august",
+    "month_9": "septembrie",
+    "month_10": "octombrie",
+    "month_11": "noiembrie",
+    "month_12": "decembrie",
     "start_button": "{CHEQUERED_FLAG} Start",
     "language_button": "{FLAG_FOR_ROMANIA} Română",
     "more_info_button": "{PAGE_WITH_CURL} Informații",
@@ -271,4 +239,3 @@
     "contributors_button": null,
     "open_project_button": null
 }
-
