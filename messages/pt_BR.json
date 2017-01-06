@@ -187,8 +187,19 @@
         "*3.* Alguns vídeos não funcionam!\\n",
         "*4.* Porque os arquivos tem nomes estranhos?"
     ],
-    "contribute": null,
-    "contributors": null,
+    "contribute": [
+        "{CYCLONE} *Ajude a traduzir*\\n\\n",
+        "{name}! Se você deseja que o @YTAudioBot fale a sua língua ou quer melhorar uma já existente, você pode nos ajudar!\\n\\n",
+        "Nós criamos um guia só para isso, [aqui](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
+        "Conhecimento do idioma inglês é necessário.\\n\\n",
+        "Nos presenteie com novas linguagens e melhorias! Sinta-se livre para se juntar a nós, toda ajuda é muito bem vinda e apreciada!"
+    ],
+    "contributors": [
+        "{BUSTS_IN_SILHOUETTE} *Contribuidores*\\n\\n",
+        "{HEAVY_BLACK_HEART} Gostaríamos de agradecer calorosamente a tradução dos contribuidores:\\n\\n",
+        "{contributors}\\n\\n",
+        "— @YTAudioBot"
+    ],
     "month_1": "Janeiro",
     "month_2": "Fevereiro",
     "month_3": "Março",
@@ -235,7 +246,7 @@
     "clear_all_button": "{WASTEBASKET} Apagar tudo",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Pausar",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Resumir",
-    "contribute_button": null,
-    "contributors_button": null,
-    "open_project_button": null
+    "contribute_button": "{BUST_IN_SILHOUETTE} Contribua",
+    "contributors_button": "{BUSTS_IN_SILHOUETTE} Contribuidores",
+    "open_project_button": "{CARD_INDEX_DIVIDERS} Abrir projeto"
 }
