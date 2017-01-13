@@ -46,7 +46,7 @@
         "5 yulduz {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} buyerda:\\n",
         "https://telegram.me/storebot?start=YTAudioBot"
     ],
-    "no_like": [
+    "dislike": [
         "{PENSIVE_FACE} *Eshitganimizdan afsusdamiz, {name}.*\\n\\n",
         "Botda kamchilik bormi? Bizni xabardor qiling (Inglizcha yoki Italianchada):"
     ],

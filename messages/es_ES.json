@@ -46,7 +46,7 @@
         "5 estrellas {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} aquí:\\n",
         "https://telegram.me/storebot?start=YTAudioBot"
     ],
-    "no_like": [
+    "dislike": [
         "{PENSIVE_FACE} *Sentimos oír eso, {name}.*\\n\\n",
         "¿Hay algún problema con el bot? Por favor, cuéntanoslo (en inglés o italiano):"
     ],

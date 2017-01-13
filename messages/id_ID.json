@@ -46,7 +46,7 @@
         "Setidaknya 5 {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} disini:\\n",
         "https://telegram.me/storebot?start=YTAudioBot"
     ],
-    "no_like": [
+    "dislike": [
         "{PENSIVE_FACE} *Kami turut berduka atas ketidaksukaan anda, {name}.*\\n\\n",
         "Apakah ada yang perlu ditingkatkan atas bot ini? Mohon beritahu kami (dalam Bahasa Inggris atau Italia):"
     ],

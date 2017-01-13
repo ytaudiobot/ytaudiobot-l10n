@@ -46,7 +46,7 @@
         "5 tähteä {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} täällä:\\n",
         "https://telegram.me/storebot?start=YTAudioBot"
     ],
-    "no_like": [
+    "dislike": [
         "{PENSIVE_FACE} *Ikävä kuulla siitä, {name}.*\\n\\n",
         "Onko jokin vikana botissa? Kerrothan siitä meille (englanniksi tai italiaksi):"
     ],

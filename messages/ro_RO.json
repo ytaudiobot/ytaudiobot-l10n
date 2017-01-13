@@ -46,7 +46,7 @@
         "5 steluțe {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} aici:\\n",
         "https://telegram.me/storebot?start=YTAudioBot"
     ],
-    "no_like": [
+    "dislike": [
         "{PENSIVE_FACE} *Ne pare rău să auzim asta, {name}.*\\n\\n",
         "Ai găsit ceva în neregulă cu acest bot? Te rugăm, spune-ne (în Engleză sau Italiană):"
     ],

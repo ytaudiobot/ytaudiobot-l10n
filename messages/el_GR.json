@@ -46,7 +46,7 @@
         "5 αστέρια {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} εδώ:\\n",
         "https://telegram.me/storebot?start=YTAudioBot"
     ],
-    "no_like": [
+    "dislike": [
         "{PENSIVE_FACE} *Κρίμα που το μαθαίνουμε, {name}.*\\n\\n",
         "Πάει κάτι λάθος με το bot; Παρακαλούμε πες μας (στα Αγγλικά ή στα Ιταλικά):"
     ],

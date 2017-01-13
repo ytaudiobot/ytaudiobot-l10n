@@ -46,7 +46,7 @@
         "5 yıldız {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} verebilirsiniz:\\n",
         "https://telegram.me/storebot?start=YTAudioBot"
     ],
-    "no_like": [
+    "dislike": [
         "{PENSIVE_FACE} *Bunu duyduğumuz için özür dileriz, {name}.*\\n\\n",
         "Botta bir sorun mu var? Lütfen bize söyle (İngilizce veya İtalyanca):"
     ],

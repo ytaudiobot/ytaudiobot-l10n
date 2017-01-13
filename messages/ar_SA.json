@@ -46,7 +46,7 @@
         "5 نجمات {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} هنا:\\n",
         "https://telegram.me/storebot?start=YTAudioBot"
     ],
-    "no_like": [
+    "dislike": [
         "{PENSIVE_FACE} *نعتذر منكم لسماع هذا, {name}.*\\n\\n",
         "هل واجهت مشكلة في هذا البوت؟ اخبرنا رجاءً (باللغة الانجليزية او الايطالية):"
     ],

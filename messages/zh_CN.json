@@ -46,7 +46,7 @@
         "我们5星{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}点击这里：\\n",
         "https://telegram.me/storebot?start=YTAudioBot"
     ],
-    "no_like": [
+    "dislike": [
         "{PENSIVE_FACE} *{name}，无法提供优质的服务，我们感到十分抱歉*\\n\\n",
         "请问这个机器人有什么令你不满意的吗?请(使用英语或者意大利语?告诉我们吧:"
     ],
