@@ -8,8 +8,8 @@
     "type_search_terms": "{MEMO} Γράψε τι θες να ψάξεις",
     "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} Αναζήτηση \\\"{terms}\\\" στο YouTube",
     "error": "{PENSIVE_FACE} Ένα σφάλμα συνέβη. Δοκίμασε ξανά αργότερα.",
-    "longer_download_time": "{WARNING_SIGN} *Αυτό το βίντεο μπορεί να πάρει παραπάνω απ' ό,τι συνήθως. Μπορεί και να αποτύχει!*",
-    "clear_history_warning": "{WARNING_SIGN} Είσαι έτοιμος να σβήσεις όλο το ιστορικό!",
+    "longer_download_time": "{WARNING} *Αυτό το βίντεο μπορεί να πάρει παραπάνω απ' ό,τι συνήθως. Μπορεί και να αποτύχει!*",
+    "clear_history_warning": "{WARNING} Είσαι έτοιμος να σβήσεις όλο το ιστορικό!",
     "history_settings": [
         "{HOURGLASS} *Ιστορικό κατεβάσματος*\\n\\n",
         "{Καθόλου τραγούδια|Ένα τραγούδι|# τραγούδια} στο ιστορικό κατεβάσματός σας."
@@ -31,14 +31,14 @@
     "download_history_resumed": "{WHITE_HEAVY_CHECK_MARK} Το ιστορικό κατεβάσματος συνεχίζει.",
     "download_history_cleared": "{WASTEBASKET} Το ιστορικό κατεβάσματος σβήστηκε.",
     "file_expired": [
-        "{WARNING_SIGN} *Το αρχείο έληξε.*\\n\\n",
+        "{WARNING} *Το αρχείο έληξε.*\\n\\n",
         "Πάτα {command} για να το ξανακατεβάσεις."
     ],
     "more_info": "{PAGE_WITH_CURL} Περισσότερες πληροφορίες",
     "video_id": "{SMALL_ORANGE_DIAMOND} Video ID",
     "duration": "{SMALL_ORANGE_DIAMOND} Διάρκεια",
     "size": "{SMALL_ORANGE_DIAMOND} Μέγεθος",
-    "listen_on_youtube": "{LINK_SYMBOL} Δες στο YouTube",
+    "listen_on_youtube": "{LINK} Δες στο YouTube",
     "like": [
         "{SPARKLES} *Ευχαριστώ, {name}!*\\n\\n",
         "Χαιρόμαστε που σου αρέσει.\\n\\n",
@@ -66,7 +66,7 @@
     "feedback_sent": "{HEAVY_CHECK_MARK} *Τα σχόλια εστάλησαν. Ευχαριστούμε!*",
     "showing_trending_results": "{FIRE} *Δείχνω δημοφιλή αποτελέσματα*\\n\\n",
     "showing_youtube_results": "{RIGHT_POINTING_MAGNIFYING_GLASS} *YouTube αποτελέσματα για \\\"*{terms}*\\\"*\\n\\n",
-    "flood_wait": "{WARNING_SIGN} *Στάσου! Περίμενε {0 δευτερόλεπτα|1 δευτερόλεπτο|# δευτερόλεπτα} και ξαναπροσπάθησε.*",
+    "flood_wait": "{WARNING} *Στάσου! Περίμενε {0 δευτερόλεπτα|1 δευτερόλεπτο|# δευτερόλεπτα} και ξαναπροσπάθησε.*",
     "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} *Ψάχνω για \\\"*{terms}*\\\"...*",
     "video_not_available": "{PENSIVE_FACE} *Sorry, αυτό το video δεν είναι διαθέσιμο τώρα. Ξαναδές μετά.*",
     "size_limit_exceeded": "{PENSIVE_FACE} *Sorry, αυτό το video είναι πολύ μεγάλο. Ξαναδές με ένα άλλο.*",
@@ -77,7 +77,7 @@
     ],
     "language_selected": "{HEAVY_CHECK_MARK} Η γλώσσα έγινε {FLAG_FOR_GREECE} Ελληνικά.",
     "same_language_selected": "{THINKING_FACE} Η γλώσσα του bot είναι ήδη {FLAG_FOR_GREECE} Ελληνικά",
-    "video_processing_in_progress": "{CLOCKWISE_DOWNWARDS_AND_UPWARDS_OPEN_CIRCLE_ARROWS} *Επεξεργασία του βίντεο...*",
+    "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *Επεξεργασία του βίντεο...*",
     "download_canceled": [
         "{CROSS_MARK} *Το κατέβασμα ακυρώθηκε.\\n",
         "Πάτα *{command}* για να ξανακατεβάσεις.*"
@@ -87,12 +87,12 @@
         "Ξαναδοκίμασε: *{command}*.*"
     ],
     "download_timeout": [
-        "{WARNING_SIGN} *Το κατέβασμα παίρνει πάνω από 60 seconds.\\n",
+        "{WARNING} *Το κατέβασμα παίρνει πάνω από 60 seconds.\\n",
         "Άμα θες βάλε άλλο βίντεο, θα σου στείλω αυτό όσο πιο σύντομα γίνεται!*"
     ],
     "download_successful": "{HEAVY_CHECK_MARK} *Κατέβηκε επιτυχώς!*",
-    "wait_previous_download": "{WARNING_SIGN} Περίμενε για το προηγούμενο βίντεο!",
-    "download_queue_full": "{WARNING_SIGN} Η ουρά των βίντεο είναι πολύ μεγάλη. Ξαναδοκίμασε σε λίγο.",
+    "wait_previous_download": "{WARNING} Περίμενε για το προηγούμενο βίντεο!",
+    "download_queue_full": "{WARNING} Η ουρά των βίντεο είναι πολύ μεγάλη. Ξαναδοκίμασε σε λίγο.",
     "help_1": [
         "{OPEN_BOOK} *Βοήθεια (1 από 4)*\\n\\n",
         "Το μόνο που χρειάζεσαι είναι το λινκ του YouTube video που θες να κατεβάσεις τον ήχο του, όπως αυτό:\\n\\n",
@@ -118,12 +118,12 @@
         "για να το αποθηκεύσεις στον φάκελο και στην εφαρμογή Μουσική της συσκευής σου."
     ],
     "tip_1": [
-        "{ELECTRIC_LIGHT_BULB} *Συμβουλή (1 από 2)*\\n\\n",
+        "{LIGHT_BULB} *Συμβουλή (1 από 2)*\\n\\n",
         "Μπορείς και να μου στείλεις μόνο το video ID, όπως αυτό:\\n\\n",
         "— `SMWi7CLoZ2Q`."
     ],
     "tip_2": [
-        "{ELECTRIC_LIGHT_BULB} *Συμβουλή (2 από 2)*\\n\\n",
+        "{LIGHT_BULB} *Συμβουλή (2 από 2)*\\n\\n",
         "Μπες στο κανάλι @YTAudio για τα νεότερα χαρακτηριστικά!"
     ],
     "hi": "{SPARKLES} *Γεια, {name}!*",
@@ -139,8 +139,8 @@
         "{NEWSPAPER} *Περί*\\n\\n",
         "*YTAudioBot για το Telegram*\\n",
         "{version} _{month} {day}, {year}_\\n\\n",
-        "{PUBLIC_ADDRESS_LOUDSPEAKER} *Κανάλι* - @YTAudio\\n",
-        "{LINK_SYMBOL} *Website* - https://ytaudiobot.ml\\n",
+        "{LOUDSPEAKER} *Κανάλι* - @YTAudio\\n",
+        "{LINK} *Website* - https://ytaudiobot.ml\\n",
         "{ENVELOPE} *E-Mail* - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
         "{EYE} *Κριτικές* - {WHITE_MEDIUM_STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
         "{BUST_IN_SILHOUETTE} [{reviews_n}](https://storebot.me/bot/ytaudiobot)"
@@ -188,7 +188,7 @@
         "*4.* Γιατί κάποια αρχεία έχουν περίεργα ονόματα;"
     ],
     "contribute": [
-        "{CYCLONE} *Βοήθησε να μεταφράσουμε*\\n\\n",
+        "{FOLDED_HANDS} *Βοήθησε να μεταφράσουμε*\\n\\n",
         "{name}! Αν θες το @YTAudioBot να μιλάει τη γλώσσα σου ή να βελτιώσεις μια υπάρχουσα γλώσσα, μπορείς να μας βοηθήσεις!\\n\\n",
         "Φτιάξαμε έναν οδηγό αποκλειστικά γι' αυτό, [εδώ](https://github.com/ytaudiobot/ytaudiobot-l10n). (στα Αγγλικά) ",
         "Απαιτείται η γνώση της Αγγλικής γλώσσας.\\n\\n",
@@ -196,7 +196,7 @@
     ],
     "contributors": [
         "{BUSTS_IN_SILHOUETTE} *Εθελοντές*\\n\\n",
-        "{HEAVY_BLACK_HEART} Θα θέλαμε να ευχαριστήσουμε θερμά τους εθελοντές μεταφραστές:\\n\\n",
+        "{RED_HEART} Θα θέλαμε να ευχαριστήσουμε θερμά τους εθελοντές μεταφραστές:\\n\\n",
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
@@ -217,7 +217,7 @@
     "more_info_button": "{PAGE_WITH_CURL} Περισσότερες πληροφορίες",
     "send_to_button": "{OUTBOX_TRAY} Στείλε σε...",
     "faq_button": "{BAR_CHART} Συχνές ερωτήσεις",
-    "like_button": "{THUMBS_UP_SIGN} Μου αρέσει!",
+    "like_button": "{THUMBS_UP} Μου αρέσει!",
     "not_really_button": "{THINKING_FACE} Ούτε καν",
     "send_feedback_button": "{MEMO} Στείλε feedback",
     "feedback_button": "{SPEECH_BALLOON} Feedback",
@@ -230,15 +230,15 @@
     "next_button": "Επόμενο »",
     "cancel_button": "{CROSS_MARK} Ακύρωση",
     "download_button": "{INBOX_TRAY} Λήψη",
-    "how_it_works_button": "{BLACK_QUESTION_MARK_ORNAMENT} Πώς δουλεύει",
+    "how_it_works_button": "{QUESTION_MARK} Πώς δουλεύει",
     "rate_now_button": "{WHITE_MEDIUM_STAR} Αξιολόγησε τώρα",
     "later_button": "{HOURGLASS} Σε λίγο",
     "no_thanks_button": "{PILE_OF_POO} Όχι, ευχαριστώ",
-    "channel_button": "{PUBLIC_ADDRESS_LOUDSPEAKER} Κανάλι",
-    "website_button": "{LINK_SYMBOL} Website",
+    "channel_button": "{LOUDSPEAKER} Κανάλι",
+    "website_button": "{LINK} Website",
     "email_button": "{ENVELOPE} E-Mail",
     "ratings_button": "{EYE} Αξιολογήσεις",
-    "help_translate_button": "{CYCLONE} Βοήθησε να μεταφράσουμε",
+    "help_translate_button": "{FOLDED_HANDS} Βοήθησε να μεταφράσουμε",
     "history_button": "{HOURGLASS} Ιστορικό",
     "remove_button": "{CROSS_MARK} Σβήσε",
     "restore_button": "{HEAVY_PLUS_SIGN} Επανάφερε",

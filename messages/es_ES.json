@@ -8,8 +8,8 @@
     "type_search_terms": "{MEMO} Escribe tus términos de búsqueda",
     "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} Buscar \\\"{terms}\\\" en YouTube",
     "error": "{PENSIVE_FACE} Ocurrió un error. Reinténtalo más tarde.",
-    "longer_download_time": "{WARNING_SIGN} *Este vídeo puede tardar más tiempo de lo normal. ¡La descarga podría incluso fallar!*",
-    "clear_history_warning": "{WARNING_SIGN} ¡Estás a punto de borrar todo tu historial!",
+    "longer_download_time": "{WARNING} *Este vídeo puede tardar más tiempo de lo normal. ¡La descarga podría incluso fallar!*",
+    "clear_history_warning": "{WARNING} ¡Estás a punto de borrar todo tu historial!",
     "history_settings": [
         "{HOURGLASS} *Historial de descargas*\\n\\n",
         "{Sin ítems todavía|Hay un ítem|Hay # ítems} en tu historial de descargas."
@@ -31,14 +31,14 @@
     "download_history_resumed": "{WHITE_HEAVY_CHECK_MARK} Historial de descargas reanudado",
     "download_history_cleared": "{WASTEBASKET} Historial de descargas borrado",
     "file_expired": [
-        "{WARNING_SIGN} *Archivo caducado*\\n\\n",
+        "{WARNING} *Archivo caducado*\\n\\n",
         "Toca {command} para volver a descargar."
     ],
     "more_info": "{PAGE_WITH_CURL} Más información",
     "video_id": "{SMALL_ORANGE_DIAMOND} ID",
     "duration": "{SMALL_ORANGE_DIAMOND} Duración",
     "size": "{SMALL_ORANGE_DIAMOND} Tamaño",
-    "listen_on_youtube": "{LINK_SYMBOL} Escuchar en YouTube",
+    "listen_on_youtube": "{LINK} Escuchar en YouTube",
     "like": [
         "{SPARKLES} *¡Gracias, {name}!*\\n\\n",
         "Nos alegramos de que te guste.\\n\\n",
@@ -66,7 +66,7 @@
     "feedback_sent": "{HEAVY_CHECK_MARK} *Tu comentario ha sido enviado. ¡Gracias!*",
     "showing_trending_results": "{FIRE} *Mostrando resultados de las tendencias*\\n\\n",
     "showing_youtube_results": "{RIGHT_POINTING_MAGNIFYING_GLASS} *Resultados de YouTube para \\\"*{terms}*\\\"*\\n\\n",
-    "flood_wait": "{WARNING_SIGN} *¡No tan rápido! Espera {0 segundos|un segundo|# segundos} y reinténtalo.*",
+    "flood_wait": "{WARNING} *¡No tan rápido! Espera {0 segundos|un segundo|# segundos} y reinténtalo.*",
     "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} *Buscando por \\\"*{terms}*\\\"...*",
     "video_not_available": "{PENSIVE_FACE} *Lo sentimos, este vídeo no está disponible en estos momentos. Reinténtalo más tarde.*",
     "size_limit_exceeded": "{PENSIVE_FACE} *Lo sentimos, este video excede el límite de tamaño. Reinténtalo con otro.*",
@@ -77,7 +77,7 @@
     ],
     "language_selected": "{HEAVY_CHECK_MARK} Idioma configurado en {FLAG_FOR_SPAIN} Español.",
     "same_language_selected": "{THINKING_FACE} El idioma del bot ya está en {FLAG_FOR_SPAIN} Español",
-    "video_processing_in_progress": "{CLOCKWISE_DOWNWARDS_AND_UPWARDS_OPEN_CIRCLE_ARROWS} *Procesando vídeo...*",
+    "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *Procesando vídeo...*",
     "download_canceled": [
         "{CROSS_MARK} *Descarga cancelada.\\n",
         "Toca *{command}* para volver a descargar.*"
@@ -87,12 +87,12 @@
         "Reinténtalo: *{command}*.*"
     ],
     "download_timeout": [
-        "{WARNING_SIGN} *La descarga está tardando más de 60 segundos.\\n",
+        "{WARNING} *La descarga está tardando más de 60 segundos.\\n",
         "¡Puedes solicitar otro vídeo, este se te enviará tan pronto como sea posible!*"
     ],
     "download_successful": "{HEAVY_CHECK_MARK} *¡Audio descargado correctamente!*",
-    "wait_previous_download": "{WARNING_SIGN} ¡Espera por tu descarga anterior!",
-    "download_queue_full": "{WARNING_SIGN} La cola de descargas está llena. Reinténtalo más tarde.",
+    "wait_previous_download": "{WARNING} ¡Espera por tu descarga anterior!",
+    "download_queue_full": "{WARNING} La cola de descargas está llena. Reinténtalo más tarde.",
     "help_1": [
         "{OPEN_BOOK} *Ayuda (1 de 4)*\\n\\n",
         "Lo único que necesitas es la URL del vídeo de YouTube del que quieres extraer el audio, como esta:\\n\\n",
@@ -118,12 +118,12 @@
         "para guardar el archivo de audio en el directorio de música de tu dispositivo."
     ],
     "tip_1": [
-        "{ELECTRIC_LIGHT_BULB} *Consejo (1 de 2)*\\n\\n",
+        "{LIGHT_BULB} *Consejo (1 de 2)*\\n\\n",
         "También puedes enviarme sólo el ID del vídeo, como este:\\n\\n",
         "— `SMWi7CLoZ2Q`."
     ],
     "tip_2": [
-        "{ELECTRIC_LIGHT_BULB} *Consejo (2 de 2)*\\n\\n",
+        "{LIGHT_BULB} *Consejo (2 de 2)*\\n\\n",
         "¡Únete al canal @YTAudio para recibir las últimas noticias y actualizaciones sobre el bot!"
     ],
     "hi": "{SPARKLES} *¡Hola, {name}!*",
@@ -139,8 +139,8 @@
         "{NEWSPAPER} *Acerca de*\\n\\n",
         "*YTAudioBot para Telegram*\\n",
         "{version} _{day} de {month} de {year}_\\n\\n",
-        "{PUBLIC_ADDRESS_LOUDSPEAKER} *Canal* - @YTAudio\\n",
-        "{LINK_SYMBOL} *Web* - https://ytaudiobot.ml\\n",
+        "{LOUDSPEAKER} *Canal* - @YTAudio\\n",
+        "{LINK} *Web* - https://ytaudiobot.ml\\n",
         "{ENVELOPE} *Email* - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
         "{EYE} *Reseñas* - {WHITE_MEDIUM_STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
         "{BUST_IN_SILHOUETTE} [{reviews_n}](https://storebot.me/bot/ytaudiobot)"
@@ -188,7 +188,7 @@
         "*4.* ¿Por qué los archivos tienen nombres raros?"
     ],
     "contribute": [
-        "{CYCLONE} *Ayudar a traducir*\\n\\n",
+        "{FOLDED_HANDS} *Ayudar a traducir*\\n\\n",
         "¡{name}! Si quieres que @YTAudioBot hable en tu idioma, o quieres mejorar una traducción existente, ¡puedes ayudarnos!\\n\\n",
         "Hemos elaborado una guía sólo para esto, [aquí](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
         "Se requiere tener conocimiento del idioma inglés.\\n\\n",
@@ -196,7 +196,7 @@
     ],
     "contributors": [
         "{BUSTS_IN_SILHOUETTE} *Contribuidores*\\n\\n",
-        "{HEAVY_BLACK_HEART} Queremos agradecer a los siguientes traductores:\\n\\n",
+        "{RED_HEART} Queremos agradecer a los siguientes traductores:\\n\\n",
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
@@ -217,7 +217,7 @@
     "more_info_button": "{PAGE_WITH_CURL} Más información",
     "send_to_button": "{OUTBOX_TRAY} Enviar a...",
     "faq_button": "{BAR_CHART} FAQ",
-    "like_button": "{THUMBS_UP_SIGN} ¡Me gusta!",
+    "like_button": "{THUMBS_UP} ¡Me gusta!",
     "not_really_button": "{THINKING_FACE} No mucho",
     "send_feedback_button": "{MEMO} Enviar comentarios",
     "feedback_button": "{SPEECH_BALLOON} Feedback",
@@ -230,15 +230,15 @@
     "next_button": "Siguiente »",
     "cancel_button": "{CROSS_MARK} Cancelar",
     "download_button": "{INBOX_TRAY} Descargar",
-    "how_it_works_button": "{BLACK_QUESTION_MARK_ORNAMENT} Cómo funciona",
+    "how_it_works_button": "{QUESTION_MARK} Cómo funciona",
     "rate_now_button": "{WHITE_MEDIUM_STAR} Valorar ahora",
     "later_button": "{HOURGLASS} Más tarde",
     "no_thanks_button": "{PILE_OF_POO} No, gracias",
-    "channel_button": "{PUBLIC_ADDRESS_LOUDSPEAKER} Canal",
-    "website_button": "{LINK_SYMBOL} Web",
+    "channel_button": "{LOUDSPEAKER} Canal",
+    "website_button": "{LINK} Web",
     "email_button": "{ENVELOPE} Email",
     "ratings_button": "{EYE} Reseñas",
-    "help_translate_button": "{CYCLONE} Ayudar a traducir",
+    "help_translate_button": "{FOLDED_HANDS} Ayudar a traducir",
     "history_button": "{HOURGLASS} Historial",
     "remove_button": "{CROSS_MARK} Quitar",
     "restore_button": "{HEAVY_PLUS_SIGN} Restaurar",
