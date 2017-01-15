@@ -16,8 +16,8 @@ Language | Contributors | Translated
 :de: **Deutsch** ([de_DE](messages/de_DE.json)) | [Julian](//github.com/jwsp1), Alex | 100%
 :finland: **Suomi** ([fi_FI](messages/fi_FI.json)) | [Elias](//github.com/theel0ja) | 100%
 :greece: **Ελληνικά** ([el_GR](messages/el_GR.json)) | [stamsarger](//github.com/stamsarger) | 100%
-:romania: **Română** ([ro_RO](messages/ro_RO.json)) | [NicuG](//telegram.me/nicug) | [**95.1%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
-:uzbekistan: **O'zbek** ([Lt_uz_UZ](messages/Lt_uz_UZ.json)) | [HusanboyBayern](//telegram.me/HusanboyBayern) | [**97.1%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
+:romania: **Română** ([ro_RO](messages/ro_RO.json)) | [NicuG](//telegram.me/nicug) | [**95.83%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
+:uzbekistan: **O'zbek** ([Lt_uz_UZ](messages/Lt_uz_UZ.json)) | [HusanboyBayern](//telegram.me/HusanboyBayern) | [**97.50%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
 :indonesia: **Bahasa Indonesia** ([id_ID](messages/id_ID.json)) | [Aldian Hudaya](//telegram.me/oichidan) | 100%
 :tr: **Türkçe** ([tr_TR](messages/tr_TR.json)) | [EypCnn](//github.com/EypCnn), [Ilker Binzet](//github.com/binzet) | 100%
 :cn: **简体中文** ([zh_CN](messages/zh_CN.json)) | [Kris](//telegram.me/littlekris) | 100%
