@@ -38,7 +38,7 @@
     "video_id": "{SMALL_ORANGE_DIAMOND} 视频ID",
     "duration": "{SMALL_ORANGE_DIAMOND} 时间长度",
     "size": "{SMALL_ORANGE_DIAMOND} 文件大小",
-    "listen_on_youtube": "{LINK} 在YouTube中播放",
+    "listen_on_youtube": "{LINK} [在YouTube中播放](https://youtu.be/{video_id})",
     "like": [
         "{SPARKLES} *多谢，{name}!*\\n\\n",
         "很高兴你喜欢我们的工作\\n\\n",

@@ -38,7 +38,7 @@
     "video_id": "{SMALL_ORANGE_DIAMOND} זיהוי הסרטון",
     "duration": "{SMALL_ORANGE_DIAMOND} משך",
     "size": "{SMALL_ORANGE_DIAMOND} גודל",
-    "listen_on_youtube": "{LINK} הקשב ביוטיוב",
+    "listen_on_youtube": "{LINK} [הקשב ביוטיוב](https://youtu.be/{video_id})",
     "like": [
         "{SPARKLES} *תודה, {name}!*\\n\\n",
         "אנחנו שמחים שאהבת.\\n\\n",

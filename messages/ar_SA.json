@@ -38,7 +38,7 @@
     "video_id": "{SMALL_ORANGE_DIAMOND} معرف الفيديو في يوتيوب",
     "duration": "{SMALL_ORANGE_DIAMOND} المدة",
     "size": "{SMALL_ORANGE_DIAMOND} الحجم",
-    "listen_on_youtube": "{LINK} استمع في يوتيوب",
+    "listen_on_youtube": "{LINK} [استمع في يوتيوب](https://youtu.be/{video_id})",
     "like": [
         "{SPARKLES} *شكراً, {name}!*\\n\\n",
         "اننا سعداء لإعجابكم.\\n\\n",

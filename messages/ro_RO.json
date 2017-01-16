@@ -38,7 +38,7 @@
     "video_id": "{SMALL_ORANGE_DIAMOND} ID clip",
     "duration": "{SMALL_ORANGE_DIAMOND} Durată",
     "size": "{SMALL_ORANGE_DIAMOND} Mărime",
-    "listen_on_youtube": "{LINK} Ascultă pe YouTube",
+    "listen_on_youtube": "{LINK} [Ascultă pe YouTube](https://youtu.be/{video_id})",
     "like": [
         "{SPARKLES} *Îți mulțumim, {name}!*\\n\\n",
         "Ne bucurăm că îți place.\\n\\n",

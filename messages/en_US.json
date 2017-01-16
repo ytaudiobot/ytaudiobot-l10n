@@ -38,7 +38,7 @@
     "video_id": "{SMALL_ORANGE_DIAMOND} Video ID",
     "duration": "{SMALL_ORANGE_DIAMOND} Duration",
     "size": "{SMALL_ORANGE_DIAMOND} Size",
-    "listen_on_youtube": "{LINK} Listen on YouTube",
+    "listen_on_youtube": "{LINK} [Listen on YouTube](https://youtu.be/{video_id})",
     "like": [
         "{SPARKLES} *Thank you, {name}!*\\n\\n",
         "We are glad you like it.\\n\\n",

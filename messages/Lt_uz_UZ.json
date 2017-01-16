@@ -38,7 +38,7 @@
     "video_id": "{SMALL_ORANGE_DIAMOND} Video ID",
     "duration": "{SMALL_ORANGE_DIAMOND} Davom etish vaqti",
     "size": "{SMALL_ORANGE_DIAMOND} Hajmi",
-    "listen_on_youtube": "{LINK} YouTube da tinglash",
+    "listen_on_youtube": "{LINK} [YouTube da tinglash](https://youtu.be/{video_id})",
     "like": [
         "{SPARKLES} *Rahmat, {name}!*\\n\\n",
         "Sizga yoqqanidan xursandmiz.\\n\\n",

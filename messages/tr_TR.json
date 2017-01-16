@@ -38,7 +38,7 @@
     "video_id": "{SMALL_ORANGE_DIAMOND} Video Kimliği",
     "duration": "{SMALL_ORANGE_DIAMOND} Süre",
     "size": "{SMALL_ORANGE_DIAMOND} Boyut",
-    "listen_on_youtube": "{LINK} YouTube'da dinle",
+    "listen_on_youtube": "{LINK} [YouTube'da dinle](https://youtu.be/{video_id})",
     "like": [
         "{SPARKLES} *teşekkür ederim, {name}!*\\n\\n",
         "Beğendiğiniz için mutluyuz.\\n\\n",

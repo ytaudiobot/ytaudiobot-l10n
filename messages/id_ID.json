@@ -38,7 +38,7 @@
     "video_id": "{SMALL_ORANGE_DIAMOND} ID Video",
     "duration": "{SMALL_ORANGE_DIAMOND} Durasi",
     "size": "{SMALL_ORANGE_DIAMOND} Ukuran",
-    "listen_on_youtube": "{LINK} Dengarkan di YouTube",
+    "listen_on_youtube": "{LINK} [Dengarkan di YouTube](https://youtu.be/{video_id})",
     "like": [
         "{SPARKLES} *Terima kasih, {name}!*\\n\\n",
         "Kami senang anda menyukainya.\\n\\n",

@@ -38,7 +38,7 @@
     "video_id": "{SMALL_ORANGE_DIAMOND} ビデオID",
     "duration": "{SMALL_ORANGE_DIAMOND} 期間",
     "size": "{SMALL_ORANGE_DIAMOND} ファイルサイズ",
-    "listen_on_youtube": "{LINK} YouTubeで視聴する",
+    "listen_on_youtube": "{LINK} [YouTubeで視聴する](https://youtu.be/{video_id})",
     "like": [
         "{SPARKLES} *ありがとう、 {name}！*\\n\\n",
         "気に入っていただけてうれしいです。\\n\\n",

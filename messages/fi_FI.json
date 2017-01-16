@@ -38,7 +38,7 @@
     "video_id": "{SMALL_ORANGE_DIAMOND} Videon ID",
     "duration": "{SMALL_ORANGE_DIAMOND} Pituus",
     "size": "{SMALL_ORANGE_DIAMOND} Koko",
-    "listen_on_youtube": "{LINK} Kuuntele YouTubessa",
+    "listen_on_youtube": "{LINK} [Kuuntele YouTubessa](https://youtu.be/{video_id})",
     "like": [
         "{SPARKLES} *Kiitos, {name}!*\\n\\n",
         "Olemme iloisia kuullessamme tämän.\\n\\n",
