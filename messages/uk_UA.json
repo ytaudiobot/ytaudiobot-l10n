@@ -75,8 +75,8 @@
         "{GLOBE_WITH_MERIDIANS} *Мова*\\n\\n",
         "Оберіть вашу мову."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} Налаштована мова - {FLAG_FOR_UKRAINE} Англійська.",
-    "same_language_selected": "{THINKING_FACE} Мова бота вже {FLAG_FOR_UKRAINE} Англійська",
+    "language_selected": "{HEAVY_CHECK_MARK} Налаштована мова - {FLAG_FOR_UKRAINE} Українська.",
+    "same_language_selected": "{THINKING_FACE} Мова бота вже {FLAG_FOR_UKRAINE} Українська",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *Обробка відео у процесі...*",
     "download_canceled": [
         "{CROSS_MARK} *Завантаження скасовано.\\n",
@@ -213,7 +213,7 @@
     "month_11": "Листопад",
     "month_12": "Грудень",
     "start_button": "{CHEQUERED_FLAG} Почати",
-    "language_button": "{FLAG_FOR_UKRAINE} Англійська",
+    "language_button": "{FLAG_FOR_UKRAINE} Українська",
     "more_info_button": "{PAGE_WITH_CURL} Докладніше",
     "send_to_button": "{OUTBOX_TRAY} Надіслати до...",
     "faq_button": "{BAR_CHART} ЧаПи",
