@@ -149,8 +149,8 @@
         "{GEAR} *Налаштування*\\n\\n",
         "{NEWSPAPER} *Про* - Інформація про бота\\n",
         "{BAR_CHART} *ЧаПи* - Часто запитувані питання\\n",
-        "{GLOBE_WITH_MERIDIANS} *Language* - Змінити мову\\n",
-        "{SPEECH_BALLOON} *Feedback* - Надішліть ваш відгук"
+        "{GLOBE_WITH_MERIDIANS} *Мова* - Змінити мову\\n",
+        "{SPEECH_BALLOON} *Відгук* - Надішліть ваш відгук"
     ],
     "faq_1": [
         "{BAR_CHART} *Часто запитувані питання*\\n\\n",
