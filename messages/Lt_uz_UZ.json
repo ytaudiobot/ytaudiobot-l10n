@@ -187,8 +187,8 @@
         "*3.* B'azi bir videolar ishlamayapti!\\n",
         "*4.* Nima uchun fayllar o'zgacha nomga ega?"
     ],
-    "contribute": null,
-    "contributors": null,
+    "contribute": "Hissa qo'shish",
+    "contributors": "Hissa qo'shganlar",
     "month_1": "Yanvar",
     "month_2": "Febral",
     "month_3": "Mart",
@@ -237,5 +237,5 @@
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Davom etish",
     "contribute_button": "{BUST_IN_SILHOUETTE} Hissa qo'shish",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Tarjimonlar",
-    "open_project_button": null
+    "open_project_button": "Projektni ochish";
 }
