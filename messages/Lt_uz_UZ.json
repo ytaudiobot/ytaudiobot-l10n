@@ -7,8 +7,8 @@
     ],
     "type_search_terms": "{MEMO} Qidirmoqchi bo'lgan atamangizni kiriting",
     "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} \\\"{terms}\\\"ni YouTube da qidirish",
-    "error": "{PENSIVE_FACE} Xato baydo bo'ldi. Keyinroq urinib ko'ring.",
-    "longer_download_time": "{WARNING} *Ushbu videoga ko'p vaqt sariflandi. Yuklab olish muvoffaqqiyatsizlikka ucharishi mumkin!*",
+    "error": "{PENSIVE_FACE} Xato paydo bo'ldi. Keyinroq urinib ko'ring.",
+    "longer_download_time": "{WARNING} *Ushbu videoga ko'p vaqt sariflandi. Yuklab olish muvoffaqqiyatsizlikka uchrashi mumkin!*",
     "clear_history_warning": "{WARNING} Barcha tarixni o'chirishga yaqinsiz!",
     "history_settings": [
         "{HOURGLASS} *Yuklab olish tarixi*\\n\\n",
@@ -36,14 +36,14 @@
     ],
     "more_info": "{PAGE_WITH_CURL} Qo'shimcha ma'lumot",
     "video_id": "{SMALL_ORANGE_DIAMOND} Video ID",
-    "duration": "{SMALL_ORANGE_DIAMOND} Davom etish vaqti",
+    "duration": "{SMALL_ORANGE_DIAMOND} Davomiyligi",
     "size": "{SMALL_ORANGE_DIAMOND} Hajmi",
     "listen_on_youtube": "{LINK} [YouTube da tinglash](https://youtu.be/{video_id})",
     "like": [
         "{SPARKLES} *Rahmat, {name}!*\\n\\n",
         "Sizga yoqqanidan xursandmiz.\\n\\n",
         "Botga reyting berishingiz mumkin\\n",
-        "5 yulduz {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} buyerda:\\n",
+        "5 yulduzni {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} buyerda bering:\\n",
         "https://telegram.me/storebot?start=YTAudioBot"
     ],
     "dislike": [
@@ -187,8 +187,19 @@
         "*3.* B'azi bir videolar ishlamayapti!\\n",
         "*4.* Nima uchun fayllar o'zgacha nomga ega?"
     ],
-    "contribute": null,
-    "contributors": null,
+    "contribute": [
+        "{FOLDED_HANDS} *Tarjimonga Yordam*\\n\\n",
+        "{name}! Agar siz @YTAudioBot ni o'z tilingizda gapirishini yoki hozirgi tilni yaxshilamoqchi bo'lsangiz, bizga yordam berishingiz mumkin!\\n\\n",
+        "Buning uchun biz sizga qo'llanma tayyorlab qo'ydik, [buyerda](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
+        "Ingliz tilini bilishingiz zarur.\\n\\n",
+        "Qo'shimcha til va yaxshilashlarni yoqtiramiz! Biz qo'shilishingiz mumkin, har bir yordam biz uchun qadrli!"
+    ],
+    "contributors": [
+        "{BUSTS_IN_SILHOUETTE} *Hissa qo'shganlar*\\n\\n",
+        "{RED_HEART} Quyidagi tarjimonlarning qo'shgan hissasiga chin dildan rahmat deb qolamiz:\\n\\n",
+        "{contributors}\\n\\n",
+        "— @YTAudioBot"
+    ],
     "month_1": "Yanvar",
     "month_2": "Febral",
     "month_3": "Mart",
@@ -221,8 +232,8 @@
     "download_button": "{INBOX_TRAY} Yuklab olish",
     "how_it_works_button": "{QUESTION_MARK} Bot qanday ishlaydi?",
     "rate_now_button": "{WHITE_MEDIUM_STAR} Ovoz berish",
-    "later_button": "{HOURGLASS} Hozir emas",
-    "no_thanks_button": "{PILE_OF_POO} Yoq, raxmat",
+    "later_button": "{HOURGLASS} Keyinroq",
+    "no_thanks_button": "{PILE_OF_POO} Yo'q, rahmat",
     "channel_button": "{LOUDSPEAKER} Kanal",
     "website_button": "{LINK} Websayt",
     "email_button": "{ENVELOPE} E-Mail",
@@ -237,5 +248,5 @@
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Davom etish",
     "contribute_button": "{BUST_IN_SILHOUETTE} Hissa qo'shish",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Tarjimonlar",
-    "open_project_button": null
+     "open_project_button": "{CARD_INDEX_DIVIDERS} Projektni ochish"
 }
