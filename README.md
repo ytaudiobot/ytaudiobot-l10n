@@ -24,7 +24,7 @@ Language | Contributors | Translated
 :taiwan: **繁體中文** ([zh_TW](messages/zh_TW.json)) | [Kris](//telegram.me/littlekris) | 100%
 :saudi_arabia: **العربية** ([ar_SA](messages/ar_SA.json)) | [Mohammad Fahad](//twitter.com/mohmd1429) | 100%
 **(WIP)** :jp: **日本語** ([ja_JP](messages/ja_JP.json)) | [Rei](//github.com/unwind-protect) |  [**88.33%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
-**(WIP)** :ukraine: **Українська** ([uk_UA](messages/uk_UA.json)) | [Denis Sikorsky](t.me/D3sl0ng3r) | 100%
+:ukraine: **Українська** ([uk_UA](messages/uk_UA.json)) | [Denis Sikorsky](t.me/D3sl0ng3r) | 100%
 
 > Add yourself here once you submit your translations
 
