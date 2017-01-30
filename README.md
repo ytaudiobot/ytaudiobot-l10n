@@ -1,6 +1,6 @@
 <a href="//ytaudiobot.ml"><img src="logo.png" width="100%"/></a>
-#### Help translate [@YTAudioBot](//telegram.me/ytaudiobot) — a YouTube audio downloader for Telegram Messenger
-_Stay tuned for news and updates on our [Telegram Channel](//telegram.me/ytaudio)_
+#### Help translate [@YTAudioBot](//t.me/ytaudiobot) — a YouTube audio downloader for Telegram Messenger
+_Stay tuned for news and updates on our [Telegram Channel](//t.me/ytaudio)_
 
 ---
 
@@ -16,15 +16,15 @@ Language | Contributors | Translated
 :de: **Deutsch** ([de_DE](messages/de_DE.json)) | [Julian](//github.com/jwsp1), Alex | 100%
 :finland: **Suomi** ([fi_FI](messages/fi_FI.json)) | [Elias](//github.com/theel0ja) | 100%
 :greece: **Ελληνικά** ([el_GR](messages/el_GR.json)) | [stamsarger](//github.com/stamsarger) | 100%
-:romania: **Română** ([ro_RO](messages/ro_RO.json)) | [NicuG](//telegram.me/nicug) | [**95.83%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
-:uzbekistan: **O'zbek** ([Lt_uz_UZ](messages/Lt_uz_UZ.json)) | [HusanboyBayern](//telegram.me/HusanboyBayern) | 100%
-:indonesia: **Bahasa Indonesia** ([id_ID](messages/id_ID.json)) | [Aldian Hudaya](//telegram.me/oichidan) | 100%
+:romania: **Română** ([ro_RO](messages/ro_RO.json)) | [NicuG](//t.me/nicug) | [**95.83%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
+:uzbekistan: **O'zbek** ([Lt_uz_UZ](messages/Lt_uz_UZ.json)) | [HusanboyBayern](//t.me/HusanboyBayern) | 100%
+:indonesia: **Bahasa Indonesia** ([id_ID](messages/id_ID.json)) | [Aldian Hudaya](//t.me/oichidan) | 100%
 :tr: **Türkçe** ([tr_TR](messages/tr_TR.json)) | [EypCnn](//github.com/EypCnn), [Ilker Binzet](//github.com/binzet) | 100%
-:cn: **简体中文** ([zh_CN](messages/zh_CN.json)) | [Kris](//telegram.me/littlekris) | 100%
-:taiwan: **繁體中文** ([zh_TW](messages/zh_TW.json)) | [Kris](//telegram.me/littlekris) | 100%
+:cn: **简体中文** ([zh_CN](messages/zh_CN.json)) | [Kris](//t.me/littlekris) | 100%
+:taiwan: **繁體中文** ([zh_TW](messages/zh_TW.json)) | [Kris](//t.me/littlekris) | 100%
 :saudi_arabia: **العربية** ([ar_SA](messages/ar_SA.json)) | [Mohammad Fahad](//twitter.com/mohmd1429) | 100%
 **(WIP)** :jp: **日本語** ([ja_JP](messages/ja_JP.json)) | [Rei](//github.com/unwind-protect) |  [**88.33%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
-:ukraine: **Українська** ([uk_UA](messages/uk_UA.json)) | [Denis Sikorsky](t.me/D3sl0ng3r) | 100%
+:ukraine: **Українська** ([uk_UA](messages/uk_UA.json)) | [Denis Sikorsky](//t.me/D3sl0ng3r) | 100%
 
 > Add yourself here once you submit your translations
 
@@ -73,6 +73,6 @@ I tried to do my best in writing both the English (en_US) translation source and
 If you happen to find something to improve (without completely change the meaning), feel free to make changes.
 
 ## Contacts
-- Telegram: [@haskell](//telegram.me/haskell).
+- Telegram: [@haskell](//t.me/haskell).
 - E-Mail: [admin@ytaudiobot.ml](mailto:admin@ytaudiobot.ml).
 - YTAudioBot: :gear: **Settings >** :speech_balloon: **Feedback >** :memo: **Send feedback**.
