@@ -35,9 +35,9 @@
         "Appuyez sur {command} pour le télécharger à nouveau."
     ],
     "more_info": "{PAGE_WITH_CURL} Plus d'infos",
-    "video_id": "{SMALL_ORANGE_DIAMOND} ID de la vidéo",
-    "duration": "{SMALL_ORANGE_DIAMOND} Durée",
-    "size": "{SMALL_ORANGE_DIAMOND} Taille",
+    "video_id": "{SMALL_ORANGE_DIAMOND} ID de la vidéo ",
+    "duration": "{SMALL_ORANGE_DIAMOND} Durée ",
+    "size": "{SMALL_ORANGE_DIAMOND} Taille ",
     "listen_on_youtube": "{LINK} [Écouter sur YouTube](https://youtu.be/{video_id})",
     "like": [
         "{SPARKLES} *Merci {name} !*\\n\\n",
@@ -52,7 +52,7 @@
     ],
     "rating_message": [
         "{WHITE_MEDIUM_STAR} *Notez YTAudioBot*\\n\\n",
-        "{name}, vous appreciez le bot ?\\n",
+        "{name}, vous appréciez le bot ?\\n",
         "Prenez un moment pour le noter sur StoreBot."
     ],
     "rate_later": "{HOURGLASS} *Ok, je vous redemanderai une prochaine fois !*",
@@ -70,7 +70,7 @@
     "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} *Recherche de \\\"*{terms}*\\\" en cours ...*",
     "video_not_available": "{PENSIVE_FACE} *Désolé, cette vidéo est indisponible pour le moment. Réessayez ultérieurement.*",
     "size_limit_exceeded": "{PENSIVE_FACE} *Désolé, cette vidéo excède la taille limite. Réessayez avec une autre.*",
-    "api_error": "{PENSIVE_FACE} *Désolé, l'opération demandée ne peut être exécutée pour le moment. Réessayez ultérieurement.*",
+    "api_error": "{PENSIVE_FACE} *Désolé, l'opération ne peut être exécutée pour le moment. Réessayez ultérieurement.*",
     "select_language": [
         "{GLOBE_WITH_MERIDIANS} *Langage*\\n\\n",
         "Sélectionnez le langage désiré."
@@ -99,8 +99,9 @@
         "— https://youtu.be/SMWi7CLoZ2Q."
     ],
     "help_2": [
-        "{OPEN_BOOK} *Aide (2 sur 4))*\\n\\n",
-        "Il y a plusieurs moyens de trouver l'URL. Vous pouvez, par exemple :\\n\\n",
+        "{OPEN_BOOK} *Aide (2 sur 4)*\\n\\n",
+        "Il y a plusieurs moyens de trouver l'URL.\\n"
+        "Vous pouvez, par exemple :\\n\\n",
         "— Utiliser le bouton Partager de l'app YouTube.\\n",
         "— Utiliser les inline bots de Telegram @vid ou @youtube.\\n",
         "— Copier/coller le lien depuis votre navigateur."
@@ -108,13 +109,13 @@
     "help_3": [
         "{OPEN_BOOK} *Aide (3 sur 4)*\\n\\n",
         "Une fois que vous avez trouvé l'URL, envoyez-la-moi.\\n\\n",
-        "Si la vidéo a déjà été téléchargée par quelqu'un d'autre précedemment, elle vous sera envoyée directement ",
-        "sinon le bouton {INBOX_TRAY} *Télécharger* apparaîtra. Appuyez, et votre fichier audio sera disponible ",
-        "peu après."
+        "Si la vidéo a déjà été téléchargée par quelqu'un d'autre précedemment, elle vous sera envoyée directement.\\n",
+        "Sinon le bouton {INBOX_TRAY} *Télécharger* apparaîtra. Appuyez, et votre fichier audio sera disponible ",
+        "juste après."
     ],
     "help_4": [
         "{OPEN_BOOK} *Aide (4 sur 4)*\\n\\n",
-        "Après l'avoir reçu et téléchargé, vous pouvez maintenir l'appui sur le message audio et cliquer sur *Save to music* ",
+        "Après avoir reçu et téléchargé le message audio, vous pouvez maintenir l'appui dessus et cliquer sur *Save to music* ",
         "pour sauvegarder le fichier audio dans le dossier Musique de votre terminal."
     ],
     "tip_1": [
@@ -154,10 +155,10 @@
     ],
     "faq_1": [
         "{BAR_CHART} *Questions fréquentes*\\n\\n",
-        "`Q:` *1. Je veux choisir le format audio !*\\n",
-        "`R:` Nous nous concentrons sur la qualité, la performance et la fiabilité du service.",
+        "`Q:` *1. Je veux choisir le format audio!*\\n",
+        "`R:` Nous nous concentrons sur la qualité, la performance et la fiabilité du service. ",
         "Pour atteindre des conversions super rapides avec la plus haute qualité disponible sur YouTube, nous envoyons seulement ",
-        "des fichiers encodés en AAC 128k dans un conteneur MPEG-4 Part 14 (MP4) sous l'extension M4A et tagguées avec les infos iTunes correctes. ",
+        "des fichiers encodés en AAC 128k, dans un conteneur MPEG-4 Part 14 (MP4), sous l'extension M4A et avec les balises iTunes correctes. ",
         "Ce choix pourrait changer dans le futur."
     ],
     "faq_2": [
@@ -181,18 +182,18 @@
         "la vidéo sont incorporées dans les balises du fichier audio."
     ],
     "faq_menu": [
-        "{BAR_CHART} *Questions fréquemment posées*\\n\\n",
-        "*1.* Je veux choisir le format audio !\\n",
-        "*2.* Que signifie AAC/M4A ?\\n",
-        "*3.* Certaines vidéos ne fnctionnent pas !\\n",
-        "*4.* Pourquoi les fichiers ont-ils des noms étranges ?"
+        "{BAR_CHART} *Questions fréquentes*\\n\\n",
+        "*1.* Je veux choisir le format audio!\\n",
+        "*2.* Que signifie AAC/M4A?\\n",
+        "*3.* Certaines vidéos ne fnctionnent pas!\\n",
+        "*4.* Pourquoi les fichiers ont-ils des noms étranges?"
     ],
     "contribute": [
         "{FOLDED_HANDS} *Aider à traduire*\\n\\n",
         "{name} ! Si vous voulez que @YTAudioBot parle votre langue ou souhaitez en améliorer une existante, vous pouvez nous aider !\\n\\n",
         "Nous avons mis en place un guide pour cela, à [cette adresse](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
         "La compréhension de la langue anglaise est requise.\\n\\n",
-        "Nous accueillons avec plaisir de nouvelles langues et améliorations ! N'hésitez pas à nous rejoindre, chaque contribution est grandement appréciée !"
+        "Nous accueillons avec plaisir de nouvelles langues et améliorations! N'hésitez pas à nous rejoindre, chaque contribution est grandement appréciée!"
     ],
     "contributors": [
         "{BUSTS_IN_SILHOUETTE} *Contributeurs*\\n\\n",
