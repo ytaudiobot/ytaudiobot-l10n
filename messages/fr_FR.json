@@ -16,7 +16,7 @@
     ],
     "clear_history_confirmation": [
         "{WASTEBASKET} *Effacer tout votre historique de téléchargement*\\n\\n",
-        "Êtes-vous sûr de vouloir effacer tout votre historique de téléchargement ? *Vous ne pourrez pas annuler cette opération.*"
+        "Êtes-vous sûr(e) de vouloir effacer tout votre historique de téléchargement ? *Vous ne pourrez pas annuler cette opération.*"
     ],
     "added_seconds_ago": "Ajouté il y a {0 secondes|une seconde|# secondes}",
     "added_minutes_ago": "Ajouté il y a {0 minutes|une minute|# minutes}",
@@ -29,7 +29,7 @@
     "item_restored": "{HEAVY_PLUS_SIGN} Élément restauré",
     "download_history_paused": "{BALLOT_BOX_WITH_CHECK} Historique de téléchargement en pause",
     "download_history_resumed": "{WHITE_HEAVY_CHECK_MARK} Historique de téléchargement repris",
-    "download_history_cleared": "{WASTEBASKET} Historique de téléchargement éffacé",
+    "download_history_cleared": "{WASTEBASKET} Historique de téléchargement effacé",
     "file_expired": [
         "{WARNING} *Fichier expiré*\\n\\n",
         "Appuyez sur {command} pour le télécharger à nouveau."
@@ -48,15 +48,15 @@
     ],
     "dislike": [
         "{PENSIVE_FACE} *Nous sommes désolés d'entendre cela, {name}.*\\n\\n",
-        "Un problème avec le bot ? N'hésitez pas à nous le dire (en anglais ou italien) :"
+        "Un problème avec le bot ? N'hésitez pas à nous expliquer pourquoi en répondant à ce message (en anglais ou italien) :"
     ],
     "rating_message": [
         "{WHITE_MEDIUM_STAR} *Notez YTAudioBot*\\n\\n",
         "{name}, vous appréciez le bot ?\\n",
         "Prenez un moment pour le noter sur StoreBot."
     ],
-    "rate_later": "{HOURGLASS} *Ok, je vous redemanderai une prochaine fois !*",
-    "rate_never": "{PILE_OF_POO} *Ok, je ne vous poserai plus jamais cette question.*",
+    "rate_later": "{HOURGLASS} *D'accord, je vous redemanderai une prochaine fois !*",
+    "rate_never": "{PILE_OF_POO} *D'accord, je ne vous poserai plus cette question.*",
     "send_feedback": [
         "{MEMO} *Envoyer un feedback*\\n\\n",
         "Vous pouvez suggérer des changements ou améliorations pour le bot, signaler des bugs, ou envoyer un commentaire aux créateurs ",
@@ -170,7 +170,7 @@
     ],
     "faq_3": [
         "{BAR_CHART} *Questions fréquentes*\\n\\n",
-        "`Q:` *3. Certaines vidéos ne fnctionnent pas !*\\n",
+        "`Q:` *3. Certaines vidéos ne fonctionnent pas !*\\n",
         "`R:` Dû aux restrictions régionales de YouTube, certaines vidéos peuvent ne pas être disponibles pour notre centre de données. De plus, ",
         "le bot peut pour le moment envoyer des fichiers audio d'une taille maximum de 50 MB. Cette limite pourrait changer dans le futur."
     ],
@@ -185,7 +185,7 @@
         "{BAR_CHART} *Questions fréquentes*\\n\\n",
         "*1.* Je veux choisir le format audio !\\n",
         "*2.* Que signifie AAC/M4A ?\\n",
-        "*3.* Certaines vidéos ne fnctionnent pas !\\n",
+        "*3.* Certaines vidéos ne fonctionnent pas !\\n",
         "*4.* Pourquoi les fichiers ont-ils des noms étranges ?"
     ],
     "contribute": [
