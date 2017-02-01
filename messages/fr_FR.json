@@ -138,7 +138,7 @@
     "about": [
         "{NEWSPAPER} *À propos*\\n\\n",
         "*YTAudioBot pour Telegram*\\n",
-        "{version} _{month} {day}, {year}_\\n\\n",
+        "{version} _{day} {month} {year}_\\n\\n",
         "{LOUDSPEAKER} *Chaîne* - @YTAudio\\n",
         "{LINK} *Site web* - https://ytaudiobot.ml\\n",
         "{ENVELOPE} *Courriel* - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
@@ -148,12 +148,12 @@
     "settings": [
         "{GEAR} *Paramètres*\\n\\n",
         "{NEWSPAPER} *À propos* - Infos à propos du bot\\n",
-        "{BAR_CHART} *FAQ* - Questions fréquemment posées\\n",
-        "{GLOBE_WITH_MERIDIANS} *Langage* - Changez le langage\\n",
-        "{SPEECH_BALLOON} *Feedback* - Envoyez votre feedback"
+        "{BAR_CHART} *FAQ* - Questions fréquentes\\n",
+        "{GLOBE_WITH_MERIDIANS} *Langue* - Changer la langue du bot\\n",
+        "{SPEECH_BALLOON} *Feedback* - Envoyer votre feedback"
     ],
     "faq_1": [
-        "{BAR_CHART} *Questions fréquemment posées*\\n\\n",
+        "{BAR_CHART} *Questions fréquentes*\\n\\n",
         "`Q:` *1. Je veux choisir le format audio!*\\n",
         "`R:` Nous nous concentrons sur la qualité, la performance et la fiabilité du service.",
         "Pour atteindre des conversions super rapides avec la plus haute qualité disponible sur YouTube, nous envoyons seulement ",
@@ -161,20 +161,20 @@
         "Ce choix pourrait changer dans le futur."
     ],
     "faq_2": [
-        "{BAR_CHART} *Questions fréquemment posées*\\n\\n",
+        "{BAR_CHART} *Questions fréquentes*\\n\\n",
         "`Q:` *2. Que signifie AAC/M4A?*\\n",
         "`R:` L'AAC est un format de codage audio conçu pour être le successeur du format MP3. Il atteint généralement ",
         "une meilleure qualité sonore que le MP3 à bitrate égal. M4A est une extension de fichier et c'est aussi le conteneur",
         "de l'audio encodé AAC et des balises de l'audio lui-même."
     ],
     "faq_3": [
-        "{BAR_CHART} *Questions fréquemment posées*\\n\\n",
+        "{BAR_CHART} *Questions fréquentes*\\n\\n",
         "`Q:` *3. Certaines vidéos ne fnctionnent pas!*\\n",
         "`R:` Dû aux restrictions régionales de YouTube, certaines vidéos peuvent ne pas être disponibles pour notre centre de données. De plus, ",
         "le bot peut pour le moment envoyer des fichiers audio d'une taille maximum de 50 MB. Cette limite pourrait changer dans le futur."
     ],
     "faq_4": [
-        "{BAR_CHART} *Questions fréquemment posées*\\n\\n",
+        "{BAR_CHART} *Questions fréquentes*\\n\\n",
         "`Q:` *4. Pourquoi les fichiers ont-ils des noms étranges?*\\n",
         "`R:` Les fichiers sont sauvegardés sous `Titre - VideoId.m4a`, mais le `Titre` peut ne pas refléter à 100% le titre ",
         "de la vidéo, à cause de caractères invalides. Ce n'est généralement pas un problème car les infos correctes de ",
