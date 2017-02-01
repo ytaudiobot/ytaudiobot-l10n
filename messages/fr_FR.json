@@ -100,7 +100,7 @@
     ],
     "help_2": [
         "{OPEN_BOOK} *Aide (2 sur 4)*\\n\\n",
-        "Il y a plusieurs moyens de trouver l'URL.\\n"
+        "Il y a plusieurs moyens de trouver l'URL.\\n",
         "Vous pouvez, par exemple :\\n\\n",
         "— Utiliser le bouton Partager de l'app YouTube.\\n",
         "— Utiliser les inline bots de Telegram @vid ou @youtube.\\n",
