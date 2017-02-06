@@ -26,7 +26,7 @@ Language | Contributors | Translated
 **(WIP)** :jp: **日本語** ([ja_JP](messages/ja_JP.json)) | [Rei](//github.com/unwind-protect) |  [**88.33%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
 :ukraine: **Українська** ([uk_UA](messages/uk_UA.json)) | [Denis Sikorsky](//t.me/D3sl0ng3r) | 100%
 **(WIP)** :fr: **Français** ([fr_FR](messages/fr_FR.json)) | [Ev4si0n](//github.com/Ev4si0n) | 100%
-
+**(WIP)** :star: **Català** ([ca_ES](messages/ca_ES.json)) | [Ecron](//github.com/Ecron) | 100%
 
 > Add yourself here once you submit your translations
 
