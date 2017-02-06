@@ -42,13 +42,13 @@
     "like": [
         "{SPARKLES} *Merci {name} !*\\n\\n",
         "Nous sommes fiers que vous soyez satisfait(e).\\n\\n",
-        "Vous pouvez évaluer le bot et lui accorder\\n",
+        "Vous pouvez évaluer le bot et lui accorder ",
         "5 étoiles {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} ici :\\n",
         "https://telegram.me/storebot?start=YTAudioBot"
     ],
     "dislike": [
         "{PENSIVE_FACE} *Nous sommes désolés d'entendre cela, {name}.*\\n\\n",
-        "Un problème avec le bot ? N'hésitez pas à nous expliquer pourquoi en répondant à ce message (en anglais ou italien) :"
+        "Un problème avec le bot ? N'hésitez pas à nous expliquer pourquoi en répondant ci-dessous (en anglais ou italien) :"
     ],
     "rating_message": [
         "{WHITE_MEDIUM_STAR} *Notez YTAudioBot*\\n\\n",
@@ -100,7 +100,7 @@
     ],
     "help_2": [
         "{OPEN_BOOK} *Aide (2 sur 4)*\\n\\n",
-        "Il y a plusieurs moyens de trouver l'URL.\\n",
+        "Il existe plusieurs moyens d'obtenir l'URL.\\n",
         "Vous pouvez, par exemple :\\n\\n",
         "— Utiliser le bouton Partager de l'app YouTube.\\n",
         "— Utiliser les inline bots de Telegram @vid ou @youtube.\\n",
@@ -108,24 +108,23 @@
     ],
     "help_3": [
         "{OPEN_BOOK} *Aide (3 sur 4)*\\n\\n",
-        "Une fois que vous avez trouvé l'URL, envoyez-la-moi.\\n\\n",
-        "Si la vidéo a déjà été téléchargée par quelqu'un d'autre précedemment, elle vous sera envoyée directement.\\n",
-        "Sinon le bouton {INBOX_TRAY} *Télécharger* apparaîtra. Appuyez, et votre fichier audio sera disponible ",
-        "juste après."
+        "Une fois l'URL trouvée, envoyez-la-moi.\\n\\n",
+        "Si la vidéo a déjà été téléchargée par un autre utilisateur, l'envoi sera immédiat.\\n",
+        "Sinon, le bouton {INBOX_TRAY} *Télécharger* apparaîtra. Votre fichier audio sera disponible un instant après l'appui.",
     ],
     "help_4": [
         "{OPEN_BOOK} *Aide (4 sur 4)*\\n\\n",
-        "Après avoir reçu et téléchargé le message audio, vous pouvez maintenir l'appui dessus et cliquer sur *Save to music* ",
-        "pour sauvegarder le fichier audio dans le dossier Musique de votre terminal."
+        "Après avoir reçu et téléchargé le message audio, appuyez sur les *⋮* en haut à droite puis cliquez sur *Save to music* ",
+        "afin de sauvegarder celui-ci dans le dossier _Musique_ de votre terminal."
     ],
     "tip_1": [
         "{LIGHT_BULB} *Astuce (1 sur 2)*\\n\\n",
-        "Vous pouvez aussi n'envoyer que l'ID de la vidéo, comme cela :\\n\\n",
+        "Vous pouvez aussi envoyer uniquement l'ID de la vidéo, comme cela :\\n\\n",
         "— `SMWi7CLoZ2Q`."
     ],
     "tip_2": [
         "{LIGHT_BULB} *Astuce (2 sur 2)*\\n\\n",
-        "Rejoignez la chaîne @YTAudio pour suivre les dernières actualités et mises-à-jour du bot !"
+        "Rejoignez la chaîne @YTAudio pour suivre les dernières actus et mises-à-jour du bot !"
     ],
     "hi": "{SPARKLES} *Bonjour {name} !*",
     "presentation": [
@@ -148,25 +147,25 @@
     ],
     "settings": [
         "{GEAR} *Paramètres*\\n\\n",
-        "{NEWSPAPER} *À propos* - Infos à propos du bot\\n",
+        "{NEWSPAPER} *À propos* - Infos sur le bot\\n",
         "{BAR_CHART} *FAQ* - Questions fréquentes\\n",
         "{GLOBE_WITH_MERIDIANS} *Langue* - Changer la langue du bot\\n",
-        "{SPEECH_BALLOON} *Feedback* - Envoyer votre feedback"
+        "{SPEECH_BALLOON} *Feedback* - Envoyer votre avis"
     ],
     "faq_1": [
         "{BAR_CHART} *Questions fréquentes*\\n\\n",
         "`Q:` *1. Je veux choisir le format audio !*\\n",
-        "`R:` Nous nous concentrons sur la qualité, la performance et la fiabilité du service. ",
+        "`R:` Nous nous concentrons sur la qualité, la performance et la fiabilité du service.\\n",
         "Pour atteindre des conversions super rapides avec la plus haute qualité disponible sur YouTube, nous envoyons seulement ",
-        "des fichiers encodés en AAC 128k, dans un conteneur MPEG-4 Part 14 (MP4), sous l'extension M4A et avec les balises iTunes correctes. ",
+        "des fichiers encodés en AAC 128k, dans un conteneur MPEG-4 Part 14 (MP4), sous l'extension M4A et avec les balises iTunes correctes.\\n",
         "Ce choix pourrait changer dans le futur."
     ],
     "faq_2": [
         "{BAR_CHART} *Questions fréquentes*\\n\\n",
         "`Q:` *2. Que signifie AAC/M4A ?*\\n",
         "`R:` L'AAC est un format de codage audio conçu pour être le successeur du format MP3. Il atteint généralement ",
-        "une meilleure qualité sonore que le MP3 à bitrate égal. M4A est une extension de fichier et c'est aussi le conteneur",
-        "de l'audio encodé AAC et des balises de l'audio lui-même."
+        "une meilleure qualité sonore que le MP3 à bitrate égal.\\n",
+        "M4A est une extension de fichier et c'est aussi le conteneur de l'audio encodé AAC et des balises de l'audio lui-même."
     ],
     "faq_3": [
         "{BAR_CHART} *Questions fréquentes*\\n\\n",
@@ -197,7 +196,7 @@
     ],
     "contributors": [
         "{BUSTS_IN_SILHOUETTE} *Contributeurs*\\n\\n",
-        "{RED_HEART} Nous souhaitons remercier chaleureusement ceux qui contribuent à la traduction :\\n\\n",
+        "{RED_HEART} Nous souhaitons remercier chaleureusement tous ceux qui contribuent à la traduction :\\n\\n",
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
