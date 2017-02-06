@@ -114,8 +114,8 @@
     ],
     "help_4": [
         "{OPEN_BOOK} *Aide (4 sur 4)*\\n\\n",
-        "Après avoir reçu et téléchargé le message audio, appuyez sur les *⋮* en haut à droite puis cliquez sur *Save to music* ",
-        "afin de sauvegarder celui-ci dans le dossier _Musique_ de votre terminal."
+        "Après avoir reçu et téléchargé le message audio, appuyez en haut à droite de celui-ci, puis sur *Save to music* ",
+        "afin de le sauvegarder dans le dossier _Musique_ de votre terminal."
     ],
     "tip_1": [
         "{LIGHT_BULB} *Astuce (1 sur 2)*\\n\\n",
@@ -124,7 +124,7 @@
     ],
     "tip_2": [
         "{LIGHT_BULB} *Astuce (2 sur 2)*\\n\\n",
-        "Rejoignez la chaîne @YTAudio pour suivre les dernières actus et mises-à-jour du bot !"
+        "Rejoignez la chaîne @YTAudio pour suivre les dernières actualités et mises-à-jour du bot !"
     ],
     "hi": "{SPARKLES} *Bonjour {name} !*",
     "presentation": [
