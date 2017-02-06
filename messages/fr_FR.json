@@ -110,7 +110,7 @@
         "{OPEN_BOOK} *Aide (3 sur 4)*\\n\\n",
         "Une fois l'URL trouvée, envoyez-la-moi.\\n\\n",
         "Si la vidéo a déjà été téléchargée par un autre utilisateur, l'envoi sera immédiat.\\n",
-        "Sinon, le bouton {INBOX_TRAY} *Télécharger* apparaîtra. Votre fichier audio sera disponible un instant après l'appui.",
+        "Sinon, le bouton {INBOX_TRAY} *Télécharger* apparaîtra. Votre fichier audio sera disponible un instant après l'appui."
     ],
     "help_4": [
         "{OPEN_BOOK} *Aide (4 sur 4)*\\n\\n",
