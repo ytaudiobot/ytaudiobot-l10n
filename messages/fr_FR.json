@@ -42,7 +42,7 @@
     "like": [
         "{SPARKLES} *Merci {name} !*\\n\\n",
         "Nous sommes fiers que vous soyez satisfait(e).\\n\\n",
-        "Vous pouvez évaluer le bot et lui accorder ",
+        "Vous pouvez évaluer le bot et lui accorder\\n",
         "5 étoiles {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} ici :\\n",
         "https://telegram.me/storebot?start=YTAudioBot"
     ],
