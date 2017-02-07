@@ -34,10 +34,13 @@
         "{WARNING} *הקובץ פג תוקף*\\n\\n",
         "תלחץ {command} על מנת להוריד שוב."
     ],
-    "more_info": "{PAGE_WITH_CURL} עוד מידע",
-    "video_id": "{SMALL_ORANGE_DIAMOND} זיהוי הסרטון",
-    "duration": "{SMALL_ORANGE_DIAMOND} משך",
-    "size": "{SMALL_ORANGE_DIAMOND} גודל",
+    "more_info": [
+        "{PAGE_WITH_CURL} עוד מידע\\n\\n",
+        "{SMALL_ORANGE_DIAMOND} זיהוי הסרטון: {video_id}\\n",
+        "{SMALL_ORANGE_DIAMOND} משך: {duration}\\n",
+        "{SMALL_ORANGE_DIAMOND} גודל: {file_size} MB\\n",
+        "{SMALL_ORANGE_DIAMOND} SHA256: {sha256_sum}"
+    ],
     "listen_on_youtube": "{LINK} [הקשב ביוטיוב](https://youtu.be/{video_id})",
     "like": [
         "{SPARKLES} *תודה, {name}!*\\n\\n",
@@ -248,5 +251,27 @@
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} המשך",
     "contribute_button": "{BUST_IN_SILHOUETTE} תרגם",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} מתרגמים",
-    "open_project_button": "{CARD_INDEX_DIVIDERS} פתח את הפרויקט"
+    "open_project_button": "{CARD_INDEX_DIVIDERS} פתח את הפרויקט",
+    "search_item_template": [
+        "{HEADPHONE} *{title}*\\n",
+        "{BUST_IN_SILHOUETTE} _{channel}_\\n",
+        "{EYE} {view_count} {THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
+        "{clock} {duration}: /dl\\_{encoded_video_id}\\n\\n"
+    ],
+    "extract_item_template": [
+        "{HEADPHONE} [{title}](https://youtu.be/{video_id})\\n",
+        "{BUST_IN_SILHOUETTE} *{uploader}* ([{uploader_id}](https://youtube.com/user/{uploader_id}))\\n",
+        "{EYE} {view_count}\\n",
+        "{THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
+        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
+    ],
+    "history_item_template": [
+        "{HEADPHONE} *{index}.* {performer} - *{title}*\\n",
+        "_{natural_relative_time}_\\n\\n"
+    ],
+    "history_details_item_template": [
+        "{listen_on_youtube}\\n",
+        "{HEADPHONE} {performer} - *{title}*\\n",
+        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
+    ]
 }

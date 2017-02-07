@@ -34,10 +34,13 @@
         "{WARNING} *文件已过期*\\n\\n",
         "点击 {command} 重新下载。"
     ],
-    "more_info": "{PAGE_WITH_CURL} 详细信息",
-    "video_id": "{SMALL_ORANGE_DIAMOND} 视频ID",
-    "duration": "{SMALL_ORANGE_DIAMOND} 时间长度",
-    "size": "{SMALL_ORANGE_DIAMOND} 文件大小",
+    "more_info": [
+        "{PAGE_WITH_CURL} 详细信息\\n\\n",
+        "{SMALL_ORANGE_DIAMOND} 视频ID: {video_id}\\n",
+        "{SMALL_ORANGE_DIAMOND} 时间长度: {duration}\\n",
+        "{SMALL_ORANGE_DIAMOND} 文件大小: {file_size} MB\\n",
+        "{SMALL_ORANGE_DIAMOND} SHA256: {sha256_sum}"
+    ],
     "listen_on_youtube": "{LINK} [在YouTube中播放](https://youtu.be/{video_id})",
     "like": [
         "{SPARKLES} *多谢，{name}!*\\n\\n",
@@ -249,5 +252,27 @@
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} 继续",
     "contribute_button": "{BUST_IN_SILHOUETTE} 参与贡献",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} 贡献者",
-    "open_project_button": "{CARD_INDEX_DIVIDERS} 访问项目"
+    "open_project_button": "{CARD_INDEX_DIVIDERS} 访问项目",
+    "search_item_template": [
+        "{HEADPHONE} *{title}*\\n",
+        "{BUST_IN_SILHOUETTE} _{channel}_\\n",
+        "{EYE} {view_count} {THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
+        "{clock} {duration}: /dl\\_{encoded_video_id}\\n\\n"
+    ],
+    "extract_item_template": [
+        "{HEADPHONE} [{title}](https://youtu.be/{video_id})\\n",
+        "{BUST_IN_SILHOUETTE} *{uploader}* ([{uploader_id}](https://youtube.com/user/{uploader_id}))\\n",
+        "{EYE} {view_count}\\n",
+        "{THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
+        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
+    ],
+    "history_item_template": [
+        "{HEADPHONE} *{index}.* {performer} - *{title}*\\n",
+        "_{natural_relative_time}_\\n\\n"
+    ],
+    "history_details_item_template": [
+        "{listen_on_youtube}\\n",
+        "{HEADPHONE} {performer} - *{title}*\\n",
+        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
+    ]
 }

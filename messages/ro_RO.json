@@ -34,10 +34,13 @@
         "{WARNING} *Fișier expirat*\\n\\n",
         "Apasă {command} pentru a descărca din nou."
     ],
-    "more_info": "{PAGE_WITH_CURL} Informații",
-    "video_id": "{SMALL_ORANGE_DIAMOND} ID clip",
-    "duration": "{SMALL_ORANGE_DIAMOND} Durată",
-    "size": "{SMALL_ORANGE_DIAMOND} Mărime",
+    "more_info": [
+        "{PAGE_WITH_CURL} Informații\\n\\n",
+        "{SMALL_ORANGE_DIAMOND} ID clip: {video_id}\\n",
+        "{SMALL_ORANGE_DIAMOND} Durată: {duration}\\n",
+        "{SMALL_ORANGE_DIAMOND} Mărime: {file_size} MB\\n",
+        "{SMALL_ORANGE_DIAMOND} SHA256: {sha256_sum}"
+    ],
     "listen_on_youtube": "{LINK} [Ascultă pe YouTube](https://youtu.be/{video_id})",
     "like": [
         "{SPARKLES} *Îți mulțumim, {name}!*\\n\\n",
@@ -237,5 +240,27 @@
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Reia",
     "contribute_button": null,
     "contributors_button": null,
-    "open_project_button": null
+    "open_project_button": null,
+    "search_item_template": [
+        "{HEADPHONE} *{title}*\\n",
+        "{BUST_IN_SILHOUETTE} _{channel}_\\n",
+        "{EYE} {view_count} {THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
+        "{clock} {duration}: /dl\\_{encoded_video_id}\\n\\n"
+    ],
+    "extract_item_template": [
+        "{HEADPHONE} [{title}](https://youtu.be/{video_id})\\n",
+        "{BUST_IN_SILHOUETTE} *{uploader}* ([{uploader_id}](https://youtube.com/user/{uploader_id}))\\n",
+        "{EYE} {view_count}\\n",
+        "{THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
+        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
+    ],
+    "history_item_template": [
+        "{HEADPHONE} *{index}.* {performer} - *{title}*\\n",
+        "_{natural_relative_time}_\\n\\n"
+    ],
+    "history_details_item_template": [
+        "{listen_on_youtube}\\n",
+        "{HEADPHONE} {performer} - *{title}*\\n",
+        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
+    ]
 }

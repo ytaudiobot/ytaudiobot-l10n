@@ -34,10 +34,13 @@
         "{WARNING} *Archivo caducado*\\n\\n",
         "Toca {command} para volver a descargar."
     ],
-    "more_info": "{PAGE_WITH_CURL} Más información",
-    "video_id": "{SMALL_ORANGE_DIAMOND} ID",
-    "duration": "{SMALL_ORANGE_DIAMOND} Duración",
-    "size": "{SMALL_ORANGE_DIAMOND} Tamaño",
+    "more_info": [
+        "{PAGE_WITH_CURL} Más información\\n\\n",
+        "{SMALL_ORANGE_DIAMOND} ID: {video_id}\\n",
+        "{SMALL_ORANGE_DIAMOND} Duración: {duration}\\n",
+        "{SMALL_ORANGE_DIAMOND} Tamaño: {file_size} MB\\n",
+        "{SMALL_ORANGE_DIAMOND} SHA256: {sha256_sum}"
+    ],
     "listen_on_youtube": "{LINK} [Escuchar en YouTube](https://youtu.be/{video_id})",
     "like": [
         "{SPARKLES} *¡Gracias, {name}!*\\n\\n",
@@ -248,5 +251,27 @@
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Reanudar",
     "contribute_button": "{BUST_IN_SILHOUETTE} Contribuir",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Contribuidores",
-    "open_project_button": "{CARD_INDEX_DIVIDERS} Abrir proyecto"
+    "open_project_button": "{CARD_INDEX_DIVIDERS} Abrir proyecto",
+    "search_item_template": [
+        "{HEADPHONE} *{title}*\\n",
+        "{BUST_IN_SILHOUETTE} _{channel}_\\n",
+        "{EYE} {view_count} {THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
+        "{clock} {duration}: /dl\\_{encoded_video_id}\\n\\n"
+    ],
+    "extract_item_template": [
+        "{HEADPHONE} [{title}](https://youtu.be/{video_id})\\n",
+        "{BUST_IN_SILHOUETTE} *{uploader}* ([{uploader_id}](https://youtube.com/user/{uploader_id}))\\n",
+        "{EYE} {view_count}\\n",
+        "{THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
+        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
+    ],
+    "history_item_template": [
+        "{HEADPHONE} *{index}.* {performer} - *{title}*\\n",
+        "_{natural_relative_time}_\\n\\n"
+    ],
+    "history_details_item_template": [
+        "{listen_on_youtube}\\n",
+        "{HEADPHONE} {performer} - *{title}*\\n",
+        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
+    ]
 }

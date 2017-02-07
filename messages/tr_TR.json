@@ -34,10 +34,13 @@
         "{WARNING} *Dosya doldu*\\n\\n",
         "Basın {command} Tekrar indirmek için."
     ],
-    "more_info": "{PAGE_WITH_CURL} Daha fazla bilgi",
-    "video_id": "{SMALL_ORANGE_DIAMOND} Video Kimliği",
-    "duration": "{SMALL_ORANGE_DIAMOND} Süre",
-    "size": "{SMALL_ORANGE_DIAMOND} Boyut",
+    "more_info": [
+        "{PAGE_WITH_CURL} Daha fazla bilgi\\n\\n",
+        "{SMALL_ORANGE_DIAMOND} Video Kimliği: {video_id}\\n",
+        "{SMALL_ORANGE_DIAMOND} Süre: {duration}\\n",
+        "{SMALL_ORANGE_DIAMOND} Boyut: {file_size} MB\\n",
+        "{SMALL_ORANGE_DIAMOND} SHA256: {sha256_sum}"
+    ],
     "listen_on_youtube": "{LINK} [YouTube'da dinle](https://youtu.be/{video_id})",
     "like": [
         "{SPARKLES} *teşekkür ederim, {name}!*\\n\\n",
@@ -247,5 +250,27 @@
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Devam Ettir",
     "contribute_button": "{BUST_IN_SILHOUETTE} Katkıda Bulunanlar",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Katkıda Bulunan",
-    "open_project_button": "{CARD_INDEX_DIVIDERS} Projeyi Aç"
+    "open_project_button": "{CARD_INDEX_DIVIDERS} Projeyi Aç",
+    "search_item_template": [
+        "{HEADPHONE} *{title}*\\n",
+        "{BUST_IN_SILHOUETTE} _{channel}_\\n",
+        "{EYE} {view_count} {THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
+        "{clock} {duration}: /dl\\_{encoded_video_id}\\n\\n"
+    ],
+    "extract_item_template": [
+        "{HEADPHONE} [{title}](https://youtu.be/{video_id})\\n",
+        "{BUST_IN_SILHOUETTE} *{uploader}* ([{uploader_id}](https://youtube.com/user/{uploader_id}))\\n",
+        "{EYE} {view_count}\\n",
+        "{THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
+        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
+    ],
+    "history_item_template": [
+        "{HEADPHONE} *{index}.* {performer} - *{title}*\\n",
+        "_{natural_relative_time}_\\n\\n"
+    ],
+    "history_details_item_template": [
+        "{listen_on_youtube}\\n",
+        "{HEADPHONE} {performer} - *{title}*\\n",
+        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
+    ]
 }

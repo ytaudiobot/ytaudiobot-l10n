@@ -34,10 +34,13 @@
         "{WARNING} *Faylni vaqti tugagan*\\n\\n",
         "Qayta yuklash uchun {command} ni bosing."
     ],
-    "more_info": "{PAGE_WITH_CURL} Qo'shimcha ma'lumot",
-    "video_id": "{SMALL_ORANGE_DIAMOND} Video ID",
-    "duration": "{SMALL_ORANGE_DIAMOND} Davomiyligi",
-    "size": "{SMALL_ORANGE_DIAMOND} Hajmi",
+    "more_info": [
+        "{PAGE_WITH_CURL} Qo'shimcha ma'lumot\\n\\n",
+        "{SMALL_ORANGE_DIAMOND} Video ID: {video_id}\\n",
+        "{SMALL_ORANGE_DIAMOND} Davomiyligi: {duration}\\n",
+        "{SMALL_ORANGE_DIAMOND} Hajmi: {file_size} MB\\n",
+        "{SMALL_ORANGE_DIAMOND} SHA256: {sha256_sum}"
+    ],
     "listen_on_youtube": "{LINK} [YouTube da tinglash](https://youtu.be/{video_id})",
     "like": [
         "{SPARKLES} *Rahmat, {name}!*\\n\\n",
@@ -248,5 +251,27 @@
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Davom etish",
     "contribute_button": "{BUST_IN_SILHOUETTE} Hissa qo'shish",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Tarjimonlar",
-     "open_project_button": "{CARD_INDEX_DIVIDERS} Projektni ochish"
+    "open_project_button": "{CARD_INDEX_DIVIDERS} Projektni ochish",
+    "search_item_template": [
+        "{HEADPHONE} *{title}*\\n",
+        "{BUST_IN_SILHOUETTE} _{channel}_\\n",
+        "{EYE} {view_count} {THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
+        "{clock} {duration}: /dl\\_{encoded_video_id}\\n\\n"
+    ],
+    "extract_item_template": [
+        "{HEADPHONE} [{title}](https://youtu.be/{video_id})\\n",
+        "{BUST_IN_SILHOUETTE} *{uploader}* ([{uploader_id}](https://youtube.com/user/{uploader_id}))\\n",
+        "{EYE} {view_count}\\n",
+        "{THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
+        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
+    ],
+    "history_item_template": [
+        "{HEADPHONE} *{index}.* {performer} - *{title}*\\n",
+        "_{natural_relative_time}_\\n\\n"
+    ],
+    "history_details_item_template": [
+        "{listen_on_youtube}\\n",
+        "{HEADPHONE} {performer} - *{title}*\\n",
+        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
+    ]
 }
