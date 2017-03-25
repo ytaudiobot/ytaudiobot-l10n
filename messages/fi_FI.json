@@ -1,5 +1,6 @@
 {
-    "position": "6",
+    "position": 6,
+    "right_to_left": false,
     "description": [
         "Lataa YouTube-videoita vain-ääni-tiedostoina, joita voit käyttää missä ikinä liikutkin!\\n\\n",
         "Peilausbotti/Mirror: @YTAudio_Bot"
@@ -7,8 +8,8 @@
     "type_search_terms": "{MEMO} Kirjoita hakusanasi",
     "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} Etsi \\\"{terms}\\\" YouTubesta",
     "error": "{PENSIVE_FACE} Tapahtui virhe. Yritä myöhemmin uudelleen.",
-    "longer_download_time": "{WARNING_SIGN} *Tämä video vie aikaa pidempään kuin yleensä. Lataus saattaa jopa epäonnistua!*",
-    "clear_history_warning": "{WARNING_SIGN} Haluatko tyhjentää koko historian?",
+    "longer_download_time": "{WARNING} *Tämä video vie aikaa pidempään kuin yleensä. Lataus saattaa jopa epäonnistua!*",
+    "clear_history_warning": "{WARNING} Haluatko tyhjentää koko historian?",
     "history_settings": [
         "{HOURGLASS} *Lataushistoria*\\n\\n",
         "Lataushistoriassasi {ei ole yhtään kohdetta|on yksi kohde|on # kohdetta}."
@@ -30,14 +31,17 @@
     "download_history_resumed": "{WHITE_HEAVY_CHECK_MARK} Lataushistorian tallentamista jatkettu",
     "download_history_cleared": "{WASTEBASKET} Lataushistoria tyhjennetty",
     "file_expired": [
-        "{WARNING_SIGN} *Tiedosto vanhentunut*\\n\\n",
+        "{WARNING} *Tiedosto vanhentunut*\\n\\n",
         "Paina {command} ladataksesi sen uudelleen."
     ],
-    "more_info": "{PAGE_WITH_CURL} Lisätietoja",
-    "video_id": "{SMALL_ORANGE_DIAMOND} Videon ID",
-    "duration": "{SMALL_ORANGE_DIAMOND} Pituus",
-    "size": "{SMALL_ORANGE_DIAMOND} Koko",
-    "listen_on_youtube": "{LINK_SYMBOL} Kuuntele YouTubessa",
+    "more_info": [
+        "{PAGE_WITH_CURL} Lisätietoja\\n\\n",
+        "{SMALL_ORANGE_DIAMOND} Videon ID: {video_id}\\n",
+        "{SMALL_ORANGE_DIAMOND} Pituus: {duration}\\n",
+        "{SMALL_ORANGE_DIAMOND} Koko: {file_size} MB\\n",
+        "{SMALL_ORANGE_DIAMOND} SHA256: {sha256_sum}"
+    ],
+    "listen_on_youtube": "{LINK} [Kuuntele YouTubessa](https://youtu.be/{video_id})",
     "like": [
         "{SPARKLES} *Kiitos, {name}!*\\n\\n",
         "Olemme iloisia kuullessamme tämän.\\n\\n",
@@ -45,7 +49,7 @@
         "5 tähteä {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} täällä:\\n",
         "https://telegram.me/storebot?start=YTAudioBot"
     ],
-    "no_like": [
+    "dislike": [
         "{PENSIVE_FACE} *Ikävä kuulla siitä, {name}.*\\n\\n",
         "Onko jokin vikana botissa? Kerrothan siitä meille (englanniksi tai italiaksi):"
     ],
@@ -65,7 +69,7 @@
     "feedback_sent": "{HEAVY_CHECK_MARK} *Palautteesi on lähetetty. Kiitos!*",
     "showing_trending_results": "{FIRE} *Näytetään nousussa olevia videoita*\\n\\n",
     "showing_youtube_results": "{RIGHT_POINTING_MAGNIFYING_GLASS} *YouTube-hakutulokset hakusanalle \\\"*{terms}*\\\"*\\n\\n",
-    "flood_wait": "{WARNING_SIGN} *Ei noin nopeasti! Odota {0 sekuntia|1 sekunti|# sekuntia} ja yritä uudelleen.*",
+    "flood_wait": "{WARNING} *Ei noin nopeasti! Odota {0 sekuntia|1 sekunti|# sekuntia} ja yritä uudelleen.*",
     "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} *Haetaan hakusanalla \\\"*{terms}*\\\"...*",
     "video_not_available": "{PENSIVE_FACE} *Anteeksi, mutta video on saavuttamattomissa juuri nyt. Yritä myöhemmin uudelleen.*",
     "size_limit_exceeded": "{PENSIVE_FACE} *Anteeksi, mutta video ylittää kokorajoituksen. Yritä uudelleen toisella videolla.*",
@@ -76,7 +80,7 @@
     ],
     "language_selected": "{HEAVY_CHECK_MARK} Kieleksi vaihdettu {FLAG_FOR_FINLAND} Suomi.",
     "same_language_selected": "{THINKING_FACE} Botin kieli on jo {FLAG_FOR_FINLAND} Suomi",
-    "video_processing_in_progress": "{CLOCKWISE_DOWNWARDS_AND_UPWARDS_OPEN_CIRCLE_ARROWS} *Videon prosessointi käynnissä...*",
+    "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *Videon prosessointi käynnissä...*",
     "download_canceled": [
         "{CROSS_MARK} *Lataus peruutettu.\\n",
         "Paina *{command}* ladataksesi sen uudelleen.*"
@@ -86,48 +90,44 @@
         "Yritä uudelleen: *{command}*.*"
     ],
     "download_timeout": [
-        "{WARNING_SIGN} *Latauksesi näyttää kestävän yli 60 sekuntia.\\n",
+        "{WARNING} *Latauksesi näyttää kestävän yli 60 sekuntia.\\n",
         "Voit pyytää toisen videon, tämä lähetetään sinulle mahdollisimman nopeasti!*"
     ],
     "download_successful": "{HEAVY_CHECK_MARK} *Ääni onnistuneesti ladattu!*",
-    "wait_previous_download": "{WARNING_SIGN} Odota edellistä lataustasi!",
-    "download_queue_full": "{WARNING_SIGN} Latausjono on täynnä. Yritä myöhemmin uudelleen.",
-    "help_pages_list": [
-        [
-            "{OPEN_BOOK} *Ohje (1/4)*\\n\\n",
-            "Ainoa asia jonka tarvitset on YouTube-videon linkki, josta haluat ottaa äänen, kuten tämän:\\n\\n",
-            "— https://youtu.be/SMWi7CLoZ2Q."
-        ],
-        [
-            "{OPEN_BOOK} *Ohje (2/4)*\\n\\n",
-            "On monia tapoja löytää URL-osoite. Voit esimerkiksi:\\n\\n",
-            "— Käyttää YouTube-sovelluksen jakopainikkeita.\\n",
-            "— Käyttää Telegramin inline-botteja @vid or @youtube.\\n",
-            "— Kopioida/liittää linkki selaimestasi."
-        ],
-        [
-            "{OPEN_BOOK} *Ohje (3/4)*\\n\\n",
-            "Kun olet löytänyt URL-osoitteen, lähetä se minulle.\\n\\n",
-            "Jos jokin toinen henkilö on ladannut saman videon, tiedosto lähetetään heti sinulle, ",
-            "muutoin painike {INBOX_TRAY} *Lataa* ilmestyy. Paina sitä, ja äänitiedosto ilmestyy ",
-            "hetken kuluttua."
-        ],
-        [
-            "{OPEN_BOOK} *Ohje (4/4)*\\n\\n",
-            "Kun olet saanut ja ladannut sen, voit painaa äänivestiä ja painaa *Tallenna musiikkiin* (*Save to music*) ",
-            "tallentaaksesi äänitiedoston laitteesi musiikkikansioon.\\n\\n"
-        ]
+    "wait_previous_download": "{WARNING} Odota edellistä lataustasi!",
+    "download_queue_full": "{WARNING} Latausjono on täynnä. Yritä myöhemmin uudelleen.",
+    "help_1": [
+        "{OPEN_BOOK} *Ohje (1/4)*\\n\\n",
+        "Ainoa asia jonka tarvitset on YouTube-videon linkki, josta haluat ottaa äänen, kuten tämän:\\n\\n",
+        "— https://youtu.be/SMWi7CLoZ2Q."
     ],
-    "tips_list": [
-        [
-            "{ELECTRIC_LIGHT_BULB} *Vinkki (1/2)*\\n\\n",
-            "Voit myös lähettää minulle videon IDn, kuten tämän:\\n\\n",
-            "— `SMWi7CLoZ2Q`."
-        ],
-        [
-            "{ELECTRIC_LIGHT_BULB} *Vinkki (2/2)*\\n\\n",
-            "Liity kanavalle @YTAudio saadaksesi uusimmat uutiset ja päivitykset!"
-        ]
+    "help_2": [
+        "{OPEN_BOOK} *Ohje (2/4)*\\n\\n",
+        "On monia tapoja löytää URL-osoite. Voit esimerkiksi:\\n\\n",
+        "— Käyttää YouTube-sovelluksen jakopainikkeita.\\n",
+        "— Käyttää Telegramin inline-botteja @vid or @youtube.\\n",
+        "— Kopioida/liittää linkki selaimestasi."
+    ],
+    "help_3": [
+        "{OPEN_BOOK} *Ohje (3/4)*\\n\\n",
+        "Kun olet löytänyt URL-osoitteen, lähetä se minulle.\\n\\n",
+        "Jos jokin toinen henkilö on ladannut saman videon, tiedosto lähetetään heti sinulle, ",
+        "muutoin painike {INBOX_TRAY} *Lataa* ilmestyy. Paina sitä, ja äänitiedosto ilmestyy ",
+        "hetken kuluttua."
+    ],
+    "help_4": [
+        "{OPEN_BOOK} *Ohje (4/4)*\\n\\n",
+        "Kun olet saanut ja ladannut sen, voit painaa äänivestiä ja painaa *Tallenna musiikkiin* (*Save to music*) ",
+        "tallentaaksesi äänitiedoston laitteesi musiikkikansioon."
+    ],
+    "tip_1": [
+        "{LIGHT_BULB} *Vinkki (1/2)*\\n\\n",
+        "Voit myös lähettää minulle videon IDn, kuten tämän:\\n\\n",
+        "— `SMWi7CLoZ2Q`."
+    ],
+    "tip_2": [
+        "{LIGHT_BULB} *Vinkki (2/2)*\\n\\n",
+        "Liity kanavalle @YTAudio saadaksesi uusimmat uutiset ja päivitykset!"
     ],
     "hi": "{SPARKLES} *Hei {name}!*",
     "presentation": [
@@ -142,8 +142,8 @@
         "{NEWSPAPER} *Tietoa*\\n\\n",
         "*YTAudioBot Telegramille*\\n",
         "{version} _{day}. {month}ta {year}_\\n\\n",
-        "{PUBLIC_ADDRESS_LOUDSPEAKER} *Kanava* - @YTAudio\\n",
-        "{LINK_SYMBOL} *Kotisivu* - https://ytaudiobot.ml\\n",
+        "{LOUDSPEAKER} *Kanava* - @YTAudio\\n",
+        "{LINK} *Kotisivu* - https://ytaudiobot.ml\\n",
         "{ENVELOPE} *Sähköpostiosoite* - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
         "{EYE} *Arvostelut* - {WHITE_MEDIUM_STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
         "{BUST_IN_SILHOUETTE} [{reviews_n}](https://storebot.me/bot/ytaudiobot)"
@@ -155,45 +155,43 @@
         "{GLOBE_WITH_MERIDIANS} *Kieli* - Vaihda kieli\\n",
         "{SPEECH_BALLOON} *Palaute* - Lähetä palautetta"
     ],
-    "faq_list": [
-        [
-            "{BAR_CHART} *Usein kysytyt kysymykset*\\n\\n",
-            "`K:` *1. Haluan valita audioformaatin!*\\n",
-            "`V:` Me panostamme laatuun, palvelun nopeuteen ja vakauteen. ",
-            "Saavuttaaksemme erittäin nopeita äänenmuunnoksia suurimmalla YouTubesta saatavalla laadulla, me lähetämme ainoastaan ",
-            "AAC 128k-enkoodattuja tiedostoja MPEG-4 Part 14 (MP4)-säiliömuodon sisällä M4A-tiedostopäätteellä iTunesin datan kanssa. ",
-            "Tämä valinta saattaa muuttua tulevaisuudessa."
-        ],
-        [
-            "{BAR_CHART} *Usein kysytyt kysymykset*\\n\\n",
-            "`K:` *2. Mitä AAC/M4A tarkoittavat?*\\n",
-            "`V:` AAC on äänenkoodausformaatti, joka suunniteltiin MP3-formaatin seuraajaksi ja yleisesti saavuttaa ",
-            "paremman äänenlaadun kuin MP3 samoilla bittinopeuksilla. M4A on tiedostoformaatti, joka myös tunnetaan ",
-            "AAC-enkoodatun äänen ja tägien säiliömuotona."
-        ],
-        [
-            "{BAR_CHART} *Usein kysytyt kysymykset*\\n\\n",
-            "`K:` *3. Jotkin videot eivät toimi!*\\n",
-            "`V:` Jotkin videot, johtuen YouTuben maarajoituksista, saattaa olla meidän palvelinkeskuksemme saavuttamattomissa. Ongelmana saattaa olla myös se, että ",
-            "botti lähettää tiedostoja tällä hetkellä vain 50 megatavun rajaan asti. Kuitenkin tämä rajoitus saattaa muuttua tulevaisuudessa."
-        ],
-        [
-            "{BAR_CHART} *Usein kysytyt kysymykset*\\n\\n",
-            "`K:` *4. Miksi tiedostoilla on outoja nimiä?*\\n",
-            "`V:` Tiedostojen nimet ovat tallennettu muodossa `Otsikko - VideoId.m4a`, tosin `Otsikko` ei 100% varmuudella ole videon otsikko ",
-            "johtuen joistakin virheellisistä merkeistä. Tämä usein ei ole ongelma, kun kaikki oikea tieto ",
-            "videosta on upotettu audiotiedoston tägeihin."
-        ]
+    "faq_1": [
+        "{BAR_CHART} *Usein kysytyt kysymykset*\\n\\n",
+        "`K:` *1. Haluan valita audioformaatin!*\\n",
+        "`V:` Me panostamme laatuun, palvelun nopeuteen ja vakauteen. ",
+        "Saavuttaaksemme erittäin nopeita äänenmuunnoksia suurimmalla YouTubesta saatavalla laadulla, me lähetämme ainoastaan ",
+        "AAC 128k-enkoodattuja tiedostoja MPEG-4 Part 14 (MP4)-säiliömuodon sisällä M4A-tiedostopäätteellä iTunesin datan kanssa. ",
+        "Tämä valinta saattaa muuttua tulevaisuudessa."
     ],
-    "faq": [
+    "faq_2": [
+        "{BAR_CHART} *Usein kysytyt kysymykset*\\n\\n",
+        "`K:` *2. Mitä AAC/M4A tarkoittavat?*\\n",
+        "`V:` AAC on äänenkoodausformaatti, joka suunniteltiin MP3-formaatin seuraajaksi ja yleisesti saavuttaa ",
+        "paremman äänenlaadun kuin MP3 samoilla bittinopeuksilla. M4A on tiedostoformaatti, joka myös tunnetaan ",
+        "AAC-enkoodatun äänen ja tägien säiliömuotona."
+    ],
+    "faq_3": [
+        "{BAR_CHART} *Usein kysytyt kysymykset*\\n\\n",
+        "`K:` *3. Jotkin videot eivät toimi!*\\n",
+        "`V:` Jotkin videot, johtuen YouTuben maarajoituksista, saattaa olla meidän palvelinkeskuksemme saavuttamattomissa. Ongelmana saattaa olla myös se, että ",
+        "botti lähettää tiedostoja tällä hetkellä vain 50 megatavun rajaan asti. Kuitenkin tämä rajoitus saattaa muuttua tulevaisuudessa."
+    ],
+    "faq_4": [
+        "{BAR_CHART} *Usein kysytyt kysymykset*\\n\\n",
+        "`K:` *4. Miksi tiedostoilla on outoja nimiä?*\\n",
+        "`V:` Tiedostojen nimet ovat tallennettu muodossa `Otsikko - VideoId.m4a`, tosin `Otsikko` ei 100% varmuudella ole videon otsikko ",
+        "johtuen joistakin virheellisistä merkeistä. Tämä usein ei ole ongelma, kun kaikki oikea tieto ",
+        "videosta on upotettu audiotiedoston tägeihin."
+    ],
+    "faq_menu": [
         "{BAR_CHART} *Usein kysytyt kysymykset*\\n\\n",
         "*1.* Haluan valita audioformaatin!\\n",
         "*2.* Mitä AAC/M4A tarkoittavat?\\n",
         "*3.* Jotkin videot eivät toimi!\\n",
-        "*4.* Miksi tiedostoilla on outoja nimiä?\\n"
+        "*4.* Miksi tiedostoilla on outoja nimiä?"
     ],
     "contribute": [
-        "{PERSON_WITH_FOLDED_HANDS} *Auta kääntämään*\\n\\n",
+        "{FOLDED_HANDS} *Auta kääntämään*\\n\\n",
         "{name}! Jos haluat @YTAudioBot:in puhumaan omaa kieltäsi tai parannella olemassa olevaa, voit auttaa meitä!\\n\\n",
         "Teimme ohjeen siihen, [täällä](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
         "Englannin kielen taitoa vaaditaan.\\n\\n",
@@ -201,54 +199,28 @@
     ],
     "contributors": [
         "{BUSTS_IN_SILHOUETTE} *Avustajat*\\n\\n",
-        "{HEAVY_BLACK_HEART} Haluamme lämpimästi kiittää seuraavia kääntäjiä:\\n\\n",
+        "{RED_HEART} Haluamme lämpimästi kiittää seuraavia kääntäjiä:\\n\\n",
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
-    "months_names": [
-        [
-            "tammikuu"
-        ],
-        [
-            "helmikuu"
-        ],
-        [
-            "maaliskuu"
-        ],
-        [
-            "huhtikuu"
-        ],
-        [
-            "toukokuu"
-        ],
-        [
-            "kesäkuu"
-        ],
-        [
-            "heinäkuu"
-        ],
-        [
-            "elokuu"
-        ],
-        [
-            "syyskuu"
-        ],
-        [
-            "lokakuu"
-        ],
-        [
-            "marraskuu"
-        ],
-        [
-            "joulukuu"
-        ]
-    ],
+    "month_1": "tammikuu",
+    "month_2": "helmikuu",
+    "month_3": "maaliskuu",
+    "month_4": "huhtikuu",
+    "month_5": "toukokuu",
+    "month_6": "kesäkuu",
+    "month_7": "heinäkuu",
+    "month_8": "elokuu",
+    "month_9": "syyskuu",
+    "month_10": "lokakuu",
+    "month_11": "marraskuu",
+    "month_12": "joulukuu",
     "start_button": "{CHEQUERED_FLAG} Aloita",
     "language_button": "{FLAG_FOR_FINLAND} Suomi",
     "more_info_button": "{PAGE_WITH_CURL} Lisätietoa",
     "send_to_button": "{OUTBOX_TRAY} Lähetä kohteeseen...",
     "faq_button": "{BAR_CHART} UKK",
-    "like_button": "{THUMBS_UP_SIGN} Pidän siitä!",
+    "like_button": "{THUMBS_UP} Pidän siitä!",
     "not_really_button": "{THINKING_FACE} En oikeastaan",
     "send_feedback_button": "{MEMO} Lähetä palautetta",
     "feedback_button": "{SPEECH_BALLOON} Palaute",
@@ -261,15 +233,15 @@
     "next_button": "Seuraava »",
     "cancel_button": "{CROSS_MARK} Peruuta",
     "download_button": "{INBOX_TRAY} Lataa",
-    "how_it_works_button": "{BLACK_QUESTION_MARK_ORNAMENT} Kuinka se toimii",
+    "how_it_works_button": "{QUESTION_MARK} Kuinka se toimii",
     "rate_now_button": "{WHITE_MEDIUM_STAR} Arvostele nyt",
     "later_button": "{HOURGLASS} Myöhemmin",
     "no_thanks_button": "{PILE_OF_POO} Ei kiitos",
-    "channel_button": "{PUBLIC_ADDRESS_LOUDSPEAKER} Kanava",
-    "website_button": "{LINK_SYMBOL} Kotisivu",
+    "channel_button": "{LOUDSPEAKER} Kanava",
+    "website_button": "{LINK} Kotisivu",
     "email_button": "{ENVELOPE} Sähköposti",
     "ratings_button": "{EYE} Arvostelut",
-    "help_translate_button": "{PERSON_WITH_FOLDED_HANDS} Auta kääntämään",
+    "help_translate_button": "{FOLDED_HANDS} Auta kääntämään",
     "history_button": "{HOURGLASS} Historia",
     "remove_button": "{CROSS_MARK} Poista",
     "restore_button": "{HEAVY_PLUS_SIGN} Palauta",
@@ -277,7 +249,29 @@
     "clear_all_button": "{WASTEBASKET} Poista kaikki",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Pysäytä",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Jatka",
-    "contribute_button": "{PERSON_WITH_FOLDED_HANDS} Avusta",
+    "contribute_button": "{BUST_IN_SILHOUETTE} Avusta",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Avustajat",
-    "open_project_button": "{CARD_INDEX_DIVIDERS} Avaa projekti"
+    "open_project_button": "{CARD_INDEX_DIVIDERS} Avaa projekti",
+    "search_item_template": [
+        "{HEADPHONE} *{title}*\\n",
+        "{BUST_IN_SILHOUETTE} _{channel}_\\n",
+        "{EYE} {view_count} {THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
+        "{clock} {duration}: /dl\\_{encoded_video_id}\\n\\n"
+    ],
+    "extract_item_template": [
+        "{HEADPHONE} [{title}](https://youtu.be/{video_id})\\n",
+        "{BUST_IN_SILHOUETTE} *{uploader}* ([{uploader_id}](https://youtube.com/user/{uploader_id}))\\n",
+        "{EYE} {view_count}\\n",
+        "{THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
+        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
+    ],
+    "history_item_template": [
+        "{HEADPHONE} *{index}.* {performer} - *{title}*\\n",
+        "_{natural_relative_time}_\\n\\n"
+    ],
+    "history_details_item_template": [
+        "{listen_on_youtube}\\n",
+        "{HEADPHONE} {performer} - *{title}*\\n",
+        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
+    ]
 }

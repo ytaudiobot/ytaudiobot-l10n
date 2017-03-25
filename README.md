@@ -1,26 +1,33 @@
 <a href="//ytaudiobot.ml"><img src="logo.png" width="100%"/></a>
-#### Help translate [@YTAudioBot](//telegram.me/ytaudiobot) — a YouTube audio downloader for Telegram Messenger
-_Stay tuned for news and updates on our [Telegram Channel](//telegram.me/ytaudio)_
+#### Help translate [@YTAudioBot](//t.me/ytaudiobot) — a YouTube audio downloader for Telegram Messenger
+_Stay tuned for news and updates on our [Telegram Channel](//t.me/ytaudio)_
 
 ---
 
 YTAudioBot is currently available in the following languages:
 
-| Language                                 | Contributors                                                       |
-| :--------------------------------------- | :----------------------------------------------------------------- |
-| :us: **English** (en_US)                 | [Dan](//github.com/delivrance)                                     |
-| :it: **Italiano** (it_IT)                | [Dan](//github.com/delivrance)                                     |
-| :es: **Español** (es_ES)                 | [Gerardo](//github.com/balboag)                                    |
-| :brazil: **Português** (pt_BR)           | [Rafael](//github.com/rafaelsturmer)                               |
-| :israel: **עברית** (he_IL)               | [PhantomGitHub](//github.com/PhantomGitHub)                        |
-| :de: **Deutsch** (de_DE)                 | [Julian](//github.com/jwsp1), Alex                                 |
-| :finland: **Suomi** (fi_FI)              | [Elias](//github.com/theel0ja)                                     |
-| :greece: **Ελληνικά** (el_GR)            | [stamsarger](//github.com/stamsarger)                              |
-| :romania: **Română** (ro_RO)             | [NicuG](//telegram.me/nicug)                                       |
-| :uzbekistan: **O'zbek** (Lt_uz_UZ)       | [HusanboyBayern](//telegram.me/HusanboyBayern)                     |
-| :indonesia: **Bahasa Indonesia** (id_ID) | [Aldian Hudaya](//telegram.me/oichidan)                            |
-| :cn: **简体中文** (zh_CN)                 | [Kris](//telegram.me/littlekris)                                   |
-| :turkey: **Türkçe** (tr_TR)              | [EypCnn](//github.com/EypCnn), [Ilker Binzet](//github.com/binzet) |
+Language | Contributors | Translated
+:-- | :-- | :--
+:us: **English** ([en_US](messages/en_US.json)) | [Dan](//github.com/delivrance) | -
+:it: **Italiano** ([it_IT](messages/it_IT.json)) | [Dan](//github.com/delivrance) | -
+:es: **Español** ([es_ES](messages/es_ES.json)) | [Gerardo](//github.com/balboag) | 100%
+:brazil: **Português** ([pt_BR](messages/pt_BR.json)) | [Rafael](//github.com/rafaelsturmer), [MarioJuniorDev](//github.com/MarioJuniorDev) | 100%
+:israel: **עברית** ([he_IL](messages/he_IL.json)) | [PhantomGitHub](//github.com/PhantomGitHub) | 100%
+:de: **Deutsch** ([de_DE](messages/de_DE.json)) | [Julian](//github.com/jwsp1), Alex | 100%
+:finland: **Suomi** ([fi_FI](messages/fi_FI.json)) | [Elias](//github.com/theel0ja) | 100%
+:greece: **Ελληνικά** ([el_GR](messages/el_GR.json)) | [stamsarger](//github.com/stamsarger) | 100%
+:romania: **Română** ([ro_RO](messages/ro_RO.json)) | [NicuG](//t.me/nicug) | [**95.87%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
+:uzbekistan: **O'zbek** ([Lt_uz_UZ](messages/Lt_uz_UZ.json)) | [HusanboyBayern](//t.me/HusanboyBayern) | 100%
+:indonesia: **Bahasa Indonesia** ([id_ID](messages/id_ID.json)) | [Aldian Hudaya](//t.me/oichidan) | 100%
+:tr: **Türkçe** ([tr_TR](messages/tr_TR.json)) | [EypCnn](//github.com/EypCnn), [Ilker Binzet](//github.com/binzet) | 100%
+:cn: **简体中文** ([zh_CN](messages/zh_CN.json)) | [Kris](//t.me/littlekris) | 100%
+:taiwan: **繁體中文** ([zh_TW](messages/zh_TW.json)) | [Kris](//t.me/littlekris) | 100%
+:saudi_arabia: **العربية** ([ar_SA](messages/ar_SA.json)) | [Mohammad Fahad](//twitter.com/mohmd1429) | 100%
+**(WIP)** :jp: **日本語** ([ja_JP](messages/ja_JP.json)) | [Rei](//github.com/unwind-protect) |  [**88.43%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
+:ukraine: **Українська** ([uk_UA](messages/uk_UA.json)) | [Denis Sikorsky](//t.me/D3sl0ng3r) | 100%
+:fr: **Français** ([fr_FR](messages/fr_FR.json)) | [Ev4si0n](//github.com/Ev4si0n) | 100%
+**(WIP)** :star: **Català** ([ca_ES](messages/ca_ES.json)) | [Ecron](//github.com/Ecron) | 100%
+
 > Add yourself here once you submit your translations
 
 All translations, except English (en_US) and Italiano (it_IT), are made by volunteers who decided to help.
@@ -68,6 +75,6 @@ I tried to do my best in writing both the English (en_US) translation source and
 If you happen to find something to improve (without completely change the meaning), feel free to make changes.
 
 ## Contacts
-- Telegram: [@haskell](//telegram.me/haskell).
+- Telegram: [@haskell](//t.me/haskell).
 - E-Mail: [admin@ytaudiobot.ml](mailto:admin@ytaudiobot.ml).
 - YTAudioBot: :gear: **Settings >** :speech_balloon: **Feedback >** :memo: **Send feedback**.

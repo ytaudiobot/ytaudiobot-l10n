@@ -1,5 +1,6 @@
 {
-    "position": "1",
+    "position": 1,
+    "right_to_left": false,
     "description": [
         "Scarica video da YouTube in formato solo-audio da portare sempre con te!\\n\\n",
         "Mirror: @YTAudio_Bot"
@@ -7,8 +8,8 @@
     "type_search_terms": "{MEMO} Digita i tuoi termini di ricerca",
     "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} Cerca \\\"{terms}\\\" su YouTube",
     "error": "{PENSIVE_FACE} Si è verificato un errore. Riprova più tardi.",
-    "longer_download_time": "{WARNING_SIGN} *Questo video può richiedere più tempo del solito. Il download potrebbe anche fallire!*",
-    "clear_history_warning": "{WARNING_SIGN} Stai per cancellare tutta la tua cronologia!",
+    "longer_download_time": "{WARNING} *Questo video può richiedere più tempo del solito. Il download potrebbe anche fallire!*",
+    "clear_history_warning": "{WARNING} Stai per cancellare tutta la tua cronologia!",
     "history_settings": [
         "{HOURGLASS} *Cronologia download*\\n\\n",
         "{Non c'è alcun elemento|C'è un elemento|Ci sono # elementi} nella tua cronologia download."
@@ -30,14 +31,17 @@
     "download_history_resumed": "{WHITE_HEAVY_CHECK_MARK} Cronologia download riattivata",
     "download_history_cleared": "{WASTEBASKET} Cronologia download cancellata",
     "file_expired": [
-        "{WARNING_SIGN} *File scaduto*\\n\\n",
+        "{WARNING} *File scaduto*\\n\\n",
         "Premi {command} per scaricare di nuovo."
     ],
-    "more_info": "{PAGE_WITH_CURL} Più info",
-    "video_id": "{SMALL_ORANGE_DIAMOND} ID Video",
-    "duration": "{SMALL_ORANGE_DIAMOND} Durata",
-    "size": "{SMALL_ORANGE_DIAMOND} Dimensioni",
-    "listen_on_youtube": "{LINK_SYMBOL} Ascolta su YouTube",
+    "more_info": [
+        "{PAGE_WITH_CURL} Più info\\n\\n",
+        "{SMALL_ORANGE_DIAMOND} ID Video: {video_id}\\n",
+        "{SMALL_ORANGE_DIAMOND} Durata: {duration}\\n",
+        "{SMALL_ORANGE_DIAMOND} Dimensioni: {file_size} MB\\n",
+        "{SMALL_ORANGE_DIAMOND} SHA256: {sha256_sum}"
+    ],
+    "listen_on_youtube": "{LINK} [Ascolta su YouTube](https://youtu.be/{video_id})",
     "like": [
         "{SPARKLES} *Grazie, {name}!*\\n\\n",
         "Siamo felici che ti piaccia.\\n\\n",
@@ -45,7 +49,7 @@
         "5 stelle {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} qua:\\n",
         "https://telegram.me/storebot?start=YTAudioBot\\n\\n"
     ],
-    "no_like": [
+    "dislike": [
         "{PENSIVE_FACE} *Ci dispiace sentire questo, {name}.*\\n\\n",
         "C'è qualcosa che non va con il bot? Diccelo pure (in Inglese o Italiano):"
     ],
@@ -65,7 +69,7 @@
     "feedback_sent": "{HEAVY_CHECK_MARK} *Il tuo feedback è stato inviato. Grazie!*",
     "showing_trending_results": "{FIRE} *Risultati di tendenza*\\n\\n",
     "showing_youtube_results": "{RIGHT_POINTING_MAGNIFYING_GLASS} *Risultati YouTube per \\\"*{terms}*\\\"*\\n\\n",
-    "flood_wait": "{WARNING_SIGN} *Non così veloce! Aspetta {0 secondi|un secondo|# secondi} e riprova.*",
+    "flood_wait": "{WARNING} *Non così veloce! Aspetta {0 secondi|un secondo|# secondi} e riprova.*",
     "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} *Ricerca in corso per \\\"*{terms}*\\\"...*",
     "video_not_available": "{PENSIVE_FACE} *Mi dispiace, questo video non è al momento disponibile. Riprova più tardi.*",
     "size_limit_exceeded": "{PENSIVE_FACE} *Mi dispiace, questo video supera il limite di grandezza. Riprova con un altro.*",
@@ -76,7 +80,7 @@
     ],
     "language_selected": "{HEAVY_CHECK_MARK} Lingua impostata in {FLAG_FOR_ITALY} Italiano.",
     "same_language_selected": "{THINKING_FACE} La lingua del bot è già in {FLAG_FOR_ITALY} Italiano",
-    "video_processing_in_progress": "{CLOCKWISE_DOWNWARDS_AND_UPWARDS_OPEN_CIRCLE_ARROWS} *Elaborazione video in corso...*",
+    "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *Elaborazione video in corso...*",
     "download_canceled": [
         "{CROSS_MARK} *Download annullato.\\n",
         "Premi *{command}* per scaricare di nuovo.*"
@@ -86,48 +90,44 @@
         "Riprova: *{command}*.*"
     ],
     "download_timeout": [
-        "{WARNING_SIGN} *Il download sta impiegando più di 60 secondi.\\n",
+        "{WARNING} *Il download sta impiegando più di 60 secondi.\\n",
         "Sentiti libero di richiedere un altro video, questo ti verrà inviato il prima possibile!*"
     ],
     "download_successful": "{HEAVY_CHECK_MARK} *Audio scaricato con successo!*",
-    "wait_previous_download": "{WARNING_SIGN} Aspetta il tuo download precedente!",
-    "download_queue_full": "{WARNING_SIGN} La coda download è piena. Riprova più tardi.",
-    "help_pages_list": [
-        [
-            "{OPEN_BOOK} *Guida (1 di 4)*\\n\\n",
-            "L'unica cosa che ti serve è l'URL del video YouTube dal quale vuoi estrarre l'audio, come questo:\\n\\n",
-            "— https://youtu.be/SMWi7CLoZ2Q."
-        ],
-        [
-            "{OPEN_BOOK} *Guida (2 di 4)*\\n\\n",
-            "Ci sono vari modi per trovare l'URL. Puoi, ad esempio:\\n\\n",
-            "— Usare il pulsante Condividi dall'app di YouTube.\\n",
-            "— Usare i bot inline di Telegram @vid o @youtube.\\n",
-            "— Fare copia/incolla del link dal tuo browser."
-        ],
-        [
-            "{OPEN_BOOK} *Guida (3 di 4)*\\n\\n",
-            "Una volta trovato l'URL, inviamelo.\\n\\n",
-            "Se il video è già stato scaricato da qualcun altro ti verrà inviato immediatamente, ",
-            "altrimenti apparirà il pulsante {INBOX_TRAY} *Scarica*. Premilo, e il tuo file audio sarà disponibile ",
-            "poco dopo."
-        ],
-        [
-            "{OPEN_BOOK} *Guida (4 di 4)*\\n\\n",
-            "Dopo averlo ricevuto e scaricato, puoi premere sopra il messaggio audio e cliccare *Salva nella musica* per ",
-            "salvare il file audio nella cartella Musica del tuo dispositivo.\\n\\n"
-        ]
+    "wait_previous_download": "{WARNING} Aspetta il tuo download precedente!",
+    "download_queue_full": "{WARNING} La coda download è piena. Riprova più tardi.",
+    "help_1": [
+        "{OPEN_BOOK} *Guida (1 di 4)*\\n\\n",
+        "L'unica cosa che ti serve è l'URL del video YouTube dal quale vuoi estrarre l'audio, come questo:\\n\\n",
+        "— https://youtu.be/SMWi7CLoZ2Q."
     ],
-    "tips_list": [
-        [
-            "{ELECTRIC_LIGHT_BULB} *Suggerimento (1 di 2)*\\n\\n",
-            "Puoi inviarmi anche solo l'ID del video, come questo:\\n\\n",
-            "— `SMWi7CLoZ2Q`."
-        ],
-        [
-            "{ELECTRIC_LIGHT_BULB} *Suggerimento (2 di 2)*\\n\\n",
-            "Unisciti al canale @YTAudio per le ultime news e aggiornamenti del bot!"
-        ]
+    "help_2": [
+        "{OPEN_BOOK} *Guida (2 di 4)*\\n\\n",
+        "Ci sono vari modi per trovare l'URL. Puoi, ad esempio:\\n\\n",
+        "— Usare il pulsante Condividi dall'app di YouTube.\\n",
+        "— Usare i bot inline di Telegram @vid o @youtube.\\n",
+        "— Fare copia/incolla del link dal tuo browser."
+    ],
+    "help_3": [
+        "{OPEN_BOOK} *Guida (3 di 4)*\\n\\n",
+        "Una volta trovato l'URL, inviamelo.\\n\\n",
+        "Se il video è già stato scaricato da qualcun altro ti verrà inviato immediatamente, ",
+        "altrimenti apparirà il pulsante {INBOX_TRAY} *Scarica*. Premilo, e il tuo file audio sarà disponibile ",
+        "poco dopo."
+    ],
+    "help_4": [
+        "{OPEN_BOOK} *Guida (4 di 4)*\\n\\n",
+        "Dopo averlo ricevuto e scaricato, puoi premere sopra il messaggio audio e cliccare *Salva nella musica* per ",
+        "salvare il file audio nella cartella Musica del tuo dispositivo."
+    ],
+    "tip_1": [
+        "{LIGHT_BULB} *Suggerimento (1 di 2)*\\n\\n",
+        "Puoi inviarmi anche solo l'ID del video, come questo:\\n\\n",
+        "— `SMWi7CLoZ2Q`."
+    ],
+    "tip_2": [
+        "{LIGHT_BULB} *Suggerimento (2 di 2)*\\n\\n",
+        "Unisciti al canale @YTAudio per le ultime news e aggiornamenti del bot!"
     ],
     "hi": "{SPARKLES} *Ciao, {name}!*",
     "presentation": [
@@ -142,8 +142,8 @@
         "{NEWSPAPER} *Informazioni*\\n\\n",
         "*YTAudioBot per Telegram*\\n",
         "{version} _{day} {month} {year}_\\n\\n",
-        "{PUBLIC_ADDRESS_LOUDSPEAKER} *Canale* - @YTAudio\\n",
-        "{LINK_SYMBOL} *Sito web* - https://ytaudiobot.ml\\n",
+        "{LOUDSPEAKER} *Canale* - @YTAudio\\n",
+        "{LINK} *Sito web* - https://ytaudiobot.ml\\n",
         "{ENVELOPE} *E-Mail* - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
         "{EYE} *Recensioni* - {WHITE_MEDIUM_STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
         "{BUST_IN_SILHOUETTE} [{reviews_n}](https://storebot.me/bot/ytaudiobot)"
@@ -155,38 +155,36 @@
         "{GLOBE_WITH_MERIDIANS} *Lingua* - Cambia la lingua del bot\\n",
         "{SPEECH_BALLOON} *Feedback* - Invia il tuo feedback"
     ],
-    "faq_list": [
-        [
-            "{BAR_CHART} *Domande frequenti*\\n\\n",
-            "`D:` *1. Voglio scegliere il formato audio!*\\n",
-            "`R:` Noi puntiamo sulla qualità, le prestazioni e l'affidabilità del servizio. ",
-            "Per ottenere conversioni audio super-veloci alla più alta qualità disponibile su YouTube, inviamo solo file ",
-            "codificati in AAC 128k all'interno di un contenitore MPEG-4 Part 14 (MP4) con estensione M4A taggati con ",
-            "informazioni iTunes. Questa scelta potrebbe cambiare in futuro."
-        ],
-        [
-            "{BAR_CHART} *Domande frequenti*\\n\\n",
-            "`D:` *2. Cosa significa AAC/M4A?*\\n",
-            "`R:` AAC è un formato audio progettato per essere il successore del formato MP3 e in genere raggiunge una ",
-            "migliore qualità audio rispetto al MP3 con bit rate simili. M4A, invece, oltre ad essere un'estensione ",
-            "di file è anche il contenitore sia dell'audio vero e proprio codificato in AAC che dei tag dell'audio stesso."
-        ],
-        [
-            "{BAR_CHART} *Domande frequenti*\\n\\n",
-            "`D:` *3. Alcuni video non funzionano!*\\n",
-            "`R:` Alcuni video, a causa di restrizioni geografiche da parte di YouTube, potrebbero non essere disponibili ",
-            "per il nostro data center. Inoltre, il bot attualmente può inviare file audio fino a una dimensione di 50 MB, ",
-            "questo limite potrebbe cambiare in futuro."
-        ],
-        [
-            "{BAR_CHART} *Domande frequenti*\\n\\n",
-            "`D:` *4. Perché i file hanno nomi strani?*\\n",
-            "`R:` I file vengono salvati nel formato `Titolo - VideoId.m4a`, tuttavia il `Titolo` potrebbe non ",
-            "corrispondere al 100% con il titolo del video a causa di alcuni caratteri invalidi. Solitamente questo non ",
-            "è un problema in quanto tutte le informazioni corrette del video sono incorporate nei tag del file audio."
-        ]
+    "faq_1": [
+        "{BAR_CHART} *Domande frequenti*\\n\\n",
+        "`D:` *1. Voglio scegliere il formato audio!*\\n",
+        "`R:` Noi puntiamo sulla qualità, le prestazioni e l'affidabilità del servizio. ",
+        "Per ottenere conversioni audio super-veloci alla più alta qualità disponibile su YouTube, inviamo solo file ",
+        "codificati in AAC 128k all'interno di un contenitore MPEG-4 Part 14 (MP4) con estensione M4A taggati con ",
+        "informazioni iTunes. Questa scelta potrebbe cambiare in futuro."
     ],
-    "faq": [
+    "faq_2": [
+        "{BAR_CHART} *Domande frequenti*\\n\\n",
+        "`D:` *2. Cosa significa AAC/M4A?*\\n",
+        "`R:` AAC è un formato audio progettato per essere il successore del formato MP3 e in genere raggiunge una ",
+        "migliore qualità audio rispetto al MP3 con bit rate simili. M4A, invece, oltre ad essere un'estensione ",
+        "di file è anche il contenitore sia dell'audio vero e proprio codificato in AAC che dei tag dell'audio stesso."
+    ],
+    "faq_3": [
+        "{BAR_CHART} *Domande frequenti*\\n\\n",
+        "`D:` *3. Alcuni video non funzionano!*\\n",
+        "`R:` Alcuni video, a causa di restrizioni geografiche da parte di YouTube, potrebbero non essere disponibili ",
+        "per il nostro data center. Inoltre, il bot attualmente può inviare file audio fino a una dimensione di 50 MB, ",
+        "questo limite potrebbe cambiare in futuro."
+    ],
+    "faq_4": [
+        "{BAR_CHART} *Domande frequenti*\\n\\n",
+        "`D:` *4. Perché i file hanno nomi strani?*\\n",
+        "`R:` I file vengono salvati nel formato `Titolo - VideoId.m4a`, tuttavia il `Titolo` potrebbe non ",
+        "corrispondere al 100% con il titolo del video a causa di alcuni caratteri invalidi. Solitamente questo non ",
+        "è un problema in quanto tutte le informazioni corrette del video sono incorporate nei tag del file audio."
+    ],
+    "faq_menu": [
         "{BAR_CHART} *Domande frequenti*\\n\\n",
         "*1.* Voglio scegliere il formato audio!\\n",
         "*2.* Cosa significa AAC/M4A?\\n",
@@ -194,7 +192,7 @@
         "*4.* Perché i file hanno nomi strani?"
     ],
     "contribute": [
-        "{PERSON_WITH_FOLDED_HANDS} *Aiuta a tradurre*\\n\\n",
+        "{FOLDED_HANDS} *Aiuta a tradurre*\\n\\n",
         "{name}! Se vuoi che @YTAudioBot parli la tua lingua oppure se vuoi migliorarne una già esistente, puoi aiutarci!\\n\\n",
         "Abbiamo creato una guida solo per questo, [qui](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
         "È richiesta la conoscenza della lingua Inglese.\\n\\n",
@@ -202,54 +200,28 @@
     ],
     "contributors": [
         "{BUSTS_IN_SILHOUETTE} *Collaboratori*\\n\\n",
-        "{HEAVY_BLACK_HEART} Vorremmo ringraziare di cuore i collaboratori delle traduzioni:\\n\\n",
+        "{RED_HEART} Vorremmo ringraziare di cuore i collaboratori delle traduzioni:\\n\\n",
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
-    "months_names": [
-        [
-            "Gennaio"
-        ],
-        [
-            "Febbraio"
-        ],
-        [
-            "Marzo"
-        ],
-        [
-            "Aprile"
-        ],
-        [
-            "Maggio"
-        ],
-        [
-            "Giugno"
-        ],
-        [
-            "Luglio"
-        ],
-        [
-            "Agosto"
-        ],
-        [
-            "Settembre"
-        ],
-        [
-            "Ottobre"
-        ],
-        [
-            "Novembre"
-        ],
-        [
-            "Dicembre"
-        ]
-    ],
+    "month_1": "Gennaio",
+    "month_2": "Febbraio",
+    "month_3": "Marzo",
+    "month_4": "Aprile",
+    "month_5": "Maggio",
+    "month_6": "Giugno",
+    "month_7": "Luglio",
+    "month_8": "Agosto",
+    "month_9": "Settembre",
+    "month_10": "Ottobre",
+    "month_11": "Novembre",
+    "month_12": "Dicembre",
     "start_button": "{CHEQUERED_FLAG} Avvia",
     "language_button": "{FLAG_FOR_ITALY} Italiano",
     "more_info_button": "{PAGE_WITH_CURL} Più info",
     "send_to_button": "{OUTBOX_TRAY} Invia a...",
     "faq_button": "{BAR_CHART} FAQ",
-    "like_button": "{THUMBS_UP_SIGN} Mi piace!",
+    "like_button": "{THUMBS_UP} Mi piace!",
     "not_really_button": "{THINKING_FACE} Non proprio",
     "send_feedback_button": "{MEMO} Invia feedback",
     "feedback_button": "{SPEECH_BALLOON} Feedback",
@@ -262,15 +234,15 @@
     "next_button": "Avanti »",
     "cancel_button": "{CROSS_MARK} Annulla",
     "download_button": "{INBOX_TRAY} Scarica",
-    "how_it_works_button": "{BLACK_QUESTION_MARK_ORNAMENT} Come funziona",
+    "how_it_works_button": "{QUESTION_MARK} Come funziona",
     "rate_now_button": "{WHITE_MEDIUM_STAR} Vota ora",
     "later_button": "{HOURGLASS} Più tardi",
     "no_thanks_button": "{PILE_OF_POO} No, grazie",
-    "channel_button": "{PUBLIC_ADDRESS_LOUDSPEAKER} Canale",
-    "website_button": "{LINK_SYMBOL} Sito web",
+    "channel_button": "{LOUDSPEAKER} Canale",
+    "website_button": "{LINK} Sito web",
     "email_button": "{ENVELOPE} E-Mail",
     "ratings_button": "{EYE} Recensioni",
-    "help_translate_button": "{PERSON_WITH_FOLDED_HANDS} Aiuta a tradurre",
+    "help_translate_button": "{FOLDED_HANDS} Aiuta a tradurre",
     "history_button": "{HOURGLASS} Cronologia",
     "remove_button": "{CROSS_MARK} Rimuovi",
     "restore_button": "{HEAVY_PLUS_SIGN} Ripristina",
@@ -278,7 +250,29 @@
     "clear_all_button": "{WASTEBASKET} Cancella tutto",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Sospendi",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Riattiva",
-    "contribute_button": "{PERSON_WITH_FOLDED_HANDS} Collabora",
+    "contribute_button": "{BUST_IN_SILHOUETTE} Collabora",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Collaboratori",
-    "open_project_button": "{CARD_INDEX_DIVIDERS} Apri progetto"
+    "open_project_button": "{CARD_INDEX_DIVIDERS} Apri progetto",
+    "search_item_template": [
+        "{HEADPHONE} *{title}*\\n",
+        "{BUST_IN_SILHOUETTE} _{channel}_\\n",
+        "{EYE} {view_count} {THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
+        "{clock} {duration}: /dl\\_{encoded_video_id}\\n\\n"
+    ],
+    "extract_item_template": [
+        "{HEADPHONE} [{title}](https://youtu.be/{video_id})\\n",
+        "{BUST_IN_SILHOUETTE} *{uploader}* ([{uploader_id}](https://youtube.com/user/{uploader_id}))\\n",
+        "{EYE} {view_count}\\n",
+        "{THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
+        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
+    ],
+    "history_item_template": [
+        "{HEADPHONE} *{index}.* {performer} - *{title}*\\n",
+        "_{natural_relative_time}_\\n\\n"
+    ],
+    "history_details_item_template": [
+        "{listen_on_youtube}\\n",
+        "{HEADPHONE} {performer} - *{title}*\\n",
+        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
+    ]
 }

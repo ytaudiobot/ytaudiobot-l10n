@@ -1,5 +1,6 @@
 {
-    "position": "10",
+    "position": 10,
+    "right_to_left": false,
     "description": [
         "Unduh audio dari video YouTube dimanapun anda berada!\\n\\n",
         "Alternatif: @YTAudio_Bot"
@@ -7,8 +8,8 @@
     "type_search_terms": "{MEMO} Ketikkan apa yang ingin anda cari",
     "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} Cari \\\"{terms}\\\" di YouTube",
     "error": "{PENSIVE_FACE} Terjadi galat. Silahkan coba lagi nanti.",
-    "longer_download_time": "{WARNING_SIGN} *Video ini bisa lebih lama dari biasanya. Download bisa jadi gagal.*",
-    "clear_history_warning": "{WARNING_SIGN} Anda hendak menghapus seluruh riwayat anda!",
+    "longer_download_time": "{WARNING} *Video ini bisa lebih lama dari biasanya. Download bisa jadi gagal.*",
+    "clear_history_warning": "{WARNING} Anda hendak menghapus seluruh riwayat anda!",
     "history_settings": [
         "{HOURGLASS} *Riwayat Unduhan*\\n\\n",
         "{Nihil|Ada satu riwayat|Ada # riwayat} dalam catatan riwayat unduhan anda."
@@ -30,14 +31,17 @@
     "download_history_resumed": "{WHITE_HEAVY_CHECK_MARK} Riwayat unduhan dilanjutkan",
     "download_history_cleared": "{WASTEBASKET} Riwayat unduhan dibersihkan",
     "file_expired": [
-        "{WARNING_SIGN} *Kadaluarsa*\\n\\n",
+        "{WARNING} *Kadaluarsa*\\n\\n",
         "Tekan {command} untuk mengunduh ulang."
     ],
-    "more_info": "{PAGE_WITH_CURL} Rincian",
-    "video_id": "{SMALL_ORANGE_DIAMOND} ID Video",
-    "duration": "{SMALL_ORANGE_DIAMOND} Durasi",
-    "size": "{SMALL_ORANGE_DIAMOND} Ukuran",
-    "listen_on_youtube": "{LINK_SYMBOL} Dengarkan di YouTube",
+    "more_info": [
+        "{PAGE_WITH_CURL} Rincian\\n\\n",
+        "{SMALL_ORANGE_DIAMOND} ID Video: {video_id}\\n",
+        "{SMALL_ORANGE_DIAMOND} Durasi: {duration}\\n",
+        "{SMALL_ORANGE_DIAMOND} Ukuran: {file_size} MB\\n",
+        "{SMALL_ORANGE_DIAMOND} SHA256: {sha256_sum}"
+    ],
+    "listen_on_youtube": "{LINK} [Dengarkan di YouTube](https://youtu.be/{video_id})",
     "like": [
         "{SPARKLES} *Terima kasih, {name}!*\\n\\n",
         "Kami senang anda menyukainya.\\n\\n",
@@ -45,7 +49,7 @@
         "Setidaknya 5 {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} disini:\\n",
         "https://telegram.me/storebot?start=YTAudioBot"
     ],
-    "no_like": [
+    "dislike": [
         "{PENSIVE_FACE} *Kami turut berduka atas ketidaksukaan anda, {name}.*\\n\\n",
         "Apakah ada yang perlu ditingkatkan atas bot ini? Mohon beritahu kami (dalam Bahasa Inggris atau Italia):"
     ],
@@ -65,7 +69,7 @@
     "feedback_sent": "{HEAVY_CHECK_MARK} *Tanggapan anda telah dikirim. Terima kasih!*",
     "showing_trending_results": "{FIRE} *Menunjukkan hasil terkini*\\n\\n",
     "showing_youtube_results": "{RIGHT_POINTING_MAGNIFYING_GLASS} *Hasil YouTube untuk \\\"*{terms}*\\\"*\\n\\n",
-    "flood_wait": "{WARNING_SIGN} *Eitt! Tunggu {0 detik|sedetik|# detik} dan coba lagi.*",
+    "flood_wait": "{WARNING} *Eitt! Tunggu {0 detik|sedetik|# detik} dan coba lagi.*",
     "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} *Mencari \\\"*{terms}*\\\"...*",
     "video_not_available": "{PENSIVE_FACE} *Maaf, video ini tidak tersedia saat ini. Mohon coba lagi di lain waktu.*",
     "size_limit_exceeded": "{PENSIVE_FACE} *Maaf, video ini melampaui batas ukuran. Mohon coba video lainnya.*",
@@ -76,7 +80,7 @@
     ],
     "language_selected": "{HEAVY_CHECK_MARK} Bahasa terpilih: {FLAG_FOR_INDONESIA} Bahasa Indonesia.",
     "same_language_selected": "{THINKING_FACE} Bahasa terpilih: (masih) {FLAG_FOR_INDONESIA} Bahasa Indonesia.",
-    "video_processing_in_progress": "{CLOCKWISE_DOWNWARDS_AND_UPWARDS_OPEN_CIRCLE_ARROWS} *Memproses video...*",
+    "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *Memproses video...*",
     "download_canceled": [
         "{CROSS_MARK} *Unduhan dibatalkan.\\n",
         "Tekan *{command}* untuk mengunduh lagi.*"
@@ -86,48 +90,44 @@
         "Tekan *{command}* untuk mencoba lagi.*"
     ],
     "download_timeout": [
-        "{WARNING_SIGN} *Unduhannya memakan waktu lebih dari 60 menit.\\n",
+        "{WARNING} *Unduhannya memakan waktu lebih dari 60 menit.\\n",
         "Silahkan meminta video lain, yang ini akan dikirimkan secepat mungkin kepada anda.*"
     ],
     "download_successful": "{HEAVY_CHECK_MARK} *Audio berhasil diunduh!*",
-    "wait_previous_download": "{WARNING_SIGN} Masih menunggu unduhan anda sebelumnya!",
-    "download_queue_full": "{WARNING_SIGN} Permintaan unduhan penuh, harap coba lagi nanti.",
-    "help_pages_list": [
-        [
-            "{OPEN_BOOK} *Bantuan (1 dari 4)*\\n\\n",
-            "Satu-satunya hal yang anda butuhkan adalah tautan/URL video YouTube yang ingin anda unduh audionya, contoh: \\n\\n",
-            "— https://youtu.be/SMWi7CLoZ2Q."
-        ],
-        [
-            "{OPEN_BOOK} *Bantuan (2 dari 4)*\\n\\n",
-            "Ada banyak cara untuk mendapatkan tautan. Misalnya:\\n\\n",
-            "— Menggunakan tombol Share/Bagikan dari aplikasi YouTube;\\n",
-            "— Menggunakan bot @vid atau @youtube Telegram; atau\\n",
-            "— Menyalin dan menempelkan tautannya dari browser anda."
-        ],
-        [
-            "{OPEN_BOOK} *Bantuan (3 dari 4)*\\n\\n",
-            "Setelah anda mendapatkan tautannya, kirimkan ke saya.\\n\\n",
-            "Jika videonya sudah diunduh orang lain, audionya akan segera dikirimkan kepada anda sesegera mungkin, ",
-            "jika tidak tombol {INBOX_TRAY} *Unduh* akan muncul. Tekan, dan audio yang anda inginkan akan tersedia ",
-            "segera setelah itu."
-        ],
-        [
-            "{OPEN_BOOK} *Bantuan (4 dari 4)*\\n\\n",
-            "Setelah menerima dan mengunduh, anda dapat menekan pesan audio dan tekan *Simpan ke Musik*/*Save to Music* ",
-            "untuk menyimpan berkas audionya ke folder Musik perangkat anda.\\n\\n"
-        ]
+    "wait_previous_download": "{WARNING} Masih menunggu unduhan anda sebelumnya!",
+    "download_queue_full": "{WARNING} Permintaan unduhan penuh, harap coba lagi nanti.",
+    "help_1": [
+        "{OPEN_BOOK} *Bantuan (1 dari 4)*\\n\\n",
+        "Satu-satunya hal yang anda butuhkan adalah tautan/URL video YouTube yang ingin anda unduh audionya, contoh: \\n\\n",
+        "— https://youtu.be/SMWi7CLoZ2Q."
     ],
-    "tips_list": [
-        [
-            "{ELECTRIC_LIGHT_BULB} *Tip (1 dari 2)*\\n\\n",
-            "Anda juga dapat mengirimkan hanya ID videonya saja, seperti:\\n\\n",
-            "— `SMWi7CLoZ2Q`."
-        ],
-        [
-            "{ELECTRIC_LIGHT_BULB} *Tip (2 dari 2)*\\n\\n",
-            "Bergabung dengan kanal @YTAudio untuk informasi terkini dan pembaharuan bot!"
-        ]
+    "help_2": [
+        "{OPEN_BOOK} *Bantuan (2 dari 4)*\\n\\n",
+        "Ada banyak cara untuk mendapatkan tautan. Misalnya:\\n\\n",
+        "— Menggunakan tombol Share/Bagikan dari aplikasi YouTube;\\n",
+        "— Menggunakan bot @vid atau @youtube Telegram; atau\\n",
+        "— Menyalin dan menempelkan tautannya dari browser anda."
+    ],
+    "help_3": [
+        "{OPEN_BOOK} *Bantuan (3 dari 4)*\\n\\n",
+        "Setelah anda mendapatkan tautannya, kirimkan ke saya.\\n\\n",
+        "Jika videonya sudah diunduh orang lain, audionya akan segera dikirimkan kepada anda sesegera mungkin, ",
+        "jika tidak tombol {INBOX_TRAY} *Unduh* akan muncul. Tekan, dan audio yang anda inginkan akan tersedia ",
+        "segera setelah itu."
+    ],
+    "help_4": [
+        "{OPEN_BOOK} *Bantuan (4 dari 4)*\\n\\n",
+        "Setelah menerima dan mengunduh, anda dapat menekan pesan audio dan tekan *Simpan ke Musik*/*Save to Music* ",
+        "untuk menyimpan berkas audionya ke folder Musik perangkat anda."
+    ],
+    "tip_1": [
+        "{LIGHT_BULB} *Tip (1 dari 2)*\\n\\n",
+        "Anda juga dapat mengirimkan hanya ID videonya saja, seperti:\\n\\n",
+        "— `SMWi7CLoZ2Q`."
+    ],
+    "tip_2": [
+        "{LIGHT_BULB} *Tip (2 dari 2)*\\n\\n",
+        "Bergabung dengan kanal @YTAudio untuk informasi terkini dan pembaharuan bot!"
     ],
     "hi": "{SPARKLES} *Halo, {name}!*",
     "presentation": [
@@ -142,8 +142,8 @@
         "{NEWSPAPER} *Tentang*\\n\\n",
         "*YTAudioBot untuk Telegram*\\n",
         "{version} _{month} {day}, {year}_\\n\\n",
-        "{PUBLIC_ADDRESS_LOUDSPEAKER} *Kanal* - @YTAudio\\n",
-        "{LINK_SYMBOL} *Situs Web* - https://ytaudiobot.ml\\n",
+        "{LOUDSPEAKER} *Kanal* - @YTAudio\\n",
+        "{LINK} *Situs Web* - https://ytaudiobot.ml\\n",
         "{ENVELOPE} *E-Mail* - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
         "{EYE} *Ulasan* - {WHITE_MEDIUM_STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
         "{BUST_IN_SILHOUETTE} [{reviews_n}](https://storebot.me/bot/ytaudiobot)"
@@ -155,45 +155,43 @@
         "{GLOBE_WITH_MERIDIANS} *Bahasa* - Ganti Bahasa\\n",
         "{SPEECH_BALLOON} *Tanggapan* - Kirim tanggapan anda"
     ],
-    "faq_list": [
-        [
-            "{BAR_CHART} *Pertanyaan Sering Terajukan (FAQ/PST)*\\n\\n",
-            "`Q:` *Saya ingin memilih format audionya!*\\n",
-            "`A:` Kami berfokus pada kualitas, performa layanan dan reliabilitas. ",
-            "Untuk mencapai konversi audio super cepat pada kualitas tertinggi yag ada di YouTube, kami hanya mengirimkan ",
-            "file ter-enkode AAC 128k di dalam pemuat MPEG-4 Bagian 14 (MP4) dengan ekstensi M4A beserta informasi iTunes. ",
-            "Pilihan ini dapat berubah di waktu yang akan datang."
-        ],
-        [
-            "{BAR_CHART} *Pertanyaan Sering Terajukan (FAQ/PST)*\\n\\n",
-            "`Q:` *2. Apa itu AAC/M4A?*\\n",
-            "`A:` AAC adalah format pengkodean audio yang didesain untuk menjadi penerus format MP3 dan biasanya ",
-            "kualitas suaranya lebih baik ketimbang MP3 pada tingkat bit serupa. M4A adalah ekstensi berkasnya, ",
-            "yang juga dikenal sebagai pemuat audio ter-enkode AAC dan tag audio itu sendiri."
-        ],
-        [
-            "{BAR_CHART} *Pertanyaan Sering Terajukan (FAQ/PST)*\\n\\n",
-            "`Q:` *3. Video tertentu tidak bekerja!*\\n",
-            "`A:` Beberapa video, karena pembatasan negara oleh YouTube, bisa jadi tidak tersedia pada pusat data kami. ",
-            "Selain itu, bot ini juga hanya dapat mengirimkan berkas berukuran maksimal 50 MB--dapat berubah di waktu dekat."
-        ],
-        [
-            "{BAR_CHART} *Pertanyaan Sering Terajukan (FAQ/PST)*\\n\\n",
-            "`Q:` *4. Kenapa berkasnya punya nama-nama aneh?*\\n",
-            "`A:` Berkasnya disimpan dengan nama `Judul - ID Video.m4a`, namun `Judul` belum tentu mencerminkan judul asli ",
-            "videonya karena adanya karakter yang tidak benar. Ini biasanya bukan masalah karena semua informasi benar ",
-            "tentang video tersebut disisipkan dalam tag berkas audionya."
-        ]
+    "faq_1": [
+        "{BAR_CHART} *Pertanyaan Sering Terajukan (FAQ/PST)*\\n\\n",
+        "`Q:` *Saya ingin memilih format audionya!*\\n",
+        "`A:` Kami berfokus pada kualitas, performa layanan dan reliabilitas. ",
+        "Untuk mencapai konversi audio super cepat pada kualitas tertinggi yag ada di YouTube, kami hanya mengirimkan ",
+        "file ter-enkode AAC 128k di dalam pemuat MPEG-4 Bagian 14 (MP4) dengan ekstensi M4A beserta informasi iTunes. ",
+        "Pilihan ini dapat berubah di waktu yang akan datang."
     ],
-    "faq": [
+    "faq_2": [
+        "{BAR_CHART} *Pertanyaan Sering Terajukan (FAQ/PST)*\\n\\n",
+        "`Q:` *2. Apa itu AAC/M4A?*\\n",
+        "`A:` AAC adalah format pengkodean audio yang didesain untuk menjadi penerus format MP3 dan biasanya ",
+        "kualitas suaranya lebih baik ketimbang MP3 pada tingkat bit serupa. M4A adalah ekstensi berkasnya, ",
+        "yang juga dikenal sebagai pemuat audio ter-enkode AAC dan tag audio itu sendiri."
+    ],
+    "faq_3": [
+        "{BAR_CHART} *Pertanyaan Sering Terajukan (FAQ/PST)*\\n\\n",
+        "`Q:` *3. Video tertentu tidak bekerja!*\\n",
+        "`A:` Beberapa video, karena pembatasan negara oleh YouTube, bisa jadi tidak tersedia pada pusat data kami. ",
+        "Selain itu, bot ini juga hanya dapat mengirimkan berkas berukuran maksimal 50 MB--dapat berubah di waktu dekat."
+    ],
+    "faq_4": [
+        "{BAR_CHART} *Pertanyaan Sering Terajukan (FAQ/PST)*\\n\\n",
+        "`Q:` *4. Kenapa berkasnya punya nama-nama aneh?*\\n",
+        "`A:` Berkasnya disimpan dengan nama `Judul - ID Video.m4a`, namun `Judul` belum tentu mencerminkan judul asli ",
+        "videonya karena adanya karakter yang tidak benar. Ini biasanya bukan masalah karena semua informasi benar ",
+        "tentang video tersebut disisipkan dalam tag berkas audionya."
+    ],
+    "faq_menu": [
         "{BAR_CHART} *Pertanyaan Sering Terajukan (FAQ/PST)*\\n\\n",
         "*1.* Saya ingin memilih format audionya!\\n",
         "*2.* Apa itu AAC/M4A?\\n",
         "*3.* Video tertentu tidak bekerja!\\n",
-        "*4.* Kenapa berkasnya punya nama-nama aneh?\\n"
+        "*4.* Kenapa berkasnya punya nama-nama aneh?"
     ],
     "contribute": [
-        "{PERSON_WITH_FOLDED_HANDS} *Bantu menerjemahkan!*\\n\\n",
+        "{FOLDED_HANDS} *Bantu menerjemahkan!*\\n\\n",
         "{name}, jika anda ingin @YTAudioBot berbicara dalam bahasa anda atau anda ingin meningkatkan kualitas bahasa yang anda, anda dapat membantu kami!\\n\\n",
         "Kami telah menyiapkan petunjuk untuk hal ini, [disini](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
         "Untuk itu, anda memerlukan pemahaman Bahasa Inggris yang baik.\\n\\n",
@@ -201,54 +199,28 @@
     ],
     "contributors": [
         "{BUSTS_IN_SILHOUETTE} *Kontributor*\\n\\n",
-        "{HEAVY_BLACK_HEART} Kami ingin mengucapkan terima kasih kepada kontributor terjemahan berikut:\\n\\n",
+        "{RED_HEART} Kami ingin mengucapkan terima kasih kepada kontributor terjemahan berikut:\\n\\n",
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
-    "months_names": [
-        [
-            "Januari"
-        ],
-        [
-            "Februari"
-        ],
-        [
-            "Maret"
-        ],
-        [
-            "April"
-        ],
-        [
-            "Mei"
-        ],
-        [
-            "Juni"
-        ],
-        [
-            "Juli"
-        ],
-        [
-            "Agustus"
-        ],
-        [
-            "September"
-        ],
-        [
-            "Oktober"
-        ],
-        [
-            "November"
-        ],
-        [
-            "Desember"
-        ]
-    ],
+    "month_1": "Januari",
+    "month_2": "Februari",
+    "month_3": "Maret",
+    "month_4": "April",
+    "month_5": "Mei",
+    "month_6": "Juni",
+    "month_7": "Juli",
+    "month_8": "Agustus",
+    "month_9": "September",
+    "month_10": "Oktober",
+    "month_11": "November",
+    "month_12": "Desember",
     "start_button": "{CHEQUERED_FLAG} Mulai",
     "language_button": "{FLAG_FOR_INDONESIA} Bahasa Indonesia",
     "more_info_button": "{PAGE_WITH_CURL} Rincian",
     "send_to_button": "{OUTBOX_TRAY} Kirim ke...",
     "faq_button": "{BAR_CHART} FAQ",
-    "like_button": "{THUMBS_UP_SIGN} Saya suka!",
+    "like_button": "{THUMBS_UP} Saya suka!",
     "not_really_button": "{THINKING_FACE} Tidak juga",
     "send_feedback_button": "{MEMO} Kirim tanggapan",
     "feedback_button": "{SPEECH_BALLOON} Tanggapan",
@@ -261,15 +233,15 @@
     "next_button": "Lanjutan »",
     "cancel_button": "{CROSS_MARK} Batalkan",
     "download_button": "{INBOX_TRAY} Unduh",
-    "how_it_works_button": "{BLACK_QUESTION_MARK_ORNAMENT} Cara kerja",
+    "how_it_works_button": "{QUESTION_MARK} Cara kerja",
     "rate_now_button": "{WHITE_MEDIUM_STAR} Beri peringkat",
     "later_button": "{HOURGLASS} Nanti",
     "no_thanks_button": "{PILE_OF_POO} Tidak, terima kasih",
-    "channel_button": "{PUBLIC_ADDRESS_LOUDSPEAKER} Kanal",
-    "website_button": "{LINK_SYMBOL} Situs web",
+    "channel_button": "{LOUDSPEAKER} Kanal",
+    "website_button": "{LINK} Situs web",
     "email_button": "{ENVELOPE} E-Mail",
     "ratings_button": "{EYE} Ulasan",
-    "help_translate_button": "{PERSON_WITH_FOLDED_HANDS} Bantu menerjemahkan",
+    "help_translate_button": "{FOLDED_HANDS} Bantu menerjemahkan",
     "history_button": "{HOURGLASS} Riwayat",
     "remove_button": "{CROSS_MARK} Hapus",
     "restore_button": "{HEAVY_PLUS_SIGN} Pulihkan",
@@ -277,7 +249,29 @@
     "clear_all_button": "{WASTEBASKET} Hapus semua",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Tunda",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Lanjutkan",
-    "contribute_button": "{PERSON_WITH_FOLDED_HANDS} Kontribusi",
+    "contribute_button": "{BUST_IN_SILHOUETTE} Kontribusi",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Kontributor",
-    "open_project_button": "{CARD_INDEX_DIVIDERS} Buka proyek"
+    "open_project_button": "{CARD_INDEX_DIVIDERS} Buka proyek",
+    "search_item_template": [
+        "{HEADPHONE} *{title}*\\n",
+        "{BUST_IN_SILHOUETTE} _{channel}_\\n",
+        "{EYE} {view_count} {THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
+        "{clock} {duration}: /dl\\_{encoded_video_id}\\n\\n"
+    ],
+    "extract_item_template": [
+        "{HEADPHONE} [{title}](https://youtu.be/{video_id})\\n",
+        "{BUST_IN_SILHOUETTE} *{uploader}* ([{uploader_id}](https://youtube.com/user/{uploader_id}))\\n",
+        "{EYE} {view_count}\\n",
+        "{THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
+        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
+    ],
+    "history_item_template": [
+        "{HEADPHONE} *{index}.* {performer} - *{title}*\\n",
+        "_{natural_relative_time}_\\n\\n"
+    ],
+    "history_details_item_template": [
+        "{listen_on_youtube}\\n",
+        "{HEADPHONE} {performer} - *{title}*\\n",
+        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
+    ]
 }
