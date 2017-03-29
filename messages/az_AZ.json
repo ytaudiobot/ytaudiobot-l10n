@@ -78,7 +78,7 @@
         "{GLOBE_WITH_MERIDIANS} *Dil*\\n\\n",
         "Dil seçin."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} {FLAG_FOR_AZERBAIJAN} İngilis dili seçildi.",
+    "language_selected": "{HEAVY_CHECK_MARK} {FLAG_FOR_AZERBAIJAN} Azərbaycan dili seçildi.",
     "same_language_selected": "{THINKING_FACE} Botun dili hal-hazırda {FLAG_FOR_AZERBAIJAN} ingiliscədir.",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *Video emal edilir...*",
     "download_canceled": [
@@ -216,7 +216,7 @@
     "month_11": "Noyabr",
     "month_12": "Dekabr",
     "start_button": "{CHEQUERED_FLAG} Başla",
-    "language_button": "{FLAG_FOR_AZERBAIJAN} İngilis",
+    "language_button": "{FLAG_FOR_AZERBAIJAN} Azərbaycanca",
     "more_info_button": "{PAGE_WITH_CURL} Daha çox məlumat",
     "send_to_button": "{OUTBOX_TRAY} Göndər...",
     "faq_button": "{BAR_CHART} TVS",
