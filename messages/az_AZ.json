@@ -6,7 +6,7 @@
         "Güzgü: @YTAudio_Bot"
     ],
     "type_search_terms": "{MEMO} Axtarış sözlərinizi yazın",
-    "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} \"Youtube\"da \\\"{terms}\\\" axtar",
+    "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} \\\"Youtube\\\"da \\\"{terms}\\\" axtar",
     "error": "{PENSIVE_FACE} Səhv baş verdi. Daha sonra yenidən yoxlayın.",
     "longer_download_time": "{WARNING} *Bu video həmişəkindən daha artıq vaxt ala bilər. Yükləmə uğursuz da ola bilər!*",
     "clear_history_warning": "{WARNING} Bütün tarixçənizi silmək üzrəsiniz!",
@@ -41,7 +41,7 @@
         "{SMALL_ORANGE_DIAMOND} Ölçü: {file_size} MB\\n",
         "{SMALL_ORANGE_DIAMOND} SHA256: {sha256_sum}"
     ],
-    "listen_on_youtube": "{LINK} [\"Youtube\"da qulaq as](https://youtu.be/{video_id})",
+    "listen_on_youtube": "{LINK} [\\\"Youtube\\\"da qulaq as](https://youtu.be/{video_id})",
     "like": [
         "{SPARKLES} *Təşəkkürlər, {name}!*\\n\\n",
         "Bəyəndiyinizə şad olduq.\\n\\n",
@@ -54,9 +54,9 @@
         "Bot ilə bağlı yanlış nəsə var? Zəhmət olmasa, bizə bildirin (İngilis və ya İtalyan dilində):"
     ],
     "rating_message": [
-        "{WHITE_MEDIUM_STAR} *\"YTAudioBot\"u Qiymətləndir*\\n\\n",
+        "{WHITE_MEDIUM_STAR} *\\\"YTAudioBot\\\"u Qiymətləndir*\\n\\n",
         "{name}, botdan məmnunsunuzmu?\\n",
-        "Bir dəqiqənizi ayırıb \"StoreBot\"da qiymət verin."
+        "Bir dəqiqənizi ayırıb \\\"StoreBot\\\"da qiymət verin."
     ],
     "rate_later": "{HOURGLASS} *Oldu, başqa vaxt yenə soruşacağam!*",
     "rate_never": "{PILE_OF_POO} *Oldu, bir də heç vaxt soruşmayacağam.*",
@@ -104,8 +104,8 @@
     "help_2": [
         "{OPEN_BOOK} *Kömək (2 / 4)*\\n\\n",
         "İnternet ünvanını (URL) tapmağın müxtəlif yolları var. Məsələn, bunları edə bilərsiniz:\\n\\n",
-        "— YouTube proqramından \"Paylaş\" seçmək.\\n",
-        "— \"Telegram\"ın sətiriçi botlarından istifadə etmək: @vid və ya @youtube.\\n",
+        "— YouTube proqramından \\\"Paylaş\\\" seçmək.\\n",
+        "— \\\"Telegram\\\"ın sətiriçi botlarından istifadə etmək: @vid və ya @youtube.\\n",
         "— İnternet bələdçinizdən keçidi kopyalayıb yapışdırmaq."
     ],
     "help_3": [
@@ -136,7 +136,7 @@
     ],
     "feedback": [
         "{SPEECH_BALLOON} *Əks əlaqə*\\n\\n",
-        "Salam, {name}! \"YTAudioBot\"u bəyənirsiniz?"
+        "Salam, {name}! \\\"YTAudioBot\\\"u bəyənirsiniz?"
     ],
     "about": [
         "{NEWSPAPER} *Haqqında*\\n\\n",
@@ -159,7 +159,7 @@
         "{BAR_CHART} *Tez-tez soruşulan suallar*\\n\\n",
         "`S:` *1. Səs formatını seçmək istəyirəm!*\\n",
         "`C:` Biz keyfiyyətə və etibarlılığa diqqət yetiririk. ",
-        "\"YouTube\"da əlçatan olan ən yüksək keyfiyyətdə süper-sürətli səs çevirmələrinə nail olmaq üçün biz yalnız ",
+        "\\\"YouTube\\\"da əlçatan olan ən yüksək keyfiyyətdə süper-sürətli səs çevirmələrinə nail olmaq üçün biz yalnız ",
         "iTunes məlumatları ilə etiketlənmiş M4A uzantılı MPEG-4 Part 14 (MP4) konteyneri içərisində AAC 128K ilə kodlanmış fayl göndəririk. ",
         "Bu seçim gələcəkdə dəyişə bilər."
     ],
@@ -167,13 +167,13 @@
         "{BAR_CHART} *Tez-tez soruşulan suallar*\\n\\n",
         "`S:` *2. AAC/M4A nə deməkdir?*\\n",
         "`C:` MP3 formatının davamçısı olan AAC səs kodlama formatıdır və ",
-        "eyni bit dərəcəsində \"MP3\"dən daha yaxşı səs keyfiyyətinə nail olur. M4A fayl uzantısıdır. ",
+        "eyni bit dərəcəsində \\\"MP3\\\"dən daha yaxşı səs keyfiyyətinə nail olur. M4A fayl uzantısıdır. ",
         "M4A həm AAC ilə kodlanmış səs, həm də səsin etiketlərini özündə birləşdirən konteynir kimi də tanınır"
     ],
     "faq_3": [
         "{BAR_CHART} *Tez-tez soruşulan suallar*\\n\\n",
         "`S:` *3. Bəzi videolar işləmir!*\\n",
-        "`C:` \"YouTube\"un ölkə məhdudiyyətləri ucbatından bəzi videolar bizim məlumat mərkəzimiz üçün əlçatan olmaya bilər. Həmçinin, ",
+        "`C:` \\\"YouTube\\\"un ölkə məhdudiyyətləri ucbatından bəzi videolar bizim məlumat mərkəzimiz üçün əlçatan olmaya bilər. Həmçinin, ",
         "bot hazırda 50 MB ölçüyə qədər səs faylları göndərə bilər. Bu məhdudiyyət gələcəkdə dəyişə bilər."
     ],
     "faq_4": [
