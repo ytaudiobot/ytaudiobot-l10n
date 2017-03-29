@@ -2,7 +2,7 @@
     "position": 2,
     "right_to_left": false,
     "description": [
-        "¡Descarga archivos de audio de vídeos de YouTube y llévalos siempre contigo!\\n\\n",
+        "¡Descarga vídeos de YouTube como archivos de audio para llevar siempre contigo!\\n\\n",
         "Mirror: @YTAudio_Bot"
     ],
     "type_search_terms": "{MEMO} Escribe tus términos de búsqueda",
@@ -72,7 +72,7 @@
     "flood_wait": "{WARNING} *¡No tan rápido! Espera {0 segundos|un segundo|# segundos} y reinténtalo.*",
     "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} *Buscando por \\\"*{terms}*\\\"...*",
     "video_not_available": "{PENSIVE_FACE} *Lo sentimos, este vídeo no está disponible en estos momentos. Reinténtalo más tarde.*",
-    "size_limit_exceeded": "{PENSIVE_FACE} *Lo sentimos, este vídeo excede el límite de tamaño. Reinténtalo con otro.*",
+    "size_limit_exceeded": "{PENSIVE_FACE} *Lo sentimos, este video excede el límite de tamaño. Reinténtalo con otro.*",
     "api_error": "{PENSIVE_FACE} *Lo sentimos, la operación solicitada no puede ser realizada en estos momentos. Reinténtalo más tarde.*",
     "select_language": [
         "{GLOBE_WITH_MERIDIANS} *Idioma*\\n\\n",
@@ -110,8 +110,8 @@
     ],
     "help_3": [
         "{OPEN_BOOK} *Ayuda (3 de 4)*\\n\\n",
-        "Una vez tengas la URL, envíamela.\\n\\n",
-        "Si el vídeo ya ha sido descargado por otro usuario, se te enviará inmediatamente, ",
+        "Una vez obtenida la URL, envíamela.\\n\\n",
+        "Si el vídeo ya ha sido descargado por otro usuario, se te enviará de inmediato, ",
         "si no, aparecerá el botón {INBOX_TRAY} *Descargar*. Tócalo, tu archivo de audio estará disponible ",
         "poco después."
     ],
@@ -122,7 +122,7 @@
     ],
     "tip_1": [
         "{LIGHT_BULB} *Consejo (1 de 2)*\\n\\n",
-        "También puedes enviarme solo el ID del vídeo, como este:\\n\\n",
+        "También puedes enviarme sólo el ID del vídeo, como este:\\n\\n",
         "— `SMWi7CLoZ2Q`."
     ],
     "tip_2": [
@@ -131,7 +131,7 @@
     ],
     "hi": "{SPARKLES} *¡Hola, {name}!*",
     "presentation": [
-        "*Con *[YTAudioBot](https://ytaudiobot.ml)*, puedes descargar archivos de audio de vídeos de YouTube para llevarlos ",
+        "*Con *[YTAudioBot](https://ytaudiobot.ml)*, puedes descargar vídeos de YouTube como archivos de audio para llevar ",
         "siempre contigo.*"
     ],
     "feedback": [
@@ -150,7 +150,7 @@
     ],
     "settings": [
         "{GEAR} *Ajustes*\\n\\n",
-        "{NEWSPAPER} *Acerca de* - Información\\n",
+        "{NEWSPAPER} *Acerca de* - Info. sobre el bot\\n",
         "{BAR_CHART} *FAQ* - Preguntas frecuentes\\n",
         "{GLOBE_WITH_MERIDIANS} *Idioma* - Cambiar idioma\\n",
         "{SPEECH_BALLOON} *Feedback* - Enviar comentarios"
@@ -231,7 +231,7 @@
         "{FOLDED_HANDS} *Ayudar a traducir*\\n\\n",
 >>>>>>> ytaudiobot/master
         "¡{name}! Si quieres que @YTAudioBot hable en tu idioma, o quieres mejorar una traducción existente, ¡puedes ayudarnos!\\n\\n",
-        "Hemos elaborado una guía solo para esto, [aquí](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
+        "Hemos elaborado una guía sólo para esto, [aquí](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
         "Se requiere tener conocimiento del idioma inglés.\\n\\n",
         "¡Nuevos idiomas y mejoras son bienvenidas! ¡Únete a nosotros, se agradece toda ayuda!"
     ],
@@ -294,7 +294,7 @@
 <<<<<<< HEAD
     "contribute_button": "{PERSON_WITH_FOLDED_HANDS} Contribuir",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Contribuidores",
-    "open_project_button": "{CARD_INDEX_DIVIDERS} Ver proyecto"
+    "open_project_button": "{CARD_INDEX_DIVIDERS} Abrir proyecto"
 =======
     "contribute_button": "{BUST_IN_SILHOUETTE} Contribuir",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Contribuidores",
