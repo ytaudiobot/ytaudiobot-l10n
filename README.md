@@ -27,8 +27,6 @@ Language | Contributors | Translated
 :ukraine: **Українська** ([uk_UA](messages/uk_UA.json)) | [Denis Sikorsky](//t.me/D3sl0ng3r) | 100%
 :fr: **Français** ([fr_FR](messages/fr_FR.json)) | [Ev4si0n](//github.com/Ev4si0n) | 100%
 **(WIP)** :star: **Català** ([ca_ES](messages/ca_ES.json)) | [Ecron](//github.com/Ecron) | 100%
-**(WIP)** :ru: **Русский** ([ru_RU](messages/ru_RU.json)) | [Rakleed](//github.com/Rakleed) | 100%
-**(WIP)** :azerbaijan: **Azerbaijani** ([az_AZ](messages/az_AZ.json)) | [nnasirzada](//github.com/nnasirzada) | 100%
 
 > Add yourself here once you submit your translations
 

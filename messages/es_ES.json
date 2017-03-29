@@ -155,6 +155,39 @@
         "{GLOBE_WITH_MERIDIANS} *Idioma* - Cambiar idioma\\n",
         "{SPEECH_BALLOON} *Feedback* - Enviar comentarios"
     ],
+<<<<<<< HEAD
+    "faq_list": [
+        [
+            "{BAR_CHART} *Preguntas frecuentes*\\n\\n",
+            "`P:` *1. ¡Quiero elegir el formato de audio!*\\n",
+            "`R:` Nos enfocamos en la calidad, rendimiento y fiabilidad del servicio. ",
+            "Para lograr conversiones de audio súper rápidas en la máxima calidad disponible en YouTube, sólo enviamos ",
+            "archivos AAC 128k codificados dentro del contenedor MPEG-4 Part 14 (MP4) con extensión M4A y etiquetas con la información de iTunes. ",
+            "Esta elección puede cambiar en el futuro."
+        ],
+        [
+            "{BAR_CHART} *Preguntas frecuentes*\\n\\n",
+            "`P:` *2. ¿Qué significa AAC/M4A?*\\n",
+            "`R:` AAC es un formato de codificación de audio diseñado para ser el sucesor del formato MP3, que en general logra ",
+            "un sonido de mejor calidad que el MP3 con tasas de bits similares. M4A es una extensión de archivo, que funciona como contenedor ",
+            "del audio codificado en AAC y de sus etiquetas."
+        ],
+        [
+            "{BAR_CHART} *Preguntas frecuentes*\\n\\n",
+            "`P:` *3. ¡Algunos vídeos no funcionan!*\\n",
+            "`R:` Algunos vídeos, debido a las restricciones por país de YouTube, pueden no estar disponibles desde nuestro centro de datos. Además, ",
+            "el bot sólo puede enviar archivos de hasta 50 MB. Este límite puede cambiar en el futuro."
+        ],
+        [
+            "{BAR_CHART} *Preguntas frecuentes*\\n\\n",
+            "`P:` *4. ¿Por qué los archivos tienen nombres raros?*\\n",
+            "`R:` Los archivos se guardan como `Título - IdVideo.m4a`, sin embargo el `Título` puede variar con respecto al original, ",
+            "debido a que puede contener algunos caracteres inválidos. Esto no suele causar problemas, ya que toda la información del ",
+            "vídeo está incrustada en las etiquetas del archivo de audio."
+        ]
+    ],
+    "faq": [
+=======
     "faq_1": [
         "{BAR_CHART} *Preguntas frecuentes*\\n\\n",
         "`P:` *1. ¡Quiero elegir el formato de audio!*\\n",
@@ -184,6 +217,7 @@
         "vídeo está incrustada en las etiquetas del archivo de audio."
     ],
     "faq_menu": [
+>>>>>>> ytaudiobot/master
         "{BAR_CHART} *Preguntas frecuentes*\\n\\n",
         "*1.* ¡Quiero elegir el formato de audio!\\n",
         "*2.* ¿Qué significa AAC/M4A?\\n",
@@ -191,7 +225,11 @@
         "*4.* ¿Por qué los archivos tienen nombres raros?"
     ],
     "contribute": [
+<<<<<<< HEAD
+        "{PERSON_WITH_FOLDED_HANDS} *Ayudar a traducir*\\n\\n",
+=======
         "{FOLDED_HANDS} *Ayudar a traducir*\\n\\n",
+>>>>>>> ytaudiobot/master
         "¡{name}! Si quieres que @YTAudioBot hable en tu idioma, o quieres mejorar una traducción existente, ¡puedes ayudarnos!\\n\\n",
         "Hemos elaborado una guía sólo para esto, [aquí](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
         "Se requiere tener conocimiento del idioma inglés.\\n\\n",
@@ -199,7 +237,11 @@
     ],
     "contributors": [
         "{BUSTS_IN_SILHOUETTE} *Contribuidores*\\n\\n",
+<<<<<<< HEAD
+        "{HEAVY_BLACK_HEART} Queremos agradecer a los siguientes traductores:\\n\\n",
+=======
         "{RED_HEART} Queremos agradecer a los siguientes traductores:\\n\\n",
+>>>>>>> ytaudiobot/master
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
@@ -249,6 +291,11 @@
     "clear_all_button": "{WASTEBASKET} Borrar todo",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Pausar",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Reanudar",
+<<<<<<< HEAD
+    "contribute_button": "{PERSON_WITH_FOLDED_HANDS} Contribuir",
+    "contributors_button": "{BUSTS_IN_SILHOUETTE} Contribuidores",
+    "open_project_button": "{CARD_INDEX_DIVIDERS} Abrir proyecto"
+=======
     "contribute_button": "{BUST_IN_SILHOUETTE} Contribuir",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Contribuidores",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Abrir proyecto",
@@ -274,4 +321,5 @@
         "{HEADPHONE} {performer} - *{title}*\\n",
         "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
     ]
+>>>>>>> ytaudiobot/master
 }
