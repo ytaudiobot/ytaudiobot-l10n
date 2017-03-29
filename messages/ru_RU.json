@@ -1,0 +1,277 @@
+{
+    "position": 19,
+    "right_to_left": false,
+    "description": [
+        "Скачать видео с YouTube только в виде звукового файла, чтобы взять его с собой куда угодно!\\n\\n",
+        "Mirror: @YTAudio_Bot"
+    ],
+    "type_search_terms": "{MEMO} Введите условия поиска",
+    "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} Поиск \\\"{terms}\\\" на YouTube",
+    "error": "{PENSIVE_FACE} Произошла ошибка. Попробуйте позже.",
+    "longer_download_time": "{WARNING} *Это видео может занять больше времени, чем обычно. Загрузка может быть даже не получится!*",
+    "clear_history_warning": "{WARNING} Вы собираетесь удалить всю вашу историю!",
+    "history_settings": [
+        "{HOURGLASS} *История загрузок*\\n\\n",
+        "{Ничего нет|Есть одна запись|Есть # записей} в истории загрузок."
+    ],
+    "clear_history_confirmation": [
+        "{WASTEBASKET} *Удалить историю загрузок*\\n\\n",
+        "Вы уверены, что хотите удалить всю историю загрузок? *Вы не сможете отменить это.*"
+    ],
+    "added_seconds_ago": "Добавлен {0 секунд|секунду|# секунд} назад",
+    "added_minutes_ago": "Добавлен {0 минут|минуту|# минут} назад",
+    "added_hours_ago": "Добавлен {0 часов|час|# часов} назад",
+    "added_days_ago": "Добавлен {0 дней|день|# дней} назад",
+    "added_weeks_ago": "Добавлен {0 недель|неделю|# недель} назад",
+    "added_months_ago": "Добавлен {0 месяцев|месяц|# месяцев} назад",
+    "added_years_ago": "Добавлен {0 лет|год|# лет} назад",
+    "item_removed": "{CROSS_MARK} Элемент удален",
+    "item_restored": "{HEAVY_PLUS_SIGN} Элемент восстановлен",
+    "download_history_paused": "{BALLOT_BOX_WITH_CHECK} Ведение истории загрузок приостановлено",
+    "download_history_resumed": "{WHITE_HEAVY_CHECK_MARK} Ведение истории загрузок возобновлено",
+    "download_history_cleared": "{WASTEBASKET} История загрузок удалена",
+    "file_expired": [
+        "{WARNING} *Срок действия файла истек*\\n\\n",
+        "Нажмите {command} для повторной загрузки."
+    ],
+    "more_info": [
+        "{PAGE_WITH_CURL} Больше информации\\n\\n",
+        "{SMALL_ORANGE_DIAMOND} ID видео: {video_id}\\n",
+        "{SMALL_ORANGE_DIAMOND} Длительность: {duration}\\n",
+        "{SMALL_ORANGE_DIAMOND} Размер: {file_size} MB\\n",
+        "{SMALL_ORANGE_DIAMOND} SHA256: {sha256_sum}"
+    ],
+    "listen_on_youtube": "{LINK} [Слушать на YouTube](https://youtu.be/{video_id})",
+    "like": [
+        "{SPARKLES} *Спасибо, {name}!*\\n\\n",
+        "Мы рады, что вам нравится наш бот.\\n\\n",
+        "Вы можете оценить его и поставить\\n",
+        "5 звезд {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} здесь:\\n",
+        "https://telegram.me/storebot?start=YTAudioBot"
+    ],
+    "dislike": [
+        "{PENSIVE_FACE} *Нам очень жаль это слышать, {name}.*\\n\\n",
+        "Что-то не так с ботом? Пожалуйста, сообщите нам (на английском или итальянском языке):"
+    ],
+    "rating_message": [
+        "{WHITE_MEDIUM_STAR} *Оцените YTAudioBot*\\n\\n",
+        "{name}, вам нравится бот?\\n",
+        "Найдите минутку, чтобы оценить его на StoreBot."
+    ],
+    "rate_later": "{HOURGLASS} *Хорошо, я попрошу вас снова в другой раз!*",
+    "rate_never": "{PILE_OF_POO} *Хорошо, я никогда не буду просить вас снова.*",
+    "send_feedback": [
+        "{MEMO} *Отправить отзыв*\\n\\n",
+        "Вы можете предложить изменения или улучшения бота, сообщить об ошибках или отправить комментарий к создателям ",
+        "(на английском или итальянском языке)."
+    ],
+    "sending_feedback_enabled": "{MEMO} Напишите ваш отзыв",
+    "feedback_sent": "{HEAVY_CHECK_MARK} *Ваш отзыв был отправлен. Спасибо!*",
+    "showing_trending_results": "{FIRE} *Показать популярные запросы*\\n\\n",
+    "showing_youtube_results": "{RIGHT_POINTING_MAGNIFYING_GLASS} *Результаты YouTube для \\\"*{terms}*\\\"*\\n\\n",
+    "flood_wait": "{WARNING} *Не так быстро! Подождите {0 секунд|секунду|# секунд} и попробуй еще раз.*",
+    "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} *Поиск \\\"*{terms}*\\\"...*",
+    "video_not_available": "{PENSIVE_FACE} *К сожалению, это видео недоступно в данный момент. Повторите попытку позже.*",
+    "size_limit_exceeded": "{PENSIVE_FACE} *К сожалению, это видео превышает максимально возможный размер. Повторите попытку с другим видео.*",
+    "api_error": "{PENSIVE_FACE} *К сожалению, запрошенная операция не может быть выполнена прямо сейчас. Повторите попытку позже.*",
+    "select_language": [
+        "{GLOBE_WITH_MERIDIANS} *Язык*\\n\\n",
+        "Выберите ваш язык."
+    ],
+    "language_selected": "{HEAVY_CHECK_MARK} Установлен {FLAG_FOR_RUSSIA} русский язык.",
+    "same_language_selected": "{THINKING_FACE} Язык бота уже {FLAG_FOR_RUSSIA} русский",
+    "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *Выполняется обработка видео...*",
+    "download_canceled": [
+        "{CROSS_MARK} *Загрузка отменена.\\n",
+        "Нажмите *{command}*, чтобы загрузить снова.*"
+    ],
+    "download_error": [
+        "{PENSIVE_FACE} *К сожалению, произошла неожиданная ошибка.\\n",
+        "Повторить попытку: *{command}*.*"
+    ],
+    "download_timeout": [
+        "{WARNING} *Загрузка выполняется более 60 секунд.\\n",
+        "Не стесняйтесь запросить другое видео, это будет отправлено вам как можно скорее!*"
+    ],
+    "download_successful": "{HEAVY_CHECK_MARK} *Звуковой файл успешно загружен!*",
+    "wait_previous_download": "{WARNING} Дождитесь предыдущей загрузки!",
+    "download_queue_full": "{WARNING} Очередь загрузки переполнена. Пожалуйста, повторите попытку позже.",
+    "help_1": [
+        "{OPEN_BOOK} *Помощь (1 из 4)*\\n\\n",
+        "Единственное, что вам нужно — это URL-адрес видео на YouTube, из которого нужно извлечь звук, например, вот такой:\\n\\n",
+        "— https://youtu.be/SMWi7CLoZ2Q."
+    ],
+    "help_2": [
+        "{OPEN_BOOK} *Помощь (2 из 4)*\\n\\n",
+        "Существуют различные способы, чтобы найти URL-адрес. Например, вы можете:\\n\\n",
+        "— Использовать кнопку «Поделиться» в приложении YouTube.\\n",
+        "— Использовать встроенных в Telegram ботов @vid или @youtube.\\n",
+        "— Копировать/вставить ссылку из вашего браузера."
+    ],
+    "help_3": [
+        "{OPEN_BOOK} *Помощь (3 из 4)*\\n\\n",
+        "После того, как вы нашли URL-адрес, отправьте его мне.\\n\\n",
+        "Если видео уже было загружено кем-то еще, файл будет отправлен Вам немедленно, ",
+        "в противном случае будет отображаться кнопка {INBOX_TRAY} *Скачать*. Нажмите её, и вскоре ваш звуковой файл будет ",
+        "доступен."
+    ],
+    "help_4": [
+        "{OPEN_BOOK} *Помощь (4 из 4)*\\n\\n",
+        "После получения и загрузки файла, вы можете нажать на звуковое сообщение и выбрать *Сохранить в музыку* ",
+        "чтобы сохранить звуковой файл в папке «Музыка» вашего устройства."
+    ],
+    "tip_1": [
+        "{LIGHT_BULB} *Совет (1 из 2)*\\n\\n",
+        "Вы также можете отправить мне только ID видео, например:\\n\\n",
+        "— `SMWi7CLoZ2Q`."
+    ],
+    "tip_2": [
+        "{LIGHT_BULB} *Совет (2 из 2)*\\n\\n",
+        "Присоединяйтесь к каналу @YTAudio, чтобы следить за последними новостями и обновлениями бота!"
+    ],
+    "hi": "{SPARKLES} *Привет, {name}!*",
+    "presentation": [
+        "*С помощью *[YTAudioBot](https://ytaudiobot.ml)*, вы можете скачать видео с YouTube только в виде звукового файла, чтобы взять его ",
+        "с собой куда угодно.*"
+    ],
+    "feedback": [
+        "{SPEECH_BALLOON} *Отзыв*\\n\\n",
+        "Привет, {name}! Вам нравится YTAudioBot?"
+    ],
+    "about": [
+        "{NEWSPAPER} *О боте*\\n\\n",
+        "*YTAudioBot для Telegram*\\n",
+        "{version} _{month} {day}, {year}_\\n\\n",
+        "{LOUDSPEAKER} *Канал* - @YTAudio\\n",
+        "{LINK} *Сайт* - https://ytaudiobot.ml\\n",
+        "{ENVELOPE} *E-Mail* - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
+        "{EYE} *Отзывы* - {WHITE_MEDIUM_STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
+        "{BUST_IN_SILHOUETTE} [{reviews_n}](https://storebot.me/bot/ytaudiobot)"
+    ],
+    "settings": [
+        "{GEAR} *Настройки*\\n\\n",
+        "{NEWSPAPER} *О боте* - Информация о боте\\n",
+        "{BAR_CHART} *FAQ* - Часто задаваемые вопросы\\n",
+        "{GLOBE_WITH_MERIDIANS} *Язык* - Изменить язык\\n",
+        "{SPEECH_BALLOON} *Отзыв* - Отправить отзыв"
+    ],
+    "faq_1": [
+        "{BAR_CHART} *Часто задаваемые вопросы*\\n\\n",
+        "`В:` *1. Я хочу выбрать формат звукового файла!*\\n",
+        "`О:` Мы делаем акцент на качестве, производительности и надежности. ",
+        "Для достижения сверхбыстрого преобразования звукового файла с самым высоким качеством, доступном на YouTube, мы отправляем только ",
+        "закодированные файлы в формате AAC 128k в формате медиаконтейнера MPEG-4 Part 14 (MP4) с расширением M4A и тегами, взятыми из iTunes. ",
+        "Этот выбор может измениться в будущем."
+    ],
+    "faq_2": [
+        "{BAR_CHART} *Часто задаваемые вопросы*\\n\\n",
+        "`В:` *2. Что такое AAC/M4A?*\\n",
+        "`О:` AAC — это формат звукового файла, разработанный как преемник формата MP3, и, как правило, ",
+        "обеспечивает лучшее качество звука, чем MP3 с аналогичным битрейтом. М4A — это расширение файла, также известное, как содержимое ",
+        "одновременно закодированного звукового файла фактически в формате AAC, так и тегов этого звукового файла."
+    ],
+    "faq_3": [
+        "{BAR_CHART} *Часто задаваемые вопросы*\\n\\n",
+        "`В:` *3. Некоторые видео не работают!*\\n",
+        "`О:` Некоторые видео, из-за ограничений по странам на YouTube, могут быть недоступны для нашего центра обработки данных. ",
+        "Кроме того, на данный момент бот может отправлять звуковые файлы размером не более 50 MB, это ограничение может быть изменено в будущем."
+    ],
+    "faq_4": [
+        "{BAR_CHART} *Часто задаваемые вопросы*\\n\\n",
+        "`В:` *4. Почему файлы имеют странные имена?*\\n",
+        "`О:` Файлы сохраняются в виде `Название видео - ID видео.m4a`, однако `Название видео` может не соответствовать 100% реальному ",
+        "названию видео на YouTube из-за некоторых недопустимых символов. Это, как правило, не является проблемой, поскольку вся правильная ",
+        "информация о видео встроена в теги звукового файла."
+    ],
+    "faq_menu": [
+        "{BAR_CHART} *Часто задаваемые вопросы*\\n\\n",
+        "*1.* Я хочу выбрать формат звукового файла!\\n",
+        "*2.* Что такое AAC/M4A?\\n",
+        "*3.* Некоторые видео не работают!\\n",
+        "*4.* Почему файлы имеют странные имена?"
+    ],
+    "contribute": [
+        "{FOLDED_HANDS} *Помогите перевести*\\n\\n",
+        "{name}! Если вы хотите, чтобы @YTAudioBot был на вашем языке, или хотите улучшить уже существующий, вы можете помочь нам!\\n\\n",
+        "Мы создали руководство на [Github](https://github.com/ytaudiobot/ytaudiobot-l10n) именно для этого. ",
+        "Требуется знание английского языка.\\n\\n",
+        "Мы приветствуем новые языки и улучшения! Не стесняйтесь присоединиться к нам, мы будем благодарны вам за любую оказанную помощь!"
+    ],
+    "contributors": [
+        "{BUSTS_IN_SILHOUETTE} *Помощники*\\n\\n",
+        "{RED_HEART} Мы хотели бы искренне поблагодарить авторов перевода:\\n\\n",
+        "{contributors}\\n\\n",
+        "— @YTAudioBot"
+    ],
+    "month_1": "Январь",
+    "month_2": "Февраль",
+    "month_3": "Март",
+    "month_4": "Апрель",
+    "month_5": "Май",
+    "month_6": "Июнь",
+    "month_7": "Июль",
+    "month_8": "Август",
+    "month_9": "Сентябрь",
+    "month_10": "Октябрь",
+    "month_11": "Ноябрь",
+    "month_12": "Декабрь",
+    "start_button": "{CHEQUERED_FLAG} Начать",
+    "language_button": "{FLAG_FOR_RUSSIA} Русский",
+    "more_info_button": "{PAGE_WITH_CURL} Больше информации",
+    "send_to_button": "{OUTBOX_TRAY} Отправить...",
+    "faq_button": "{BAR_CHART} FAQ",
+    "like_button": "{THUMBS_UP} Мне это нравится!",
+    "not_really_button": "{THINKING_FACE} Не очень.",
+    "send_feedback_button": "{MEMO} Отправить отзыв",
+    "feedback_button": "{SPEECH_BALLOON} Отзыв",
+    "settings_button": "{GEAR} Настройки",
+    "select_language_button": "{GLOBE_WITH_MERIDIANS} Язык",
+    "help_button": "{OPEN_BOOK} Помощь",
+    "about_button": "{NEWSPAPER} О боте",
+    "previous_button": "« Предыдущий",
+    "back_button": "« Назад",
+    "next_button": "Следующий »",
+    "cancel_button": "{CROSS_MARK} Отмена",
+    "download_button": "{INBOX_TRAY} Загрузить",
+    "how_it_works_button": "{QUESTION_MARK} Как это работает",
+    "rate_now_button": "{WHITE_MEDIUM_STAR} Оценить сейчас",
+    "later_button": "{HOURGLASS} Позже",
+    "no_thanks_button": "{PILE_OF_POO} Нет, спасибо",
+    "channel_button": "{LOUDSPEAKER} Канал",
+    "website_button": "{LINK} Сайт",
+    "email_button": "{ENVELOPE} E-Mail",
+    "ratings_button": "{EYE} Отзывы",
+    "help_translate_button": "{FOLDED_HANDS} Помогите перевести",
+    "history_button": "{HOURGLASS} История",
+    "remove_button": "{CROSS_MARK} Удалить",
+    "restore_button": "{HEAVY_PLUS_SIGN} Восстановить",
+    "view_button": "{EYE} Посмотреть",
+    "clear_all_button": "{WASTEBASKET} Удалить всё",
+    "pause_button": "{BALLOT_BOX_WITH_CHECK} Приостановить",
+    "resume_button": "{WHITE_HEAVY_CHECK_MARK} Возобновить",
+    "contribute_button": "{BUST_IN_SILHOUETTE} Помощник",
+    "contributors_button": "{BUSTS_IN_SILHOUETTE} Помощники",
+    "open_project_button": "{CARD_INDEX_DIVIDERS} Открыть проект",
+    "search_item_template": [
+        "{HEADPHONE} *{title}*\\n",
+        "{BUST_IN_SILHOUETTE} _{channel}_\\n",
+        "{EYE} {view_count} {THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
+        "{clock} {duration}: /dl\\_{encoded_video_id}\\n\\n"
+    ],
+    "extract_item_template": [
+        "{HEADPHONE} [{title}](https://youtu.be/{video_id})\\n",
+        "{BUST_IN_SILHOUETTE} *{uploader}* ([{uploader_id}](https://youtube.com/user/{uploader_id}))\\n",
+        "{EYE} {view_count}\\n",
+        "{THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
+        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
+    ],
+    "history_item_template": [
+        "{HEADPHONE} *{index}.* {performer} - *{title}*\\n",
+        "_{natural_relative_time}_\\n\\n"
+    ],
+    "history_details_item_template": [
+        "{listen_on_youtube}\\n",
+        "{HEADPHONE} {performer} - *{title}*\\n",
+        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
+    ]
+}
