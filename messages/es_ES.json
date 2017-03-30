@@ -132,7 +132,7 @@
     "hi": "{SPARKLES} *¡Hola, {name}!*",
     "presentation": [
         "*Con *[YTAudioBot](https://ytaudiobot.ml)*, puedes descargar archivos de audio de vídeos de YouTube para llevarlos ",
-          "siempre contigo.*"
+        "siempre contigo.*"
     ],
     "feedback": [
         "{SPEECH_BALLOON} *Feedback*\\n\\n",
