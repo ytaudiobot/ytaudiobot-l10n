@@ -34,7 +34,7 @@
         "{WARNING} *Το αρχείο έληξε.*\\n\\n",
         "Πάτα {command} για να το ξανακατεβάσεις."
     ],
-    "more_info": [
+    "file_info": [
         "{PAGE_WITH_CURL} Περισσότερες πληροφορίες\\n\\n",
         "{SMALL_ORANGE_DIAMOND} Video ID: {video_id}\\n",
         "{SMALL_ORANGE_DIAMOND} Διάρκεια: {duration}\\n",
@@ -217,7 +217,7 @@
     "month_12": "Δεκέμβριος",
     "start_button": "{CHEQUERED_FLAG} Start",
     "language_button": "{FLAG_FOR_GREECE} Ελληνικά",
-    "more_info_button": "{PAGE_WITH_CURL} Περισσότερες πληροφορίες",
+    "file_info_button": "{PAGE_WITH_CURL} Περισσότερες πληροφορίες",
     "share_button": "{RIGHT_ARROW_CURVING_UP} Στείλε σε...",
     "faq_button": "{BAR_CHART} Συχνές ερωτήσεις",
     "like_button": "{THUMBS_UP} Μου αρέσει!",

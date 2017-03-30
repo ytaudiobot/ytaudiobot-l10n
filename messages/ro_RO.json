@@ -34,7 +34,7 @@
         "{WARNING} *Fișier expirat*\\n\\n",
         "Apasă {command} pentru a descărca din nou."
     ],
-    "more_info": [
+    "file_info": [
         "{PAGE_WITH_CURL} Informații\\n\\n",
         "{SMALL_ORANGE_DIAMOND} ID clip: {video_id}\\n",
         "{SMALL_ORANGE_DIAMOND} Durată: {duration}\\n",
@@ -206,7 +206,7 @@
     "month_12": "decembrie",
     "start_button": "{CHEQUERED_FLAG} Start",
     "language_button": "{FLAG_FOR_ROMANIA} Română",
-    "more_info_button": "{PAGE_WITH_CURL} Informații",
+    "file_info_button": "{PAGE_WITH_CURL} Informații",
     "share_button": "{RIGHT_ARROW_CURVING_UP} Trimite către...",
     "faq_button": "{BAR_CHART} FAQ",
     "like_button": "{THUMBS_UP} Îmi place!",

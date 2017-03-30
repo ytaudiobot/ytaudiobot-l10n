@@ -34,7 +34,7 @@
         "{WARNING} *文件已過期*\\n\\n",
         "點擊 {command} 重新下載。"
     ],
-    "more_info": [
+    "file_info": [
         "{PAGE_WITH_CURL} 詳細信息\\n\\n",
         "{SMALL_ORANGE_DIAMOND} 視頻ID: {video_id}\\n",
         "{SMALL_ORANGE_DIAMOND} 時間長度: {duration}\\n",
@@ -218,7 +218,7 @@
     "month_12": "十二月",
     "start_button": "{CHEQUERED_FLAG} 開始",
     "language_button": "{FLAG_FOR_TAIWAN} 繁體中文",
-    "more_info_button": "{PAGE_WITH_CURL} 詳細信息",
+    "file_info_button": "{PAGE_WITH_CURL} 詳細信息",
     "share_button": "{RIGHT_ARROW_CURVING_UP} 傳送給...",
     "faq_button": "{BAR_CHART} 常見問題",
     "like_button": "{THUMBS_UP} 我喜歡這個機器人",

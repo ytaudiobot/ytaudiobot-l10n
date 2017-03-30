@@ -34,7 +34,7 @@
         "{WARNING} *Tiedosto vanhentunut*\\n\\n",
         "Paina {command} ladataksesi sen uudelleen."
     ],
-    "more_info": [
+    "file_info": [
         "{PAGE_WITH_CURL} Lisätietoja\\n\\n",
         "{SMALL_ORANGE_DIAMOND} Videon ID: {video_id}\\n",
         "{SMALL_ORANGE_DIAMOND} Pituus: {duration}\\n",
@@ -217,7 +217,7 @@
     "month_12": "joulukuu",
     "start_button": "{CHEQUERED_FLAG} Aloita",
     "language_button": "{FLAG_FOR_FINLAND} Suomi",
-    "more_info_button": "{PAGE_WITH_CURL} Lisätietoa",
+    "file_info_button": "{PAGE_WITH_CURL} Lisätietoa",
     "share_button": "{RIGHT_ARROW_CURVING_UP} Lähetä kohteeseen...",
     "faq_button": "{BAR_CHART} UKK",
     "like_button": "{THUMBS_UP} Pidän siitä!",

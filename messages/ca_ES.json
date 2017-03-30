@@ -34,7 +34,7 @@
         "{WARNING} *El fitxer a vençut*\\n\\n",
         "Premeu {command} per baixar-lo de nou."
     ],
-    "more_info": [
+    "file_info": [
         "{PAGE_WITH_CURL} Més informació\\n\\n",
         "{SMALL_ORANGE_DIAMOND} ID del vídeo: {video_id}\\n",
         "{SMALL_ORANGE_DIAMOND} Durada: {duration}\\n",
@@ -217,7 +217,7 @@
     "month_12": "Desembre",
     "start_button": "{CHEQUERED_FLAG} Inicia",
     "language_button": "{WHITE_MEDIUM_STAR} Català",
-    "more_info_button": "{PAGE_WITH_CURL} Més informació",
+    "file_info_button": "{PAGE_WITH_CURL} Més informació",
     "share_button": "{RIGHT_ARROW_CURVING_UP} Envia a...",
     "faq_button": "{BAR_CHART} PMF",
     "like_button": "{THUMBS_UP} M'agrada!",

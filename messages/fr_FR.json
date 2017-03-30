@@ -34,7 +34,7 @@
         "{WARNING} *Fichier expiré*\\n\\n",
         "Appuyez sur {command} pour le télécharger à nouveau."
     ],
-    "more_info": [
+    "file_info": [
         "{PAGE_WITH_CURL} Plus d'infos\\n\\n",
         "{SMALL_ORANGE_DIAMOND} ID de la vidéo : {video_id}\\n",
         "{SMALL_ORANGE_DIAMOND} Durée : {duration}\\n",
@@ -217,7 +217,7 @@
     "month_12": "Décembre",
     "start_button": "{CHEQUERED_FLAG} Commencer",
     "language_button": "{FLAG_FOR_FRANCE} Français",
-    "more_info_button": "{PAGE_WITH_CURL} Plus d'infos",
+    "file_info_button": "{PAGE_WITH_CURL} Plus d'infos",
     "share_button": "{RIGHT_ARROW_CURVING_UP} Envoyer à ...",
     "faq_button": "{BAR_CHART} FAQ",
     "like_button": "{THUMBS_UP} J'aime !",

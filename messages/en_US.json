@@ -34,7 +34,7 @@
         "{WARNING} *File expired*\\n\\n",
         "Press {command} to download again."
     ],
-    "more_info": [
+    "file_info": [
         "{PAGE_WITH_CURL} More info\\n\\n",
         "{SMALL_ORANGE_DIAMOND} Video ID: {video_id}\\n",
         "{SMALL_ORANGE_DIAMOND} Duration: {duration}\\n",
@@ -217,7 +217,7 @@
     "month_12": "December",
     "start_button": "{CHEQUERED_FLAG} Start",
     "language_button": "{FLAG_FOR_UNITED_STATES} English",
-    "more_info_button": "{PAGE_WITH_CURL} More info",
+    "file_info_button": "{PAGE_WITH_CURL} More info",
     "share_button": "{RIGHT_ARROW_CURVING_UP} Send to...",
     "faq_button": "{BAR_CHART} FAQ",
     "like_button": "{THUMBS_UP} I like it!",

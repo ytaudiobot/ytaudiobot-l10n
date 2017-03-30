@@ -34,7 +34,7 @@
         "{WARNING} *הקובץ פג תוקף*\\n\\n",
         "תלחץ {command} על מנת להוריד שוב."
     ],
-    "more_info": [
+    "file_info": [
         "{PAGE_WITH_CURL} עוד מידע\\n\\n",
         "{SMALL_ORANGE_DIAMOND} זיהוי הסרטון: {video_id}\\n",
         "{SMALL_ORANGE_DIAMOND} משך: {duration}\\n",
@@ -217,7 +217,7 @@
     "month_12": "דצמבר",
     "start_button": "{CHEQUERED_FLAG} התחל",
     "language_button": "{FLAG_FOR_ISRAEL} עברית",
-    "more_info_button": "{PAGE_WITH_CURL} עוד מידע",
+    "file_info_button": "{PAGE_WITH_CURL} עוד מידע",
     "share_button": "{RIGHT_ARROW_CURVING_UP} שלח אל...",
     "faq_button": "{BAR_CHART} שו\\\"ת",
     "like_button": "{THUMBS_UP} אהבתי!",

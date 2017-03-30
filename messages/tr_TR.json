@@ -34,7 +34,7 @@
         "{WARNING} *Dosya doldu*\\n\\n",
         "Basın {command} Tekrar indirmek için."
     ],
-    "more_info": [
+    "file_info": [
         "{PAGE_WITH_CURL} Daha fazla bilgi\\n\\n",
         "{SMALL_ORANGE_DIAMOND} Video Kimliği: {video_id}\\n",
         "{SMALL_ORANGE_DIAMOND} Süre: {duration}\\n",
@@ -216,7 +216,7 @@
     "month_12": "Aralık",
     "start_button": "{CHEQUERED_FLAG} Başlat",
     "language_button": "{FLAG_FOR_TURKEY} Türkçe",
-    "more_info_button": "{PAGE_WITH_CURL} Daha fazla",
+    "file_info_button": "{PAGE_WITH_CURL} Daha fazla",
     "share_button": "{RIGHT_ARROW_CURVING_UP} Gönderiliyor...",
     "faq_button": "{BAR_CHART} SSS",
     "like_button": "{THUMBS_UP} Bunu Sevdim!",

@@ -34,7 +34,7 @@
         "{WARNING} *انتهت صلاحية الملف*\\n\\n",
         "اضغط على {command} لإعادة التحميل مجدداً."
     ],
-    "more_info": [
+    "file_info": [
         "{PAGE_WITH_CURL} مزيد من المعلومات\\n\\n",
         "{SMALL_ORANGE_DIAMOND} معرف الفيديو في يوتيوب: {video_id}\\n",
         "{SMALL_ORANGE_DIAMOND} المدة: {duration}\\n",
@@ -214,7 +214,7 @@
     "month_12": "ديسمبر",
     "start_button": "{CHEQUERED_FLAG} إبدأ",
     "language_button": "{FLAG_FOR_SAUDI_ARABIA} العربية",
-    "more_info_button": "{PAGE_WITH_CURL} مزيد من المعلومات",
+    "file_info_button": "{PAGE_WITH_CURL} مزيد من المعلومات",
     "share_button": "{RIGHT_ARROW_CURVING_UP} إرسال إلى...",
     "faq_button": "{BAR_CHART} الأسئلة المتكررة",
     "like_button": "{THUMBS_UP} بالتأكيد!",

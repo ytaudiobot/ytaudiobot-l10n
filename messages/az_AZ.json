@@ -34,7 +34,7 @@
         "{WARNING} *Faylın istifadə müddəti bitdi*\\n\\n",
         "Yenidən yükləmək üçün {command} klik edin."
     ],
-    "more_info": [
+    "file_info": [
         "{PAGE_WITH_CURL} Daha çox məlumat\\n\\n",
         "{SMALL_ORANGE_DIAMOND} Video ID: {video_id}\\n",
         "{SMALL_ORANGE_DIAMOND} Müddət: {duration}\\n",
@@ -217,7 +217,7 @@
     "month_12": "Dekabr",
     "start_button": "{CHEQUERED_FLAG} Başla",
     "language_button": "{FLAG_FOR_AZERBAIJAN} Azərbaycanca",
-    "more_info_button": "{PAGE_WITH_CURL} Daha çox məlumat",
+    "file_info_button": "{PAGE_WITH_CURL} Daha çox məlumat",
     "share_button": "{RIGHT_ARROW_CURVING_UP} Göndər...",
     "faq_button": "{BAR_CHART} TVS",
     "like_button": "{THUMBS_UP} Bəyənirəm!",

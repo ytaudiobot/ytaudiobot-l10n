@@ -34,7 +34,7 @@
         "{WARNING} *Час файлу сплинув*\\n\\n",
         "Натисніть {command}, щоб завантажити знову."
     ],
-    "more_info": [
+    "file_info": [
         "{PAGE_WITH_CURL} Більше інформації\\n\\n",
         "{SMALL_ORANGE_DIAMOND} ID відео: {video_id}\\n",
         "{SMALL_ORANGE_DIAMOND} Тривалість: {duration}\\n",
@@ -217,7 +217,7 @@
     "month_12": "Грудня",
     "start_button": "{CHEQUERED_FLAG} Почати",
     "language_button": "{FLAG_FOR_UKRAINE} Українська",
-    "more_info_button": "{PAGE_WITH_CURL} Докладніше",
+    "file_info_button": "{PAGE_WITH_CURL} Докладніше",
     "share_button": "{RIGHT_ARROW_CURVING_UP} Надіслати до...",
     "faq_button": "{BAR_CHART} ЧаПи",
     "like_button": "{THUMBS_UP} Мені подобається!",

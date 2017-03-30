@@ -34,7 +34,7 @@
         "{WARNING} *Срок действия файла истек*\\n\\n",
         "Нажмите {command} для повторной загрузки."
     ],
-    "more_info": [
+    "file_info": [
         "{PAGE_WITH_CURL} Больше информации\\n\\n",
         "{SMALL_ORANGE_DIAMOND} ID видео: {video_id}\\n",
         "{SMALL_ORANGE_DIAMOND} Длительность: {duration}\\n",
@@ -217,7 +217,7 @@
     "month_12": "Декабрь",
     "start_button": "{CHEQUERED_FLAG} Начать",
     "language_button": "{FLAG_FOR_RUSSIA} Русский",
-    "more_info_button": "{PAGE_WITH_CURL} Больше информации",
+    "file_info_button": "{PAGE_WITH_CURL} Больше информации",
     "share_button": "{RIGHT_ARROW_CURVING_UP} Отправить...",
     "faq_button": "{BAR_CHART} FAQ",
     "like_button": "{THUMBS_UP} Мне это нравится!",

@@ -34,7 +34,7 @@
         "{WARNING} *File scaduto*\\n\\n",
         "Premi {command} per scaricare di nuovo."
     ],
-    "more_info": [
+    "file_info": [
         "{PAGE_WITH_CURL} Più info\\n\\n",
         "{SMALL_ORANGE_DIAMOND} ID Video: {video_id}\\n",
         "{SMALL_ORANGE_DIAMOND} Durata: {duration}\\n",
@@ -218,7 +218,7 @@
     "month_12": "Dicembre",
     "start_button": "{CHEQUERED_FLAG} Avvia",
     "language_button": "{FLAG_FOR_ITALY} Italiano",
-    "more_info_button": "{PAGE_WITH_CURL} Più info",
+    "file_info_button": "{PAGE_WITH_CURL} Più info",
     "share_button": "{RIGHT_ARROW_CURVING_UP} Invia a...",
     "faq_button": "{BAR_CHART} FAQ",
     "like_button": "{THUMBS_UP} Mi piace!",

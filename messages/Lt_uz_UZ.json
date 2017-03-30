@@ -34,7 +34,7 @@
         "{WARNING} *Faylni vaqti tugagan*\\n\\n",
         "Qayta yuklash uchun {command} ni bosing."
     ],
-    "more_info": [
+    "file_info": [
         "{PAGE_WITH_CURL} Qo'shimcha ma'lumot\\n\\n",
         "{SMALL_ORANGE_DIAMOND} Video ID: {video_id}\\n",
         "{SMALL_ORANGE_DIAMOND} Davomiyligi: {duration}\\n",
@@ -217,7 +217,7 @@
     "month_12": "Dekabr",
     "start_button": "{CHEQUERED_FLAG} Boshlash",
     "language_button": "{FLAG_FOR_UZBEKISTAN} O'zbek",
-    "more_info_button": "{PAGE_WITH_CURL} Qo'shimcha ma'lumot",
+    "file_info_button": "{PAGE_WITH_CURL} Qo'shimcha ma'lumot",
     "share_button": "{RIGHT_ARROW_CURVING_UP} Jo'natish...",
     "faq_button": "{BAR_CHART} KSS",
     "like_button": "{THUMBS_UP} Bot menga yoqdi!",

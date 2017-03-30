@@ -34,7 +34,7 @@
         "{WARNING} *Archivo caducado*\\n\\n",
         "Toca {command} para volver a descargar."
     ],
-    "more_info": [
+    "file_info": [
         "{PAGE_WITH_CURL} Más información\\n\\n",
         "{SMALL_ORANGE_DIAMOND} ID: {video_id}\\n",
         "{SMALL_ORANGE_DIAMOND} Duración: {duration}\\n",
@@ -217,7 +217,7 @@
     "month_12": "diciembre",
     "start_button": "{CHEQUERED_FLAG} Iniciar",
     "language_button": "{FLAG_FOR_SPAIN} Español",
-    "more_info_button": "{PAGE_WITH_CURL} Información",
+    "file_info_button": "{PAGE_WITH_CURL} Información",
     "share_button": "{RIGHT_ARROW_CURVING_UP} Compartir",
     "faq_button": "{BAR_CHART} FAQ",
     "like_button": "{THUMBS_UP} ¡Me gusta!",
