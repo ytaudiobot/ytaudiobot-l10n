@@ -219,7 +219,7 @@
     "start_button": "{CHEQUERED_FLAG} 開始",
     "language_button": "{FLAG_FOR_TAIWAN} 繁體中文",
     "more_info_button": "{PAGE_WITH_CURL} 詳細信息",
-    "send_to_button": "{RIGHT_ARROW_CURVING_UP} 傳送給...",
+    "share_button": "{RIGHT_ARROW_CURVING_UP} 傳送給...",
     "faq_button": "{BAR_CHART} 常見問題",
     "like_button": "{THUMBS_UP} 我喜歡這個機器人",
     "not_really_button": "{THINKING_FACE} 還不夠好",

@@ -219,7 +219,7 @@
     "start_button": "{CHEQUERED_FLAG} 开始",
     "language_button": "{FLAG_FOR_CHINA} 简体中文",
     "more_info_button": "{PAGE_WITH_CURL} 更多信息",
-    "send_to_button": "{RIGHT_ARROW_CURVING_UP} 发送给...",
+    "share_button": "{RIGHT_ARROW_CURVING_UP} 发送给...",
     "faq_button": "{BAR_CHART} 常见问题",
     "like_button": "{THUMBS_UP} 我喜欢这个机器人",
     "not_really_button": "{THINKING_FACE} 还不够好",
