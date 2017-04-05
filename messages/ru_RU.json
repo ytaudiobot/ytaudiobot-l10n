@@ -47,7 +47,7 @@
         "Мы рады, что вам нравится наш бот.\\n\\n",
         "Вы можете оценить его и поставить\\n",
         "5 звезд {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} здесь:\\n",
-        "https://telegram.me/storebot?start=YTAudioBot"
+        "https://t.me/storebot?start=YTAudioBot"
     ],
     "dislike": [
         "{PENSIVE_FACE} *Нам очень жаль это слышать, {name}.*\\n\\n",

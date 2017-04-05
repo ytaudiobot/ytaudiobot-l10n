@@ -47,7 +47,7 @@
         "Olemme iloisia kuullessamme tämän.\\n\\n",
         "Voit arvostella botin ja antaa\\n",
         "5 tähteä {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} täällä:\\n",
-        "https://telegram.me/storebot?start=YTAudioBot"
+        "https://t.me/storebot?start=YTAudioBot"
     ],
     "dislike": [
         "{PENSIVE_FACE} *Ikävä kuulla siitä, {name}.*\\n\\n",

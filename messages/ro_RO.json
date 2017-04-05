@@ -47,7 +47,7 @@
         "Ne bucurăm că îți place.\\n\\n",
         "Poți să adaugi o recenzie, selectând\\n",
         "5 steluțe {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} aici:\\n",
-        "https://telegram.me/storebot?start=YTAudioBot"
+        "https://t.me/storebot?start=YTAudioBot"
     ],
     "dislike": [
         "{PENSIVE_FACE} *Ne pare rău să auzim asta, {name}.*\\n\\n",

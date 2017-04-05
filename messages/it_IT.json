@@ -47,7 +47,7 @@
         "Siamo felici che ti piaccia.\\n\\n",
         "Puoi votare il bot e mettere\\n",
         "5 stelle {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} qua:\\n",
-        "https://telegram.me/storebot?start=YTAudioBot\\n\\n"
+        "https://t.me/storebot?start=YTAudioBot"
     ],
     "dislike": [
         "{PENSIVE_FACE} *Ci dispiace sentire questo, {name}.*\\n\\n",
