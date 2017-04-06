@@ -6,7 +6,7 @@
         "Alternativa: @YTAudio_Bot"
     ],
     "type_search_terms": "{MEMO} Escriviu els termes a cercar",
-    "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} Cerca \\\"{terms}\\\" al YouTube",
+    "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} Cerca \\\«{terms}\\\» al YouTube",
     "error": "{PENSIVE_FACE} S'ha produit un error. Torneu a provar-ho més tard.",
     "longer_download_time": "{WARNING} *Aquest vídeo pot trigar més temps del normal. La baixada podria fallar!*",
     "clear_history_warning": "{WARNING} Esteu a punt d'esborrar tot l'historial!",
@@ -31,11 +31,11 @@
     "download_history_resumed": "{WHITE_HEAVY_CHECK_MARK} S'ha représ l'historial de baixades",
     "download_history_cleared": "{WASTEBASKET} S'ha esborrat l'historial de baixades",
     "file_expired": [
-        "{WARNING} *El fitxer a vençut*\\n\\n",
-        "Premeu {command} per baixar-lo de nou."
+        "{WARNING} *El fitxer ha vençut*\\n\\n",
+        "Premeu {command} per a tornar a baixar-lo."
     ],
     "file_info": [
-        "{PAGE_WITH_CURL} Més informació\\n\\n",
+        "{PAGE_WITH_CURL} Informació del fitxer\\n\\n",
         "{SMALL_ORANGE_DIAMOND} ID del vídeo: {video_id}\\n",
         "{SMALL_ORANGE_DIAMOND} Durada: {duration}\\n",
         "{SMALL_ORANGE_DIAMOND} Mida: {file_size} MB\\n",
@@ -67,13 +67,13 @@
     ],
     "sending_feedback_enabled": "{MEMO} Escriviu el comentari",
     "feedback_sent": "{HEAVY_CHECK_MARK} *S'ha enviat el comentari. Gràcies!*",
-    "showing_trending_results": "{FIRE} *Resultats a les tendències*\\n\\n",
-    "showing_youtube_results": "{RIGHT_POINTING_MAGNIFYING_GLASS} *Resultats per a \\\"*{terms}*\\\" al Youtube*\\n\\n",
+    "showing_trending_results": "{FIRE} *Resultats a les Tendències*\\n\\n",
+    "showing_youtube_results": "{RIGHT_POINTING_MAGNIFYING_GLASS} *Resultats per a \\\«*{terms}*\\\» al Youtube*\\n\\n",
     "flood_wait": "{WARNING} *No tan ràpid! Espereu {0 segons|un segon|# segons} i torneu a provar-ho.*",
-    "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} *S'està cercant \\\"*{terms}*\\\"...*",
+    "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} *S'està cercant \\\«*{terms}*\\\»...*",
     "video_not_available": "{PENSIVE_FACE} *Aquest vídeo no es troba disponible. Torneu a provar-ho més tard.*",
     "size_limit_exceeded": "{PENSIVE_FACE} *Aquest vídeo supera la mida màxima. Torneu a provar-ho amb un altre.*",
-    "api_error": "{PENSIVE_FACE} *L'operació solicitada no es pot realitzar en aquest moment. Torneu a provar-ho més tard.*",
+    "api_error": "{PENSIVE_FACE} *L'operació sol·licitada no es pot realitzar en aquest moment. Torneu a provar-ho més tard.*",
     "select_language": [
         "{GLOBE_WITH_MERIDIANS} *Llengua*\\n\\n",
         "Trieu la vostra llengua."
@@ -83,7 +83,7 @@
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *S'està processant el vídeo...*",
     "download_canceled": [
         "{CROSS_MARK} *S'ha cancel·lat la baixada.\\n",
-        "Premeu *{command}* per tornar a baixar-lo.*"
+        "Premeu *{command}* per tornar a baixar-la.*"
     ],
     "download_error": [
         "{PENSIVE_FACE} *S'ha produit un error inesperat.\\n",
@@ -98,7 +98,7 @@
     "download_queue_full": "{WARNING} La cua de baixades és plena. Torneu a provar-ho més tard",
     "help_1": [
         "{OPEN_BOOK} *Ajuda (1 de 4)*\\n\\n",
-        "L'única cosa que necessiteu és l'URL del vídeo del YouTube de què voleu extreure l'àudio, com aquest:\\n\\n",
+        "L'única cosa que necessiteu és l'URL del vídeo del YouTube del qual voleu extreure l'àudio, com aquest:\\n\\n",
         "— https://youtu.be/SMWi7CLoZ2Q."
     ],
     "help_2": [
@@ -110,15 +110,15 @@
     ],
     "help_3": [
         "{OPEN_BOOK} *Ajuda (3 de 4)*\\n\\n",
-        "Quan trobeu l'URL, envieu-me'l.\\n\\n",
-        "Si algú ja ha baixar el vídeo, se us enviarà inmediatament, ",
-        "altrament apareixar el botó {INBOX_TRAY} *Baixa*. Premeu-lo i el fitxer d'àudio serà disponible ",
+        "En trobar l'URL, envieu-me'l.\\n\\n",
+        "Si algú ja ha baixat el vídeo, se us enviarà inmediatament, ",
+        "altrament apareixerà el botó {INBOX_TRAY} *Baixa*. Premeu-lo i el fitxer d'àudio serà disponible ",
         "poc després."
     ],
     "help_4": [
         "{OPEN_BOOK} *Ajuda (4 de 4)*\\n\\n",
-        "Després de rebre'l i baixar-lo, podreu prémer el missatge d'àudio i seleccionar *Desa-ho a Música* ",
-        "per desar el fitxer d'àudio a la carpeta Música del vostre dispositiu."
+        "Després de rebre'l i baixar-lo, podreu prémer el missatge d'àudio i seleccionar «*Desa-ho a Música*» ",
+        "per a desar el fitxer d'àudio a la carpeta Música del vostre dispositiu."
     ],
     "tip_1": [
         "{LIGHT_BULB} *Consell (1 de 2)*\\n\\n",
@@ -139,9 +139,9 @@
         "Hola, {name}! Us agrada el YTAudioBot?"
     ],
     "about": [
-        "{NEWSPAPER} *Quant a*\\n\\n",
+        "{NEWSPAPER} *Quant a...*\\n\\n",
         "*YTAudioBot per al Telegram*\\n",
-        "{version} _{month} {day}, {year}_\\n\\n",
+        "{version} _{day} {month} de {year}_\\n\\n",
         "{LOUDSPEAKER} *Canal* - @YTAudio\\n",
         "{LINK} *Lloc web* - https://ytaudiobot.ml\\n",
         "{ENVELOPE} *Adreça electrònica* - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
@@ -150,36 +150,36 @@
     ],
     "settings": [
         "{GEAR} *Configuració*\\n\\n",
-        "{NEWSPAPER} *Quant a* - Informació sobre el bot\\n",
+        "{NEWSPAPER} *Quant a...* - Informació sobre el bot\\n",
         "{BAR_CHART} *PMF* - Preguntes més freqüents\\n",
         "{GLOBE_WITH_MERIDIANS} *Llengua* - Canvieu-li la llengua\\n",
         "{SPEECH_BALLOON} *Comentaris* - Envieu-nos comentaris"
     ],
     "faq_1": [
         "{BAR_CHART} *Preguntes més freqüents*\\n\\n",
-        "`Q:` *Vull triar el format de l'àudio!*\\n",
-        "`A:` Ens centrem en la qualitat, el rendiment del servei i la fiabilitat. ",
-        "Per aconseguir conversions d'àudio súper ràpides en la millor qualitat disponible al YouTube, només enviem ",
+        "`P:` *Vull triar el format de l'àudio!*\\n",
+        "`R:` Ens centrem en la qualitat, el rendiment del servei i la fiabilitat. ",
+        "Per a aconseguir conversions d'àudio súper ràpides en la millor qualitat disponible al YouTube, només enviem ",
         "fitxers codificats amb AAC 128k dins d'un contenidor MPEG-4 Part 14 (MP4) amb extensió M4A, etiquetats amb ",
-        "informació de l'iTunes. Això podria cambiar en el futur."
+        "informació de l'iTunes. Això podria canviar en el futur."
     ],
     "faq_2": [
         "{BAR_CHART} *Preguntes més freqüents*\\n\\n",
-        "`Q:` *Que significa AAC/M4A?*\\n",
-        "`A:` AAC és un format de codificació d'àudio dissenyat com a successor del format MP3, i generalment aconsegueix ",
+        "`P:` *Què significa AAC/M4A?*\\n",
+        "`R:` AAC és un format de codificació d'àudio dissenyat com a successor del format MP3, i generalment aconsegueix ",
         "millor qualitat de so que el MP3 a taxes de bits similars. M4A és una extensió de fitxer, i també el contenidor ",
         "tant de l'àudio codificat amb AAC com de les seves etiquetes."
     ],
     "faq_3": [
         "{BAR_CHART} *Preguntes més freqüents*\\n\\n",
-        "`Q:` *Alguns vídeos no funcionen!*\\n",
-        "`A:` Alguns vídeos, degut a les restriccions d'ubicació del Youtube, poden no estar disponibles al nostre centre de dades. ",
-        "A més, el bot pot enviar fitxers d'àudio de fins a 50 MB, actualment. Aquest límit pot canviar en el futur."
+        "`P:` *Alguns vídeos no funcionen!*\\n",
+        "`R:` Alguns vídeos, degut a les restriccions d'ubicació del YouTube, poden no estar disponibles al nostre centre de dades. ",
+        "A més, el bot pot enviar fitxers d'àudio de fins a 50 MB, actualment. Aquest límit podria canviar en el futur."
     ],
     "faq_4": [
         "{BAR_CHART} *Preguntes més freqüents*\\n\\n",
-        "`Q:` *Per què tenen els fitxers noms estranys?*\\n",
-        "`A:` Els fitxers es desen com a `Títol - IdVídeo.m4a`. No obstant això, el `Títol` pot no reflectir al 100% el títol ",
+        "`P:` *Per què tenen els fitxers noms estranys?*\\n",
+        "`R:` Els fitxers es desen com a `Títol - IdVídeo.m4a`. No obstant això, el `Títol` pot no reflectir al 100% el títol ",
         "del vídeo degut a algun caràcter no vàlid. Això no és cap de problema, normalment, ja que tota la informació correcta ",
         "sobre el vídeo es troba incrustada a les etiquetes del fitxer d'àudio."
     ],
@@ -191,34 +191,34 @@
         "*4.* Per què tenen els fitxers noms estranys?"
     ],
     "contribute": [
-        "{FOLDED_HANDS} *Ajudeu a traduir*\\n\\n",
-        "{name}! Si voleu que @YTAudioBot parli la vostra llengua o voleu millorar la traducció actual, podeu ajudar-nos!\\n\\n",
-        "Hem establert una guía per fer-ho, [aquí](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
+        "{FOLDED_HANDS} *Ajudeu amb la traducció*\\n\\n",
+        "{name}! Si voleu que el @YTAudioBot parli la vostra llengua o voleu millorar la traducció actual, podeu ajudar-nos!\\n\\n",
+        "Hem establit una guía per fer-ho, [aquí](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
         "Cal que tingueu coneixements d'anglès.\\n\\n",
         "Acceptem llengues noves i millores! Us convidem a unir-vos-hi, tota ajuda és benvinguda!"
     ],
     "contributors": [
-        "{BUSTS_IN_SILHOUETTE} *Contribuidors*\\n\\n",
+        "{BUSTS_IN_SILHOUETTE} *Contribuïdors*\\n\\n",
         "{RED_HEART} Volem agrair de tot cor els contribuïdors per les traduccions:\\n\\n",
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
-    "month_1": "Gener",
-    "month_2": "Febrer",
-    "month_3": "Març",
-    "month_4": "Abril",
-    "month_5": "Maig",
-    "month_6": "Juny",
-    "month_7": "Juliol",
-    "month_8": "Agost",
-    "month_9": "Setembre",
-    "month_10": "Octubre",
-    "month_11": "Novembre",
-    "month_12": "Desembre",
+    "month_1": "de gener",
+    "month_2": "de febrer",
+    "month_3": "de març",
+    "month_4": "d'abril",
+    "month_5": "de maig",
+    "month_6": "de juny",
+    "month_7": "de juliol",
+    "month_8": "d'agost",
+    "month_9": "de setembre",
+    "month_10": "d'octubre",
+    "month_11": "de novembre",
+    "month_12": "de desembre",
     "start_button": "{CHEQUERED_FLAG} Inicia",
     "language_button": "{WHITE_FLAG} Català",
-    "file_info_button": "{PAGE_WITH_CURL} Més informació",
-    "share_button": "{RIGHT_ARROW_CURVING_UP} Envia a...",
+    "file_info_button": "{PAGE_WITH_CURL} Informació",
+    "share_button": "{RIGHT_ARROW_CURVING_UP} Comparteix...",
     "faq_button": "{BAR_CHART} PMF",
     "like_button": "{THUMBS_UP} M'agrada!",
     "not_really_button": "{THINKING_FACE} No massa",
@@ -227,21 +227,21 @@
     "settings_button": "{GEAR} Configuració",
     "select_language_button": "{GLOBE_WITH_MERIDIANS} Llengua",
     "help_button": "{OPEN_BOOK} Ajuda",
-    "about_button": "{NEWSPAPER} Quant a",
+    "about_button": "{NEWSPAPER} Quant a...",
     "previous_button": "« Anterior",
     "back_button": "« Enrere",
     "next_button": "Següent »",
     "cancel_button": "{CROSS_MARK} Cancel·la",
     "download_button": "{INBOX_TRAY} Baixa",
     "how_it_works_button": "{QUESTION_MARK} Com funciona",
-    "rate_now_button": "{WHITE_MEDIUM_STAR} Valora ara",
+    "rate_now_button": "{WHITE_MEDIUM_STAR} Valora'l ara",
     "later_button": "{HOURGLASS} Més tard",
     "no_thanks_button": "{PILE_OF_POO} No, gràcies",
     "channel_button": "{LOUDSPEAKER} Canal",
     "website_button": "{LINK} Lloc web",
     "email_button": "{ENVELOPE} Adreça electrònica",
     "ratings_button": "{EYE} Ressenyes",
-    "help_translate_button": "{FOLDED_HANDS} Ajudeu a traduir",
+    "help_translate_button": "{FOLDED_HANDS} Ajudeu amb la traducció",
     "history_button": "{HOURGLASS} Historial",
     "remove_button": "{CROSS_MARK} Elimina",
     "restore_button": "{HEAVY_PLUS_SIGN} Restaura",
