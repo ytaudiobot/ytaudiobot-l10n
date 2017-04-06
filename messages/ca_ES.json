@@ -78,7 +78,7 @@
         "{GLOBE_WITH_MERIDIANS} *Llengua*\\n\\n",
         "Trieu la vostra llengua."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} S'ha establit la llengua al {WHITE_FLAG} Català.",
+    "language_selected": "{HEAVY_CHECK_MARK} S'ha configurat la llengua al {WHITE_FLAG} Català.",
     "same_language_selected": "{THINKING_FACE} La llengua del bot ja és el {WHITE_FLAG} Català.",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *S'està processant el vídeo...*",
     "download_canceled": [
@@ -193,7 +193,7 @@
     "contribute": [
         "{FOLDED_HANDS} *Ajudeu amb la traducció*\\n\\n",
         "{name}! Si voleu que el @YTAudioBot parli la vostra llengua o voleu millorar la traducció actual, podeu ajudar-nos!\\n\\n",
-        "Hem establit una guía per fer-ho, [aquí](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
+        "Hem creat una guía per a fer-ho, [aquí](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
         "Cal que tingueu coneixements d'anglès.\\n\\n",
         "Acceptem llengues noves i millores! Us convidem a unir-vos-hi, tota ajuda és benvinguda!"
     ],
