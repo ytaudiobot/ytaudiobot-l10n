@@ -86,7 +86,7 @@
         "Premeu *{command}* per tornar a baixar-la.*"
     ],
     "download_error": [
-        "{PENSIVE_FACE} *S'ha produit un error inesperat.\\n",
+        "{PENSIVE_FACE} *S'ha produït un error inesperat.\\n",
         "Torneu a provar-ho: *{command}*.*"
     ],
     "download_timeout": [
@@ -95,7 +95,7 @@
     ],
     "download_successful": "{HEAVY_CHECK_MARK} *S'ha baixat l'àudio correctament!*",
     "wait_previous_download": "{WARNING} Espereu que es completi la baixada anterior!",
-    "download_queue_full": "{WARNING} La cua de baixades és plena. Torneu a provar-ho més tard",
+    "download_queue_full": "{WARNING} La cua de baixades és plena. Torneu a provar-ho més tard.",
     "help_1": [
         "{OPEN_BOOK} *Ajuda (1 de 4)*\\n\\n",
         "L'única cosa que necessiteu és l'URL del vídeo del YouTube del qual voleu extreure l'àudio, com aquest:\\n\\n",
