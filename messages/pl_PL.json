@@ -1,5 +1,5 @@
 {
-    "position": 0,
+    "position": 21,
     "right_to_left": false,
     "description": [
         "Pobieraj filmy z YouTube w formacie audio, by zawsze mieć je pod ręką!\\n\\n",
@@ -62,7 +62,7 @@
     "rate_never": "{PILE_OF_POO} *W porządku, nigdy się już o to nie spytam*",
     "send_feedback": [
         "{MEMO} *Wyślij opinię*\\n\\n",
-        "Możesz zasugerować wprowadzenie zmian lub usprawnień, zgłosić błędy, lub po prostu wysłać swoją opinię do twórców bota",
+        "Możesz zasugerować wprowadzenie zmian lub usprawnień, zgłosić błędy, lub po prostu wysłać swoją opinię do twórców bota ",
         "(po Angielsku lub Włosku)."
     ],
     "sending_feedback_enabled": "{MEMO} Napisz swoją opinię",
@@ -104,14 +104,14 @@
     "help_2": [
         "{OPEN_BOOK} *Pomoc (2 z 4)*\\n\\n",
         "Jest wiele sposobów na znalezienie URL. Możesz na przykład:\\n\\n",
-        "— Użyć przycisku Udostępnij w aplikacji YouTube.\\",
+        "— Użyć przycisku Udostępnij w aplikacji YouTube.\\n",
         "— Użyć botów @vid lub @youtube.\\n",
         "— Skopiować i wkleić link ze swojej przeglądarki."
     ],
     "help_3": [
         "{OPEN_BOOK} *Pomoc (3 z 4)*\\n\\n",
         "Jak już masz URL, wyślij go do mnie.\\n\\n",
-        "Jeżeli dana pozycja została już pobrana przez kogoś innego, zostanie do Ciebie bezzwłocznie wysłana",
+        "Jeżeli dana pozycja została już pobrana przez kogoś innego, zostanie do Ciebie bezzwłocznie wysłana ",
         "w innym wypadku przycisk {INBOX_TRAY} *Pobierz* pojawi się. Wciśnij go, a twój plik audio po chwili ",
         "będzie dostępny."
     ],
@@ -150,7 +150,7 @@
     ],
     "settings": [
         "{GEAR} *Ustawienia*\\n\\n",
-        "{NEWSPAPER} *O bocie - Informacje na temat bota\\n",
+        "{NEWSPAPER} *O bocie* - Informacje na temat bota\\n",
         "{BAR_CHART} *FAQ* - Często zadawane pytania\\n",
         "{GLOBE_WITH_MERIDIANS} *Język* - Zmień swój język\\n",
         "{SPEECH_BALLOON} *Kontakt* - Wyślij swoje opinie lub sugestie"
@@ -174,13 +174,13 @@
         "{BAR_CHART} *Często zadawane pytania*\\n\\n",
         "`P:` *3. Niektóre filmy nie działają!*\\n",
         "`Odp:` Ze względu na ograniczenia terytorialne, niektóre filmy mogą być niedostępne dla naszego serwera.",
-        "Dodatkowo, bot obsługuje pliki o rozmiarze do 50MB. Ograniczenie może zostać zmienione w przyszłości."
+        "Dodatkowo, bot obsługuje pliki o rozmiarze do 50MB. Ograniczenie może zostać zmienione w przyszłości. "
     ],
     "faq_4": [
         "{BAR_CHART} *Często zadawane pytania*\\n\\n",
         "`P:` *4. Dlaczego pliki mają dziwne nazwy?*\\n",
         "`Odp:` Pliki są zapisane jako `Tytuł - IDFilmu.m4a`, jednakże `Tytuł` może nie być 100% zgodny z faktycznym tytułem ",
-        "filmu ze względu na obecnośc nieprawidłowych znaków. Przeważnie to nie jest problem, gdyż wszystkie prawidłowe informacjev",
+        "filmu ze względu na obecnośc nieprawidłowych znaków. Przeważnie to nie jest problem, gdyż wszystkie prawidłowe informacjev ",
         "na temat filmu są zawarte w tagach powstałego pliku audio."
     ],
     "faq_menu": [
@@ -216,15 +216,15 @@
     "month_11": "Listopad",
     "month_12": "Grudzień",
     "start_button": "{CHEQUERED_FLAG} Start",
-    "language_button": "{FLAG_FOR_POLAND}} Polski",
+    "language_button": "{FLAG_FOR_POLAND} Polski",
     "file_info_button": "{PAGE_WITH_CURL} Informacje o pliku",
     "share_button": "{RIGHT_ARROW_CURVING_UP} Udostępnij",
     "faq_button": "{BAR_CHART} FAQ",
     "like_button": "{THUMBS_UP} Ten bot jest super!",
     "not_really_button": "{THINKING_FACE} Niezupełnie",
-    "send_feedback_button": "{MEMO} Skontaktuj się z nami',
+    "send_feedback_button": "{MEMO} Skontaktuj się z nami",
     "feedback_button": "{SPEECH_BALLOON} Kontakt",
-    "settings_button": "{GEAR} Ustawienia*",
+    "settings_button": "{GEAR} Ustawienia",
     "select_language_button": "{GLOBE_WITH_MERIDIANS} Język",
     "help_button": "{OPEN_BOOK} Pomoc",
     "about_button": "{NEWSPAPER} O bocie",
