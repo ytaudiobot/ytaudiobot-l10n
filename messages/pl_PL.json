@@ -16,7 +16,7 @@
     ],
     "clear_history_confirmation": [
         "{WASTEBASKET} *Wyczyść historię pobierania*\\n\\n",
-        "Na pewno chcesz usunąć całą historię pobierania?* Ta czynność jest nieodwracalna*"
+        "Na pewno chcesz usunąć całą historię pobierania? *Ta czynność jest nieodwracalna*"
     ],
     "added_seconds_ago": "Dodano {sekundę|# sekundy|# sekund} temu",
     "added_minutes_ago": "Dodano {minutę|# minuty|# minut} temu",
