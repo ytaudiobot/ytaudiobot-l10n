@@ -91,7 +91,7 @@
     ],
     "download_timeout": [
         "{WARNING} *Pobieranie trwa dłużej niż 60 sekund.\\n",
-        "Możessz śmiało zażądać następnej pozycji, ta zostanie wysłana do Ciebie tak szybko jak to możliwe!*"
+        "Możesz śmiało zażądać następnej pozycji, ta zostanie wysłana do Ciebie tak szybko jak to możliwe!*"
     ],
     "download_successful": "{HEAVY_CHECK_MARK} *Pozycja pobrana!*",
     "wait_previous_download": "{WARNING} Zaczekaj aż poprzednia pozycja się pobierze!",
@@ -217,7 +217,7 @@
     "month_12": "Grudnia",
     "start_button": "{CHEQUERED_FLAG} Start",
     "language_button": "{FLAG_FOR_POLAND} Polski",
-    "file_info_button": "{PAGE_WITH_CURL} Informacje o pliku",
+    "file_info_button": "{PAGE_WITH_CURL} Informacje",
     "share_button": "{RIGHT_ARROW_CURVING_UP} Udostępnij",
     "faq_button": "{BAR_CHART} FAQ",
     "like_button": "{THUMBS_UP} Ten bot jest super!",
