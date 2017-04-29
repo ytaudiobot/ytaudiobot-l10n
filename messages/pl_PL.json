@@ -16,7 +16,7 @@
     ],
     "clear_history_confirmation": [
         "{WASTEBASKET} *Wyczyść historię pobierania*\\n\\n",
-        "Na pewno chcesz usunąć całą historię pobierania?*Ta czynność jest nieodwracalna*"
+        "Na pewno chcesz usunąć całą historię pobierania? *Ta czynność jest nieodwracalna*"
     ],
     "added_seconds_ago": "Dodano {sekundę|# sekundy|# sekund} temu",
     "added_minutes_ago": "Dodano {minutę|# minuty|# minut} temu",
@@ -98,7 +98,7 @@
     "download_queue_full": "{WARNING} Kolejka pobierania jest pełna. Spróbuj ponownie za chwilę",
     "help_1": [
         "{OPEN_BOOK} *Pomoc (1 z 4)*\\n\\n",
-        "Jedyne czego potrzebujesz jest adres URL filmu na YouTube, z którego dźwięk chcesz pobrać, na przykład:\\n\\n",
+        "Jedynym czego potrzebujesz jest adres URL filmu na YouTube, z którego dźwięk chcesz pobrać, na przykład:\\n\\n",
         "— https://youtu.be/SMWi7CLoZ2Q."
     ],
     "help_2": [
@@ -111,8 +111,8 @@
     "help_3": [
         "{OPEN_BOOK} *Pomoc (3 z 4)*\\n\\n",
         "Jak już masz URL, wyślij go do mnie.\\n\\n",
-        "Jeżeli dana pozycja została już pobrana przez kogoś innego, zostanie do Ciebie bezzwłocznie wysłana ",
-        "w innym wypadku przycisk {INBOX_TRAY} *Pobierz* pojawi się. Wciśnij go, a twój plik audio po chwili ",
+        "Jeżeli dana pozycja została już pobrana przez kogoś innego, zostanie do Ciebie bezzwłocznie wysłana, ",
+        "w innym wypadku przycisk {INBOX_TRAY} *Pobierz* pojawi się. Wciśnij go, a Twój plik audio po chwili ",
         "będzie dostępny."
     ],
     "help_4": [
@@ -141,7 +141,7 @@
     "about": [
         "{NEWSPAPER} *O bocie*\\n\\n",
         "*YTAudioBot dla Telegrama*\\n",
-        "{version} _{month} {day}, {year}_\\n\\n",
+        "{version} _{day} {month}, {year}_\\n\\n",
         "{LOUDSPEAKER} *Kanał* - @YTAudio\\n",
         "{LINK} *Strona* - https://ytaudiobot.ml\\n",
         "{ENVELOPE} *E-Mail* - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
@@ -161,7 +161,7 @@
         "`Odp:` Zależy nam na jakości oraz wydajności usługi. ",
         "Żeby dokonać konwersji w najwyższej jakości dostępnej na YouTube w jak najkrótszym czsie, wysyłamy jedynie ",
         "pliki kodowane AAC 128k w kontenerze MPEG-4 część 14 (MP4) z rozszerzeniem M4A otagowany informacjami z iTunes. ",
-        "Ten wybór możee ulec zmianie w przyszłości."
+        "Ten wybór może ulec zmianie w przyszłości."
     ],
     "faq_2": [
         "{BAR_CHART} *Często zadawane pytania*\\n\\n",
@@ -173,18 +173,18 @@
     "faq_3": [
         "{BAR_CHART} *Często zadawane pytania*\\n\\n",
         "`P:` *3. Niektóre filmy nie działają!*\\n",
-        "`Odp:` Ze względu na ograniczenia terytorialne, niektóre filmy mogą być niedostępne dla naszego serwera.",
-        "Dodatkowo, bot obsługuje pliki o rozmiarze do 50MB. Ograniczenie może zostać zmienione w przyszłości. "
+        "`Odp:` Ze względu na ograniczenia terytorialne, niektóre filmy mogą być niedostępne dla naszego serwera. ",
+        "Dodatkowo, bot obsługuje pliki o rozmiarze do 50MB. Ten limit może zostać zmieniony w przyszłości. "
     ],
     "faq_4": [
         "{BAR_CHART} *Często zadawane pytania*\\n\\n",
         "`P:` *4. Dlaczego pliki mają dziwne nazwy?*\\n",
         "`Odp:` Pliki są zapisane jako `Tytuł - IDFilmu.m4a`, jednakże `Tytuł` może nie być 100% zgodny z faktycznym tytułem ",
-        "filmu ze względu na obecnośc nieprawidłowych znaków. Przeważnie to nie jest problem, gdyż wszystkie prawidłowe informacjev ",
+        "filmu ze względu na obecność nieprawidłowych znaków. Przeważnie nie stanowi to problemu, gdyż wszystkie prawidłowe informacje ",
         "na temat filmu są zawarte w tagach powstałego pliku audio."
     ],
     "faq_menu": [
-        "{BAR_CHART} *Frequently asked questions*\\n\\n",
+        "{BAR_CHART} *Często zadawane pytania*\\n\\n",
         "*1.* Chcę wybrać format audio!\\n",
         "*2.* Co oznacza AAC/M4A?\\n",
         "*3.* Niektóre filmy nie działają!\\n",
@@ -193,7 +193,7 @@
     "contribute": [
         "{FOLDED_HANDS} *Pomóż w tłumaczeniu*\\n\\n",
         "{name}! Jeśli chcesz, by @YTAudioBot mówił w Twoim języku lub chcesz poprawić istniejące już tłumaczenie, możesz nam pomóc!\\n\\n",
-        "Przygotowaliśmy do tego specjalną instrukcję, [here](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
+        "Przygotowaliśmy do tego specjalną instrukcję, [tutaj](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
         "Znajomość języka angielskiego jest niezbędna.\\n\\n",
         "Chętnie widzimy nowe języki i usprawnienia! Przyłącz się do nas, każda pomoc jest akceptowana z wdzięcznością!"
     ],
@@ -203,18 +203,18 @@
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
-    "month_1": "Styczeń",
-    "month_2": "Luty",
-    "month_3": "Marzec",
-    "month_4": "Kwiecień",
-    "month_5": "Maj",
-    "month_6": "Czerwiec",
-    "month_7": "Lipiec",
-    "month_8": "Sierpień",
-    "month_9": "Wrzesień",
-    "month_10": "Październik",
-    "month_11": "Listopad",
-    "month_12": "Grudzień",
+    "month_1": "Stycznia",
+    "month_2": "Lutego",
+    "month_3": "Marca",
+    "month_4": "Kwietnia",
+    "month_5": "Maja",
+    "month_6": "Czerwca",
+    "month_7": "Lipica",
+    "month_8": "Sierpnia",
+    "month_9": "Września",
+    "month_10": "Października",
+    "month_11": "Listopada",
+    "month_12": "Grudnia",
     "start_button": "{CHEQUERED_FLAG} Start",
     "language_button": "{FLAG_FOR_POLAND} Polski",
     "file_info_button": "{PAGE_WITH_CURL} Informacje o pliku",
@@ -245,7 +245,7 @@
     "history_button": "{HOURGLASS} Historia",
     "remove_button": "{CROSS_MARK} Usuń",
     "restore_button": "{HEAVY_PLUS_SIGN} Przywróć",
-    "view_button": "{EYE} View",
+    "view_button": "{EYE} Wyświetl",
     "clear_all_button": "{WASTEBASKET} Wyczyść",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Zatrzymaj",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Wznów",
