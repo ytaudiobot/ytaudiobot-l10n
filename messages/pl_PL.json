@@ -8,7 +8,7 @@
     "type_search_terms": "{MEMO} Wpisz poszukiwane hasło",
     "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} Wyszukaj \\\"{terms}\\\" na YouTube",
     "error": "{PENSIVE_FACE} Wystąpił błąd. Spróbuj ponownie później.",
-    "longer_download_time": "{WARNING} *Ten film może pobierać się dłużej niż zwykle! Pobieranie może nie udać się!*",
+    "longer_download_time": "{WARNING} *Ten film może pobierać się dłużej niż zwykle! Pobieranie może się nie udać!*",
     "clear_history_warning": "{WARNING} Za chwilę wyczyścisz całą historię!",
     "history_settings": [
         "{HOURGLASS} *Pobierz historię*\\n\\n",
