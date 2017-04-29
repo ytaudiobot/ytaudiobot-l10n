@@ -29,6 +29,7 @@ Language | Contributors | Translated
 :white_flag: **Català** ([ca_ES](messages/ca_ES.json)) | [Artur](//github.com/Ecron) | 100%
 **(WIP)** :ru: **Русский** ([ru_RU](messages/ru_RU.json)) | [Rakleed](//github.com/Rakleed) | 100%
 **(WIP)** :azerbaijan: **Azərbaycanca** ([az_AZ](messages/az_AZ.json)) | [Nazar Nasirzada](//github.com/nnasirzada) | 100%
+**(WIP)** :poland: **Polski** ([pl_PL](messages/p-PL.json)) | [Veleth](//github.com/veleth) | 100%
 
 > Add yourself here once you submit your translations
 
