@@ -29,7 +29,8 @@ Language | Contributors | Translated
 :white_flag: **Català** ([ca_ES](messages/ca_ES.json)) | [Artur](//github.com/Ecron) | 100%
 :ru: **Русский** ([ru_RU](messages/ru_RU.json)) | [Rakleed](//github.com/Rakleed) | 100%
 :azerbaijan: **Azərbaycanca** ([az_AZ](messages/az_AZ.json)) | [Nazar Nasirzada](//github.com/nnasirzada) | 100%
-:poland: **Polski** ([pl_PL](messages/p-PL.json)) | [Veleth](//github.com/veleth) | 100%
+:poland: **Polski** ([pl_PL](messages/pl_PL.json)) | [Veleth](//github.com/veleth) | 100%
+**(WIP)** :vietnam: **Vietnamese** ([vi_VN](messages/vi_VN.json)) | [Thiều Quang Huy](//github.com/abcd123huy) | 100%
 
 > Add yourself here once you submit your translations
 
