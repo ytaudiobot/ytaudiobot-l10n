@@ -1,5 +1,5 @@
 {
-    "position": 0,
+    "position": 22,
     "right_to_left": false,
     "description": [
         "Tải videos từ YouTube với định dạng âm thanh ở bất cứ đâu!\\n\\n",
@@ -78,8 +78,8 @@
         "{GLOBE_WITH_MERIDIANS} *Ngôn ngữ*\\n\\n",
         "Vui lòng chọn ngôn ngữ."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} Ngôn ngữ cài đặt cho {FLAG_FOR_UNITED_STATES} English.",
-    "same_language_selected": "{THINKING_FACE} Ngôn ngữ của bot hiện đã là {FLAG_FOR_UNITED_STATES} English",
+    "language_selected": "{HEAVY_CHECK_MARK} Ngôn ngữ cài đặt cho {FLAG_FOR_VIETNAM} Vietnamese.",
+    "same_language_selected": "{THINKING_FACE} Ngôn ngữ của bot hiện đã là {FLAG_FOR_VIETNAM} Vietnamese",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *Video đang xử lý...*",
     "download_canceled": [
         "{CROSS_MARK} *Đã hủy tải về.\\n",
@@ -117,7 +117,7 @@
     ],
     "help_4": [
         "{OPEN_BOOK} *Trợ giúp (4 trên 4)*\\n\\n",
-        "Sau khi nhận được và tải xuống, bạn có thể nhấn vào tin nhắn âm thanh và nhấn *Lưu vào nhạc*",
+        "Sau khi nhận được và tải xuống, bạn có thể nhấn vào tin nhắn âm thanh và nhấn *Lưu vào nhạc* ",
         "Để lưu tệp tin âm thanh trong thư mục Âm nhạc của điện thoại."
     ],
     "tip_1": [
@@ -157,7 +157,7 @@
     ],
     "faq_1": [
         "{BAR_CHART} *Các câu hỏi thường gặp*\\n\\n",
-        "`Hỏi:` * 1. Tôi muốn chọn định dạng âm thanh! * \\ n", "
+        "`Hỏi:` *1. Tôi muốn chọn định dạng âm thanh!* \\n",
         "`Trả lời:` Chúng tôi tập trung vào chất lượng, hiệu suất dịch vụ và độ tin cậy.",
         "Để đạt được các chuyển đổi âm thanh siêu nhanh với chất lượng cao nhất có sẵn trên YouTube, chúng tôi chỉ gửi ",
         "Các tệp được mã hóa AAC 128k bên trong một ngăn chứa MPEG-4 Phần 14 (MP4) với phần mở rộng M4A được gắn thẻ với thông tin của iTunes. ",
@@ -167,12 +167,12 @@
         "{BAR_CHART} *Các câu hỏi thường gặp*\\n\\n",
         "`Hỏi:` *2. AAC/M4A nghĩa là gì?*\\n",
         "`Trả lời:` AAC là một định dạng mã hóa âm thanh được thiết kế để là sự kế thừa của định dạng MP3 và thường đạt được",
-        "Chất lượng âm thanh tốt hơn so với MP3 ở tốc độ bit tương tự M4A là một phần mở rộng của tập tin, còn được gọi là vùng chứa "
+        "Chất lượng âm thanh tốt hơn so với MP3 ở tốc độ bit tương tự M4A là một phần mở rộng của tập tin, còn được gọi là vùng chứa ",
         "Của cả âm thanh được mã hoá AAC thực và các thẻ của âm thanh."
     ],
     "faq_3": [
         "{BAR_CHART} *Các câu hỏi thường gặp*\\n\\n",
-        "`Hỏi:` * 3 Một số video không hoạt động! * \\ n",
+        "`Hỏi:` *3 Một số video không hoạt động!*\\n",
         "`Trả lời:` Một số video do hạn chế về quốc gia của YouTube có thể không có sẵn cho trung tâm dữ liệu của chúng tôi. ",
         "Bot có thể gửi tập tin âm thanh có kích thước lên đến 50 MB, giới hạn này có thể được thay đổi trong tương lai."
     ],
@@ -216,7 +216,7 @@
     "month_11": "Tháng mười một",
     "month_12": "Tháng mười hai",
     "start_button": "{CHEQUERED_FLAG} Bắt đầu",
-    "language_button": "{FLAG_FOR_UNITED_STATES} English",
+    "language_button": "{FLAG_FOR_VIETNAM} Vietnamese",
     "file_info_button": "{PAGE_WITH_CURL} Thông tin tệp",
     "share_button": "{RIGHT_ARROW_CURVING_UP} Chia sẻ",
     "faq_button": "{BAR_CHART} FAQ",
