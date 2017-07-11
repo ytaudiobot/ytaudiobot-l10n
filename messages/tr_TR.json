@@ -78,8 +78,8 @@
         "{GLOBE_WITH_MERIDIANS} *Dil*\\n\\n",
         "Dilinizi seçiniz."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} Dil seti {FLAG_FOR_TURKEY} Türkçe.",
-    "same_language_selected": "{THINKING_FACE} Bot'un dili zaten içeride {FLAG_FOR_TURKEY} Türkçe",
+    "language_selected": "{HEAVY_CHECK_MARK} Dil seti {TURKEY} Türkçe.",
+    "same_language_selected": "{THINKING_FACE} Bot'un dili zaten içeride {TURKEY} Türkçe",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *Video işleme devam ediyor...*",
     "download_canceled": [
         "{CROSS_MARK} *İndirme işlemi iptal edildi.\\n",
@@ -215,7 +215,7 @@
     "month_11": "Kasım",
     "month_12": "Aralık",
     "start_button": "{CHEQUERED_FLAG} Başlat",
-    "language_button": "{FLAG_FOR_TURKEY} Türkçe",
+    "language_button": "{TURKEY} Türkçe",
     "file_info_button": "{PAGE_WITH_CURL} Daha fazla",
     "share_button": "{RIGHT_ARROW_CURVING_UP} Gönderiliyor...",
     "faq_button": "{BAR_CHART} SSS",

@@ -78,8 +78,8 @@
         "{GLOBE_WITH_MERIDIANS} *Til*\\n\\n",
         "Tilni tanlang."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} {FLAG_FOR_UZBEKISTAN} O'zbek tili tanlandi.",
-    "same_language_selected": "{THINKING_FACE} Botning tili oldindan {FLAG_FOR_UZBEKISTAN} O'zbekchaga tanlangan",
+    "language_selected": "{HEAVY_CHECK_MARK} {UZBEKISTAN} O'zbek tili tanlandi.",
+    "same_language_selected": "{THINKING_FACE} Botning tili oldindan {UZBEKISTAN} O'zbekchaga tanlangan",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *Video protsessda...*",
     "download_canceled": [
         "{CROSS_MARK} *Yuklash to'xtatildi.\\n",
@@ -216,7 +216,7 @@
     "month_11": "Noyabr",
     "month_12": "Dekabr",
     "start_button": "{CHEQUERED_FLAG} Boshlash",
-    "language_button": "{FLAG_FOR_UZBEKISTAN} O'zbek",
+    "language_button": "{UZBEKISTAN} O'zbek",
     "file_info_button": "{PAGE_WITH_CURL} Qo'shimcha ma'lumot",
     "share_button": "{RIGHT_ARROW_CURVING_UP} Jo'natish...",
     "faq_button": "{BAR_CHART} KSS",

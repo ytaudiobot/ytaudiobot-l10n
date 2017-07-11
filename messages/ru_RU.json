@@ -78,8 +78,8 @@
         "{GLOBE_WITH_MERIDIANS} *Язык*\\n\\n",
         "Выберите ваш язык."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} Установлен {FLAG_FOR_RUSSIA} русский язык.",
-    "same_language_selected": "{THINKING_FACE} Язык бота уже {FLAG_FOR_RUSSIA} русский",
+    "language_selected": "{HEAVY_CHECK_MARK} Установлен {RUSSIA} русский язык.",
+    "same_language_selected": "{THINKING_FACE} Язык бота уже {RUSSIA} русский",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *Выполняется обработка видео...*",
     "download_canceled": [
         "{CROSS_MARK} *Загрузка отменена.\\n",
@@ -216,7 +216,7 @@
     "month_11": "Ноябрь",
     "month_12": "Декабрь",
     "start_button": "{CHEQUERED_FLAG} Начать",
-    "language_button": "{FLAG_FOR_RUSSIA} Русский",
+    "language_button": "{RUSSIA} Русский",
     "file_info_button": "{PAGE_WITH_CURL} Больше информации",
     "share_button": "{RIGHT_ARROW_CURVING_UP} Отправить...",
     "faq_button": "{BAR_CHART} FAQ",

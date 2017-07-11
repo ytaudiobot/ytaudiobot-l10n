@@ -78,8 +78,8 @@
         "{GLOBE_WITH_MERIDIANS} *Dil*\\n\\n",
         "Dil seçin."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} {FLAG_FOR_AZERBAIJAN} Azərbaycan dili seçildi.",
-    "same_language_selected": "{THINKING_FACE} Botun dili hal-hazırda {FLAG_FOR_AZERBAIJAN} azərbaycancadır.",
+    "language_selected": "{HEAVY_CHECK_MARK} {AZERBAIJAN} Azərbaycan dili seçildi.",
+    "same_language_selected": "{THINKING_FACE} Botun dili hal-hazırda {AZERBAIJAN} azərbaycancadır.",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *Video emal edilir...*",
     "download_canceled": [
         "{CROSS_MARK} *Yükləmə ləğv edildi.\\n",
@@ -216,7 +216,7 @@
     "month_11": "Noyabr",
     "month_12": "Dekabr",
     "start_button": "{CHEQUERED_FLAG} Başla",
-    "language_button": "{FLAG_FOR_AZERBAIJAN} Azərbaycanca",
+    "language_button": "{AZERBAIJAN} Azərbaycanca",
     "file_info_button": "{PAGE_WITH_CURL} Daha çox məlumat",
     "share_button": "{RIGHT_ARROW_CURVING_UP} Göndər...",
     "faq_button": "{BAR_CHART} TVS",

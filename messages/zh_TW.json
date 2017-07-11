@@ -78,8 +78,8 @@
         "{GLOBE_WITH_MERIDIANS} *語言*\\n\\n",
         "選擇你的語言。"
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} 語言已被設定爲 {FLAG_FOR_TAIWAN} 繁體中文。",
-    "same_language_selected": "{THINKING_FACE} 機器人的語言已經被設定爲 {FLAG_FOR_TAIWAN} 繁體中文",
+    "language_selected": "{HEAVY_CHECK_MARK} 語言已被設定爲 {TAIWAN} 繁體中文。",
+    "same_language_selected": "{THINKING_FACE} 機器人的語言已經被設定爲 {TAIWAN} 繁體中文",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *視頻正在處理...*",
     "download_canceled": [
         "{CROSS_MARK} *下載已取消\\n",
@@ -217,7 +217,7 @@
     "month_11": "十一月",
     "month_12": "十二月",
     "start_button": "{CHEQUERED_FLAG} 開始",
-    "language_button": "{FLAG_FOR_TAIWAN} 繁體中文",
+    "language_button": "{TAIWAN} 繁體中文",
     "file_info_button": "{PAGE_WITH_CURL} 詳細信息",
     "share_button": "{RIGHT_ARROW_CURVING_UP} 傳送給...",
     "faq_button": "{BAR_CHART} 常見問題",

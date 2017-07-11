@@ -78,8 +78,8 @@
         "{GLOBE_WITH_MERIDIANS} *Idioma*\\n\\n",
         "Selecione seu idioma."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} Idioma definido para {FLAG_FOR_BRAZIL} Português.",
-    "same_language_selected": "{THINKING_FACE} O idioma do bot já está em {FLAG_FOR_BRAZIL} Português",
+    "language_selected": "{HEAVY_CHECK_MARK} Idioma definido para {BRAZIL} Português.",
+    "same_language_selected": "{THINKING_FACE} O idioma do bot já está em {BRAZIL} Português",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *Processamento do vídeo em progresso...*",
     "download_canceled": [
         "{CROSS_MARK} *Download cancelado.\\n",
@@ -216,7 +216,7 @@
     "month_11": "Novembro",
     "month_12": "Dezembro",
     "start_button": "{CHEQUERED_FLAG} Começar",
-    "language_button": "{FLAG_FOR_BRAZIL} Português",
+    "language_button": "{BRAZIL} Português",
     "file_info_button": "{PAGE_WITH_CURL} Mais informações",
     "share_button": "{RIGHT_ARROW_CURVING_UP} Enviar para...",
     "faq_button": "{BAR_CHART} FAQ",

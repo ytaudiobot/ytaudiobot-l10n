@@ -78,8 +78,8 @@
         "{GLOBE_WITH_MERIDIANS} *Kieli*\\n\\n",
         "Valitse haluamasi kieli."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} Kieleksi vaihdettu {FLAG_FOR_FINLAND} Suomi.",
-    "same_language_selected": "{THINKING_FACE} Botin kieli on jo {FLAG_FOR_FINLAND} Suomi",
+    "language_selected": "{HEAVY_CHECK_MARK} Kieleksi vaihdettu {FINLAND} Suomi.",
+    "same_language_selected": "{THINKING_FACE} Botin kieli on jo {FINLAND} Suomi",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *Videon prosessointi käynnissä...*",
     "download_canceled": [
         "{CROSS_MARK} *Lataus peruutettu.\\n",
@@ -216,7 +216,7 @@
     "month_11": "marraskuu",
     "month_12": "joulukuu",
     "start_button": "{CHEQUERED_FLAG} Aloita",
-    "language_button": "{FLAG_FOR_FINLAND} Suomi",
+    "language_button": "{FINLAND} Suomi",
     "file_info_button": "{PAGE_WITH_CURL} Lisätietoa",
     "share_button": "{RIGHT_ARROW_CURVING_UP} Lähetä kohteeseen...",
     "faq_button": "{BAR_CHART} UKK",
