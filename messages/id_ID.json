@@ -78,8 +78,8 @@
         "{GLOBE_WITH_MERIDIANS} *Bahasa*\\n\\n",
         "Pilih bahasa anda."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} Bahasa terpilih: {FLAG_FOR_INDONESIA} Bahasa Indonesia.",
-    "same_language_selected": "{THINKING_FACE} Bahasa terpilih: (masih) {FLAG_FOR_INDONESIA} Bahasa Indonesia.",
+    "language_selected": "{HEAVY_CHECK_MARK} Bahasa terpilih: {INDONESIA} Bahasa Indonesia.",
+    "same_language_selected": "{THINKING_FACE} Bahasa terpilih: (masih) {INDONESIA} Bahasa Indonesia.",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *Memproses video...*",
     "download_canceled": [
         "{CROSS_MARK} *Unduhan dibatalkan.\\n",
@@ -216,7 +216,7 @@
     "month_11": "November",
     "month_12": "Desember",
     "start_button": "{CHEQUERED_FLAG} Mulai",
-    "language_button": "{FLAG_FOR_INDONESIA} Bahasa Indonesia",
+    "language_button": "{INDONESIA} Bahasa Indonesia",
     "file_info_button": "{PAGE_WITH_CURL} Rincian",
     "share_button": "{RIGHT_ARROW_CURVING_UP} Kirim ke...",
     "faq_button": "{BAR_CHART} FAQ",

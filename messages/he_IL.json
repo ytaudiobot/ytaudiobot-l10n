@@ -78,8 +78,8 @@
         "{GLOBE_WITH_MERIDIANS} *שפה*\\n\\n",
         "בחר את השפה שלך."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} השפה שנבחרה היא {FLAG_FOR_ISRAEL} עברית.",
-    "same_language_selected": "{THINKING_FACE} השפה שנבחרה היא כבר {FLAG_FOR_ISRAEL} עברית",
+    "language_selected": "{HEAVY_CHECK_MARK} השפה שנבחרה היא {ISRAEL} עברית.",
+    "same_language_selected": "{THINKING_FACE} השפה שנבחרה היא כבר {ISRAEL} עברית",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *עיבוד הסרטון מתבצע...*",
     "download_canceled": [
         "{CROSS_MARK} *ההורדה בוטלה.\\n",
@@ -216,7 +216,7 @@
     "month_11": "נובמבר",
     "month_12": "דצמבר",
     "start_button": "{CHEQUERED_FLAG} התחל",
-    "language_button": "{FLAG_FOR_ISRAEL} עברית",
+    "language_button": "{ISRAEL} עברית",
     "file_info_button": "{PAGE_WITH_CURL} עוד מידע",
     "share_button": "{RIGHT_ARROW_CURVING_UP} שלח אל...",
     "faq_button": "{BAR_CHART} שו\\\"ת",

@@ -78,8 +78,8 @@
         "{GLOBE_WITH_MERIDIANS} *Język*\\n\\n",
         "Wybierz swój język."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} Język ustawiony na {FLAG_FOR_POLAND} Polski.",
-    "same_language_selected": "{THINKING_FACE} Język bota jest już ustawiony na {FLAG_FOR_POLAND} Polski",
+    "language_selected": "{HEAVY_CHECK_MARK} Język ustawiony na {POLAND} Polski.",
+    "same_language_selected": "{THINKING_FACE} Język bota jest już ustawiony na {POLAND} Polski",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *Przetwarzanie filmu...*",
     "download_canceled": [
         "{CROSS_MARK} *Pobieranie przerwane.\\n",
@@ -216,7 +216,7 @@
     "month_11": "Listopada",
     "month_12": "Grudnia",
     "start_button": "{CHEQUERED_FLAG} Start",
-    "language_button": "{FLAG_FOR_POLAND} Polski",
+    "language_button": "{POLAND} Polski",
     "file_info_button": "{PAGE_WITH_CURL} Informacje",
     "share_button": "{RIGHT_ARROW_CURVING_UP} Udostępnij",
     "faq_button": "{BAR_CHART} FAQ",

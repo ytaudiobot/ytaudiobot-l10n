@@ -78,8 +78,8 @@
         "{GLOBE_WITH_MERIDIANS} *Lingua*\\n\\n",
         "Seleziona la tua lingua."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} Lingua impostata in {FLAG_FOR_ITALY} Italiano.",
-    "same_language_selected": "{THINKING_FACE} La lingua del bot è già in {FLAG_FOR_ITALY} Italiano",
+    "language_selected": "{HEAVY_CHECK_MARK} Lingua impostata in {ITALY} Italiano.",
+    "same_language_selected": "{THINKING_FACE} La lingua del bot è già in {ITALY} Italiano",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *Elaborazione video in corso...*",
     "download_canceled": [
         "{CROSS_MARK} *Download annullato.\\n",
@@ -222,7 +222,7 @@
     "month_11": "Novembre",
     "month_12": "Dicembre",
     "start_button": "{CHEQUERED_FLAG} Avvia",
-    "language_button": "{FLAG_FOR_ITALY} Italiano",
+    "language_button": "{ITALY} Italiano",
     "file_info_button": "{PAGE_WITH_CURL} Info file",
     "share_button": "{RIGHT_ARROW_CURVING_UP} Condividi",
     "faq_button": "{BAR_CHART} FAQ",

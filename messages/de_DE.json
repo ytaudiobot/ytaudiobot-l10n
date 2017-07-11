@@ -78,8 +78,8 @@
         "{GLOBE_WITH_MERIDIANS} *Sprache*\\n\\n",
         "Wähle eine Sprache aus."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} Die Sprache wurde auf {FLAG_FOR_GERMANY} Deutsch umgestellt.",
-    "same_language_selected": "{THINKING_FACE} Die Sprache ist schon auf {FLAG_FOR_GERMANY} Deutsch",
+    "language_selected": "{HEAVY_CHECK_MARK} Die Sprache wurde auf {GERMANY} Deutsch umgestellt.",
+    "same_language_selected": "{THINKING_FACE} Die Sprache ist schon auf {GERMANY} Deutsch",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *Konvertierung im Gang...*",
     "download_canceled": [
         "{CROSS_MARK} *Download abgebrochen.\\n",
@@ -216,7 +216,7 @@
     "month_11": "November",
     "month_12": "Dezember",
     "start_button": "{CHEQUERED_FLAG} Start",
-    "language_button": "{FLAG_FOR_GERMANY} Deutsch",
+    "language_button": "{GERMANY} Deutsch",
     "file_info_button": "{PAGE_WITH_CURL} Mehr Infos",
     "share_button": "{RIGHT_ARROW_CURVING_UP} Senden an...",
     "faq_button": "{BAR_CHART} FAQ",

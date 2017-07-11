@@ -78,8 +78,8 @@
         "{GLOBE_WITH_MERIDIANS} *Llengua*\\n\\n",
         "Trieu la vostra llengua."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} S'ha configurat la llengua al {WHITE_FLAG} Català.",
-    "same_language_selected": "{THINKING_FACE} La llengua del bot ja és el {WHITE_FLAG} Català.",
+    "language_selected": "{HEAVY_CHECK_MARK} S'ha configurat la llengua al {FLAG_FOR_CATALONIA_ES_CT} Català.",
+    "same_language_selected": "{THINKING_FACE} La llengua del bot ja és el {FLAG_FOR_CATALONIA_ES_CT} Català.",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *S'està processant el vídeo...*",
     "download_canceled": [
         "{CROSS_MARK} *S'ha cancel·lat la baixada.\\n",
@@ -216,7 +216,7 @@
     "month_11": "de novembre",
     "month_12": "de desembre",
     "start_button": "{CHEQUERED_FLAG} Inicia",
-    "language_button": "{WHITE_FLAG} Català",
+    "language_button": "{FLAG_FOR_CATALONIA_ES_CT} Català",
     "file_info_button": "{PAGE_WITH_CURL} Informació",
     "share_button": "{RIGHT_ARROW_CURVING_UP} Comparteix...",
     "faq_button": "{BAR_CHART} PMF",

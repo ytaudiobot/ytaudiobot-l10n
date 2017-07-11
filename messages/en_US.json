@@ -78,8 +78,8 @@
         "{GLOBE_WITH_MERIDIANS} *Language*\\n\\n",
         "Select your language."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} Language set in {FLAG_FOR_UNITED_STATES} English.",
-    "same_language_selected": "{THINKING_FACE} Bot's language is already in {FLAG_FOR_UNITED_STATES} English",
+    "language_selected": "{HEAVY_CHECK_MARK} Language set in {UNITED_STATES} English.",
+    "same_language_selected": "{THINKING_FACE} Bot's language is already in {UNITED_STATES} English",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *Video processing in progress...*",
     "download_canceled": [
         "{CROSS_MARK} *Download canceled.\\n",
@@ -221,7 +221,7 @@
     "month_11": "November",
     "month_12": "December",
     "start_button": "{CHEQUERED_FLAG} Start",
-    "language_button": "{FLAG_FOR_UNITED_STATES} English",
+    "language_button": "{UNITED_STATES} English",
     "file_info_button": "{PAGE_WITH_CURL} File info",
     "share_button": "{RIGHT_ARROW_CURVING_UP} Share",
     "faq_button": "{BAR_CHART} FAQ",
