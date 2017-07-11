@@ -203,6 +203,11 @@
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
+    "donate": [
+        "{WRAPPED_GIFT} *Donate*\\n\\n",
+        "*YTAudioBot is free, but powered by your love and support!*\\n\\n",
+        "If you really like the bot, consider a donation so it can continue to exist for free."
+    ],
     "month_1": "January",
     "month_2": "February",
     "month_3": "March",
@@ -252,6 +257,8 @@
     "contribute_button": "{BUST_IN_SILHOUETTE} Contribute",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Contributors",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Open project",
+    "donate_button": "{WRAPPED_GIFT} Donate",
+    "donate_with_paypal_button": "{P_BUTTON} Donate with PayPal",
     "search_item_template": [
         "{HEADPHONE} *{title}*\\n",
         "{BUST_IN_SILHOUETTE} _{channel}_\\n",
