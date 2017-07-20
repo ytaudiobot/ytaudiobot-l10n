@@ -205,8 +205,10 @@
     ],
     "donate": [
         "{WRAPPED_GIFT} *Donate*\\n\\n",
-        "*YTAudioBot is free, but powered by your love and support!*\\n\\n",
-        "If you really like the bot, consider a donation so it can continue to exist for free."
+        "*Thanks for wanting to help!*\\n\\n",
+        "YTAudioBot is completely free, but powered by your love and support!\\n\\n",
+        "If you really like this bot, consider a [donation](https://paypal.me/delivrance/5) ",
+        "to support development, maintenance and servers costs."
     ],
     "month_1": "January",
     "month_2": "February",
