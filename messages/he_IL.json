@@ -35,7 +35,7 @@
         "תלחץ {command} על מנת להוריד שוב."
     ],
     "file_info": [
-        "{PAGE_WITH_CURL} עוד מידע\\n\\n",
+        "{PAGE_WITH_CURL} אודות הקובץ\\n\\n",
         "{SMALL_ORANGE_DIAMOND} זיהוי הסרטון: {video_id}\\n",
         "{SMALL_ORANGE_DIAMOND} משך: {duration}\\n",
         "{SMALL_ORANGE_DIAMOND} גודל: {file_size} MB\\n",
@@ -217,8 +217,8 @@
     "month_12": "דצמבר",
     "start_button": "{CHEQUERED_FLAG} התחל",
     "language_button": "{ISRAEL} עברית",
-    "file_info_button": "{PAGE_WITH_CURL} עוד מידע",
-    "share_button": "{RIGHT_ARROW_CURVING_UP} שלח אל...",
+    "file_info_button": "{PAGE_WITH_CURL} אודות הקובץ",
+    "share_button": "{RIGHT_ARROW_CURVING_UP} שתף",
     "faq_button": "{BAR_CHART} שו\\\"ת",
     "like_button": "{THUMBS_UP} אהבתי!",
     "not_really_button": "{THINKING_FACE} לא ממש",
