@@ -78,8 +78,8 @@
         "{GLOBE_WITH_MERIDIANS} *Ngôn ngữ*\\n\\n",
         "Vui lòng chọn ngôn ngữ."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} Ngôn ngữ cài đặt cho {VIETNAM} Việt Nam.",
-    "same_language_selected": "{THINKING_FACE} Ngôn ngữ của bot hiện đã là {VIETNAM} Việt Nam",
+    "language_selected": "{HEAVY_CHECK_MARK} Ngôn ngữ cài đặt cho {VIETNAM} Vietnamese.",
+    "same_language_selected": "{THINKING_FACE} Ngôn ngữ của bot hiện đã là {VIETNAM} Vietnamese",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *Video đang xử lý...*",
     "download_canceled": [
         "{CROSS_MARK} *Đã hủy tải về.\\n",
@@ -203,7 +203,13 @@
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
-    "donate": null,
+    "donate": [
+        "{WRAPPED_GIFT} *Đóng góp*\\n\\n",
+        "*Cám ơn bạn vì đã giúp đỡ!*\\n\\n",
+        "YTAudioBot hoàn toàn miễn phí, nhưng được hỗ trợ bằng tình yêu và sự đóng góp!\\n\\n",
+        "Nếu bạn thực sự thích bot của chúng tôi, bạn có thể xem xét [đóng góp](https://paypal.me/delivrance/5) ",
+        "để hỗ trợ lập trình viên, bảo trì và máy chủ lưu trữ."
+    ],
     "month_1": "Tháng một",
     "month_2": "Tháng hai",
     "month_3": "Tháng ba",
@@ -217,7 +223,7 @@
     "month_11": "Tháng mười một",
     "month_12": "Tháng mười hai",
     "start_button": "{CHEQUERED_FLAG} Bắt đầu",
-    "language_button": "{VIETNAM} Việt Nam",
+    "language_button": "{VIETNAM} Vietnamese",
     "file_info_button": "{PAGE_WITH_CURL} Thông tin tệp",
     "share_button": "{RIGHT_ARROW_CURVING_UP} Chia sẻ",
     "faq_button": "{BAR_CHART} FAQ",
@@ -253,8 +259,8 @@
     "contribute_button": "{BUST_IN_SILHOUETTE} Góp phần",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Cộng tác viên",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Mở project",
-    "donate_button": null,
-    "donate_with_paypal_button": null,
+    "donate_button": "{WRAPPED_GIFT} Đóng góp",
+    "donate_with_paypal_button": "{P_BUTTON} Đóng góp bằng PayPal",
     "search_item_template": [
         "{HEADPHONE} *{title}*\\n",
         "{BUST_IN_SILHOUETTE} _{channel}_\\n",
