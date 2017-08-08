@@ -30,7 +30,7 @@ Language | Contributors | Translated
 :ru: **Русский** ([ru_RU](messages/ru_RU.json)) | [Rakleed](//github.com/Rakleed) | [**97.58%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
 :azerbaijan: **Azərbaycanca** ([az_AZ](messages/az_AZ.json)) | [Nazar Nasirzada](//github.com/nnasirzada) | [**97.58%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
 :poland: **Polski** ([pl_PL](messages/pl_PL.json)) | [Veleth](//github.com/veleth) | [**97.58%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
-**(WIP)** :vietnam: **Vietnamese** ([vi_VN](messages/vi_VN.json)) | [Thiều Quang Huy](//github.com/abcd123huy) | [**97.58%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
+**(WIP)** :vietnam: **Việt Nam** ([vi_VN](messages/vi_VN.json)) | [Thiều Quang Huy](//github.com/abcd123huy) | [**97.58%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
 
 > Add yourself here once you submit your translations
 
