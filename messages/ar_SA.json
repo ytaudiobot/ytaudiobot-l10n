@@ -200,6 +200,7 @@
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
+    "donate": null,
     "month_1": "يناير",
     "month_2": "فبراير",
     "month_3": "مارس",
@@ -249,6 +250,8 @@
     "contribute_button": "{BUST_IN_SILHOUETTE} ساهم",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} المساهمون",
     "open_project_button": "{CARD_INDEX_DIVIDERS} فتح مشروع",
+    "donate_button": null,
+    "donate_with_paypal_button": null,
     "search_item_template": [
         "{HEADPHONE} *{title}*\\n",
         "{BUST_IN_SILHOUETTE} _{channel}_\\n",

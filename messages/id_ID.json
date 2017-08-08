@@ -203,6 +203,7 @@
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
+    "donate": null,
     "month_1": "Januari",
     "month_2": "Februari",
     "month_3": "Maret",
@@ -252,6 +253,8 @@
     "contribute_button": "{BUST_IN_SILHOUETTE} Kontribusi",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Kontributor",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Buka proyek",
+    "donate_button": null,
+    "donate_with_paypal_button": null,
     "search_item_template": [
         "{HEADPHONE} *{title}*\\n",
         "{BUST_IN_SILHOUETTE} _{channel}_\\n",

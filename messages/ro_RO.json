@@ -192,6 +192,7 @@
     ],
     "contribute": null,
     "contributors": null,
+    "donate": null,
     "month_1": "ianuarie",
     "month_2": "februarie",
     "month_3": "martie",
@@ -241,6 +242,8 @@
     "contribute_button": null,
     "contributors_button": null,
     "open_project_button": null,
+    "donate_button": null,
+    "donate_with_paypal_button": null,
     "search_item_template": [
         "{HEADPHONE} *{title}*\\n",
         "{BUST_IN_SILHOUETTE} _{channel}_\\n",

@@ -203,6 +203,7 @@
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
+    "donate": null,
     "month_1": "Tháng một",
     "month_2": "Tháng hai",
     "month_3": "Tháng ba",
@@ -252,6 +253,8 @@
     "contribute_button": "{BUST_IN_SILHOUETTE} Góp phần",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Cộng tác viên",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Mở project",
+    "donate_button": null,
+    "donate_with_paypal_button": null,
     "search_item_template": [
         "{HEADPHONE} *{title}*\\n",
         "{BUST_IN_SILHOUETTE} _{channel}_\\n",
