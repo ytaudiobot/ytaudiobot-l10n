@@ -34,17 +34,20 @@
         "{WARNING} *Tiedosto vanhentunut*\\n\\n",
         "Paina {command} ladataksesi sen uudelleen."
     ],
-    "more_info": "{PAGE_WITH_CURL} Lisätietoja",
-    "video_id": "{SMALL_ORANGE_DIAMOND} Videon ID",
-    "duration": "{SMALL_ORANGE_DIAMOND} Pituus",
-    "size": "{SMALL_ORANGE_DIAMOND} Koko",
+    "file_info": [
+        "{PAGE_WITH_CURL} Lisätietoja\\n\\n",
+        "{SMALL_ORANGE_DIAMOND} Videon ID: {video_id}\\n",
+        "{SMALL_ORANGE_DIAMOND} Pituus: {duration}\\n",
+        "{SMALL_ORANGE_DIAMOND} Koko: {file_size} MB\\n",
+        "{SMALL_ORANGE_DIAMOND} SHA256: {sha256_sum}"
+    ],
     "listen_on_youtube": "{LINK} [Kuuntele YouTubessa](https://youtu.be/{video_id})",
     "like": [
         "{SPARKLES} *Kiitos, {name}!*\\n\\n",
         "Olemme iloisia kuullessamme tämän.\\n\\n",
         "Voit arvostella botin ja antaa\\n",
         "5 tähteä {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} täällä:\\n",
-        "https://telegram.me/storebot?start=YTAudioBot"
+        "https://t.me/storebot?start=YTAudioBot"
     ],
     "dislike": [
         "{PENSIVE_FACE} *Ikävä kuulla siitä, {name}.*\\n\\n",
@@ -75,8 +78,8 @@
         "{GLOBE_WITH_MERIDIANS} *Kieli*\\n\\n",
         "Valitse haluamasi kieli."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} Kieleksi vaihdettu {FLAG_FOR_FINLAND} Suomi.",
-    "same_language_selected": "{THINKING_FACE} Botin kieli on jo {FLAG_FOR_FINLAND} Suomi",
+    "language_selected": "{HEAVY_CHECK_MARK} Kieleksi vaihdettu {FINLAND} Suomi.",
+    "same_language_selected": "{THINKING_FACE} Botin kieli on jo {FINLAND} Suomi",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *Videon prosessointi käynnissä...*",
     "download_canceled": [
         "{CROSS_MARK} *Lataus peruutettu.\\n",
@@ -200,6 +203,7 @@
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
+    "donate": null,
     "month_1": "tammikuu",
     "month_2": "helmikuu",
     "month_3": "maaliskuu",
@@ -213,9 +217,9 @@
     "month_11": "marraskuu",
     "month_12": "joulukuu",
     "start_button": "{CHEQUERED_FLAG} Aloita",
-    "language_button": "{FLAG_FOR_FINLAND} Suomi",
-    "more_info_button": "{PAGE_WITH_CURL} Lisätietoa",
-    "send_to_button": "{OUTBOX_TRAY} Lähetä kohteeseen...",
+    "language_button": "{FINLAND} Suomi",
+    "file_info_button": "{PAGE_WITH_CURL} Lisätietoa",
+    "share_button": "{RIGHT_ARROW_CURVING_UP} Lähetä kohteeseen...",
     "faq_button": "{BAR_CHART} UKK",
     "like_button": "{THUMBS_UP} Pidän siitä!",
     "not_really_button": "{THINKING_FACE} En oikeastaan",
@@ -248,5 +252,29 @@
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Jatka",
     "contribute_button": "{BUST_IN_SILHOUETTE} Avusta",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Avustajat",
-    "open_project_button": "{CARD_INDEX_DIVIDERS} Avaa projekti"
+    "open_project_button": "{CARD_INDEX_DIVIDERS} Avaa projekti",
+    "donate_button": null,
+    "donate_with_paypal_button": null,
+    "search_item_template": [
+        "{HEADPHONE} *{title}*\\n",
+        "{BUST_IN_SILHOUETTE} _{channel}_\\n",
+        "{EYE} {view_count} {THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
+        "{clock} {duration}: /dl\\_{encoded_video_id}\\n\\n"
+    ],
+    "extract_item_template": [
+        "{HEADPHONE} [{title}](https://youtu.be/{video_id})\\n",
+        "{BUST_IN_SILHOUETTE} *{uploader}* ([{uploader_id}](https://youtube.com/user/{uploader_id}))\\n",
+        "{EYE} {view_count}\\n",
+        "{THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
+        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
+    ],
+    "history_item_template": [
+        "{HEADPHONE} *{index}.* {performer} - *{title}*\\n",
+        "_{natural_relative_time}_\\n\\n"
+    ],
+    "history_details_item_template": [
+        "{listen_on_youtube}\\n",
+        "{HEADPHONE} {performer} - *{title}*\\n",
+        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
+    ]
 }

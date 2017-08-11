@@ -34,17 +34,20 @@
         "{WARNING} *انتهت صلاحية الملف*\\n\\n",
         "اضغط على {command} لإعادة التحميل مجدداً."
     ],
-    "more_info": "{PAGE_WITH_CURL} مزيد من المعلومات",
-    "video_id": "{SMALL_ORANGE_DIAMOND} معرف الفيديو في يوتيوب",
-    "duration": "{SMALL_ORANGE_DIAMOND} المدة",
-    "size": "{SMALL_ORANGE_DIAMOND} الحجم",
+    "file_info": [
+        "{PAGE_WITH_CURL} مزيد من المعلومات\\n\\n",
+        "{SMALL_ORANGE_DIAMOND} معرف الفيديو في يوتيوب: {video_id}\\n",
+        "{SMALL_ORANGE_DIAMOND} المدة: {duration}\\n",
+        "{SMALL_ORANGE_DIAMOND} الحجم: {file_size} MB\\n",
+        "{SMALL_ORANGE_DIAMOND} SHA256: {sha256_sum}"
+    ],
     "listen_on_youtube": "{LINK} [استمع في يوتيوب](https://youtu.be/{video_id})",
     "like": [
         "{SPARKLES} *شكراً, {name}!*\\n\\n",
         "اننا سعداء لإعجابكم.\\n\\n",
         "يمكنك تقييم البوت واعطائنا\\n",
         "5 نجمات {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} هنا:\\n",
-        "https://telegram.me/storebot?start=YTAudioBot"
+        "https://t.me/storebot?start=YTAudioBot"
     ],
     "dislike": [
         "{PENSIVE_FACE} *نعتذر منكم لسماع هذا, {name}.*\\n\\n",
@@ -75,8 +78,8 @@
         "{GLOBE_WITH_MERIDIANS} *اللغة*\\n\\n",
         "اختر اللغة."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} تم ضبط اللغة لـ {FLAG_FOR_SAUDI_ARABIA} العربية.",
-    "same_language_selected": "{THINKING_FACE} لغة البوت هي بالفعل {FLAG_FOR_SAUDI_ARABIA} العربية",
+    "language_selected": "{HEAVY_CHECK_MARK} تم ضبط اللغة لـ {SAUDI_ARABIA} العربية.",
+    "same_language_selected": "{THINKING_FACE} لغة البوت هي بالفعل {SAUDI_ARABIA} العربية",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *جار معالجة الفيديو...*",
     "download_canceled": [
         "{CROSS_MARK} *تم الغاء التحميل.\\n",
@@ -197,6 +200,7 @@
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
+    "donate": null,
     "month_1": "يناير",
     "month_2": "فبراير",
     "month_3": "مارس",
@@ -210,9 +214,9 @@
     "month_11": "نوفمبر",
     "month_12": "ديسمبر",
     "start_button": "{CHEQUERED_FLAG} إبدأ",
-    "language_button": "{FLAG_FOR_SAUDI_ARABIA} العربية",
-    "more_info_button": "{PAGE_WITH_CURL} مزيد من المعلومات",
-    "send_to_button": "{OUTBOX_TRAY} إرسال إلى...",
+    "language_button": "{SAUDI_ARABIA} العربية",
+    "file_info_button": "{PAGE_WITH_CURL} مزيد من المعلومات",
+    "share_button": "{RIGHT_ARROW_CURVING_UP} إرسال إلى...",
     "faq_button": "{BAR_CHART} الأسئلة المتكررة",
     "like_button": "{THUMBS_UP} بالتأكيد!",
     "not_really_button": "{THINKING_FACE} ليس تماما",
@@ -245,5 +249,29 @@
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} استئناف",
     "contribute_button": "{BUST_IN_SILHOUETTE} ساهم",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} المساهمون",
-    "open_project_button": "{CARD_INDEX_DIVIDERS} فتح مشروع"
+    "open_project_button": "{CARD_INDEX_DIVIDERS} فتح مشروع",
+    "donate_button": null,
+    "donate_with_paypal_button": null,
+    "search_item_template": [
+        "{HEADPHONE} *{title}*\\n",
+        "{BUST_IN_SILHOUETTE} _{channel}_\\n",
+        "{EYE} {view_count} {THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
+        "{clock} {duration}: /dl\\_{encoded_video_id}\\n\\n"
+    ],
+    "extract_item_template": [
+        "{HEADPHONE} [{title}](https://youtu.be/{video_id})\\n",
+        "{BUST_IN_SILHOUETTE} *{uploader}* ([{uploader_id}](https://youtube.com/user/{uploader_id}))\\n",
+        "{EYE} {view_count}\\n",
+        "{THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
+        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
+    ],
+    "history_item_template": [
+        "{HEADPHONE} *{index}.* {performer} - *{title}*\\n",
+        "_{natural_relative_time}_\\n\\n"
+    ],
+    "history_details_item_template": [
+        "{listen_on_youtube}\\n",
+        "{HEADPHONE} {performer} - *{title}*\\n",
+        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
+    ]
 }

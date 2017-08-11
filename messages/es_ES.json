@@ -2,7 +2,7 @@
     "position": 2,
     "right_to_left": false,
     "description": [
-        "¡Descarga vídeos de YouTube como archivos de audio para llevar siempre contigo!\\n\\n",
+        "¡Descarga archivos de audio de vídeos de YouTube y llévalos siempre contigo!\\n\\n",
         "Mirror: @YTAudio_Bot"
     ],
     "type_search_terms": "{MEMO} Escribe tus términos de búsqueda",
@@ -34,17 +34,20 @@
         "{WARNING} *Archivo caducado*\\n\\n",
         "Toca {command} para volver a descargar."
     ],
-    "more_info": "{PAGE_WITH_CURL} Más información",
-    "video_id": "{SMALL_ORANGE_DIAMOND} ID",
-    "duration": "{SMALL_ORANGE_DIAMOND} Duración",
-    "size": "{SMALL_ORANGE_DIAMOND} Tamaño",
+    "file_info": [
+        "{PAGE_WITH_CURL} Más información\\n\\n",
+        "{SMALL_ORANGE_DIAMOND} ID: {video_id}\\n",
+        "{SMALL_ORANGE_DIAMOND} Duración: {duration}\\n",
+        "{SMALL_ORANGE_DIAMOND} Tamaño: {file_size} MB\\n",
+        "{SMALL_ORANGE_DIAMOND} SHA256: {sha256_sum}"
+    ],
     "listen_on_youtube": "{LINK} [Escuchar en YouTube](https://youtu.be/{video_id})",
     "like": [
         "{SPARKLES} *¡Gracias, {name}!*\\n\\n",
         "Nos alegramos de que te guste.\\n\\n",
         "Puedes valorar el bot con\\n",
         "5 estrellas {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} aquí:\\n",
-        "https://telegram.me/storebot?start=YTAudioBot"
+        "https://t.me/storebot?start=YTAudioBot"
     ],
     "dislike": [
         "{PENSIVE_FACE} *Sentimos oír eso, {name}.*\\n\\n",
@@ -69,14 +72,14 @@
     "flood_wait": "{WARNING} *¡No tan rápido! Espera {0 segundos|un segundo|# segundos} y reinténtalo.*",
     "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} *Buscando por \\\"*{terms}*\\\"...*",
     "video_not_available": "{PENSIVE_FACE} *Lo sentimos, este vídeo no está disponible en estos momentos. Reinténtalo más tarde.*",
-    "size_limit_exceeded": "{PENSIVE_FACE} *Lo sentimos, este video excede el límite de tamaño. Reinténtalo con otro.*",
+    "size_limit_exceeded": "{PENSIVE_FACE} *Lo sentimos, este vídeo excede el límite de tamaño. Reinténtalo con otro.*",
     "api_error": "{PENSIVE_FACE} *Lo sentimos, la operación solicitada no puede ser realizada en estos momentos. Reinténtalo más tarde.*",
     "select_language": [
         "{GLOBE_WITH_MERIDIANS} *Idioma*\\n\\n",
         "Elige tu idioma."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} Idioma configurado en {FLAG_FOR_SPAIN} Español.",
-    "same_language_selected": "{THINKING_FACE} El idioma del bot ya está en {FLAG_FOR_SPAIN} Español",
+    "language_selected": "{HEAVY_CHECK_MARK} Idioma configurado en {SPAIN} Español.",
+    "same_language_selected": "{THINKING_FACE} El idioma del bot ya está en {SPAIN} Español",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *Procesando vídeo...*",
     "download_canceled": [
         "{CROSS_MARK} *Descarga cancelada.\\n",
@@ -107,8 +110,8 @@
     ],
     "help_3": [
         "{OPEN_BOOK} *Ayuda (3 de 4)*\\n\\n",
-        "Una vez obtenida la URL, envíamela.\\n\\n",
-        "Si el vídeo ya ha sido descargado por otro usuario, se te enviará de inmediato, ",
+        "Una vez tengas la URL, envíamela.\\n\\n",
+        "Si el vídeo ya ha sido descargado por otro usuario, se te enviará inmediatamente, ",
         "si no, aparecerá el botón {INBOX_TRAY} *Descargar*. Tócalo, tu archivo de audio estará disponible ",
         "poco después."
     ],
@@ -119,7 +122,7 @@
     ],
     "tip_1": [
         "{LIGHT_BULB} *Consejo (1 de 2)*\\n\\n",
-        "También puedes enviarme sólo el ID del vídeo, como este:\\n\\n",
+        "También puedes enviarme solo el ID del vídeo, como este:\\n\\n",
         "— `SMWi7CLoZ2Q`."
     ],
     "tip_2": [
@@ -128,7 +131,7 @@
     ],
     "hi": "{SPARKLES} *¡Hola, {name}!*",
     "presentation": [
-        "*Con *[YTAudioBot](https://ytaudiobot.ml)*, puedes descargar vídeos de YouTube como archivos de audio para llevar ",
+        "*Con *[YTAudioBot](https://ytaudiobot.ml)*, puedes descargar archivos de audio de vídeos de YouTube para llevarlos ",
         "siempre contigo.*"
     ],
     "feedback": [
@@ -147,7 +150,7 @@
     ],
     "settings": [
         "{GEAR} *Ajustes*\\n\\n",
-        "{NEWSPAPER} *Acerca de* - Info. sobre el bot\\n",
+        "{NEWSPAPER} *Acerca de* - Información\\n",
         "{BAR_CHART} *FAQ* - Preguntas frecuentes\\n",
         "{GLOBE_WITH_MERIDIANS} *Idioma* - Cambiar idioma\\n",
         "{SPEECH_BALLOON} *Feedback* - Enviar comentarios"
@@ -190,7 +193,7 @@
     "contribute": [
         "{FOLDED_HANDS} *Ayudar a traducir*\\n\\n",
         "¡{name}! Si quieres que @YTAudioBot hable en tu idioma, o quieres mejorar una traducción existente, ¡puedes ayudarnos!\\n\\n",
-        "Hemos elaborado una guía sólo para esto, [aquí](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
+        "Hemos elaborado una guía solo para esto, [aquí](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
         "Se requiere tener conocimiento del idioma inglés.\\n\\n",
         "¡Nuevos idiomas y mejoras son bienvenidas! ¡Únete a nosotros, se agradece toda ayuda!"
     ],
@@ -200,6 +203,7 @@
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
+    "donate": null,
     "month_1": "enero",
     "month_2": "febrero",
     "month_3": "marzo",
@@ -213,9 +217,9 @@
     "month_11": "noviembre",
     "month_12": "diciembre",
     "start_button": "{CHEQUERED_FLAG} Iniciar",
-    "language_button": "{FLAG_FOR_SPAIN} Español",
-    "more_info_button": "{PAGE_WITH_CURL} Más información",
-    "send_to_button": "{OUTBOX_TRAY} Enviar a...",
+    "language_button": "{SPAIN} Español",
+    "file_info_button": "{PAGE_WITH_CURL} Información",
+    "share_button": "{RIGHT_ARROW_CURVING_UP} Compartir",
     "faq_button": "{BAR_CHART} FAQ",
     "like_button": "{THUMBS_UP} ¡Me gusta!",
     "not_really_button": "{THINKING_FACE} No mucho",
@@ -248,5 +252,29 @@
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Reanudar",
     "contribute_button": "{BUST_IN_SILHOUETTE} Contribuir",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Contribuidores",
-    "open_project_button": "{CARD_INDEX_DIVIDERS} Abrir proyecto"
+    "open_project_button": "{CARD_INDEX_DIVIDERS} Ver proyecto",
+    "donate_button": null,
+    "donate_with_paypal_button": null,
+    "search_item_template": [
+        "{HEADPHONE} *{title}*\\n",
+        "{BUST_IN_SILHOUETTE} _{channel}_\\n",
+        "{EYE} {view_count} {THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
+        "{clock} {duration}: /dl\\_{encoded_video_id}\\n\\n"
+    ],
+    "extract_item_template": [
+        "{HEADPHONE} [{title}](https://youtu.be/{video_id})\\n",
+        "{BUST_IN_SILHOUETTE} *{uploader}* ([{uploader_id}](https://youtube.com/user/{uploader_id}))\\n",
+        "{EYE} {view_count}\\n",
+        "{THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
+        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
+    ],
+    "history_item_template": [
+        "{HEADPHONE} *{index}.* {performer} - *{title}*\\n",
+        "_{natural_relative_time}_\\n\\n"
+    ],
+    "history_details_item_template": [
+        "{listen_on_youtube}\\n",
+        "{HEADPHONE} {performer} - *{title}*\\n",
+        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
+    ]
 }

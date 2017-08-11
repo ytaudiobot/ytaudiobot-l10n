@@ -34,17 +34,20 @@
         "{WARNING} *הקובץ פג תוקף*\\n\\n",
         "תלחץ {command} על מנת להוריד שוב."
     ],
-    "more_info": "{PAGE_WITH_CURL} עוד מידע",
-    "video_id": "{SMALL_ORANGE_DIAMOND} זיהוי הסרטון",
-    "duration": "{SMALL_ORANGE_DIAMOND} משך",
-    "size": "{SMALL_ORANGE_DIAMOND} גודל",
+    "file_info": [
+        "{PAGE_WITH_CURL} אודות הקובץ\\n\\n",
+        "{SMALL_ORANGE_DIAMOND} זיהוי הסרטון: {video_id}\\n",
+        "{SMALL_ORANGE_DIAMOND} משך: {duration}\\n",
+        "{SMALL_ORANGE_DIAMOND} גודל: {file_size} MB\\n",
+        "{SMALL_ORANGE_DIAMOND} SHA256: {sha256_sum}"
+    ],
     "listen_on_youtube": "{LINK} [הקשב ביוטיוב](https://youtu.be/{video_id})",
     "like": [
         "{SPARKLES} *תודה, {name}!*\\n\\n",
         "אנחנו שמחים שאהבת.\\n\\n",
         "אתה יכול לדרג את הבוט הזה\\n",
         "5 כוכבים {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} פה:\\n",
-        "https://telegram.me/storebot?start=YTAudioBot"
+        "https://t.me/storebot?start=YTAudioBot"
     ],
     "dislike": [
         "{PENSIVE_FACE} *אנחנו מצטערים לשמוע את זה, {name}.*\\n\\n",
@@ -75,8 +78,8 @@
         "{GLOBE_WITH_MERIDIANS} *שפה*\\n\\n",
         "בחר את השפה שלך."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} השפה שנבחרה היא {FLAG_FOR_ISRAEL} עברית.",
-    "same_language_selected": "{THINKING_FACE} השפה שנבחרה היא כבר {FLAG_FOR_ISRAEL} עברית",
+    "language_selected": "{HEAVY_CHECK_MARK} השפה שנבחרה היא {ISRAEL} עברית.",
+    "same_language_selected": "{THINKING_FACE} השפה שנבחרה היא כבר {ISRAEL} עברית",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *עיבוד הסרטון מתבצע...*",
     "download_canceled": [
         "{CROSS_MARK} *ההורדה בוטלה.\\n",
@@ -200,6 +203,7 @@
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
+    "donate": null,
     "month_1": "ינואר",
     "month_2": "פברואר",
     "month_3": "מרץ",
@@ -213,9 +217,9 @@
     "month_11": "נובמבר",
     "month_12": "דצמבר",
     "start_button": "{CHEQUERED_FLAG} התחל",
-    "language_button": "{FLAG_FOR_ISRAEL} עברית",
-    "more_info_button": "{PAGE_WITH_CURL} עוד מידע",
-    "send_to_button": "{OUTBOX_TRAY} שלח אל...",
+    "language_button": "{ISRAEL} עברית",
+    "file_info_button": "{PAGE_WITH_CURL} אודות הקובץ",
+    "share_button": "{RIGHT_ARROW_CURVING_UP} שתף",
     "faq_button": "{BAR_CHART} שו\\\"ת",
     "like_button": "{THUMBS_UP} אהבתי!",
     "not_really_button": "{THINKING_FACE} לא ממש",
@@ -248,5 +252,29 @@
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} המשך",
     "contribute_button": "{BUST_IN_SILHOUETTE} תרגם",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} מתרגמים",
-    "open_project_button": "{CARD_INDEX_DIVIDERS} פתח את הפרויקט"
+    "open_project_button": "{CARD_INDEX_DIVIDERS} פתח את הפרויקט",
+    "donate_button": null,
+    "donate_with_paypal_button": null,
+    "search_item_template": [
+        "{HEADPHONE} *{title}*\\n",
+        "{BUST_IN_SILHOUETTE} _{channel}_\\n",
+        "{EYE} {view_count} {THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
+        "{clock} {duration}: /dl\\_{encoded_video_id}\\n\\n"
+    ],
+    "extract_item_template": [
+        "{HEADPHONE} [{title}](https://youtu.be/{video_id})\\n",
+        "{BUST_IN_SILHOUETTE} *{uploader}* ([{uploader_id}](https://youtube.com/user/{uploader_id}))\\n",
+        "{EYE} {view_count}\\n",
+        "{THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
+        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
+    ],
+    "history_item_template": [
+        "{HEADPHONE} *{index}.* {performer} - *{title}*\\n",
+        "_{natural_relative_time}_\\n\\n"
+    ],
+    "history_details_item_template": [
+        "{listen_on_youtube}\\n",
+        "{HEADPHONE} {performer} - *{title}*\\n",
+        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
+    ]
 }

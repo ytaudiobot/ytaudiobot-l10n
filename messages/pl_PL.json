@@ -1,0 +1,280 @@
+{
+    "position": 21,
+    "right_to_left": false,
+    "description": [
+        "Pobieraj filmy z YouTube w formacie audio, by zawsze mieć je pod ręką!\\n\\n",
+        "Mirror: @YTAudio_Bot"
+    ],
+    "type_search_terms": "{MEMO} Wpisz poszukiwane hasło",
+    "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} Wyszukaj \\\"{terms}\\\" na YouTube",
+    "error": "{PENSIVE_FACE} Wystąpił błąd. Spróbuj ponownie później.",
+    "longer_download_time": "{WARNING} *Ten film może pobierać się dłużej niż zwykle! Pobieranie może się nie udać!*",
+    "clear_history_warning": "{WARNING} Za chwilę wyczyścisz całą historię!",
+    "history_settings": [
+        "{HOURGLASS} *Pobierz historię*\\n\\n",
+        "W twojej historii pobierania {jest jedna pozycja|są # pozycje|jest # pozycji}."
+    ],
+    "clear_history_confirmation": [
+        "{WASTEBASKET} *Wyczyść historię pobierania*\\n\\n",
+        "Na pewno chcesz usunąć całą historię pobierania? *Ta czynność jest nieodwracalna*"
+    ],
+    "added_seconds_ago": "Dodano {sekundę|# sekundy|# sekund} temu",
+    "added_minutes_ago": "Dodano {minutę|# minuty|# minut} temu",
+    "added_hours_ago": "Dodano {godzinę|# godziny|# godziny} temu",
+    "added_days_ago": "Dodano {dzień|# dni|# dni} temu",
+    "added_weeks_ago": "Dodano {tydzień|# tygodnie|# tygoodni} temu",
+    "added_months_ago": "Dodano {miesiąc|# miesiące|# miesięcy} temu",
+    "added_years_ago": "Dodano (rok|# lata|# lat} temu",
+    "item_removed": "{CROSS_MARK} Pozycja usunięta",
+    "item_restored": "{HEAVY_PLUS_SIGN} Pozycja przywrócona",
+    "download_history_paused": "{BALLOT_BOX_WITH_CHECK} Historia pobierania zatrzymana",
+    "download_history_resumed": "{WHITE_HEAVY_CHECK_MARK} Historia pobierania wznowiona",
+    "download_history_cleared": "{WASTEBASKET} Historia pobierania wyczyszczona",
+    "file_expired": [
+        "{WARNING} *Plik przedawniony*\\n\\n",
+        "Wciśnij {command}, aby pobrać ponownie."
+    ],
+    "file_info": [
+        "{PAGE_WITH_CURL} Informacje o pliku\\n\\n",
+        "{SMALL_ORANGE_DIAMOND} ID Pliku: {video_id}\\n",
+        "{SMALL_ORANGE_DIAMOND} Długość: {duration}\\n",
+        "{SMALL_ORANGE_DIAMOND} Rozmiar: {file_size} MB\\n",
+        "{SMALL_ORANGE_DIAMOND} SHA256: {sha256_sum}"
+    ],
+    "listen_on_youtube": "{LINK} [Słuchaj na YouTube](https://youtu.be/{video_id})",
+    "like": [
+        "{SPARKLES} *Dziękujemy, {name}!*\\n\\n",
+        "Cieszymy się, że lubisz naszego bota.\\n\\n",
+        "Możesz dać temu botowi\\n",
+        "5 gwiazdek {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} tutaj:\\n",
+        "https://telegram.me/storebot?start=YTAudioBot"
+    ],
+    "dislike": [
+        "{PENSIVE_FACE} *Przykro nam to słyszeć, {name}.*\\n\\n",
+        "Czy coś jest nie tak z botem? Proszę napisz do nas (po Angielsku lub Włosku):"
+    ],
+    "rating_message": [
+        "{WHITE_MEDIUM_STAR} *Oceń YTAudioBota*\\n\\n",
+        "{name}, podoba Ci się bot?\\n",
+        "Poświęć chwilę, by ocenić go na StoreBot."
+    ],
+    "rate_later": "{HOURGLASS} *W porządku, spytam się innym razem!*",
+    "rate_never": "{PILE_OF_POO} *W porządku, nigdy się już o to nie spytam*",
+    "send_feedback": [
+        "{MEMO} *Wyślij opinię*\\n\\n",
+        "Możesz zasugerować wprowadzenie zmian lub usprawnień, zgłosić błędy, lub po prostu wysłać swoją opinię do twórców bota ",
+        "(po Angielsku lub Włosku)."
+    ],
+    "sending_feedback_enabled": "{MEMO} Napisz swoją opinię",
+    "feedback_sent": "{HEAVY_CHECK_MARK} *Twoja wiadomość została wysłana, dziękujemy!*",
+    "showing_trending_results": "{FIRE} *Najpopularniejsze wyniki*\\n\\n",
+    "showing_youtube_results": "{RIGHT_POINTING_MAGNIFYING_GLASS} *Wyniki z YouTube dla \\\"*{terms}*\\\"*\\n\\n",
+    "flood_wait": "{WARNING} *Nie tak szybko! Zaczekaj {sekundę|# sekundy|# sekund} i spróbuj ponownie.*",
+    "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} *Szukam\\\"*{terms}*\\\"...*",
+    "video_not_available": "{PENSIVE_FACE} *Przepraszamy, ten film jest teraz niedostępny. Spróbuj ponownie później.*",
+    "size_limit_exceeded": "{PENSIVE_FACE} *Przepraszamy, ten film przekracza limit rozmiaru. Spróbuj pobrać inny.*",
+    "api_error": "{PENSIVE_FACE} *Przepraszamy, ta akcja nie może być teraz wyknonana. Spróbuj ponownie później.*",
+    "select_language": [
+        "{GLOBE_WITH_MERIDIANS} *Język*\\n\\n",
+        "Wybierz swój język."
+    ],
+    "language_selected": "{HEAVY_CHECK_MARK} Język ustawiony na {POLAND} Polski.",
+    "same_language_selected": "{THINKING_FACE} Język bota jest już ustawiony na {POLAND} Polski",
+    "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *Przetwarzanie filmu...*",
+    "download_canceled": [
+        "{CROSS_MARK} *Pobieranie przerwane.\\n",
+        "Wciśnij *{command}* aby pobrać ponownie.*"
+    ],
+    "download_error": [
+        "{PENSIVE_FACE} *Przepraszamy, wystąpił nagły błąd.\\n",
+        "Ponów próbę: *{command}*.*"
+    ],
+    "download_timeout": [
+        "{WARNING} *Pobieranie trwa dłużej niż 60 sekund.\\n",
+        "Możesz śmiało zażądać następnej pozycji, ta zostanie wysłana do Ciebie tak szybko jak to możliwe!*"
+    ],
+    "download_successful": "{HEAVY_CHECK_MARK} *Pozycja pobrana!*",
+    "wait_previous_download": "{WARNING} Zaczekaj aż poprzednia pozycja się pobierze!",
+    "download_queue_full": "{WARNING} Kolejka pobierania jest pełna. Spróbuj ponownie za chwilę",
+    "help_1": [
+        "{OPEN_BOOK} *Pomoc (1 z 4)*\\n\\n",
+        "Jedynym czego potrzebujesz jest adres URL filmu na YouTube, z którego dźwięk chcesz pobrać, na przykład:\\n\\n",
+        "— https://youtu.be/SMWi7CLoZ2Q."
+    ],
+    "help_2": [
+        "{OPEN_BOOK} *Pomoc (2 z 4)*\\n\\n",
+        "Jest wiele sposobów na znalezienie URL. Możesz na przykład:\\n\\n",
+        "— Użyć przycisku Udostępnij w aplikacji YouTube.\\n",
+        "— Użyć botów @vid lub @youtube.\\n",
+        "— Skopiować i wkleić link ze swojej przeglądarki."
+    ],
+    "help_3": [
+        "{OPEN_BOOK} *Pomoc (3 z 4)*\\n\\n",
+        "Jak już masz URL, wyślij go do mnie.\\n\\n",
+        "Jeżeli dana pozycja została już pobrana przez kogoś innego, zostanie do Ciebie bezzwłocznie wysłana, ",
+        "w innym wypadku przycisk {INBOX_TRAY} *Pobierz* pojawi się. Wciśnij go, a Twój plik audio po chwili ",
+        "będzie dostępny."
+    ],
+    "help_4": [
+        "{OPEN_BOOK} *Pomoc (4 z 4)*\\n\\n",
+        "Po otrzymaniu i pobraniu pozycji, możesz przycisnąć wiadomość audio i wybrać *Dodaj do muzyki* ",
+        "aby zapisać plik audio w folderze z muzyką swojego urządzenia."
+    ],
+    "tip_1": [
+        "{LIGHT_BULB} *Wskazówka (1 z 2)*\\n\\n",
+        "Możesz też wysłać mi po prostu ID filmu na YouTube, na przykład:\\n\\n",
+        "— `SMWi7CLoZ2Q`."
+    ],
+    "tip_2": [
+        "{LIGHT_BULB} *Wskazówka (2 z 2)*\\n\\n",
+        "Dołącz do kanału @YTAudio żeby być na bieżąco!"
+    ],
+    "hi": "{SPARKLES} *CZeść, {name}!*",
+    "presentation": [
+        "*Z *[YTAudioBot](https://ytaudiobot.ml)*, możesz pobrać filmy z YouTube w postaci plików audio i ",
+        "mieć je ze sobą gdziekolwiek pójdziesz.*"
+    ],
+    "feedback": [
+        "{SPEECH_BALLOON} *Napisz do nas*\\n\\n",
+        "Cześć, {name}! Lubisz YTAudioBota?"
+    ],
+    "about": [
+        "{NEWSPAPER} *O bocie*\\n\\n",
+        "*YTAudioBot dla Telegrama*\\n",
+        "{version} _{day} {month}, {year}_\\n\\n",
+        "{LOUDSPEAKER} *Kanał* - @YTAudio\\n",
+        "{LINK} *Strona* - https://ytaudiobot.ml\\n",
+        "{ENVELOPE} *E-Mail* - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
+        "{EYE} *Recenzje* - {WHITE_MEDIUM_STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
+        "{BUST_IN_SILHOUETTE} [{reviews_n}](https://storebot.me/bot/ytaudiobot)"
+    ],
+    "settings": [
+        "{GEAR} *Ustawienia*\\n\\n",
+        "{NEWSPAPER} *O bocie* - Informacje na temat bota\\n",
+        "{BAR_CHART} *FAQ* - Często zadawane pytania\\n",
+        "{GLOBE_WITH_MERIDIANS} *Język* - Zmień swój język\\n",
+        "{SPEECH_BALLOON} *Kontakt* - Wyślij swoje opinie lub sugestie"
+    ],
+    "faq_1": [
+        "{BAR_CHART} *Często zadawane pytania*\\n\\n",
+        "`P:` *1. Chcę wybrać format audio!*\\n",
+        "`Odp:` Zależy nam na jakości oraz wydajności usługi. ",
+        "Żeby dokonać konwersji w najwyższej jakości dostępnej na YouTube w jak najkrótszym czsie, wysyłamy jedynie ",
+        "pliki kodowane AAC 128k w kontenerze MPEG-4 część 14 (MP4) z rozszerzeniem M4A otagowany informacjami z iTunes. ",
+        "Ten wybór może ulec zmianie w przyszłości."
+    ],
+    "faq_2": [
+        "{BAR_CHART} *Często zadawane pytania*\\n\\n",
+        "`P:` *2. Co oznacza AAC/M4A?*\\n",
+        "`Odp:` AAC to format kodowania audio zaprojektowany, by zastąpić MP3. Generalnie ma lepszą jakość dźwięku ",
+        "niż MP3 przy podobnej ilości bitów na sekundę. M4A jest rozszerzeniem, także znanym jako kontener, ",
+        "zarówno pliku AAC, jak również tagów tego pliku."
+    ],
+    "faq_3": [
+        "{BAR_CHART} *Często zadawane pytania*\\n\\n",
+        "`P:` *3. Niektóre filmy nie działają!*\\n",
+        "`Odp:` Ze względu na ograniczenia terytorialne, niektóre filmy mogą być niedostępne dla naszego serwera. ",
+        "Dodatkowo, bot obsługuje pliki o rozmiarze do 50MB. Ten limit może zostać zmieniony w przyszłości. "
+    ],
+    "faq_4": [
+        "{BAR_CHART} *Często zadawane pytania*\\n\\n",
+        "`P:` *4. Dlaczego pliki mają dziwne nazwy?*\\n",
+        "`Odp:` Pliki są zapisane jako `Tytuł - IDFilmu.m4a`, jednakże `Tytuł` może nie być 100% zgodny z faktycznym tytułem ",
+        "filmu ze względu na obecność nieprawidłowych znaków. Przeważnie nie stanowi to problemu, gdyż wszystkie prawidłowe informacje ",
+        "na temat filmu są zawarte w tagach powstałego pliku audio."
+    ],
+    "faq_menu": [
+        "{BAR_CHART} *Często zadawane pytania*\\n\\n",
+        "*1.* Chcę wybrać format audio!\\n",
+        "*2.* Co oznacza AAC/M4A?\\n",
+        "*3.* Niektóre filmy nie działają!\\n",
+        "*4.* Dlaczego pliki mają dziwne nazwy?"
+    ],
+    "contribute": [
+        "{FOLDED_HANDS} *Pomóż w tłumaczeniu*\\n\\n",
+        "{name}! Jeśli chcesz, by @YTAudioBot mówił w Twoim języku lub chcesz poprawić istniejące już tłumaczenie, możesz nam pomóc!\\n\\n",
+        "Przygotowaliśmy do tego specjalną instrukcję, [tutaj](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
+        "Znajomość języka angielskiego jest niezbędna.\\n\\n",
+        "Chętnie widzimy nowe języki i usprawnienia! Przyłącz się do nas, każda pomoc jest akceptowana z wdzięcznością!"
+    ],
+    "contributors": [
+        "{BUSTS_IN_SILHOUETTE} *Tłumacze:*\\n\\n",
+        "{RED_HEART} Chcielibyśmy gorąco podziękować naszym ochotniczym tłumaczom:\\n\\n",
+        "{contributors}\\n\\n",
+        "— @YTAudioBot"
+    ],
+    "donate": null,
+    "month_1": "Stycznia",
+    "month_2": "Lutego",
+    "month_3": "Marca",
+    "month_4": "Kwietnia",
+    "month_5": "Maja",
+    "month_6": "Czerwca",
+    "month_7": "Lipica",
+    "month_8": "Sierpnia",
+    "month_9": "Września",
+    "month_10": "Października",
+    "month_11": "Listopada",
+    "month_12": "Grudnia",
+    "start_button": "{CHEQUERED_FLAG} Start",
+    "language_button": "{POLAND} Polski",
+    "file_info_button": "{PAGE_WITH_CURL} Informacje",
+    "share_button": "{RIGHT_ARROW_CURVING_UP} Udostępnij",
+    "faq_button": "{BAR_CHART} FAQ",
+    "like_button": "{THUMBS_UP} Ten bot jest super!",
+    "not_really_button": "{THINKING_FACE} Niezupełnie",
+    "send_feedback_button": "{MEMO} Skontaktuj się z nami",
+    "feedback_button": "{SPEECH_BALLOON} Kontakt",
+    "settings_button": "{GEAR} Ustawienia",
+    "select_language_button": "{GLOBE_WITH_MERIDIANS} Język",
+    "help_button": "{OPEN_BOOK} Pomoc",
+    "about_button": "{NEWSPAPER} O bocie",
+    "previous_button": "« Poprzednia",
+    "back_button": "« Powrót",
+    "next_button": "Następna »",
+    "cancel_button": "{CROSS_MARK} Anuluj",
+    "download_button": "{INBOX_TRAY} Pobierz",
+    "how_it_works_button": "{QUESTION_MARK} Jak to działa",
+    "rate_now_button": "{WHITE_MEDIUM_STAR} Oceń bota",
+    "later_button": "{HOURGLASS} Później",
+    "no_thanks_button": "{PILE_OF_POO} Nie, dziękuję",
+    "channel_button": "{LOUDSPEAKER} Kanał",
+    "website_button": "{LINK} Strona",
+    "email_button": "{ENVELOPE} E-Mail",
+    "ratings_button": "{EYE} Recenzje",
+    "help_translate_button": "{FOLDED_HANDS} Pomóż w tłumaczeniu",
+    "history_button": "{HOURGLASS} Historia",
+    "remove_button": "{CROSS_MARK} Usuń",
+    "restore_button": "{HEAVY_PLUS_SIGN} Przywróć",
+    "view_button": "{EYE} Wyświetl",
+    "clear_all_button": "{WASTEBASKET} Wyczyść",
+    "pause_button": "{BALLOT_BOX_WITH_CHECK} Zatrzymaj",
+    "resume_button": "{WHITE_HEAVY_CHECK_MARK} Wznów",
+    "contribute_button": "{BUST_IN_SILHOUETTE} Dołącz do nas!",
+    "contributors_button": "{BUSTS_IN_SILHOUETTE} Tłumacze",
+    "open_project_button": "{CARD_INDEX_DIVIDERS} Pokaż projekt",
+    "donate_button": null,
+    "donate_with_paypal_button": null,
+    "search_item_template": [
+        "{HEADPHONE} *{title}*\\n",
+        "{BUST_IN_SILHOUETTE} _{channel}_\\n",
+        "{EYE} {view_count} {THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
+        "{clock} {duration}: /dl\\_{encoded_video_id}\\n\\n"
+    ],
+    "extract_item_template": [
+        "{HEADPHONE} [{title}](https://youtu.be/{video_id})\\n",
+        "{BUST_IN_SILHOUETTE} *{uploader}* ([{uploader_id}](https://youtube.com/user/{uploader_id}))\\n",
+        "{EYE} {view_count}\\n",
+        "{THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
+        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
+    ],
+    "history_item_template": [
+        "{HEADPHONE} *{index}.* {performer} - *{title}*\\n",
+        "_{natural_relative_time}_\\n\\n"
+    ],
+    "history_details_item_template": [
+        "{listen_on_youtube}\\n",
+        "{HEADPHONE} {performer} - *{title}*\\n",
+        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
+    ]
+}

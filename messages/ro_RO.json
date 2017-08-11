@@ -34,17 +34,20 @@
         "{WARNING} *Fișier expirat*\\n\\n",
         "Apasă {command} pentru a descărca din nou."
     ],
-    "more_info": "{PAGE_WITH_CURL} Informații",
-    "video_id": "{SMALL_ORANGE_DIAMOND} ID clip",
-    "duration": "{SMALL_ORANGE_DIAMOND} Durată",
-    "size": "{SMALL_ORANGE_DIAMOND} Mărime",
+    "file_info": [
+        "{PAGE_WITH_CURL} Informații\\n\\n",
+        "{SMALL_ORANGE_DIAMOND} ID clip: {video_id}\\n",
+        "{SMALL_ORANGE_DIAMOND} Durată: {duration}\\n",
+        "{SMALL_ORANGE_DIAMOND} Mărime: {file_size} MB\\n",
+        "{SMALL_ORANGE_DIAMOND} SHA256: {sha256_sum}"
+    ],
     "listen_on_youtube": "{LINK} [Ascultă pe YouTube](https://youtu.be/{video_id})",
     "like": [
         "{SPARKLES} *Îți mulțumim, {name}!*\\n\\n",
         "Ne bucurăm că îți place.\\n\\n",
         "Poți să adaugi o recenzie, selectând\\n",
         "5 steluțe {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} aici:\\n",
-        "https://telegram.me/storebot?start=YTAudioBot"
+        "https://t.me/storebot?start=YTAudioBot"
     ],
     "dislike": [
         "{PENSIVE_FACE} *Ne pare rău să auzim asta, {name}.*\\n\\n",
@@ -75,8 +78,8 @@
         "{GLOBE_WITH_MERIDIANS} *Limbă*\\n\\n",
         "Selectează limba."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} Limba a fost setată în {FLAG_FOR_ROMANIA} Română.",
-    "same_language_selected": "{THINKING_FACE} Limba este deja setată în {FLAG_FOR_ROMANIA} Română.",
+    "language_selected": "{HEAVY_CHECK_MARK} Limba a fost setată în {ROMANIA} Română.",
+    "same_language_selected": "{THINKING_FACE} Limba este deja setată în {ROMANIA} Română.",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *Se procesează clip-ul...*",
     "download_canceled": [
         "{CROSS_MARK} *Descărcare anulată.\\n",
@@ -189,6 +192,7 @@
     ],
     "contribute": null,
     "contributors": null,
+    "donate": null,
     "month_1": "ianuarie",
     "month_2": "februarie",
     "month_3": "martie",
@@ -202,9 +206,9 @@
     "month_11": "noiembrie",
     "month_12": "decembrie",
     "start_button": "{CHEQUERED_FLAG} Start",
-    "language_button": "{FLAG_FOR_ROMANIA} Română",
-    "more_info_button": "{PAGE_WITH_CURL} Informații",
-    "send_to_button": "{OUTBOX_TRAY} Trimite către...",
+    "language_button": "{ROMANIA} Română",
+    "file_info_button": "{PAGE_WITH_CURL} Informații",
+    "share_button": "{RIGHT_ARROW_CURVING_UP} Trimite către...",
     "faq_button": "{BAR_CHART} FAQ",
     "like_button": "{THUMBS_UP} Îmi place!",
     "not_really_button": "{THINKING_FACE} Nu chiar",
@@ -237,5 +241,29 @@
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Reia",
     "contribute_button": null,
     "contributors_button": null,
-    "open_project_button": null
+    "open_project_button": null,
+    "donate_button": null,
+    "donate_with_paypal_button": null,
+    "search_item_template": [
+        "{HEADPHONE} *{title}*\\n",
+        "{BUST_IN_SILHOUETTE} _{channel}_\\n",
+        "{EYE} {view_count} {THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
+        "{clock} {duration}: /dl\\_{encoded_video_id}\\n\\n"
+    ],
+    "extract_item_template": [
+        "{HEADPHONE} [{title}](https://youtu.be/{video_id})\\n",
+        "{BUST_IN_SILHOUETTE} *{uploader}* ([{uploader_id}](https://youtube.com/user/{uploader_id}))\\n",
+        "{EYE} {view_count}\\n",
+        "{THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
+        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
+    ],
+    "history_item_template": [
+        "{HEADPHONE} *{index}.* {performer} - *{title}*\\n",
+        "_{natural_relative_time}_\\n\\n"
+    ],
+    "history_details_item_template": [
+        "{listen_on_youtube}\\n",
+        "{HEADPHONE} {performer} - *{title}*\\n",
+        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
+    ]
 }

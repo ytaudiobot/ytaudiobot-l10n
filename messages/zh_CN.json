@@ -34,17 +34,20 @@
         "{WARNING} *文件已过期*\\n\\n",
         "点击 {command} 重新下载。"
     ],
-    "more_info": "{PAGE_WITH_CURL} 详细信息",
-    "video_id": "{SMALL_ORANGE_DIAMOND} 视频ID",
-    "duration": "{SMALL_ORANGE_DIAMOND} 时间长度",
-    "size": "{SMALL_ORANGE_DIAMOND} 文件大小",
+    "file_info": [
+        "{PAGE_WITH_CURL} 详细信息\\n\\n",
+        "{SMALL_ORANGE_DIAMOND} 视频ID: {video_id}\\n",
+        "{SMALL_ORANGE_DIAMOND} 时间长度: {duration}\\n",
+        "{SMALL_ORANGE_DIAMOND} 文件大小: {file_size} MB\\n",
+        "{SMALL_ORANGE_DIAMOND} SHA256: {sha256_sum}"
+    ],
     "listen_on_youtube": "{LINK} [在YouTube中播放](https://youtu.be/{video_id})",
     "like": [
         "{SPARKLES} *多谢，{name}!*\\n\\n",
         "很高兴你喜欢我们的工作\\n\\n",
         "你可以评论这个机器人并且给予\\n",
         "我们5星{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}点击这里：\\n",
-        "https://telegram.me/storebot?start=YTAudioBot"
+        "https://t.me/storebot?start=YTAudioBot"
     ],
     "dislike": [
         "{PENSIVE_FACE} *{name}，无法提供优质的服务，我们感到十分抱歉*\\n\\n",
@@ -75,8 +78,8 @@
         "{GLOBE_WITH_MERIDIANS} *语言*\\n\\n",
         "选择你的语言。"
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} 语言已被设定为 {FLAG_FOR_CHINA} 简体中文。",
-    "same_language_selected": "{THINKING_FACE} 机器人的语言已经被设置为 {FLAG_FOR_CHINA} 简体中文",
+    "language_selected": "{HEAVY_CHECK_MARK} 语言已被设定为 {CHINA} 简体中文。",
+    "same_language_selected": "{THINKING_FACE} 机器人的语言已经被设置为 {CHINA} 简体中文",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *视频正在处理...*",
     "download_canceled": [
         "{CROSS_MARK} *下载已取消\\n",
@@ -201,6 +204,7 @@
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
+    "donate": null,
     "month_1": "一月",
     "month_2": "二月",
     "month_3": "三月",
@@ -214,9 +218,9 @@
     "month_11": "十一月",
     "month_12": "十二月",
     "start_button": "{CHEQUERED_FLAG} 开始",
-    "language_button": "{FLAG_FOR_CHINA} 简体中文",
-    "more_info_button": "{PAGE_WITH_CURL} 更多信息",
-    "send_to_button": "{OUTBOX_TRAY} 发送给...",
+    "language_button": "{CHINA} 简体中文",
+    "file_info_button": "{PAGE_WITH_CURL} 更多信息",
+    "share_button": "{RIGHT_ARROW_CURVING_UP} 发送给...",
     "faq_button": "{BAR_CHART} 常见问题",
     "like_button": "{THUMBS_UP} 我喜欢这个机器人",
     "not_really_button": "{THINKING_FACE} 还不够好",
@@ -249,5 +253,29 @@
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} 继续",
     "contribute_button": "{BUST_IN_SILHOUETTE} 参与贡献",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} 贡献者",
-    "open_project_button": "{CARD_INDEX_DIVIDERS} 访问项目"
+    "open_project_button": "{CARD_INDEX_DIVIDERS} 访问项目",
+    "donate_button": null,
+    "donate_with_paypal_button": null,
+    "search_item_template": [
+        "{HEADPHONE} *{title}*\\n",
+        "{BUST_IN_SILHOUETTE} _{channel}_\\n",
+        "{EYE} {view_count} {THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
+        "{clock} {duration}: /dl\\_{encoded_video_id}\\n\\n"
+    ],
+    "extract_item_template": [
+        "{HEADPHONE} [{title}](https://youtu.be/{video_id})\\n",
+        "{BUST_IN_SILHOUETTE} *{uploader}* ([{uploader_id}](https://youtube.com/user/{uploader_id}))\\n",
+        "{EYE} {view_count}\\n",
+        "{THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
+        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
+    ],
+    "history_item_template": [
+        "{HEADPHONE} *{index}.* {performer} - *{title}*\\n",
+        "_{natural_relative_time}_\\n\\n"
+    ],
+    "history_details_item_template": [
+        "{listen_on_youtube}\\n",
+        "{HEADPHONE} {performer} - *{title}*\\n",
+        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
+    ]
 }

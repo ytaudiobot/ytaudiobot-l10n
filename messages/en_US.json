@@ -34,17 +34,20 @@
         "{WARNING} *File expired*\\n\\n",
         "Press {command} to download again."
     ],
-    "more_info": "{PAGE_WITH_CURL} More info",
-    "video_id": "{SMALL_ORANGE_DIAMOND} Video ID",
-    "duration": "{SMALL_ORANGE_DIAMOND} Duration",
-    "size": "{SMALL_ORANGE_DIAMOND} Size",
+    "file_info": [
+        "{PAGE_WITH_CURL} File info\\n\\n",
+        "{SMALL_ORANGE_DIAMOND} Video ID: {video_id}\\n",
+        "{SMALL_ORANGE_DIAMOND} Duration: {duration}\\n",
+        "{SMALL_ORANGE_DIAMOND} Size: {file_size} MB\\n",
+        "{SMALL_ORANGE_DIAMOND} SHA256: {sha256_sum}"
+    ],
     "listen_on_youtube": "{LINK} [Listen on YouTube](https://youtu.be/{video_id})",
     "like": [
         "{SPARKLES} *Thank you, {name}!*\\n\\n",
         "We are glad you like it.\\n\\n",
         "You can rate the bot and put\\n",
         "5 stars {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} here:\\n",
-        "https://telegram.me/storebot?start=YTAudioBot"
+        "https://t.me/storebot?start=YTAudioBot"
     ],
     "dislike": [
         "{PENSIVE_FACE} *We are sorry to hear this, {name}.*\\n\\n",
@@ -75,8 +78,8 @@
         "{GLOBE_WITH_MERIDIANS} *Language*\\n\\n",
         "Select your language."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} Language set in {FLAG_FOR_UNITED_STATES} English.",
-    "same_language_selected": "{THINKING_FACE} Bot's language is already in {FLAG_FOR_UNITED_STATES} English",
+    "language_selected": "{HEAVY_CHECK_MARK} Language set in {UNITED_STATES} English.",
+    "same_language_selected": "{THINKING_FACE} Bot's language is already in {UNITED_STATES} English",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *Video processing in progress...*",
     "download_canceled": [
         "{CROSS_MARK} *Download canceled.\\n",
@@ -200,6 +203,13 @@
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
+    "donate": [
+        "{WRAPPED_GIFT} *Donate*\\n\\n",
+        "*Thanks for wanting to help!*\\n\\n",
+        "YTAudioBot is completely free, but powered by your love and support!\\n\\n",
+        "If you really enjoy this bot, consider a [donation](https://paypal.me/delivrance/5) ",
+        "to support development, maintenance and servers costs."
+    ],
     "month_1": "January",
     "month_2": "February",
     "month_3": "March",
@@ -213,9 +223,9 @@
     "month_11": "November",
     "month_12": "December",
     "start_button": "{CHEQUERED_FLAG} Start",
-    "language_button": "{FLAG_FOR_UNITED_STATES} English",
-    "more_info_button": "{PAGE_WITH_CURL} More info",
-    "send_to_button": "{OUTBOX_TRAY} Send to...",
+    "language_button": "{UNITED_STATES} English",
+    "file_info_button": "{PAGE_WITH_CURL} File info",
+    "share_button": "{RIGHT_ARROW_CURVING_UP} Share",
     "faq_button": "{BAR_CHART} FAQ",
     "like_button": "{THUMBS_UP} I like it!",
     "not_really_button": "{THINKING_FACE} Not really",
@@ -248,5 +258,29 @@
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Resume",
     "contribute_button": "{BUST_IN_SILHOUETTE} Contribute",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Contributors",
-    "open_project_button": "{CARD_INDEX_DIVIDERS} Open project"
+    "open_project_button": "{CARD_INDEX_DIVIDERS} Open project",
+    "donate_button": "{WRAPPED_GIFT} Donate",
+    "donate_with_paypal_button": "{P_BUTTON} Donate with PayPal",
+    "search_item_template": [
+        "{HEADPHONE} *{title}*\\n",
+        "{BUST_IN_SILHOUETTE} _{channel}_\\n",
+        "{EYE} {view_count} {THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
+        "{clock} {duration}: /dl\\_{encoded_video_id}\\n\\n"
+    ],
+    "extract_item_template": [
+        "{HEADPHONE} [{title}](https://youtu.be/{video_id})\\n",
+        "{BUST_IN_SILHOUETTE} *{uploader}* ([{uploader_id}](https://youtube.com/user/{uploader_id}))\\n",
+        "{EYE} {view_count}\\n",
+        "{THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
+        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
+    ],
+    "history_item_template": [
+        "{HEADPHONE} *{index}.* {performer} - *{title}*\\n",
+        "_{natural_relative_time}_\\n\\n"
+    ],
+    "history_details_item_template": [
+        "{listen_on_youtube}\\n",
+        "{HEADPHONE} {performer} - *{title}*\\n",
+        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
+    ]
 }

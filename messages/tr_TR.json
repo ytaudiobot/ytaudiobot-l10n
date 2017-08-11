@@ -34,17 +34,20 @@
         "{WARNING} *Dosya doldu*\\n\\n",
         "Basın {command} Tekrar indirmek için."
     ],
-    "more_info": "{PAGE_WITH_CURL} Daha fazla bilgi",
-    "video_id": "{SMALL_ORANGE_DIAMOND} Video Kimliği",
-    "duration": "{SMALL_ORANGE_DIAMOND} Süre",
-    "size": "{SMALL_ORANGE_DIAMOND} Boyut",
+    "file_info": [
+        "{PAGE_WITH_CURL} Daha fazla bilgi\\n\\n",
+        "{SMALL_ORANGE_DIAMOND} Video Kimliği: {video_id}\\n",
+        "{SMALL_ORANGE_DIAMOND} Süre: {duration}\\n",
+        "{SMALL_ORANGE_DIAMOND} Boyut: {file_size} MB\\n",
+        "{SMALL_ORANGE_DIAMOND} SHA256: {sha256_sum}"
+    ],
     "listen_on_youtube": "{LINK} [YouTube'da dinle](https://youtu.be/{video_id})",
     "like": [
         "{SPARKLES} *teşekkür ederim, {name}!*\\n\\n",
         "Beğendiğiniz için mutluyuz.\\n\\n",
         "Botu puanlayabilir ve\\n",
         "5 yıldız {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} verebilirsiniz:\\n",
-        "https://telegram.me/storebot?start=YTAudioBot"
+        "https://t.me/storebot?start=YTAudioBot"
     ],
     "dislike": [
         "{PENSIVE_FACE} *Bunu duyduğumuz için özür dileriz, {name}.*\\n\\n",
@@ -75,8 +78,8 @@
         "{GLOBE_WITH_MERIDIANS} *Dil*\\n\\n",
         "Dilinizi seçiniz."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} Dil seti {FLAG_FOR_TURKEY} Türkçe.",
-    "same_language_selected": "{THINKING_FACE} Bot'un dili zaten içeride {FLAG_FOR_TURKEY} Türkçe",
+    "language_selected": "{HEAVY_CHECK_MARK} Dil seti {TURKEY} Türkçe.",
+    "same_language_selected": "{THINKING_FACE} Bot'un dili zaten içeride {TURKEY} Türkçe",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *Video işleme devam ediyor...*",
     "download_canceled": [
         "{CROSS_MARK} *İndirme işlemi iptal edildi.\\n",
@@ -199,6 +202,7 @@
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
+    "donate": null,
     "month_1": "Ocak",
     "month_2": "Şubat",
     "month_3": "Mart",
@@ -212,9 +216,9 @@
     "month_11": "Kasım",
     "month_12": "Aralık",
     "start_button": "{CHEQUERED_FLAG} Başlat",
-    "language_button": "{FLAG_FOR_TURKEY} Türkçe",
-    "more_info_button": "{PAGE_WITH_CURL} Daha fazla",
-    "send_to_button": "{OUTBOX_TRAY} Gönderiliyor...",
+    "language_button": "{TURKEY} Türkçe",
+    "file_info_button": "{PAGE_WITH_CURL} Daha fazla",
+    "share_button": "{RIGHT_ARROW_CURVING_UP} Gönderiliyor...",
     "faq_button": "{BAR_CHART} SSS",
     "like_button": "{THUMBS_UP} Bunu Sevdim!",
     "not_really_button": "{THINKING_FACE} Pek sayılmaz",
@@ -247,5 +251,29 @@
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Devam Ettir",
     "contribute_button": "{BUST_IN_SILHOUETTE} Katkıda Bulunanlar",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Katkıda Bulunan",
-    "open_project_button": "{CARD_INDEX_DIVIDERS} Projeyi Aç"
+    "open_project_button": "{CARD_INDEX_DIVIDERS} Projeyi Aç",
+    "donate_button": null,
+    "donate_with_paypal_button": null,
+    "search_item_template": [
+        "{HEADPHONE} *{title}*\\n",
+        "{BUST_IN_SILHOUETTE} _{channel}_\\n",
+        "{EYE} {view_count} {THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
+        "{clock} {duration}: /dl\\_{encoded_video_id}\\n\\n"
+    ],
+    "extract_item_template": [
+        "{HEADPHONE} [{title}](https://youtu.be/{video_id})\\n",
+        "{BUST_IN_SILHOUETTE} *{uploader}* ([{uploader_id}](https://youtube.com/user/{uploader_id}))\\n",
+        "{EYE} {view_count}\\n",
+        "{THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
+        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
+    ],
+    "history_item_template": [
+        "{HEADPHONE} *{index}.* {performer} - *{title}*\\n",
+        "_{natural_relative_time}_\\n\\n"
+    ],
+    "history_details_item_template": [
+        "{listen_on_youtube}\\n",
+        "{HEADPHONE} {performer} - *{title}*\\n",
+        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
+    ]
 }
