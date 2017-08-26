@@ -27,7 +27,7 @@ Language | Contributors | Translated
 :ukraine: **Українська** ([uk_UA](messages/uk_UA.json)) | [Denis Sikorsky](//t.me/D3sl0ng3r) | [**97.58%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
 :fr: **Français** ([fr_FR](messages/fr_FR.json)) | [Ev4si0n](//github.com/Ev4si0n) | [**97.58%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
 :white_flag: **Català** ([ca_ES](messages/ca_ES.json)) | [Artur](//github.com/Ecron) | [**97.58%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
-:ru: **Русский** ([ru_RU](messages/ru_RU.json)) | [Rakleed](//github.com/Rakleed) | [**97.58%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
+:ru: **Русский** ([ru_RU](messages/ru_RU.json)) | [Rakleed](//github.com/Rakleed) | 100%
 :azerbaijan: **Azərbaycanca** ([az_AZ](messages/az_AZ.json)) | [Nazar Nasirzada](//github.com/nnasirzada) | [**97.58%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
 :poland: **Polski** ([pl_PL](messages/pl_PL.json)) | [Veleth](//github.com/veleth) | [**97.58%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
 :vietnam: **Việt Nam** ([vi_VN](messages/vi_VN.json)) | [Thiều Quang Huy](//github.com/abcd123huy) | 100%
