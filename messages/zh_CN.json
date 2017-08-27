@@ -24,7 +24,7 @@
     "added_days_ago": "{0 天|1 天|# 天} 前添加的",
     "added_weeks_ago": "{0 周|1 周|# 周} 前添加的",
     "added_months_ago": "{0个月|1个月|#个月} 前添加的",
-    "added_years_ago": "、{0 年|1年|# 年} 前添加的",
+    "added_years_ago": "{0 年|1年|# 年} 前添加的",
     "item_removed": "{CROSS_MARK} 记录已删除",
     "item_restored": "{HEAVY_PLUS_SIGN} 记录已还原",
     "download_history_paused": "{BALLOT_BOX_WITH_CHECK} 暂停下载任务",
@@ -204,7 +204,13 @@
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
-    "donate": "捐赠",
+    "donate": [
+        "{WRAPPED_GIFT} *捐赠*\\n\\n",
+        "*感谢您考虑捐赠！*\\n\\n",
+        "YTAudioBot 是完全免费的, 但是需要你们对它的喜爱和支持提供动力！\\n\\n",
+        "如果你真的喜欢这个机器人, 请考虑小小[捐赠](https://paypal.me/delivrance/5) ",
+        "来支持我们的开发, 维护以及服务器开销。"
+    ],
     "month_1": "一月",
     "month_2": "二月",
     "month_3": "三月",
