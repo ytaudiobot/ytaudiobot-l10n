@@ -193,7 +193,7 @@
     "contribute": [
         "{FOLDED_HANDS} *Помогите перевести*\\n\\n",
         "{name}! Если вы хотите, чтобы @YTAudioBot был на вашем языке, или хотите улучшить уже существующий, вы можете помочь нам!\\n\\n",
-        "Мы создали руководство на [Github](https://github.com/ytaudiobot/ytaudiobot-l10n) именно для этого. ",
+        "Мы создали руководство на [GitHub](https://github.com/ytaudiobot/ytaudiobot-l10n) именно для этого. ",
         "Требуется знание английского языка.\\n\\n",
         "Мы приветствуем новые языки и улучшения! Не стесняйтесь присоединиться к нам, мы будем благодарны вам за любую оказанную помощь!"
     ],
@@ -203,7 +203,13 @@
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
-    "donate": null,
+    "donate": [
+        "{WRAPPED_GIFT} *Пожертвовать*\\n\\n",
+        "*Спасибо за то, что хотите помочь!*\\n\\n",
+        "YTAudioBot полностью бесплатный, но работает за счёт вашей любви и поддержки!\\n\\n",
+        "Если вам действительно нравится этот бот, рассмотрите возможность [пожертвования](https://paypal.me/delivrance/5) ",
+        "для поддержки разработки, обслуживания и оплаты серверов."
+    ],
     "month_1": "Январь",
     "month_2": "Февраль",
     "month_3": "Март",
@@ -253,8 +259,8 @@
     "contribute_button": "{BUST_IN_SILHOUETTE} Помощник",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Помощники",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Открыть проект",
-    "donate_button": null,
-    "donate_with_paypal_button": null,
+    "donate_button": "{WRAPPED_GIFT} Пожертвовать",
+    "donate_with_paypal_button": "{P_BUTTON} Пожертвовать с помощью PayPal",
     "search_item_template": [
         "{HEADPHONE} *{title}*\\n",
         "{BUST_IN_SILHOUETTE} _{channel}_\\n",
