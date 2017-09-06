@@ -253,8 +253,8 @@
     "contribute_button": "{BUST_IN_SILHOUETTE} Contribueix",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Contribuïdors",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Obre el projecte",
-    "donate_button": Doneu,
-    "donate_with_paypal_button": Doneu amb PayPal,
+    "donate_button": "{WRAPPED_GIFT} Doneu",
+    "donate_with_paypal_button": "{P_BUTTON} Doneu amb PayPal",
     "search_item_template": [
         "{HEADPHONE} *{title}*\\n",
         "{BUST_IN_SILHOUETTE} _{channel}_\\n",
