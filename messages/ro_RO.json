@@ -190,9 +190,26 @@
         "*3.* Unele clip-uri nu funcționează!\\n",
         "*4.* De ce au fișierele nume străine?"
     ],
-    "contribute": "Contribuie",
-    "contributors": "Contribuabili",
-    "donate": "Donează",
+    "contribute": [
+        "{FOLDED_HANDS} *Ajută la tradus*\\n\\n",
+        "{name}! Dacă vrei ca @YTAudioBot să vorbească limba ta sau vrei doar să îmbunătățești o alta, ne poți ajuta!\\n\\n",
+        "Am pregătit chiar și un ghid special pentru asta, [aici](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
+        "Este necesar să cunoști limba engleză.\\n\\n",
+        "Ne bucurăm să primim îmbunătățiri sau traduceri în alte limbi! Simte-te liber să ni te alături, orice ajutor este binevenit!"
+    ],
+    "contributors": [
+        "{BUSTS_IN_SILHOUETTE} *Contribuitori*\\n\\n",
+        "{RED_HEART} Dorim să le mulțumim călduros, pentru ajutorul lor, următorilor:\\n\\n",
+        "{contributors}\\n\\n",
+        "— @YTAudioBot"
+    ],
+    "donate":  [
+        "{WRAPPED_GIFT} *Fă o donație*\\n\\n",
+        "*Îți mulțumim pentru că vrei să ajuți!*\\n\\n",
+        "YTAudioBot este complet gratuit, dar sprijinit de dragostea și ajutorul tău!\\n\\n",
+        "Dacă chiar îndrăgești acest bot, ia în considerare o [donație](https://paypal.me/delivrance/5) ",
+        "pentru a susține dezvoltarea, întreținerea și plata server-ului."
+    ],
     "month_1": "ianuarie",
     "month_2": "februarie",
     "month_3": "martie",
@@ -239,11 +256,11 @@
     "clear_all_button": "{WASTEBASKET} Șterge tot",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Pauză",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Reia",
-    "contribute_button": "Contribuie",
-    "contributors_button": "Contribuabili",
-    "open_project_button": "Vezi proiect",
-    "donate_button": "Fă o donație",
-    "donate_with_paypal_button": "Donează cu PayPal",
+    "contribute_button": "{BUST_IN_SILHOUETTE} Contribuie",
+    "contributors_button": "{BUSTS_IN_SILHOUETTE} Contribuitori",
+    "open_project_button": "{CARD_INDEX_DIVIDERS} Vezi proiectul"
+    "donate_button": "{WRAPPED_GIFT} Fă o donație",
+    "donate_with_paypal_button": "{P_BUTTON} Donează cu PayPal",
     "search_item_template": [
         "{HEADPHONE} *{title}*\\n",
         "{BUST_IN_SILHOUETTE} _{channel}_\\n",
