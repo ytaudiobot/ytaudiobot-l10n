@@ -258,7 +258,7 @@
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Reia",
     "contribute_button": "{BUST_IN_SILHOUETTE} Contribuie",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Contribuitori",
-    "open_project_button": "{CARD_INDEX_DIVIDERS} Vezi proiectul"
+    "open_project_button": "{CARD_INDEX_DIVIDERS} Vezi proiectul",
     "donate_button": "{WRAPPED_GIFT} Fă o donație",
     "donate_with_paypal_button": "{P_BUTTON} Donează cu PayPal",
     "search_item_template": [
