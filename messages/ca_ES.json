@@ -202,9 +202,15 @@
         "{RED_HEART} Volem agrair de tot cor els contribuïdors per les traduccions:\\n\\n",
         "{contributors}\\n\\n",
         "— @YTAudioBot"
+     ],
+    "donate": [
+        "{WRAPPED_GIFT} *Doneu*\\n\\n",
+        "*Gràcies per voler ajudar-nos!*\\n\\n",
+        "El YTAudioBot és completament gratuït, però funciona amb el vostre amor i suport!\\n\\n",
+        "Si de veres vos agrada aquest bot, considereu fer [una donació](https://paypal.me/delivrance/5) ",
+        "per a ajudar amb el seu desenvolupament, manteniment i costs dels servidors."
     ],
-    "donate": Doneu,
-    "month_1": "de gener",
+"month_1": "de gener",
     "month_2": "de febrer",
     "month_3": "de març",
     "month_4": "d'abril",
