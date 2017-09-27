@@ -202,8 +202,14 @@
         "{RED_HEART} Volem agrair de tot cor els contribuïdors per les traduccions:\\n\\n",
         "{contributors}\\n\\n",
         "— @YTAudioBot"
+     ],
+    "donate": [
+        "{WRAPPED_GIFT} *Doneu*\\n\\n",
+        "*Gràcies per voler ajudar-nos!*\\n\\n",
+        "El YTAudioBot és completament gratuït, però funciona amb el vostre amor i suport!\\n\\n",
+        "Si de veres vos agrada aquest bot, considereu fer [una donació](https://paypal.me/delivrance/5) ",
+        "per a ajudar amb el seu desenvolupament, manteniment i costs dels servidors."
     ],
-    "donate": null,
     "month_1": "de gener",
     "month_2": "de febrer",
     "month_3": "de març",
@@ -253,8 +259,8 @@
     "contribute_button": "{BUST_IN_SILHOUETTE} Contribueix",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Contribuïdors",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Obre el projecte",
-    "donate_button": null,
-    "donate_with_paypal_button": null,
+    "donate_button": "{WRAPPED_GIFT} Doneu",
+    "donate_with_paypal_button": "{P_BUTTON} Doneu amb PayPal",
     "search_item_template": [
         "{HEADPHONE} *{title}*\\n",
         "{BUST_IN_SILHOUETTE} _{channel}_\\n",
