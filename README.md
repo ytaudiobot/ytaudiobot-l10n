@@ -11,12 +11,12 @@ Language | Contributors | Translated
 :us: **English** ([en_US](messages/en_US.json)) | [Dan](//github.com/delivrance) | 100%
 :it: **Italiano** ([it_IT](messages/it_IT.json)) | [Dan](//github.com/delivrance) | 100%
 :es: **Español** ([es_ES](messages/es_ES.json)) | [Gerardo](//github.com/balboag) | [**98%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
-:brazil: **Português** ([pt_BR](messages/pt_BR.json)) | [Rafael](//github.com/rafaelsturmer), [MarioJuniorDev](//github.com/MarioJuniorDev) | [**98%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
+:brazil: **Português** ([pt_BR](messages/pt_BR.json)) | [Rafael](//github.com/rafaelsturmer), [MarioJuniorDev](//github.com/MarioJuniorDev), [Anna e só](//github.com/contraexemplo) | 100%
 :israel: **עברית** ([he_IL](messages/he_IL.json)) | [PhantomGitHub](//github.com/PhantomGitHub) | [**98%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
 :de: **Deutsch** ([de_DE](messages/de_DE.json)) | [Julian](//github.com/jwsp1), Alex | [**98%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
 :finland: **Suomi** ([fi_FI](messages/fi_FI.json)) | [Elias](//github.com/theel0ja) | [**98%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
 :greece: **Ελληνικά** ([el_GR](messages/el_GR.json)) | [stamsarger](//github.com/stamsarger) | [**98%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
-:romania: **Română** ([ro_RO](messages/ro_RO.json)) | [NicuG](//t.me/nicug) | [**94%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
+:romania: **Română** ([ro_RO](messages/ro_RO.json)) | [NicuG](//t.me/nicug) | 100%
 :uzbekistan: **O'zbek** ([Lt_uz_UZ](messages/Lt_uz_UZ.json)) | [HusanboyBayern](//t.me/HusanboyBayern) | [**98%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
 :indonesia: **Bahasa Indonesia** ([id_ID](messages/id_ID.json)) | [Aldian Hudaya](//t.me/oichidan) | [**98%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
 :tr: **Türkçe** ([tr_TR](messages/tr_TR.json)) | [EypCnn](//github.com/EypCnn), [Ilker Binzet](//github.com/binzet) | [**98%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
@@ -26,7 +26,7 @@ Language | Contributors | Translated
 **(WIP)** :jp: **日本語** ([ja_JP](messages/ja_JP.json)) | [Rei](//github.com/unwind-protect) |  [**86%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
 :ukraine: **Українська** ([uk_UA](messages/uk_UA.json)) | [Denis Sikorsky](//t.me/D3sl0ng3r) | [**98%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
 :fr: **Français** ([fr_FR](messages/fr_FR.json)) | [Ev4si0n](//github.com/Ev4si0n) | [**98%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
-:white_flag: **Català** ([ca_ES](messages/ca_ES.json)) | [Artur](//github.com/Ecron) | [**98%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
+:white_flag: **Català** ([ca_ES](messages/ca_ES.json)) | [Artur](//github.com/Ecron) | 100%
 :ru: **Русский** ([ru_RU](messages/ru_RU.json)) | [Rakleed](//github.com/Rakleed) | 100%
 :azerbaijan: **Azərbaycanca** ([az_AZ](messages/az_AZ.json)) | [Nazar Nasirzada](//github.com/nnasirzada) | [**98%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
 :poland: **Polski** ([pl_PL](messages/pl_PL.json)) | [Veleth](//github.com/veleth) | [**98%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
