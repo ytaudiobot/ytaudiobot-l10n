@@ -203,7 +203,7 @@
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
-    "donate": null,
+    "donate": "תרום",
     "month_1": "ינואר",
     "month_2": "פברואר",
     "month_3": "מרץ",
@@ -253,8 +253,8 @@
     "contribute_button": "{BUST_IN_SILHOUETTE} תרגם",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} מתרגמים",
     "open_project_button": "{CARD_INDEX_DIVIDERS} פתח את הפרויקט",
-    "donate_button": null,
-    "donate_with_paypal_button": null,
+    "donate_button": "כפתור תרומה",
+    "donate_with_paypal_button": "תרום בעזרת פייפאל",
     "search_item_template": [
         "{HEADPHONE} *{title}*\\n",
         "{BUST_IN_SILHOUETTE} _{channel}_\\n",
