@@ -253,8 +253,8 @@
     "contribute_button": "{BUST_IN_SILHOUETTE} תרגם",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} מתרגמים",
     "open_project_button": "{CARD_INDEX_DIVIDERS} פתח את הפרויקט",
-    "donate_button": "כפתור תרומה",
-    "donate_with_paypal_button": "תרום בעזרת פייפאל",
+    "donate_button": "{WRAPPED_GIFT} כפתור תרומה",
+    "donate_with_paypal_button": "{P_BUTTON} תרום בעזרת פייפאל",
     "search_item_template": [
         "{HEADPHONE} *{title}*\\n",
         "{BUST_IN_SILHOUETTE} _{channel}_\\n",
