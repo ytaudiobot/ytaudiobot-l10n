@@ -203,7 +203,13 @@
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
-    "donate": null,
+    "donate": [
+        "{WRAPPED_GIFT} *תרום*\\n\\n",
+        "*תודה על הרצון לעזור!*\\n\\n",
+        "YTAudioBot הוא חינמי לחלוטין, אבל מונע בעזרת האהבה והתמיכה שלך!\\n\\n",
+        "אם אתה ממש נהנה מבוט זה, תשקול [תרומה](https://paypal.me/delivrance/5) ",
+        "בשביל לתמוך בפיתוח, תחזוקה, ועלות השרתים."
+    ],
     "month_1": "ינואר",
     "month_2": "פברואר",
     "month_3": "מרץ",
@@ -253,8 +259,8 @@
     "contribute_button": "{BUST_IN_SILHOUETTE} תרגם",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} מתרגמים",
     "open_project_button": "{CARD_INDEX_DIVIDERS} פתח את הפרויקט",
-    "donate_button": null,
-    "donate_with_paypal_button": null,
+    "donate_button": "{WRAPPED_GIFT} תרום",
+    "donate_with_paypal_button": "{P_BUTTON} תרום עם פייפאל",
     "search_item_template": [
         "{HEADPHONE} *{title}*\\n",
         "{BUST_IN_SILHOUETTE} _{channel}_\\n",
