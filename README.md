@@ -13,7 +13,7 @@ Language | Contributors | Translated
 :es: **Español** ([es_ES](messages/es_ES.json)) | [Gerardo](//github.com/balboag) | [**98%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
 :brazil: **Português** ([pt_BR](messages/pt_BR.json)) | [Rafael](//github.com/rafaelsturmer), [MarioJuniorDev](//github.com/MarioJuniorDev), [Anna e só](//github.com/contraexemplo) | 100%
 :israel: **עברית** ([he_IL](messages/he_IL.json)) | [PhantomGitHub](//github.com/PhantomGitHub) | 100%
-:de: **Deutsch** ([de_DE](messages/de_DE.json)) | [Julian](//github.com/jwsp1), Alex | [**98%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
+:de: **Deutsch** ([de_DE](messages/de_DE.json)) | [Julian](//github.com/jwsp1), Alex, [LoGazer](//github.com/LoGazer) | 100%
 :finland: **Suomi** ([fi_FI](messages/fi_FI.json)) | [Elias](//github.com/theel0ja) | [**98%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
 :greece: **Ελληνικά** ([el_GR](messages/el_GR.json)) | [stamsarger](//github.com/stamsarger) | [**98%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
 :romania: **Română** ([ro_RO](messages/ro_RO.json)) | [NicuG](//t.me/nicug) | 100%
