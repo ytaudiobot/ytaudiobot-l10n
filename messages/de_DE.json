@@ -35,7 +35,7 @@
         "Drücke {command} zum erneuten Herunterladen."
     ],
     "file_info": [
-        "{PAGE_WITH_CURL} Mehr Infos\\n\\n",
+        "{PAGE_WITH_CURL} Datei Infos\\n\\n",
         "{SMALL_ORANGE_DIAMOND} Video ID: {video_id}\\n",
         "{SMALL_ORANGE_DIAMOND} Länge: {duration}\\n",
         "{SMALL_ORANGE_DIAMOND} Größe: {file_size} MB\\n",
@@ -224,8 +224,8 @@
     "month_12": "Dezember",
     "start_button": "{CHEQUERED_FLAG} Start",
     "language_button": "{GERMANY} Deutsch",
-    "file_info_button": "{PAGE_WITH_CURL} Mehr Infos",
-    "share_button": "{RIGHT_ARROW_CURVING_UP} Senden an...",
+    "file_info_button": "{PAGE_WITH_CURL} Datei Infos",
+    "share_button": "{RIGHT_ARROW_CURVING_UP} Teilen",
     "faq_button": "{BAR_CHART} FAQ",
     "like_button": "{THUMBS_UP} Der Bot ist super!",
     "not_really_button": "{THINKING_FACE} Nicht wirklich",
