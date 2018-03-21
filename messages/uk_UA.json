@@ -34,7 +34,7 @@
         "{WARNING} *Час файлу сплинув*\\n\\n",
         "Натисніть {command}, щоб завантажити знову."
     ],
-    "more_info": [
+    "file_info": [
         "{PAGE_WITH_CURL} Більше інформації\\n\\n",
         "{SMALL_ORANGE_DIAMOND} ID відео: {video_id}\\n",
         "{SMALL_ORANGE_DIAMOND} Тривалість: {duration}\\n",
@@ -47,7 +47,7 @@
         "Ми раді, що вам це сподобалося.\\n\\n",
         "Ми можете оцінити бота та поставити\\n",
         "5 зірок {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} тут:\\n",
-        "https://telegram.me/storebot?start=YTAudioBot"
+        "https://t.me/storebot?start=YTAudioBot"
     ],
     "dislike": [
         "{PENSIVE_FACE} *Нам шкода чути про це, {name}.*\\n\\n",
@@ -78,8 +78,8 @@
         "{GLOBE_WITH_MERIDIANS} *Мова*\\n\\n",
         "Оберіть вашу мову."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} Налаштована мова - {FLAG_FOR_UKRAINE} Українська.",
-    "same_language_selected": "{THINKING_FACE} Мова бота вже {FLAG_FOR_UKRAINE} Українська",
+    "language_selected": "{HEAVY_CHECK_MARK} Налаштована мова - {UKRAINE} Українська.",
+    "same_language_selected": "{THINKING_FACE} Мова бота вже {UKRAINE} Українська",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *Обробка відео у процесі...*",
     "download_canceled": [
         "{CROSS_MARK} *Завантаження скасовано.\\n",
@@ -203,6 +203,7 @@
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
+    "donate": null,
     "month_1": "Січня",
     "month_2": "Лютого",
     "month_3": "Березня",
@@ -216,9 +217,9 @@
     "month_11": "Листопада",
     "month_12": "Грудня",
     "start_button": "{CHEQUERED_FLAG} Почати",
-    "language_button": "{FLAG_FOR_UKRAINE} Українська",
-    "more_info_button": "{PAGE_WITH_CURL} Докладніше",
-    "send_to_button": "{OUTBOX_TRAY} Надіслати до...",
+    "language_button": "{UKRAINE} Українська",
+    "file_info_button": "{PAGE_WITH_CURL} Докладніше",
+    "share_button": "{RIGHT_ARROW_CURVING_UP} Надіслати до...",
     "faq_button": "{BAR_CHART} ЧаПи",
     "like_button": "{THUMBS_UP} Мені подобається!",
     "not_really_button": "{THINKING_FACE} Не дуже",
@@ -252,6 +253,8 @@
     "contribute_button": "{BUST_IN_SILHOUETTE} Допомогти",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Помічники",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Відкрити проект",
+    "donate_button": null,
+    "donate_with_paypal_button": null,
     "search_item_template": [
         "{HEADPHONE} *{title}*\\n",
         "{BUST_IN_SILHOUETTE} _{channel}_\\n",

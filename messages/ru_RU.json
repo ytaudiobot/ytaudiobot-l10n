@@ -34,7 +34,7 @@
         "{WARNING} *Срок действия файла истек*\\n\\n",
         "Нажмите {command} для повторной загрузки."
     ],
-    "more_info": [
+    "file_info": [
         "{PAGE_WITH_CURL} Больше информации\\n\\n",
         "{SMALL_ORANGE_DIAMOND} ID видео: {video_id}\\n",
         "{SMALL_ORANGE_DIAMOND} Длительность: {duration}\\n",
@@ -47,7 +47,7 @@
         "Мы рады, что вам нравится наш бот.\\n\\n",
         "Вы можете оценить его и поставить\\n",
         "5 звезд {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} здесь:\\n",
-        "https://telegram.me/storebot?start=YTAudioBot"
+        "https://t.me/storebot?start=YTAudioBot"
     ],
     "dislike": [
         "{PENSIVE_FACE} *Нам очень жаль это слышать, {name}.*\\n\\n",
@@ -78,8 +78,8 @@
         "{GLOBE_WITH_MERIDIANS} *Язык*\\n\\n",
         "Выберите ваш язык."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} Установлен {FLAG_FOR_RUSSIA} русский язык.",
-    "same_language_selected": "{THINKING_FACE} Язык бота уже {FLAG_FOR_RUSSIA} русский",
+    "language_selected": "{HEAVY_CHECK_MARK} Установлен {RUSSIA} русский язык.",
+    "same_language_selected": "{THINKING_FACE} Язык бота уже {RUSSIA} русский",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *Выполняется обработка видео...*",
     "download_canceled": [
         "{CROSS_MARK} *Загрузка отменена.\\n",
@@ -193,7 +193,7 @@
     "contribute": [
         "{FOLDED_HANDS} *Помогите перевести*\\n\\n",
         "{name}! Если вы хотите, чтобы @YTAudioBot был на вашем языке, или хотите улучшить уже существующий, вы можете помочь нам!\\n\\n",
-        "Мы создали руководство на [Github](https://github.com/ytaudiobot/ytaudiobot-l10n) именно для этого. ",
+        "Мы создали руководство на [GitHub](https://github.com/ytaudiobot/ytaudiobot-l10n) именно для этого. ",
         "Требуется знание английского языка.\\n\\n",
         "Мы приветствуем новые языки и улучшения! Не стесняйтесь присоединиться к нам, мы будем благодарны вам за любую оказанную помощь!"
     ],
@@ -202,6 +202,13 @@
         "{RED_HEART} Мы хотели бы искренне поблагодарить авторов перевода:\\n\\n",
         "{contributors}\\n\\n",
         "— @YTAudioBot"
+    ],
+    "donate": [
+        "{WRAPPED_GIFT} *Пожертвовать*\\n\\n",
+        "*Спасибо за то, что хотите помочь!*\\n\\n",
+        "YTAudioBot полностью бесплатный, но работает за счёт вашей любви и поддержки!\\n\\n",
+        "Если вам действительно нравится этот бот, рассмотрите возможность [пожертвования](https://paypal.me/delivrance/5) ",
+        "для поддержки разработки, обслуживания и оплаты серверов."
     ],
     "month_1": "Январь",
     "month_2": "Февраль",
@@ -216,9 +223,9 @@
     "month_11": "Ноябрь",
     "month_12": "Декабрь",
     "start_button": "{CHEQUERED_FLAG} Начать",
-    "language_button": "{FLAG_FOR_RUSSIA} Русский",
-    "more_info_button": "{PAGE_WITH_CURL} Больше информации",
-    "send_to_button": "{OUTBOX_TRAY} Отправить...",
+    "language_button": "{RUSSIA} Русский",
+    "file_info_button": "{PAGE_WITH_CURL} Больше информации",
+    "share_button": "{RIGHT_ARROW_CURVING_UP} Отправить...",
     "faq_button": "{BAR_CHART} FAQ",
     "like_button": "{THUMBS_UP} Мне это нравится!",
     "not_really_button": "{THINKING_FACE} Не очень.",
@@ -252,6 +259,8 @@
     "contribute_button": "{BUST_IN_SILHOUETTE} Помощник",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Помощники",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Открыть проект",
+    "donate_button": "{WRAPPED_GIFT} Пожертвовать",
+    "donate_with_paypal_button": "{P_BUTTON} Пожертвовать с помощью PayPal",
     "search_item_template": [
         "{HEADPHONE} *{title}*\\n",
         "{BUST_IN_SILHOUETTE} _{channel}_\\n",

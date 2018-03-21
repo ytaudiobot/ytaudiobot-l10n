@@ -34,7 +34,7 @@
         "{WARNING} *Arquivo expirou*\\n\\n",
         "Pressione {command} para baixar novamente."
     ],
-    "more_info": [
+    "file_info": [
         "{PAGE_WITH_CURL} Mais informações\\n\\n",
         "{SMALL_ORANGE_DIAMOND} ID do vídeo: {video_id}\\n",
         "{SMALL_ORANGE_DIAMOND} Duração: {duration}\\n",
@@ -47,7 +47,7 @@
         "Que bom que gostou.\\n\\n",
         "Você pode avaliar o bot com\\n",
         "5 estrelas {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} aqui:\\n",
-        "https://telegram.me/storebot?start=YTAudioBot"
+        "https://t.me/storebot?start=YTAudioBot"
     ],
     "dislike": [
         "{PENSIVE_FACE} *Nós lamentamos ouvir isso, {name}.*\\n\\n",
@@ -78,8 +78,8 @@
         "{GLOBE_WITH_MERIDIANS} *Idioma*\\n\\n",
         "Selecione seu idioma."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} Idioma definido para {FLAG_FOR_BRAZIL} Português.",
-    "same_language_selected": "{THINKING_FACE} O idioma do bot já está em {FLAG_FOR_BRAZIL} Português",
+    "language_selected": "{HEAVY_CHECK_MARK} Idioma definido para {BRAZIL} Português.",
+    "same_language_selected": "{THINKING_FACE} O idioma do bot já está em {BRAZIL} Português",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *Processamento do vídeo em progresso...*",
     "download_canceled": [
         "{CROSS_MARK} *Download cancelado.\\n",
@@ -203,6 +203,13 @@
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
+    "donate": [
+        "{WRAPPED_GIFT} *Doe*\\n\\n",
+        "*Obrigado por querer ajudar!*\\n\\n",
+        "YTAudioBot é completamente gratuito, mas movido pelo seu amor e apoio!\\n\\n",
+        "Se você realmente curte este bot, considere fazer uma [doação](https://paypal.me/delivrance/5) ",
+        "para apoiar seu desenvolvimento, manutenção e custos de hospedagem."
+    ],
     "month_1": "Janeiro",
     "month_2": "Fevereiro",
     "month_3": "Março",
@@ -216,9 +223,9 @@
     "month_11": "Novembro",
     "month_12": "Dezembro",
     "start_button": "{CHEQUERED_FLAG} Começar",
-    "language_button": "{FLAG_FOR_BRAZIL} Português",
-    "more_info_button": "{PAGE_WITH_CURL} Mais informações",
-    "send_to_button": "{OUTBOX_TRAY} Enviar para...",
+    "language_button": "{BRAZIL} Português",
+    "file_info_button": "{PAGE_WITH_CURL} Mais informações",
+    "share_button": "{RIGHT_ARROW_CURVING_UP} Enviar para...",
     "faq_button": "{BAR_CHART} FAQ",
     "like_button": "{THUMBS_UP} Sim!",
     "not_really_button": "{THINKING_FACE} Não",
@@ -252,6 +259,8 @@
     "contribute_button": "{BUST_IN_SILHOUETTE} Contribua",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Contribuidores",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Abrir projeto",
+    "donate_button": "{WRAPPED_GIFT} Doe",
+    "donate_with_paypal_button": "{P_BUTTON} Doe através do PayPal",
     "search_item_template": [
         "{HEADPHONE} *{title}*\\n",
         "{BUST_IN_SILHOUETTE} _{channel}_\\n",

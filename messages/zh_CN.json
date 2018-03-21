@@ -2,17 +2,17 @@
     "position": 12,
     "right_to_left": false,
     "description": [
-        "下载YouTube视频的音频文件，并存储在任何地方\\n\\n",
+        "下载YouTube视频的音频文件，并保存在任何地方\\n\\n",
         "Mirror: @YTAudio_Bot"
     ],
-    "type_search_terms": "{MEMO} 输入搜索关键字",
+    "type_search_terms": "{MEMO} 输入关键字",
     "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} 在YouTube搜索 \\\"{terms}\\\" ",
     "error": "{PENSIVE_FACE} 发生未知错误，请稍后重试",
     "longer_download_time": "{WARNING} *下载此视频的音频文件需要较长的时间。可能会导致下载失败*",
-    "clear_history_warning": "{WARNING} 此操作会清空你的历史操作!",
+    "clear_history_warning": "{WARNING} 此操作会清空你的历史记录!",
     "history_settings": [
         "{HOURGLASS} *下载历史*\\n\\n",
-        "你的下载历史{没有条目|有1个条目|有#个条目}。"
+        "你的下载历史{没有记录|有1条记录|有#条记录}。"
     ],
     "clear_history_confirmation": [
         "{WASTEBASKET} *清空所有下载历史*\\n\\n",
@@ -24,17 +24,17 @@
     "added_days_ago": "{0 天|1 天|# 天} 前添加的",
     "added_weeks_ago": "{0 周|1 周|# 周} 前添加的",
     "added_months_ago": "{0个月|1个月|#个月} 前添加的",
-    "added_years_ago": "、{0 年|1年|# 年} 前添加的",
-    "item_removed": "{CROSS_MARK} 条目已删除",
-    "item_restored": "{HEAVY_PLUS_SIGN} 条目已还原",
+    "added_years_ago": "{0 年|1年|# 年} 前添加的",
+    "item_removed": "{CROSS_MARK} 记录已删除",
+    "item_restored": "{HEAVY_PLUS_SIGN} 记录已还原",
     "download_history_paused": "{BALLOT_BOX_WITH_CHECK} 暂停下载任务",
     "download_history_resumed": "{WHITE_HEAVY_CHECK_MARK} 继续下载任务",
-    "download_history_cleared": "{WASTEBASKET} 已删除的条目",
+    "download_history_cleared": "{WASTEBASKET} 已删除的记录",
     "file_expired": [
         "{WARNING} *文件已过期*\\n\\n",
         "点击 {command} 重新下载。"
     ],
-    "more_info": [
+    "file_info": [
         "{PAGE_WITH_CURL} 详细信息\\n\\n",
         "{SMALL_ORANGE_DIAMOND} 视频ID: {video_id}\\n",
         "{SMALL_ORANGE_DIAMOND} 时间长度: {duration}\\n",
@@ -47,11 +47,11 @@
         "很高兴你喜欢我们的工作\\n\\n",
         "你可以评论这个机器人并且给予\\n",
         "我们5星{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}点击这里：\\n",
-        "https://telegram.me/storebot?start=YTAudioBot"
+        "https://t.me/storebot?start=YTAudioBot"
     ],
     "dislike": [
         "{PENSIVE_FACE} *{name}，无法提供优质的服务，我们感到十分抱歉*\\n\\n",
-        "请问这个机器人有什么令你不满意的吗?请(使用英语或者意大利语?告诉我们吧:"
+        "有更好的建议或反馈错误?请(使用英语或者意大利语?告诉我们吧:"
     ],
     "rating_message": [
         "{WHITE_MEDIUM_STAR} *评论YTAudioBot*\\n\\n",
@@ -78,8 +78,8 @@
         "{GLOBE_WITH_MERIDIANS} *语言*\\n\\n",
         "选择你的语言。"
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} 语言已被设定为 {FLAG_FOR_CHINA} 简体中文。",
-    "same_language_selected": "{THINKING_FACE} 机器人的语言已经被设置为 {FLAG_FOR_CHINA} 简体中文",
+    "language_selected": "{HEAVY_CHECK_MARK} 语言已被设定为 {CHINA} 简体中文。",
+    "same_language_selected": "{THINKING_FACE} 机器人的语言已经被设置为 {CHINA} 简体中文",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *视频正在处理...*",
     "download_canceled": [
         "{CROSS_MARK} *下载已取消\\n",
@@ -93,7 +93,7 @@
         "{WARNING} *此下载需要花费超过60秒。\\n",
         "你可以继续下载其他视频，我们会在处理完之后尽快通知你*"
     ],
-    "download_successful": "{HEAVY_CHECK_MARK} *音频文件成功下载！*",
+    "download_successful": "{HEAVY_CHECK_MARK} *音频文件下载成功！*",
     "wait_previous_download": "{WARNING} 正等待上一条下载完成",
     "download_queue_full": "{WARNING} 下载队列已满，请稍后再重试！",
     "help_1": [
@@ -113,7 +113,7 @@
         "当你已经获得视频链接，请发送给我\\n\\n",
         "如果这个视频曾经被其他人下载过，我会立即转发给你。",
         "如果没有， {INBOX_TRAY} *下载* 按钮会出现。点击下载按钮，",
-        "我们会短时间内处理好你的下载请求，并将音频文件发送给你。"
+        "我们会尽快处理好你的下载请求，并将音频文件发送给你。"
     ],
     "help_4": [
         "{OPEN_BOOK} *帮助手册 (4 of 4)*\\n\\n",
@@ -204,6 +204,13 @@
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
+    "donate": [
+        "{WRAPPED_GIFT} *捐赠*\\n\\n",
+        "*感谢您考虑捐赠！*\\n\\n",
+        "YTAudioBot 是完全免费的, 但是需要你们对它的喜爱和支持提供动力！\\n\\n",
+        "如果你真的喜欢这个机器人, 请考虑小小[捐赠](https://paypal.me/delivrance/5) ",
+        "来支持我们的开发, 维护以及服务器开销。"
+    ],
     "month_1": "一月",
     "month_2": "二月",
     "month_3": "三月",
@@ -217,9 +224,9 @@
     "month_11": "十一月",
     "month_12": "十二月",
     "start_button": "{CHEQUERED_FLAG} 开始",
-    "language_button": "{FLAG_FOR_CHINA} 简体中文",
-    "more_info_button": "{PAGE_WITH_CURL} 更多信息",
-    "send_to_button": "{OUTBOX_TRAY} 发送给...",
+    "language_button": "{CHINA} 简体中文",
+    "file_info_button": "{PAGE_WITH_CURL} 文件信息",
+    "share_button": "{RIGHT_ARROW_CURVING_UP} 分享",
     "faq_button": "{BAR_CHART} 常见问题",
     "like_button": "{THUMBS_UP} 我喜欢这个机器人",
     "not_really_button": "{THINKING_FACE} 还不够好",
@@ -229,9 +236,9 @@
     "select_language_button": "{GLOBE_WITH_MERIDIANS} 语言",
     "help_button": "{OPEN_BOOK} 帮助手册",
     "about_button": "{NEWSPAPER} 关于",
-    "previous_button": "« 上一步",
+    "previous_button": "« 上一页",
     "back_button": "« 返回",
-    "next_button": "下一步 »",
+    "next_button": "下一页 »",
     "cancel_button": "{CROSS_MARK} 取消",
     "download_button": "{INBOX_TRAY} 下载",
     "how_it_works_button": "{QUESTION_MARK} 如何开始",
@@ -253,6 +260,8 @@
     "contribute_button": "{BUST_IN_SILHOUETTE} 参与贡献",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} 贡献者",
     "open_project_button": "{CARD_INDEX_DIVIDERS} 访问项目",
+    "donate_button": "{WRAPPED_GIFT} 捐赠",
+    "donate_with_paypal_button": "{P_BUTTON} 使用PayPal捐赠",
     "search_item_template": [
         "{HEADPHONE} *{title}*\\n",
         "{BUST_IN_SILHOUETTE} _{channel}_\\n",

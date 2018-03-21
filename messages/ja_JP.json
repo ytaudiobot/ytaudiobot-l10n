@@ -34,7 +34,7 @@
         "{WARNING} *ファイルが期限切れです*\\n\\n",
         "もう一度ダウンロードするには、{command} を押してください。"
     ],
-    "more_info": [
+    "file_info": [
         "{PAGE_WITH_CURL} 詳細\\n\\n",
         "{SMALL_ORANGE_DIAMOND} ビデオID: {video_id}\\n",
         "{SMALL_ORANGE_DIAMOND} 期間: {duration}\\n",
@@ -47,7 +47,7 @@
         "気に入っていただけてうれしいです。\\n\\n",
         "私たちを評価してください:\\n",
         "{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}\\n",
-        "https://telegram.me/storebot?start=YTAudioBot"
+        "https://t.me/storebot?start=YTAudioBot"
     ],
     "dislike": [
         "{PENSIVE_FACE} *{name}、これを聞いて申し訳ありません。。。*\\n\\n",
@@ -78,8 +78,8 @@
         "{GLOBE_WITH_MERIDIANS} *言語*\\n\\n",
         "言語を選択してください"
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} 日本語に設定 {FLAG_FOR_JAPAN}",
-    "same_language_selected": "{THINKING_FACE} 言語はすでに日本語に設定されています{FLAG_FOR_JAPAN}",
+    "language_selected": "{HEAVY_CHECK_MARK} 日本語に設定 {JAPAN}",
+    "same_language_selected": "{THINKING_FACE} 言語はすでに日本語に設定されています{JAPAN}",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *実行中。。。*",
     "download_canceled": [
         "{CROSS_MARK} *ダウンロードがキャンセルされました。\\n",
@@ -137,6 +137,7 @@
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
+    "donate": null,
     "month_1": "1月",
     "month_2": "2月",
     "month_3": "3月",
@@ -150,9 +151,9 @@
     "month_11": "11月",
     "month_12": "12月",
     "start_button": "{CHEQUERED_FLAG} スタート",
-    "language_button": "{FLAG_FOR_JAPAN} 日本語",
-    "more_info_button": "{PAGE_WITH_CURL} 詳細",
-    "send_to_button": "{OUTBOX_TRAY} シェアする",
+    "language_button": "{JAPAN} 日本語",
+    "file_info_button": "{PAGE_WITH_CURL} 詳細",
+    "share_button": "{RIGHT_ARROW_CURVING_UP} シェアする",
     "faq_button": "{BAR_CHART} FAQ",
     "like_button": "{THUMBS_UP} だいすき！",
     "not_really_button": "{THINKING_FACE} あんまり...",
@@ -186,6 +187,8 @@
     "contribute_button": "{BUST_IN_SILHOUETTE} 貢献する",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} 寄稿者",
     "open_project_button": "{CARD_INDEX_DIVIDERS} プロジェクトを表示する",
+    "donate_button": null,
+    "donate_with_paypal_button": null,
     "search_item_template": [
         "{HEADPHONE} *{title}*\\n",
         "{BUST_IN_SILHOUETTE} _{channel}_\\n",

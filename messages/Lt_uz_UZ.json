@@ -34,7 +34,7 @@
         "{WARNING} *Faylni vaqti tugagan*\\n\\n",
         "Qayta yuklash uchun {command} ni bosing."
     ],
-    "more_info": [
+    "file_info": [
         "{PAGE_WITH_CURL} Qo'shimcha ma'lumot\\n\\n",
         "{SMALL_ORANGE_DIAMOND} Video ID: {video_id}\\n",
         "{SMALL_ORANGE_DIAMOND} Davomiyligi: {duration}\\n",
@@ -47,7 +47,7 @@
         "Sizga yoqqanidan xursandmiz.\\n\\n",
         "Botga reyting berishingiz mumkin\\n",
         "5 yulduzni {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} buyerda bering:\\n",
-        "https://telegram.me/storebot?start=YTAudioBot"
+        "https://t.me/storebot?start=YTAudioBot"
     ],
     "dislike": [
         "{PENSIVE_FACE} *Eshitganimizdan afsusdamiz, {name}.*\\n\\n",
@@ -78,8 +78,8 @@
         "{GLOBE_WITH_MERIDIANS} *Til*\\n\\n",
         "Tilni tanlang."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} {FLAG_FOR_UZBEKISTAN} O'zbek tili tanlandi.",
-    "same_language_selected": "{THINKING_FACE} Botning tili oldindan {FLAG_FOR_UZBEKISTAN} O'zbekchaga tanlangan",
+    "language_selected": "{HEAVY_CHECK_MARK} {UZBEKISTAN} O'zbek tili tanlandi.",
+    "same_language_selected": "{THINKING_FACE} Botning tili oldindan {UZBEKISTAN} O'zbekchaga tanlangan",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *Video protsessda...*",
     "download_canceled": [
         "{CROSS_MARK} *Yuklash to'xtatildi.\\n",
@@ -203,6 +203,7 @@
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
+    "donate": null,
     "month_1": "Yanvar",
     "month_2": "Febral",
     "month_3": "Mart",
@@ -216,9 +217,9 @@
     "month_11": "Noyabr",
     "month_12": "Dekabr",
     "start_button": "{CHEQUERED_FLAG} Boshlash",
-    "language_button": "{FLAG_FOR_UZBEKISTAN} O'zbek",
-    "more_info_button": "{PAGE_WITH_CURL} Qo'shimcha ma'lumot",
-    "send_to_button": "{OUTBOX_TRAY} Jo'natish...",
+    "language_button": "{UZBEKISTAN} O'zbek",
+    "file_info_button": "{PAGE_WITH_CURL} Qo'shimcha ma'lumot",
+    "share_button": "{RIGHT_ARROW_CURVING_UP} Jo'natish...",
     "faq_button": "{BAR_CHART} KSS",
     "like_button": "{THUMBS_UP} Bot menga yoqdi!",
     "not_really_button": "{THINKING_FACE} Ja unchalik emas",
@@ -252,6 +253,8 @@
     "contribute_button": "{BUST_IN_SILHOUETTE} Hissa qo'shish",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Tarjimonlar",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Projektni ochish",
+    "donate_button": null,
+    "donate_with_paypal_button": null,
     "search_item_template": [
         "{HEADPHONE} *{title}*\\n",
         "{BUST_IN_SILHOUETTE} _{channel}_\\n",

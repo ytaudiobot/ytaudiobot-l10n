@@ -34,7 +34,7 @@
         "{WARNING} *Kadaluarsa*\\n\\n",
         "Tekan {command} untuk mengunduh ulang."
     ],
-    "more_info": [
+    "file_info": [
         "{PAGE_WITH_CURL} Rincian\\n\\n",
         "{SMALL_ORANGE_DIAMOND} ID Video: {video_id}\\n",
         "{SMALL_ORANGE_DIAMOND} Durasi: {duration}\\n",
@@ -47,7 +47,7 @@
         "Kami senang anda menyukainya.\\n\\n",
         "Anda dapat memberikan peringkat bot ini\\n",
         "Setidaknya 5 {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} disini:\\n",
-        "https://telegram.me/storebot?start=YTAudioBot"
+        "https://t.me/storebot?start=YTAudioBot"
     ],
     "dislike": [
         "{PENSIVE_FACE} *Kami turut berduka atas ketidaksukaan anda, {name}.*\\n\\n",
@@ -78,8 +78,8 @@
         "{GLOBE_WITH_MERIDIANS} *Bahasa*\\n\\n",
         "Pilih bahasa anda."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} Bahasa terpilih: {FLAG_FOR_INDONESIA} Bahasa Indonesia.",
-    "same_language_selected": "{THINKING_FACE} Bahasa terpilih: (masih) {FLAG_FOR_INDONESIA} Bahasa Indonesia.",
+    "language_selected": "{HEAVY_CHECK_MARK} Bahasa terpilih: {INDONESIA} Bahasa Indonesia.",
+    "same_language_selected": "{THINKING_FACE} Bahasa terpilih: (masih) {INDONESIA} Bahasa Indonesia.",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *Memproses video...*",
     "download_canceled": [
         "{CROSS_MARK} *Unduhan dibatalkan.\\n",
@@ -203,6 +203,7 @@
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
+    "donate": null,
     "month_1": "Januari",
     "month_2": "Februari",
     "month_3": "Maret",
@@ -216,9 +217,9 @@
     "month_11": "November",
     "month_12": "Desember",
     "start_button": "{CHEQUERED_FLAG} Mulai",
-    "language_button": "{FLAG_FOR_INDONESIA} Bahasa Indonesia",
-    "more_info_button": "{PAGE_WITH_CURL} Rincian",
-    "send_to_button": "{OUTBOX_TRAY} Kirim ke...",
+    "language_button": "{INDONESIA} Bahasa Indonesia",
+    "file_info_button": "{PAGE_WITH_CURL} Rincian",
+    "share_button": "{RIGHT_ARROW_CURVING_UP} Kirim ke...",
     "faq_button": "{BAR_CHART} FAQ",
     "like_button": "{THUMBS_UP} Saya suka!",
     "not_really_button": "{THINKING_FACE} Tidak juga",
@@ -252,6 +253,8 @@
     "contribute_button": "{BUST_IN_SILHOUETTE} Kontribusi",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Kontributor",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Buka proyek",
+    "donate_button": null,
+    "donate_with_paypal_button": null,
     "search_item_template": [
         "{HEADPHONE} *{title}*\\n",
         "{BUST_IN_SILHOUETTE} _{channel}_\\n",

@@ -34,7 +34,7 @@
         "{WARNING} *Fichier expiré*\\n\\n",
         "Appuyez sur {command} pour le télécharger à nouveau."
     ],
-    "more_info": [
+    "file_info": [
         "{PAGE_WITH_CURL} Plus d'infos\\n\\n",
         "{SMALL_ORANGE_DIAMOND} ID de la vidéo : {video_id}\\n",
         "{SMALL_ORANGE_DIAMOND} Durée : {duration}\\n",
@@ -47,7 +47,7 @@
         "Nous sommes fiers que vous soyez satisfait(e).\\n\\n",
         "Vous pouvez évaluer le bot et lui accorder\\n",
         "5 étoiles {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} ici :\\n",
-        "https://telegram.me/storebot?start=YTAudioBot"
+        "https://t.me/storebot?start=YTAudioBot"
     ],
     "dislike": [
         "{PENSIVE_FACE} *Nous sommes désolés d'entendre cela, {name}.*\\n\\n",
@@ -78,8 +78,8 @@
         "{GLOBE_WITH_MERIDIANS} *Langage*\\n\\n",
         "Sélectionnez le langage désiré."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} Langage défini : {FLAG_FOR_FRANCE} Français.",
-    "same_language_selected": "{THINKING_FACE} La langue du bot est déjà le {FLAG_FOR_FRANCE} Français",
+    "language_selected": "{HEAVY_CHECK_MARK} Langage défini : {FRANCE} Français.",
+    "same_language_selected": "{THINKING_FACE} La langue du bot est déjà le {FRANCE} Français",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *Traitement de la vidéo en cours ...*",
     "download_canceled": [
         "{CROSS_MARK} *Téléchargement annulé.\\n",
@@ -203,6 +203,7 @@
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
+    "donate": null,
     "month_1": "Janvier",
     "month_2": "Février",
     "month_3": "Mars",
@@ -216,9 +217,9 @@
     "month_11": "Novembre",
     "month_12": "Décembre",
     "start_button": "{CHEQUERED_FLAG} Commencer",
-    "language_button": "{FLAG_FOR_FRANCE} Français",
-    "more_info_button": "{PAGE_WITH_CURL} Plus d'infos",
-    "send_to_button": "{OUTBOX_TRAY} Envoyer à ...",
+    "language_button": "{FRANCE} Français",
+    "file_info_button": "{PAGE_WITH_CURL} Plus d'infos",
+    "share_button": "{RIGHT_ARROW_CURVING_UP} Envoyer à ...",
     "faq_button": "{BAR_CHART} FAQ",
     "like_button": "{THUMBS_UP} J'aime !",
     "not_really_button": "{THINKING_FACE} Pas vraiment",
@@ -252,6 +253,8 @@
     "contribute_button": "{BUST_IN_SILHOUETTE} Contribuer",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Contributeurs",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Ouvrir le projet",
+    "donate_button": null,
+    "donate_with_paypal_button": null,
     "search_item_template": [
         "{HEADPHONE} *{title}*\\n",
         "{BUST_IN_SILHOUETTE} _{channel}_\\n",

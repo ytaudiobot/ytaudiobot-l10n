@@ -34,8 +34,8 @@
         "{WARNING} *הקובץ פג תוקף*\\n\\n",
         "תלחץ {command} על מנת להוריד שוב."
     ],
-    "more_info": [
-        "{PAGE_WITH_CURL} עוד מידע\\n\\n",
+    "file_info": [
+        "{PAGE_WITH_CURL} אודות הקובץ\\n\\n",
         "{SMALL_ORANGE_DIAMOND} זיהוי הסרטון: {video_id}\\n",
         "{SMALL_ORANGE_DIAMOND} משך: {duration}\\n",
         "{SMALL_ORANGE_DIAMOND} גודל: {file_size} MB\\n",
@@ -47,7 +47,7 @@
         "אנחנו שמחים שאהבת.\\n\\n",
         "אתה יכול לדרג את הבוט הזה\\n",
         "5 כוכבים {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} פה:\\n",
-        "https://telegram.me/storebot?start=YTAudioBot"
+        "https://t.me/storebot?start=YTAudioBot"
     ],
     "dislike": [
         "{PENSIVE_FACE} *אנחנו מצטערים לשמוע את זה, {name}.*\\n\\n",
@@ -78,8 +78,8 @@
         "{GLOBE_WITH_MERIDIANS} *שפה*\\n\\n",
         "בחר את השפה שלך."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} השפה שנבחרה היא {FLAG_FOR_ISRAEL} עברית.",
-    "same_language_selected": "{THINKING_FACE} השפה שנבחרה היא כבר {FLAG_FOR_ISRAEL} עברית",
+    "language_selected": "{HEAVY_CHECK_MARK} השפה שנבחרה היא {ISRAEL} עברית.",
+    "same_language_selected": "{THINKING_FACE} השפה שנבחרה היא כבר {ISRAEL} עברית",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *עיבוד הסרטון מתבצע...*",
     "download_canceled": [
         "{CROSS_MARK} *ההורדה בוטלה.\\n",
@@ -203,6 +203,13 @@
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
+    "donate": [
+        "{WRAPPED_GIFT} *תרום*\\n\\n",
+        "*תודה על הרצון לעזור!*\\n\\n",
+        "‏YTAudioBot הוא חינמי לחלוטין, אבל מונע בעזרת האהבה והתמיכה שלך!\\n\\n",
+        "אם אתה ממש נהנה מבוט זה, תשקול [תרומה](https://paypal.me/delivrance/5) ",
+        "בשביל לתמוך בפיתוח, תחזוקה, ועלות השרתים."
+    ],
     "month_1": "ינואר",
     "month_2": "פברואר",
     "month_3": "מרץ",
@@ -216,9 +223,9 @@
     "month_11": "נובמבר",
     "month_12": "דצמבר",
     "start_button": "{CHEQUERED_FLAG} התחל",
-    "language_button": "{FLAG_FOR_ISRAEL} עברית",
-    "more_info_button": "{PAGE_WITH_CURL} עוד מידע",
-    "send_to_button": "{OUTBOX_TRAY} שלח אל...",
+    "language_button": "{ISRAEL} עברית",
+    "file_info_button": "{PAGE_WITH_CURL} אודות הקובץ",
+    "share_button": "{RIGHT_ARROW_CURVING_UP} שתף",
     "faq_button": "{BAR_CHART} שו\\\"ת",
     "like_button": "{THUMBS_UP} אהבתי!",
     "not_really_button": "{THINKING_FACE} לא ממש",
@@ -252,6 +259,8 @@
     "contribute_button": "{BUST_IN_SILHOUETTE} תרגם",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} מתרגמים",
     "open_project_button": "{CARD_INDEX_DIVIDERS} פתח את הפרויקט",
+    "donate_button": "{WRAPPED_GIFT} תרום",
+    "donate_with_paypal_button": "{P_BUTTON} תרום עם פייפאל",
     "search_item_template": [
         "{HEADPHONE} *{title}*\\n",
         "{BUST_IN_SILHOUETTE} _{channel}_\\n",
