@@ -104,8 +104,8 @@
     "help_2": [
         "{OPEN_BOOK} *Hilfe (2 von 4)*\\n\\n",
         "Es gibt eine Vielzahl an Möglichkeiten, um die URL zu finden. Du kannst zum Beispiel:\\n\\n",
-        "— den 'Teilen'-Button von der YouTube App benuzten.\\n",
-        "— Telegram's inline bots @vid oder @youtube benutzen.\\n",
+        "— Den 'Teilen'-Button der YouTube App benutzen.\\n",
+        "— Die Telegram Inline Bots @vid oder @youtube benutzen.\\n",
         "— Den Link von deinem Browser kopieren und hier einfügen."
     ],
     "help_3": [
@@ -198,7 +198,7 @@
         "Wir freuen uns auf neue Sprachen und Verbesserungen! Schließe dich uns an - jede Hilfe wird dankend angenommen!"
     ],
     "contributors": [
-        "{BUSTS_IN_SILHOUETTE} *Beiträger*\\n\\n",
+        "{BUSTS_IN_SILHOUETTE} *Freiwillige*\\n\\n",
         "{RED_HEART} Wir danken herzlich den folgenden Übersetzern:\\n\\n",
         "{contributors}\\n\\n",
         "— @YTAudioBot"
