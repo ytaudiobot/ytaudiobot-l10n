@@ -35,7 +35,7 @@
         "Drücke {command} zum erneuten Herunterladen."
     ],
     "file_info": [
-        "{PAGE_WITH_CURL} Mehr Infos\\n\\n",
+        "{PAGE_WITH_CURL} Datei Infos\\n\\n",
         "{SMALL_ORANGE_DIAMOND} Video ID: {video_id}\\n",
         "{SMALL_ORANGE_DIAMOND} Länge: {duration}\\n",
         "{SMALL_ORANGE_DIAMOND} Größe: {file_size} MB\\n",
@@ -71,9 +71,9 @@
     "showing_youtube_results": "{RIGHT_POINTING_MAGNIFYING_GLASS} *YouTube Ergebnisse für \\\"*{terms}*\\\"*\\n\\n",
     "flood_wait": "{WARNING} *Nicht so schnell! Warte {0 Sekunden|eine Sekunde|# Sekunden} und versuche es erneut.*",
     "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} *Suche nach \\\"*{terms}*\\\"...*",
-    "video_not_available": "{PENSIVE_FACE} *Entschuldigung, aber dieses Video is im Moment nicht konvertierbar. Versuche es später erneut. *",
+    "video_not_available": "{PENSIVE_FACE} *Entschuldigung, aber dieses Video ist im Moment nicht verfügbar. Versuche es später erneut. *",
     "size_limit_exceeded": "{PENSIVE_FACE} *Entschuldigung, aber dieses Video überschreitet das Größen-Limit. Versuche es erneut mit einem anderen.*",
-    "api_error": "{PENSIVE_FACE} *Entschuldigung, aber die gewünschte Option kann im Moment nicht durchgeführt werden. Versuche es später erneut.*",
+    "api_error": "{PENSIVE_FACE} *Entschuldigung, aber die gewünschte Operation kann im Moment nicht durchgeführt werden. Versuche es später erneut.*",
     "select_language": [
         "{GLOBE_WITH_MERIDIANS} *Sprache*\\n\\n",
         "Wähle eine Sprache aus."
@@ -104,8 +104,8 @@
     "help_2": [
         "{OPEN_BOOK} *Hilfe (2 von 4)*\\n\\n",
         "Es gibt eine Vielzahl an Möglichkeiten, um die URL zu finden. Du kannst zum Beispiel:\\n\\n",
-        "— den 'Teilen'-Button von der YouTube App benuzten.\\n",
-        "— Telegram's inline bots @vid oder @youtube benutzen.\\n",
+        "— Den 'Teilen'-Button der YouTube App benutzen.\\n",
+        "— Die Telegram Inline Bots @vid oder @youtube benutzen.\\n",
         "— Den Link von deinem Browser kopieren und hier einfügen."
     ],
     "help_3": [
@@ -159,7 +159,7 @@
         "{BAR_CHART} *Häufig gestellte Fragen*\\n\\n",
         "`F:` *1. Ich möchte gern das Audio-Format auswählen!*\\n",
         "`A:` Wir fokussieren uns auf Qualität, Stabilität und Verlässlichkeit. ",
-        "Um unsere super-schnellen Konvertierung mit der bei YouTube am besten verfügbaren Qualität zu gewährleisten, senden wir derzeit ausschließlich ",
+        "Um unsere super-schnelle Konvertierung mit der bei YouTube am besten verfügbaren Qualität zu gewährleisten, senden wir derzeit ausschließlich ",
         "AAC 128k codierte Dateien in MPEG-4 Part 14 (MP4) mit M4A Dateinamenserweiterung und iTunes Infos zum Song. ",
         "Dies könnte sich in Zukunft ändern."
     ],
@@ -194,16 +194,22 @@
         "{FOLDED_HANDS} *Helfe, den Bot zu übersetzen*\\n\\n",
         "{name}! Wenn du möchstest, dass @YTAudioBot auch deine Sprache spricht, oder du eine schon verfügbare Sprache verbessern möchtest, kannst du uns gerne helfen!\\n\\n",
         "Wir haben diesbezüglich eine Anleitung vorbereitet, die du [hier](https://github.com/ytaudiobot/ytaudiobot-l10n) finden kannst. ",
-        "Beachte, dass du Grundkenntnisse der englischen Sprache beherrschen musst.\\n\\n",
+        "Beachte, dass du über Grundkenntnisse der englischen Sprache verfügen musst.\\n\\n",
         "Wir freuen uns auf neue Sprachen und Verbesserungen! Schließe dich uns an - jede Hilfe wird dankend angenommen!"
     ],
     "contributors": [
-        "{BUSTS_IN_SILHOUETTE} *Beiträger*\\n\\n",
+        "{BUSTS_IN_SILHOUETTE} *Freiwillige*\\n\\n",
         "{RED_HEART} Wir danken herzlich den folgenden Übersetzern:\\n\\n",
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
-    "donate": null,
+    "donate": [
+        "{WRAPPED_GIFT} *Spenden*\\n\\n",
+        "*Danke, dass du helfen möchtest!*\\n\\n",
+        "YTAudioBot ist komplett kostenlos, angetrieben durch eure Liebe und Unterstützung!\\n\\n",
+        "Wenn dir dieser Bot richtig gut gefällt, erwäge eine [Spende](https://paypal.me/delivrance/5) ",
+        "um etwas zu Entwicklung, Betreuung und Serverkosten beizutragen."
+    ],
     "month_1": "Januar",
     "month_2": "Februar",
     "month_3": "März",
@@ -218,8 +224,8 @@
     "month_12": "Dezember",
     "start_button": "{CHEQUERED_FLAG} Start",
     "language_button": "{GERMANY} Deutsch",
-    "file_info_button": "{PAGE_WITH_CURL} Mehr Infos",
-    "share_button": "{RIGHT_ARROW_CURVING_UP} Senden an...",
+    "file_info_button": "{PAGE_WITH_CURL} Datei Infos",
+    "share_button": "{RIGHT_ARROW_CURVING_UP} Teilen",
     "faq_button": "{BAR_CHART} FAQ",
     "like_button": "{THUMBS_UP} Der Bot ist super!",
     "not_really_button": "{THINKING_FACE} Nicht wirklich",
@@ -251,10 +257,10 @@
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Pause",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Fortsetzen",
     "contribute_button": "{BUST_IN_SILHOUETTE} Mithelfen",
-    "contributors_button": "{BUSTS_IN_SILHOUETTE} Beiträger",
+    "contributors_button": "{BUSTS_IN_SILHOUETTE} Freiwillige",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Projekt öffnen",
-    "donate_button": null,
-    "donate_with_paypal_button": null,
+    "donate_button": "{WRAPPED_GIFT} Spenden",
+    "donate_with_paypal_button": "{P_BUTTON} Spende mit PayPal",
     "search_item_template": [
         "{HEADPHONE} *{title}*\\n",
         "{BUST_IN_SILHOUETTE} _{channel}_\\n",
