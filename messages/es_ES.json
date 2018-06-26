@@ -2,13 +2,13 @@
     "position": 2,
     "right_to_left": false,
     "description": [
-        "¡Descarga archivos de audio de vídeos de YouTube y llévalos siempre contigo!\\n\\n",
+        "¡Descarga vídeos de YouTube como audio para llevar siempre contigo!\\n\\n",
         "Mirror: @YTAudio_Bot"
     ],
     "type_search_terms": "{MEMO} Escribe tus términos de búsqueda",
     "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} Buscar \\\"{terms}\\\" en YouTube",
     "error": "{PENSIVE_FACE} Ocurrió un error. Reinténtalo más tarde.",
-    "longer_download_time": "{WARNING} *Este vídeo puede tardar más tiempo de lo normal. ¡La descarga podría incluso fallar!*",
+    "longer_download_time": "{WARNING} *Este vídeo puede tardar más tiempo de lo normal. ¡La descarga puede fallar incluso!*",
     "clear_history_warning": "{WARNING} ¡Estás a punto de borrar todo tu historial!",
     "history_settings": [
         "{HOURGLASS} *Historial de descargas*\\n\\n",
@@ -56,7 +56,7 @@
     "rating_message": [
         "{WHITE_MEDIUM_STAR} *Valorar YTAudioBot*\\n\\n",
         "{name}, ¿estás disfrutando del bot?\\n",
-        "Tómate un momento para escribir una reseña en StoreBot."
+        "Dedica un momento para dejar una reseña en StoreBot."
     ],
     "rate_later": "{HOURGLASS} *¡OK, te lo volveré a preguntar en otro momento!*",
     "rate_never": "{PILE_OF_POO} *OK, no te lo volveré a preguntar.*",
@@ -179,8 +179,8 @@
     "faq_4": [
         "{BAR_CHART} *Preguntas frecuentes*\\n\\n",
         "`P:` *4. ¿Por qué los archivos tienen nombres raros?*\\n",
-        "`R:` Los archivos se guardan como `Título - IdVideo.m4a`, sin embargo el `Título` puede variar con respecto al original, ",
-        "debido a que puede contener algunos caracteres inválidos. Esto no suele causar problemas, ya que toda la información del ",
+        "`R:` Los archivos se guardan como `Título - IdVideo.m4a`, sin embargo, `Título` puede variar con respecto al original, ",
+        "debido a que puede contener algunos caracteres inválidos. Esto no debería causar problemas, ya que toda la información del ",
         "vídeo está incrustada en las etiquetas del archivo de audio."
     ],
     "faq_menu": [
@@ -191,14 +191,14 @@
         "*4.* ¿Por qué los archivos tienen nombres raros?"
     ],
     "contribute": [
-        "{FOLDED_HANDS} *Ayudar a traducir*\\n\\n",
-        "¡{name}! Si quieres que @YTAudioBot hable en tu idioma, o quieres mejorar una traducción existente, ¡puedes ayudarnos!\\n\\n",
-        "Hemos elaborado una guía solo para esto, [aquí](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
-        "Se requiere tener conocimiento del idioma inglés.\\n\\n",
-        "¡Nuevos idiomas y mejoras son bienvenidas! ¡Únete a nosotros, se agradece toda ayuda!"
+        "{FOLDED_HANDS} *Ayuda a traducir*\\n\\n",
+        "¡{name}! Si quieres que @YTAudioBot hable tu idioma o quieres mejorar uno existente, ¡puedes ayudarnos!\\n\\n",
+        "Hemos preparado [una guía](https://github.com/ytaudiobot/ytaudiobot-l10n) sólo para esto. ",
+        "Se requiere conocimiento del idioma inglés.\\n\\n",
+        "¡Aceptamos nuevos idiomas y mejoras! ¡Únete a nosotros, toda ayuda es bienvenida!"
     ],
     "contributors": [
-        "{BUSTS_IN_SILHOUETTE} *Contribuidores*\\n\\n",
+        "{BUSTS_IN_SILHOUETTE} *Colaboradores*\\n\\n",
         "{RED_HEART} Queremos agradecer a los siguientes traductores:\\n\\n",
         "{contributors}\\n\\n",
         "— @YTAudioBot"
@@ -206,9 +206,9 @@
     "donate": [
         "{WRAPPED_GIFT} *Donar*\\n\\n",
         "*¡Gracias por querer ayudar!*\\n\\n",
-        "YTAudioBot es completamente gratis, ¡pero funciona gracias a vuestro amor y apoyo!\\n\\n",
-        "Si realmente disfrutas de este bot, considera una [donación](https://paypal.me/delivrance/5) ",
-        "para apoyar los costes de desarrollo, mantenimiento y servidores."
+        "¡YTAudioBot es completamente gratis, pero gracias a vuestra colaboración y apoyo!\\n\\n",
+        "Si te gusta este bot, piensa en la posibilidad de hacer una [donación](https://paypal.me/delivrance/5) ",
+        "para costear el desarrollo, mantenimiento y servidores."
     ],
     "month_1": "enero",
     "month_2": "febrero",
@@ -248,7 +248,7 @@
     "website_button": "{LINK} Web",
     "email_button": "{ENVELOPE} Email",
     "ratings_button": "{EYE} Reseñas",
-    "help_translate_button": "{FOLDED_HANDS} Ayudar a traducir",
+    "help_translate_button": "{FOLDED_HANDS} Traducir",
     "history_button": "{HOURGLASS} Historial",
     "remove_button": "{CROSS_MARK} Quitar",
     "restore_button": "{HEAVY_PLUS_SIGN} Restaurar",
