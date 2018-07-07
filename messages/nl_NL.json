@@ -131,7 +131,7 @@
     ],
     "hi": "{SPARKLES} *Hi, {name}!*",
     "presentation": [
-        "*With *[YTAudioBot](https://ytaudiobot.ml)*, je kunt YouTube-video's downloaden als alleen-audiobestanden ",
+        "*Met *[YTAudioBot](https://ytaudiobot.ml)*, kan je YouTube-video's downloaden als audiobestanden ",
         "om overal mee te nemen.*"
     ],
     "feedback": [
@@ -157,7 +157,7 @@
     ],
     "faq_1": [
         "{BAR_CHART} *Vaak gestelde vragen*\\n\\n",
-        "`Q:` *1. Ik wil het bestandsformaat selecteren!*\\n",
+        "`V:` *1. Ik wil het bestandsformaat selecteren!*\\n",
         "`A:` We focussen ons op kwaliteit, dienst prestatie en betrouwbaarheid. ",
         "Om snelle converies van geluid op de hoogste kwaliteit van YouTube te bereiken, sturen we alleen ",
         "AAC 128k bestanden in een MPEG-4 Part 14 (MP4) container met M4A extensie, inclusief iTunes informatie. ",
@@ -165,20 +165,20 @@
     ],
     "faq_2": [
         "{BAR_CHART} *Vaak gestelde vragen*\\n\\n",
-        "`Q:` *2. Wat betekent AAC/M4A?*\\n",
+        "`V:` *2. Wat betekent AAC/M4A?*\\n",
         "`A:` AAC is een audio encoding formaat, ontworpen als opvolger van MP3 en behaalt gemiddeld ",
         "hogere kwaliteit dan MP3 met vergelijkbare bitrates. is een extensie, ookwel bekend als de container ",
         "van zowel de AAC gecodeerde audio en de informatie van de audio zelf.."
     ],
     "faq_3": [
         "{BAR_CHART} *Vaak gestelde vragen*\\n\\n",
-        "`Q:` *3. Sommige videos werken niet!*\\n",
+        "`V:` *3. Sommige videos werken niet!*\\n",
         "`A:` Sommige video's, door YouTube's beperkingen, zijn niet beschikbaar voor ons datacanter. Ook ",
         "kan de bot bestanden sturen tot maximaal 50MB. Dit kan veranderen in de toekomst."
     ],
     "faq_4": [
         "{BAR_CHART} *Vaak gestelde vragen*\\n\\n",
-        "`Q:` *4. Waarom hebben de bestanden rare namen?*\\n",
+        "`V:` *4. Waarom hebben de bestanden rare namen?*\\n",
         "`A:` De bestanden wordne opgeslagen als `Title - VideoId.m4a`, maar de titel is niet met zekerheid de echte ",
         "titel, door eventuele ongeldige tekens. Dit is meestal geen probleem, omdat alle correcte informatie  ",
         "over de video al in de bestands informatie zitten."
@@ -240,7 +240,7 @@
     "next_button": "Volgende »",
     "cancel_button": "{CROSS_MARK} Annuleren",
     "download_button": "{INBOX_TRAY} Download",
-    "how_it_works_button": "{QUESTION_MARK} Hoe het werkt",
+    "how_it_works_button": "{QUESTION_MARK} Hoe werkt het",
     "rate_now_button": "{WHITE_MEDIUM_STAR} Beoordelen",
     "later_button": "{HOURGLASS} Later",
     "no_thanks_button": "{PILE_OF_POO} Nee, bedankt",
