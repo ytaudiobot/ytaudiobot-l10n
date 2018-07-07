@@ -131,7 +131,7 @@
     ],
     "hi": "{SPARKLES} *Hi, {name}!*",
     "presentation": [
-        "*With *[YTAudioBot](https://ytaudiobot.ml)*, je kunt YouTube-video's downloaden als alleen-audiobestanden ",
+        "*Met *[YTAudioBot](https://ytaudiobot.ml)*, kan je YouTube-video's downloaden als audiobestanden ",
         "om overal mee te nemen.*"
     ],
     "feedback": [
@@ -240,7 +240,7 @@
     "next_button": "Volgende »",
     "cancel_button": "{CROSS_MARK} Annuleren",
     "download_button": "{INBOX_TRAY} Download",
-    "how_it_works_button": "{QUESTION_MARK} Hoe het werkt",
+    "how_it_works_button": "{QUESTION_MARK} Hoe werkt het",
     "rate_now_button": "{WHITE_MEDIUM_STAR} Beoordelen",
     "later_button": "{HOURGLASS} Later",
     "no_thanks_button": "{PILE_OF_POO} Nee, bedankt",
