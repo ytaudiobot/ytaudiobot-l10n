@@ -31,7 +31,7 @@ Language | Contributors | Translated
 :azerbaijan: **Azərbaycanca** ([az_AZ](messages/az_AZ.json)) | [Nazar Nasirzada](//github.com/nnasirzada) | 100%
 :poland: **Polski** ([pl_PL](messages/pl_PL.json)) | [Veleth](//github.com/veleth) | [**98%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
 :vietnam: **Việt Nam** ([vi_VN](messages/vi_VN.json)) | [Thiều Quang Huy](//github.com/abcd123huy) | 100%
-:netherlands: **Dutch** ([nl_NL](messages/nl_NL.json)) | [jrnwndr](//github.com/jrnwndr) | 100%
+:netherlands: **Nederlands** ([nl_NL](messages/nl_NL.json)) | [jrnwndr](//github.com/jrnwndr) | 100%
 
 > Add yourself here once you submit your translations
 
