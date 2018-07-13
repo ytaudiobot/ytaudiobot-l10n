@@ -203,7 +203,7 @@
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
-    "donate": null,
+    "donate": "Wesprzyj nas",
     "month_1": "Stycznia",
     "month_2": "Lutego",
     "month_3": "Marca",
@@ -253,8 +253,8 @@
     "contribute_button": "{BUST_IN_SILHOUETTE} Dołącz do nas!",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Tłumacze",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Pokaż projekt",
-    "donate_button": null,
-    "donate_with_paypal_button": null,
+    "donate_button": "Wesprzyj nas",
+    "donate_with_paypal_button": "Wesprzyj nas przez PayPal",
     "search_item_template": [
         "{HEADPHONE} *{title}*\\n",
         "{BUST_IN_SILHOUETTE} _{channel}_\\n",
