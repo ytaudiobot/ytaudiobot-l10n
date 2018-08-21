@@ -58,8 +58,8 @@
         "{name}, você gosta do bot?\\n",
         "Tire um momento para nos avaliar no StoreBot."
     ],
-    "rate_later": "{HOURGLASS} *Ok, te perguntarei outra hora!*",
-    "rate_never": "{PILE_OF_POO} *Ok, nunca te perguntarei movamente.*",
+    "rate_later": "{HOURGLASS} *Ok,perguntarei outra hora!*",
+    "rate_never": "{PILE_OF_POO} *Ok, não perguntarei novamente.*",
     "send_feedback": [
         "{MEMO} *Enviar feedback*\\n\\n",
         "Você pode sugerir mudanças ou melhorias ao bot, reportar bugs, ou enviar um comentário aos criadores ",
