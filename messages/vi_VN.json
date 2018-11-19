@@ -8,15 +8,15 @@
     "type_search_terms": "{MEMO} Nhập điều kiện tìm kiếm",
     "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} Tìm kiếm \\\"{terms}\\\" trên YouTube",
     "error": "{PENSIVE_FACE} Có lỗi xãy ra. Vui lòng thử lại.",
-    "longer_download_time": "{WARNING} *Video này mất một khoảng thời gian khá lớn. Tải về có thể sẽ lỗi!*",
+    "longer_download_time": "{WARNING} **Video này mất một khoảng thời gian khá lớn. Tải về có thể sẽ lỗi!**",
     "clear_history_warning": "{WARNING} Bạn sắp xóa toàn bộ lịch sử của mình!",
     "history_settings": [
-        "{HOURGLASS} *Lịch sử tải xuống*\\n\\n",
+        "{HOURGLASS} **Lịch sử tải xuống**\\n\\n",
         "{Không có item nào|Có một item|Có # item} trong lịch sử tải xuống của bạn."
     ],
     "clear_history_confirmation": [
-        "{WASTEBASKET} *Xóa tất cả lịch sử tải xuống*\\n\\n",
-        "Bạn có chắc chắn muốn xóa toàn bộ lịch sử tải xuống? *Bạn không thể hoàn tác việc này.*"
+        "{WASTEBASKET} **Xóa tất cả lịch sử tải xuống**\\n\\n",
+        "Bạn có chắc chắn muốn xóa toàn bộ lịch sử tải xuống? **Bạn không thể hoàn tác việc này.**"
     ],
     "added_seconds_ago": "Đã thêm trong {0 giây|1 giây|# giây} trước",
     "added_minutes_ago": "Đã thêm trong {0 phút|1 phút|# phút} trước",
@@ -31,7 +31,7 @@
     "download_history_resumed": "{WHITE_HEAVY_CHECK_MARK} Lịch sử tải xuống đã tiếp tục",
     "download_history_cleared": "{WASTEBASKET} Lịch sử tải xuống đã xóa",
     "file_expired": [
-        "{WARNING} *Tệp đã hết hạn*\\n\\n",
+        "{WARNING} **Tệp đã hết hạn**\\n\\n",
         "Nhấn {command} để tải lại."
     ],
     "file_info": [
@@ -43,169 +43,169 @@
     ],
     "listen_on_youtube": "{LINK} [Nghe trên YouTube](https://youtu.be/{video_id})",
     "like": [
-        "{SPARKLES} *Cám ơn bạn, {name}!*\\n\\n",
+        "{SPARKLES} **Cám ơn bạn, {name}!**\\n\\n",
         "Chúng tôi rất vui vì bạn thích nó.\\n\\n",
         "Bạn có thể đánh giá và cài đặt\\n",
         "5 sao {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} ở đây:\\n",
         "https://t.me/storebot?start=YTAudioBot"
     ],
     "dislike": [
-        "{PENSIVE_FACE} *Chúng tôi rất tiếc khi nghe điều này, {name}.*\\n\\n",
+        "{PENSIVE_FACE} **Chúng tôi rất tiếc khi nghe điều này, {name}.**\\n\\n",
         "Có lỗi gì với bot không? Vui lòng cho chúng tôi biết (bằng tiếng Anh hoặc tiếng Ý):"
     ],
     "rating_message": [
-        "{WHITE_MEDIUM_STAR} *Đánh giá YTAudioBot*\\n\\n",
+        "{WHITE_MEDIUM_STAR} **Đánh giá YTAudioBot**\\n\\n",
         "{name}, bạn có thích bot?\\n",
         "Dành chút thời gian để đánh giá trên StoreBot."
     ],
-    "rate_later": "{HOURGLASS} *Được rồi, chúng tôi sẽ hỏi bạn lại lần sau!*",
-    "rate_never": "{PILE_OF_POO} *Được rồi, chúng tôi sẽ không hỏi bạn nữa!*",
+    "rate_later": "{HOURGLASS} **Được rồi, chúng tôi sẽ hỏi bạn lại lần sau!**",
+    "rate_never": "{PILE_OF_POO} **Được rồi, chúng tôi sẽ không hỏi bạn nữa!**",
     "send_feedback": [
-        "{MEMO} *Gửi phản hồi*\\n\\n",
+        "{MEMO} **Gửi phản hồi**\\n\\n",
         "Bạn có thể đề xuất thay đổi hoặc cải tiến bot, báo cáo lỗi hoặc gửi nhận xét cho tác giả ",
         "(bằng tiếng Anh hoặc tiếng Ý)."
     ],
     "sending_feedback_enabled": "{MEMO} Viết phản hồi của bạn",
-    "feedback_sent": "{HEAVY_CHECK_MARK} *Phản hồi đã được gửi, cảm ơn bạn!*",
-    "showing_trending_results": "{FIRE} *Hiển thị kết quả xu hướng*\\n\\n",
-    "showing_youtube_results": "{RIGHT_POINTING_MAGNIFYING_GLASS} *Kết quả YouTube cho \\\"*{terms}*\\\"*\\n\\n",
-    "flood_wait": "{WARNING} *Không nhanh lắm! Đợi {0 giây|1 giây|# giây} và thử lại.*",
-    "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} *Đang tìm kiếm cho \\\"*{terms}*\\\"...*",
-    "video_not_available": "{PENSIVE_FACE} *Xin lỗi bạn, video này không có sẵn. Thử lại sau nha.*",
-    "size_limit_exceeded": "{PENSIVE_FACE} *Xin lỗi bạn, video này đã quá giớ hạn kích cỡ. Thử với video khác nha.*",
-    "api_error": "{PENSIVE_FACE} *Xin lỗi bạn,  không thể thực hiện thao tác được yêu cầu ngay bây giờ. Thử lại sau nha.*",
+    "feedback_sent": "{HEAVY_CHECK_MARK} **Phản hồi đã được gửi, cảm ơn bạn!**",
+    "showing_trending_results": "{FIRE} **Hiển thị kết quả xu hướng**\\n\\n",
+    "showing_youtube_results": "{RIGHT_POINTING_MAGNIFYING_GLASS} **Kết quả YouTube cho \\\"**{terms}**\\\"**\\n\\n",
+    "flood_wait": "{WARNING} **Không nhanh lắm! Đợi {0 giây|1 giây|# giây} và thử lại.**",
+    "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} **Đang tìm kiếm cho \\\"**{terms}**\\\"...**",
+    "video_not_available": "{PENSIVE_FACE} **Xin lỗi bạn, video này không có sẵn. Thử lại sau nha.**",
+    "size_limit_exceeded": "{PENSIVE_FACE} **Xin lỗi bạn, video này đã quá giớ hạn kích cỡ. Thử với video khác nha.**",
+    "api_error": "{PENSIVE_FACE} **Xin lỗi bạn,  không thể thực hiện thao tác được yêu cầu ngay bây giờ. Thử lại sau nha.**",
     "select_language": [
-        "{GLOBE_WITH_MERIDIANS} *Ngôn ngữ*\\n\\n",
+        "{GLOBE_WITH_MERIDIANS} **Ngôn ngữ**\\n\\n",
         "Vui lòng chọn ngôn ngữ."
     ],
     "language_selected": "{HEAVY_CHECK_MARK} Ngôn ngữ cài đặt cho {VIETNAM} Việt Nam.",
     "same_language_selected": "{THINKING_FACE} Ngôn ngữ của bot hiện đã là {VIETNAM} Việt Nam",
-    "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *Video đang xử lý...*",
+    "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} **Video đang xử lý...**",
     "download_canceled": [
-        "{CROSS_MARK} *Đã hủy tải về.\\n",
-        "Nhấn *{command}* để tải lại.*"
+        "{CROSS_MARK} **Đã hủy tải về.\\n",
+        "Nhấn **{command}** để tải lại.**"
     ],
     "download_error": [
-        "{PENSIVE_FACE} *Xin lỗi, đã xảy ra lỗi không mong muốn.\\n",
-        "Thử lại: *{command}*.*"
+        "{PENSIVE_FACE} **Xin lỗi, đã xảy ra lỗi không mong muốn.\\n",
+        "Thử lại: **{command}**.**"
     ],
     "download_timeout": [
-        "{WARNING} *Quá trình tải xuống mất hơn 60 giây.\\n",
-        "Vui lòng yêu cầu một video khác, video này sẽ được gửi đến bạn sớm nhất có thể!*"
+        "{WARNING} **Quá trình tải xuống mất hơn 60 giây.\\n",
+        "Vui lòng yêu cầu một video khác, video này sẽ được gửi đến bạn sớm nhất có thể!**"
     ],
-    "download_successful": "{HEAVY_CHECK_MARK} *Đã tải xuống âm thanh!*",
+    "download_successful": "{HEAVY_CHECK_MARK} **Đã tải xuống âm thanh!**",
     "wait_previous_download": "{WARNING} Chờ lượt tải trước của bạn!",
     "download_queue_full": "{WARNING} Hàng đợi tải xuống đầy. Vui lòng thử lại sau.",
     "help_1": [
-        "{OPEN_BOOK} *Trợ giúp (1 trên 4)*\\n\\n",
+        "{OPEN_BOOK} **Trợ giúp (1 trên 4)**\\n\\n",
         "Điều duy nhất bạn cần là URL của video YouTube bạn muốn trích xuất âm thanh từ, như sau:\\n\\n",
         "— https://youtu.be/SMWi7CLoZ2Q."
     ],
     "help_2": [
-        "{OPEN_BOOK} *Trợ giúp (2 trên 4)*\\n\\n",
+        "{OPEN_BOOK} **Trợ giúp (2 trên 4)**\\n\\n",
         "Có nhiều cách để tìm URL. Bạn có thể, ví dụ:\\n\\n",
         "— Sử dụng nút Chia sẻ từ ứng dụng YouTube.\\n",
         "— Sử dụng câu lệnh như @vid hay @youtube.\\n",
         "— Sao chép / dán liên kết từ trình duyệt của bạn."
     ],
     "help_3": [
-        "{OPEN_BOOK} *Trợ giúp (3 trên 4)*\\n\\n",
+        "{OPEN_BOOK} **Trợ giúp (3 trên 4)**\\n\\n",
         "Một khi bạn đã tìm thấy URL, hãy gửi nó cho tôi.\\n\\n",
         "Nếu video đã được tải xuống bởi người khác nó sẽ được gửi cho bạn ngay lập tức, ",
-        "Nếu không nút {INBOX_TRAY} *Tải xuống* sẽ hiện. Nhấn vào, và tệp âm thanh của bạn sẽ sẵn sàng ",
+        "Nếu không nút {INBOX_TRAY} **Tải xuống** sẽ hiện. Nhấn vào, và tệp âm thanh của bạn sẽ sẵn sàng ",
         "ngay sau đó."
     ],
     "help_4": [
-        "{OPEN_BOOK} *Trợ giúp (4 trên 4)*\\n\\n",
-        "Sau khi nhận được và tải xuống, bạn có thể nhấn vào tin nhắn âm thanh và nhấn *Lưu vào nhạc* ",
+        "{OPEN_BOOK} **Trợ giúp (4 trên 4)**\\n\\n",
+        "Sau khi nhận được và tải xuống, bạn có thể nhấn vào tin nhắn âm thanh và nhấn **Lưu vào nhạc** ",
         "Để lưu tệp tin âm thanh trong thư mục Âm nhạc của điện thoại."
     ],
     "tip_1": [
-        "{LIGHT_BULB} *Thủ thuật (1 trên 2)*\\n\\n",
+        "{LIGHT_BULB} **Thủ thuật (1 trên 2)**\\n\\n",
         "Bạn còn có thể gửi chỉ với ID của video, như thế này:\\n\\n",
         "— `SMWi7CLoZ2Q`."
     ],
     "tip_2": [
-        "{LIGHT_BULB} *Thủ thuật (2 trên 2)*\\n\\n",
+        "{LIGHT_BULB} **Thủ thuật (2 trên 2)**\\n\\n",
         "Tham gia kênh @YTAudio để nhận tin tức và bản cập nhật mới của bot"
     ],
-    "hi": "{SPARKLES} *Chào bạn, {name}!*",
+    "hi": "{SPARKLES} **Chào bạn, {name}!**",
     "presentation": [
-        "*Với *[YTAudioBot](https://ytaudiobot.ml)*, bạn có thể tải xuống các video trên YouTube dưới dạng các tệp âm thanh ",
-        "bất cứ nơi nào.*"
+        "**Với **[YTAudioBot](https://ytaudiobot.ml)**, bạn có thể tải xuống các video trên YouTube dưới dạng các tệp âm thanh ",
+        "bất cứ nơi nào.**"
     ],
     "feedback": [
-        "{SPEECH_BALLOON} *Phản hồi*\\n\\n",
+        "{SPEECH_BALLOON} **Phản hồi**\\n\\n",
         "Chào bạn, {name}! Bạn có thích YTAudioBot?"
     ],
     "about": [
-        "{NEWSPAPER} *Về tôi*\\n\\n",
-        "*YTAudioBot cho Telegram*\\n",
+        "{NEWSPAPER} **Về tôi**\\n\\n",
+        "**YTAudioBot cho Telegram**\\n",
         "{version} _Ngày {day} {month}, {year}_\\n\\n",
-        "{LOUDSPEAKER} *Kênh* - @YTAudio\\n",
-        "{LINK} *Website* - https://ytaudiobot.ml\\n",
-        "{ENVELOPE} *E-Mail* - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
-        "{EYE} *Đánh giá* - {WHITE_MEDIUM_STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
+        "{LOUDSPEAKER} **Kênh** - @YTAudio\\n",
+        "{LINK} **Website** - https://ytaudiobot.ml\\n",
+        "{ENVELOPE} **E-Mail** - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
+        "{EYE} **Đánh giá** - {WHITE_MEDIUM_STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
         "{BUST_IN_SILHOUETTE} [{reviews_n}](https://storebot.me/bot/ytaudiobot)"
     ],
     "settings": [
-        "{GEAR} *Cài đặt*\\n\\n",
-        "{NEWSPAPER} *Về* - Thông tin của bot\\n",
-        "{BAR_CHART} *FAQ* - Những câu hỏi\\n",
-        "{GLOBE_WITH_MERIDIANS} *Ngôn ngữ* - Thay đổi ngôn ngữ\\n",
-        "{SPEECH_BALLOON} *Phản hồi* - Gửi phản hồi của bạn"
+        "{GEAR} **Cài đặt**\\n\\n",
+        "{NEWSPAPER} **Về** - Thông tin của bot\\n",
+        "{BAR_CHART} **FAQ** - Những câu hỏi\\n",
+        "{GLOBE_WITH_MERIDIANS} **Ngôn ngữ** - Thay đổi ngôn ngữ\\n",
+        "{SPEECH_BALLOON} **Phản hồi** - Gửi phản hồi của bạn"
     ],
     "faq_1": [
-        "{BAR_CHART} *Các câu hỏi thường gặp*\\n\\n",
-        "`Hỏi:` *1. Tôi muốn chọn định dạng âm thanh!* \\n",
+        "{BAR_CHART} **Các câu hỏi thường gặp**\\n\\n",
+        "`Hỏi:` **1. Tôi muốn chọn định dạng âm thanh!** \\n",
         "`Trả lời:` Chúng tôi tập trung vào chất lượng, hiệu suất dịch vụ và độ tin cậy.",
         "Để đạt được các chuyển đổi âm thanh siêu nhanh với chất lượng cao nhất có sẵn trên YouTube, chúng tôi chỉ gửi ",
         "Các tệp được mã hóa AAC 128k bên trong một ngăn chứa MPEG-4 Phần 14 (MP4) với phần mở rộng M4A được gắn thẻ với thông tin của iTunes. ",
         "Sự lựa chọn này có thể thay đổi trong tương lai."
     ],
     "faq_2": [
-        "{BAR_CHART} *Các câu hỏi thường gặp*\\n\\n",
-        "`Hỏi:` *2. AAC/M4A nghĩa là gì?*\\n",
+        "{BAR_CHART} **Các câu hỏi thường gặp**\\n\\n",
+        "`Hỏi:` **2. AAC/M4A nghĩa là gì?**\\n",
         "`Trả lời:` AAC là một định dạng mã hóa âm thanh được thiết kế để là sự kế thừa của định dạng MP3 và thường đạt được",
         "Chất lượng âm thanh tốt hơn so với MP3 ở tốc độ bit tương tự M4A là một phần mở rộng của tập tin, còn được gọi là vùng chứa ",
         "Của cả âm thanh được mã hoá AAC thực và các thẻ của âm thanh."
     ],
     "faq_3": [
-        "{BAR_CHART} *Các câu hỏi thường gặp*\\n\\n",
-        "`Hỏi:` *3 Một số video không hoạt động!*\\n",
+        "{BAR_CHART} **Các câu hỏi thường gặp**\\n\\n",
+        "`Hỏi:` **3 Một số video không hoạt động!**\\n",
         "`Trả lời:` Một số video do hạn chế về quốc gia của YouTube có thể không có sẵn cho trung tâm dữ liệu của chúng tôi. ",
         "Bot có thể gửi tập tin âm thanh có kích thước lên đến 50 MB, giới hạn này có thể được thay đổi trong tương lai."
     ],
     "faq_4": [
-        "{BAR_CHART} *Các câu hỏi thường gặp*\\n\\n",
-        "`Hỏi:` *4. Tại sao các tập tin có tên lạ?*\\n",
+        "{BAR_CHART} **Các câu hỏi thường gặp**\\n\\n",
+        "`Hỏi:` **4. Tại sao các tập tin có tên lạ?**\\n",
         "`Trả lời:` Các tệp được lưu dưới dạng Tiêu đề - VideoId.m4a, tuy nhiên Tiêu đề có thể không phản ánh 100% tiêu đề ",
         "của video do một số ký tự không hợp lệ. Đây thường không phải là vấn đề vì tất cả thông tin chính xác về ",
         "video được nhúng vào thẻ âm thanh."
     ],
     "faq_menu": [
-        "{BAR_CHART} *Các câu hỏi thường gặp*\\n\\n",
-        "*1.* Tôi muốn chọn định dạng âm thanh!\\n",
-        "*2.* AAC / M4A nghĩa là gì?\\n",
-        "*3.* Một vài video không hoạt động!\\n",
-        "*4.* Tại sao các tập tin có tên lạ?"
+        "{BAR_CHART} **Các câu hỏi thường gặp**\\n\\n",
+        "**1.** Tôi muốn chọn định dạng âm thanh!\\n",
+        "**2.** AAC / M4A nghĩa là gì?\\n",
+        "**3.** Một vài video không hoạt động!\\n",
+        "**4.** Tại sao các tập tin có tên lạ?"
     ],
     "contribute": [
-        "{FOLDED_HANDS} *Trợ giúp chúng tôi dịch*\\n\\n",
+        "{FOLDED_HANDS} **Trợ giúp chúng tôi dịch**\\n\\n",
         "{name}! Nếu bạn muốn @YTAudioBot nói ngôn ngữ của bạn hoặc muốn cải thiện ngôn ngữ nào đó, hãy giúp chúng tôi!\\n\\n",
         "Chúng tôi đã thiết lập một hướng dẫn cho việc này, [here](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
         "Biết tiếng Anh là một yêu cầu bắt buộc.\\n\\n",
         "Chúng tôi hoan nghênh ngôn ngữ mới và cải tiến! Hãy tham gia cùng chúng tôi, mọi sự giúp đỡ đều được đón nhận một cách biết ơn!"
     ],
     "contributors": [
-        "{BUSTS_IN_SILHOUETTE} *Cộng tác viên*\\n\\n",
+        "{BUSTS_IN_SILHOUETTE} **Cộng tác viên**\\n\\n",
         "{RED_HEART} Chúng tôi xin chân thành cảm ơn những người đóng góp dịch thuật:\\n\\n",
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
     "donate": [
-        "{WRAPPED_GIFT} *Đóng góp*\\n\\n",
-        "*Cám ơn bạn vì đã giúp đỡ!*\\n\\n",
+        "{WRAPPED_GIFT} **Đóng góp**\\n\\n",
+        "**Cám ơn bạn vì đã giúp đỡ!**\\n\\n",
         "YTAudioBot hoàn toàn miễn phí, nhưng được hỗ trợ bằng tình yêu và sự đóng góp!\\n\\n",
         "Nếu bạn thực sự thích bot của chúng tôi, bạn có thể xem xét [đóng góp](https://paypal.me/delivrance/5) ",
         "để hỗ trợ lập trình viên, bảo trì và máy chủ lưu trữ."
@@ -262,25 +262,25 @@
     "donate_button": "{WRAPPED_GIFT} Đóng góp",
     "donate_with_paypal_button": "{P_BUTTON} Đóng góp bằng PayPal",
     "search_item_template": [
-        "{HEADPHONE} *{title}*\\n",
+        "{HEADPHONE} **{title}**\\n",
         "{BUST_IN_SILHOUETTE} _{channel}_\\n",
         "{EYE} {view_count} {THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
         "{clock} {duration}: /dl\\_{encoded_video_id}\\n\\n"
     ],
     "extract_item_template": [
         "{HEADPHONE} [{title}](https://youtu.be/{video_id})\\n",
-        "{BUST_IN_SILHOUETTE} *{uploader}* ([{uploader_id}](https://youtube.com/user/{uploader_id}))\\n",
+        "{BUST_IN_SILHOUETTE} **{uploader}** ([{uploader_id}](https://youtube.com/user/{uploader_id}))\\n",
         "{EYE} {view_count}\\n",
         "{THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
         "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
     ],
     "history_item_template": [
-        "{HEADPHONE} *{index}.* {performer} - *{title}*\\n",
+        "{HEADPHONE} **{index}.** {performer} - **{title}**\\n",
         "_{natural_relative_time}_\\n\\n"
     ],
     "history_details_item_template": [
         "{listen_on_youtube}\\n",
-        "{HEADPHONE} {performer} - *{title}*\\n",
+        "{HEADPHONE} {performer} - **{title}**\\n",
         "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
     ]
 }

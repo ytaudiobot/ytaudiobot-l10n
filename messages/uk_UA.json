@@ -8,15 +8,15 @@
     "type_search_terms": "{MEMO} Введіть ваші терміни пошуку",
     "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} Шукати \\\"{terms}\\\" на YouTube",
     "error": "{PENSIVE_FACE} Сталася помилка. Спробуйте знову пізніше.",
-    "longer_download_time": "{WARNING} *Це відео може зайняти більше часу, ніж зазвичай. Завантаження навіть може не вдатися!*",
+    "longer_download_time": "{WARNING} **Це відео може зайняти більше часу, ніж зазвичай. Завантаження навіть може не вдатися!**",
     "clear_history_warning": "{WARNING} Ви збираєтеся очистити усю вашу історію!",
     "history_settings": [
-        "{HOURGLASS} *Історія завантажень*\\n\\n",
+        "{HOURGLASS} **Історія завантажень**\\n\\n",
         "{Немає елементів|Є один елемент|Є # елементів} у вашій історії завантажень."
     ],
     "clear_history_confirmation": [
-        "{WASTEBASKET} *Очистити всю історію завантажень*\\n\\n",
-        "Ви впевнені, що хочете очистити усю історію завантажень? *Ви не можете це скасувати.*"
+        "{WASTEBASKET} **Очистити всю історію завантажень**\\n\\n",
+        "Ви впевнені, що хочете очистити усю історію завантажень? **Ви не можете це скасувати.**"
     ],
     "added_seconds_ago": "Додано {0 секунд|секунду|# секунд} тому",
     "added_minutes_ago": "Додано {0 хвилин|хвилину|# хвилин} тому",
@@ -31,7 +31,7 @@
     "download_history_resumed": "{WHITE_HEAVY_CHECK_MARK} Завантаження історії продовжено",
     "download_history_cleared": "{WASTEBASKET} Завантаження історії очищено",
     "file_expired": [
-        "{WARNING} *Час файлу сплинув*\\n\\n",
+        "{WARNING} **Час файлу сплинув**\\n\\n",
         "Натисніть {command}, щоб завантажити знову."
     ],
     "file_info": [
@@ -43,162 +43,162 @@
     ],
     "listen_on_youtube": "{LINK} [Прослухати на YouTube](https://youtu.be/{video_id})",
     "like": [
-        "{SPARKLES} *Дякуємо, {name}!*\\n\\n",
+        "{SPARKLES} **Дякуємо, {name}!**\\n\\n",
         "Ми раді, що вам це сподобалося.\\n\\n",
         "Ми можете оцінити бота та поставити\\n",
         "5 зірок {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} тут:\\n",
         "https://t.me/storebot?start=YTAudioBot"
     ],
     "dislike": [
-        "{PENSIVE_FACE} *Нам шкода чути про це, {name}.*\\n\\n",
+        "{PENSIVE_FACE} **Нам шкода чути про це, {name}.**\\n\\n",
         "Щось не так із ботом? Будь ласка, скажіть нам (англійською чи італійською):"
     ],
     "rating_message": [
-        "{WHITE_MEDIUM_STAR} *Оцінити YTAudioBot*\\n\\n",
+        "{WHITE_MEDIUM_STAR} **Оцінити YTAudioBot**\\n\\n",
         "{name}, ви насолоджуєтеся ботом?\\n",
         "Виділіть хвилинку, щоб оцінити його на StoreBot."
     ],
-    "rate_later": "{HOURGLASS} *Добре, я запитаю вас знову іншого разу!*",
-    "rate_never": "{PILE_OF_POO} *Добре, я ніколи більше вас не питатиму.*",
+    "rate_later": "{HOURGLASS} **Добре, я запитаю вас знову іншого разу!**",
+    "rate_never": "{PILE_OF_POO} **Добре, я ніколи більше вас не питатиму.**",
     "send_feedback": [
-        "{MEMO} *Надіслати відгук*\\n\\n",
+        "{MEMO} **Надіслати відгук**\\n\\n",
         "Ви можете запропонувати зміни чи покращення ботові, повідомити про помилки чи надіслати коментар творцям ",
         "(англійською чи італійською)."
     ],
     "sending_feedback_enabled": "{MEMO} Напишіть ваш відгук",
-    "feedback_sent": "{HEAVY_CHECK_MARK} *Ваш відгук було надіслано. Дякуємо вам!*",
-    "showing_trending_results": "{FIRE} *Показуємо популярні результати*\\n\\n",
-    "showing_youtube_results": "{RIGHT_POINTING_MAGNIFYING_GLASS} *Результати YouTube для \\\"*{terms}*\\\"*\\n\\n",
-    "flood_wait": "{WARNING} *Не так швидко! Зачекайте {0 секунд|секунду|# секунд} та спробуйте знову.*",
-    "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} *Шукаємо \\\"*{terms}*\\\"...*",
-    "video_not_available": "{PENSIVE_FACE} *Вибачте, наразі це відео недоступне. Спробуйте знову пізніше.*",
-    "size_limit_exceeded": "{PENSIVE_FACE} *Вибачте, це відео перевищує обмеження розміру. Спробуйте знову з іншим.*",
-    "api_error": "{PENSIVE_FACE} *Вибачте, запрошену операцію неможливо виконати прямо зараз. Спробуйте знову пізніше.*",
+    "feedback_sent": "{HEAVY_CHECK_MARK} **Ваш відгук було надіслано. Дякуємо вам!**",
+    "showing_trending_results": "{FIRE} **Показуємо популярні результати**\\n\\n",
+    "showing_youtube_results": "{RIGHT_POINTING_MAGNIFYING_GLASS} **Результати YouTube для \\\"**{terms}**\\\"**\\n\\n",
+    "flood_wait": "{WARNING} **Не так швидко! Зачекайте {0 секунд|секунду|# секунд} та спробуйте знову.**",
+    "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} **Шукаємо \\\"**{terms}**\\\"...**",
+    "video_not_available": "{PENSIVE_FACE} **Вибачте, наразі це відео недоступне. Спробуйте знову пізніше.**",
+    "size_limit_exceeded": "{PENSIVE_FACE} **Вибачте, це відео перевищує обмеження розміру. Спробуйте знову з іншим.**",
+    "api_error": "{PENSIVE_FACE} **Вибачте, запрошену операцію неможливо виконати прямо зараз. Спробуйте знову пізніше.**",
     "select_language": [
-        "{GLOBE_WITH_MERIDIANS} *Мова*\\n\\n",
+        "{GLOBE_WITH_MERIDIANS} **Мова**\\n\\n",
         "Оберіть вашу мову."
     ],
     "language_selected": "{HEAVY_CHECK_MARK} Налаштована мова - {UKRAINE} Українська.",
     "same_language_selected": "{THINKING_FACE} Мова бота вже {UKRAINE} Українська",
-    "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *Обробка відео у процесі...*",
+    "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} **Обробка відео у процесі...**",
     "download_canceled": [
-        "{CROSS_MARK} *Завантаження скасовано.\\n",
-        "Натисніть *{command}*, щоб завантажити знову.*"
+        "{CROSS_MARK} **Завантаження скасовано.\\n",
+        "Натисніть **{command}**, щоб завантажити знову.**"
     ],
     "download_error": [
-        "{PENSIVE_FACE} *Вибачте, сталася неочікувана помилка.\\n",
-        "Спробуйте знову: *{command}*.*"
+        "{PENSIVE_FACE} **Вибачте, сталася неочікувана помилка.\\n",
+        "Спробуйте знову: **{command}**.**"
     ],
     "download_timeout": [
-        "{WARNING} *Завантаження займає більше 60 секунд.\\n",
-        "Не бійтеся запросити інше відео, це буде надіслано вам якомога швидше!*"
+        "{WARNING} **Завантаження займає більше 60 секунд.\\n",
+        "Не бійтеся запросити інше відео, це буде надіслано вам якомога швидше!**"
     ],
-    "download_successful": "{HEAVY_CHECK_MARK} *Аудіо успішно завантажено!*",
+    "download_successful": "{HEAVY_CHECK_MARK} **Аудіо успішно завантажено!**",
     "wait_previous_download": "{WARNING} Зачекайте на попереднє завантаження!",
     "download_queue_full": "{WARNING} Черга завантаження повна. Будь ласка, спробуйте знову пізніше.",
     "help_1": [
-        "{OPEN_BOOK} *Допомога (1 із 4)*\\n\\n",
+        "{OPEN_BOOK} **Допомога (1 із 4)**\\n\\n",
         "Єдине, що вам потрібно - це посилання на відео в YouTube, з якого ви хочете витягнути аудіо, як ось це:\\n\\n",
         "— https://youtu.be/SMWi7CLoZ2Q."
     ],
     "help_2": [
-        "{OPEN_BOOK} *Допомога (2 із 4)*\\n\\n",
+        "{OPEN_BOOK} **Допомога (2 із 4)**\\n\\n",
         "Є різні способи знайти посилання. Ви можете, наприклад:\\n\\n",
         "— Скористатися кнопкою Поділитися у програмі YouTube.\\n",
         "— Скористатися вбудованими ботами Telegram @vid чи @youtube.\\n",
         "— Скопіювати/вставити посилання з вашого браузера."
     ],
     "help_3": [
-        "{OPEN_BOOK} *Допомога (3 із 4)*\\n\\n",
+        "{OPEN_BOOK} **Допомога (3 із 4)**\\n\\n",
         "Щойно ви знайшли посилання, надішліть його мені.\\n\\n",
         "Якщо відео вже було завантажене кимось іншим, його буде вмит надіслано вам, ",
-        "в іншому випадку, з'явиться кнопка {INBOX_TRAY} *Завантажити*. Натисніть її, і ваш аудіо-файл буде доступний ",
+        "в іншому випадку, з'явиться кнопка {INBOX_TRAY} **Завантажити**. Натисніть її, і ваш аудіо-файл буде доступний ",
         "трішки пізніше."
     ],
     "help_4": [
-        "{OPEN_BOOK} *Допомога (4 із 4)*\\n\\n",
-        "Після отримання та завантаження, ви можете натиснути на аудіо-повідомленні та клацнути *Зберегти до музики* ",
+        "{OPEN_BOOK} **Допомога (4 із 4)**\\n\\n",
+        "Після отримання та завантаження, ви можете натиснути на аудіо-повідомленні та клацнути **Зберегти до музики** ",
         ", щоб зберегти аудіо-файлу до теки Музики вашого пристрою."
     ],
     "tip_1": [
-        "{LIGHT_BULB} *Підказка (1 з 2)*\\n\\n",
+        "{LIGHT_BULB} **Підказка (1 з 2)**\\n\\n",
         "Ви також можете надсилати мені лише ID відео, як ось це:\\n\\n",
         "— `SMWi7CLoZ2Q`."
     ],
     "tip_2": [
-        "{LIGHT_BULB} *Підказка (2 із 2)*\\n\\n",
+        "{LIGHT_BULB} **Підказка (2 із 2)**\\n\\n",
         "Приєднуйтеся до каналу @YTAudio для останніх новин та оновлень бота!"
     ],
-    "hi": "{SPARKLES} *Привіт, {name}!*",
+    "hi": "{SPARKLES} **Привіт, {name}!**",
     "presentation": [
-        "*Із *[YTAudioBot](https://ytaudiobot.ml)* ви можете завантажувати відео з YouTube лише як аудіо файли, щоб забрати їх з собою, ",
-        "де б ви не пішли.*"
+        "**Із **[YTAudioBot](https://ytaudiobot.ml)** ви можете завантажувати відео з YouTube лише як аудіо файли, щоб забрати їх з собою, ",
+        "де б ви не пішли.**"
     ],
     "feedback": [
-        "{SPEECH_BALLOON} *Відгук*\\n\\n",
+        "{SPEECH_BALLOON} **Відгук**\\n\\n",
         "Привіт, {name}! Вам подобається YTAudioBot?"
     ],
     "about": [
-        "{NEWSPAPER} *Про*\\n\\n",
-        "*YTAudioBot для Telegram*\\n",
+        "{NEWSPAPER} **Про**\\n\\n",
+        "**YTAudioBot для Telegram**\\n",
         "{version} _{day} {month} {year} року_\\n\\n",
-        "{LOUDSPEAKER} *Канал* - @YTAudio\\n",
-        "{LINK} *Веб-сайт* - https://ytaudiobot.ml\\n",
-        "{ENVELOPE} *E-пошта* - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
-        "{EYE} *Відгуки* - {WHITE_MEDIUM_STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
+        "{LOUDSPEAKER} **Канал** - @YTAudio\\n",
+        "{LINK} **Веб-сайт** - https://ytaudiobot.ml\\n",
+        "{ENVELOPE} **E-пошта** - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
+        "{EYE} **Відгуки** - {WHITE_MEDIUM_STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
         "{BUST_IN_SILHOUETTE} [{reviews_n}](https://storebot.me/bot/ytaudiobot)"
     ],
     "settings": [
-        "{GEAR} *Налаштування*\\n\\n",
-        "{NEWSPAPER} *Про* - Інформація про бота\\n",
-        "{BAR_CHART} *ЧаПи* - Часто запитувані питання\\n",
-        "{GLOBE_WITH_MERIDIANS} *Мова* - Змінити мову\\n",
-        "{SPEECH_BALLOON} *Відгук* - Надішліть ваш відгук"
+        "{GEAR} **Налаштування**\\n\\n",
+        "{NEWSPAPER} **Про** - Інформація про бота\\n",
+        "{BAR_CHART} **ЧаПи** - Часто запитувані питання\\n",
+        "{GLOBE_WITH_MERIDIANS} **Мова** - Змінити мову\\n",
+        "{SPEECH_BALLOON} **Відгук** - Надішліть ваш відгук"
     ],
     "faq_1": [
-        "{BAR_CHART} *Часто запитувані питання*\\n\\n",
-        "`З:` *1. Я хочу обрати формат аудіо!*\\n",
+        "{BAR_CHART} **Часто запитувані питання**\\n\\n",
+        "`З:` **1. Я хочу обрати формат аудіо!**\\n",
         "`В:` Ми фокусуємося на якості, продкутивності сервісу та надійності. ",
         "Щоб досягти супер-швидких конверсій аудіо із найкращою якістю, доступною на YouTube, ми лише надсилаємо ",
         "закодовані файли AAC 128k всередині контейнера MPEG-4 Part 14 (MP4) із розширенням M4A, позначеним інформацією iTunes. ",
         "Цей вибір може змінитися в майбутньому."
     ],
     "faq_2": [
-        "{BAR_CHART} *Часто запитувані питання*\\n\\n",
-        "`З:` *2. Що означає AAC/M4A?*\\n",
+        "{BAR_CHART} **Часто запитувані питання**\\n\\n",
+        "`З:` **2. Що означає AAC/M4A?**\\n",
         "`В:` AAC - це формат кодування аудіо, створений, щоб бути спадкоємцем формату MP3 і загалом досягає ",
         "кращої якості звуку, аніж MP3 на схожих бітрейтах. M4A - це розширення файлу, також відомий як контейнер ",
         "власне кодованого аудіо AAC та власне позначок аудіо."
     ],
     "faq_3": [
-        "{BAR_CHART} *Часто запитувані питання*\\n\\n",
-        "`З:` *3. Деякі відео не працюють!*\\n",
+        "{BAR_CHART} **Часто запитувані питання**\\n\\n",
+        "`З:` **3. Деякі відео не працюють!**\\n",
         "`В:` Деякі відео, через обмеження країн YouTube, можуть бути недоступними для нашого дата-центру. Також, ",
         "бот наразі може надсилати лише аудіо-файли розміром до 50 МБ, це обмеження, можливо, зміниться в майбутньому."
     ],
     "faq_4": [
-        "{BAR_CHART} *Часто запитувані питання*\\n\\n",
-        "`З:` *4. Чому файли мають дивні назви?*\\n",
+        "{BAR_CHART} **Часто запитувані питання**\\n\\n",
+        "`З:` **4. Чому файли мають дивні назви?**\\n",
         "`В:` Файли зберігаються як `Назва - IdВідео.m4a`, хоча `Назва` може не на 100% відображати назву ",
         "відео через деякі хибні символи. Зазвичай, це не проблема, оскільки уся правильна інформація про ",
         "відео вбудована у позначки аудіо-файлу."
     ],
     "faq_menu": [
-        "{BAR_CHART} *Часто запитувані питання*\\n\\n",
-        "*1.* Я хочу обрати формат аудіо!\\n",
-        "*2.* Що означає AAC/M4A mean?\\n",
-        "*3.* Деякі відео не працюють!\\n",
-        "*4.* Чому файли мають дивні назви?"
+        "{BAR_CHART} **Часто запитувані питання**\\n\\n",
+        "**1.** Я хочу обрати формат аудіо!\\n",
+        "**2.** Що означає AAC/M4A mean?\\n",
+        "**3.** Деякі відео не працюють!\\n",
+        "**4.** Чому файли мають дивні назви?"
     ],
     "contribute": [
-        "{FOLDED_HANDS} *Допоможіть перекласти*\\n\\n",
+        "{FOLDED_HANDS} **Допоможіть перекласти**\\n\\n",
         "{name}! Якщо ви хочете, щоб @YTAudioBot розмовляв вашою мовою, чи хочете покращити вже існуючу, ви можете нам допомогти!\\n\\n",
         "Ми зробили для цього навіть зробили гід, [тут](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
         "Потрібне знання англійської мови.\\n\\n",
         "Ми вітаємо нові мови та покращення! Не бійтеся приєднатися до нас, кожна допомога велично приймається!"
     ],
     "contributors": [
-        "{BUSTS_IN_SILHOUETTE} *Помічники*\\n\\n",
+        "{BUSTS_IN_SILHOUETTE} **Помічники**\\n\\n",
         "{RED_HEART} Ми хотіли б тепло подякувати помічникам в перекладі:\\n\\n",
         "{contributors}\\n\\n",
         "— @YTAudioBot"
@@ -256,25 +256,25 @@
     "donate_button": null,
     "donate_with_paypal_button": null,
     "search_item_template": [
-        "{HEADPHONE} *{title}*\\n",
+        "{HEADPHONE} **{title}**\\n",
         "{BUST_IN_SILHOUETTE} _{channel}_\\n",
         "{EYE} {view_count} {THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
         "{clock} {duration}: /dl\\_{encoded_video_id}\\n\\n"
     ],
     "extract_item_template": [
         "{HEADPHONE} [{title}](https://youtu.be/{video_id})\\n",
-        "{BUST_IN_SILHOUETTE} *{uploader}* ([{uploader_id}](https://youtube.com/user/{uploader_id}))\\n",
+        "{BUST_IN_SILHOUETTE} **{uploader}** ([{uploader_id}](https://youtube.com/user/{uploader_id}))\\n",
         "{EYE} {view_count}\\n",
         "{THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
         "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
     ],
     "history_item_template": [
-        "{HEADPHONE} *{index}.* {performer} - *{title}*\\n",
+        "{HEADPHONE} **{index}.** {performer} - **{title}**\\n",
         "_{natural_relative_time}_\\n\\n"
     ],
     "history_details_item_template": [
         "{listen_on_youtube}\\n",
-        "{HEADPHONE} {performer} - *{title}*\\n",
+        "{HEADPHONE} {performer} - **{title}**\\n",
         "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
     ]
 }

@@ -8,15 +8,15 @@
     "type_search_terms": "{MEMO} 輸入搜索關鍵字",
     "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} 在YouTube中搜索 \\\"{terms}\\\" ",
     "error": "{PENSIVE_FACE} 發生未知錯誤，請稍後重試",
-    "longer_download_time": "{WARNING} *下載此視頻的音頻文件需要較長的時間。可能會導致下載失敗*",
+    "longer_download_time": "{WARNING} **下載此視頻的音頻文件需要較長的時間。可能會導致下載失敗**",
     "clear_history_warning": "{WARNING} 此操作會清空你的歷史操作！",
     "history_settings": [
-        "{HOURGLASS} *下載歷史*\\n\\n",
+        "{HOURGLASS} **下載歷史**\\n\\n",
         "你的下載歷史{爲空|有1條記錄|有#條記錄}。"
     ],
     "clear_history_confirmation": [
-        "{WASTEBASKET} *清空所有下載歷史*\\n\\n",
-        "你是否確認情況所有下載歷史？ *此操作不可撤銷。*"
+        "{WASTEBASKET} **清空所有下載歷史**\\n\\n",
+        "你是否確認情況所有下載歷史？ **此操作不可撤銷。**"
     ],
     "added_seconds_ago": "{0 秒|1 秒|# 秒} 前添加的",
     "added_minutes_ago": "{0 分鍾|1 分鍾|# 分鍾} 前添加的",
@@ -31,7 +31,7 @@
     "download_history_resumed": "{WHITE_HEAVY_CHECK_MARK} 繼續下載任務",
     "download_history_cleared": "{WASTEBASKET} 已刪除的記錄",
     "file_expired": [
-        "{WARNING} *文件已過期*\\n\\n",
+        "{WARNING} **文件已過期**\\n\\n",
         "點擊 {command} 重新下載。"
     ],
     "file_info": [
@@ -43,121 +43,121 @@
     ],
     "listen_on_youtube": "{LINK} [在YouTube中播放](https://youtu.be/{video_id})",
     "like": [
-        "{SPARKLES} *多謝，{name}!*\\n\\n",
+        "{SPARKLES} **多謝，{name}!**\\n\\n",
         "很高興你喜歡我們的工作\\n\\n",
         "你可以評論這個機器人並且給予\\n",
         "我們5星{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}點擊這裏：\\n",
         "https://t.me/storebot?start=YTAudioBot"
     ],
     "dislike": [
-        "{PENSIVE_FACE} *{name}，無法爲你提供優質的服務，我們感到十分抱歉*\\n\\n",
+        "{PENSIVE_FACE} **{name}，無法爲你提供優質的服務，我們感到十分抱歉**\\n\\n",
         "有更好的建議或反饋錯誤?請使用(英語或者意大利語)告訴我們吧:"
     ],
     "rating_message": [
-        "{WHITE_MEDIUM_STAR} *評論YTAudioBot*\\n\\n",
+        "{WHITE_MEDIUM_STAR} **評論YTAudioBot**\\n\\n",
         "{name}，你喜歡這個機器人嗎？\\n",
         "你可以花費一點時間在StoreBot下留言。"
     ],
-    "rate_later": "{HOURGLASS} *好的，我會稍後再提醒你*",
-    "rate_never": "{PILE_OF_POO} *對不起，我不會在打擾你了*",
+    "rate_later": "{HOURGLASS} **好的，我會稍後再提醒你**",
+    "rate_never": "{PILE_OF_POO} **對不起，我不會在打擾你了**",
     "send_feedback": [
-        "{MEMO} *傳送回饋*\\n\\n",
+        "{MEMO} **傳送回饋**\\n\\n",
         "你可以爲這個機器人提供一些建議、回饋Bugs或者與開發者討論",
         "(請使用英語或意大利語，謝謝)"
     ],
     "sending_feedback_enabled": "{MEMO} 請輸入你的回饋信息",
-    "feedback_sent": "{HEAVY_CHECK_MARK} *你的回饋信息已經傳送，謝謝！*",
-    "showing_trending_results": "{FIRE} *顯示時下流行*\\n\\n",
-    "showing_youtube_results": "{RIGHT_POINTING_MAGNIFYING_GLASS} *\\\"*{terms}*\\\"在YouTube的搜索結果*\\n\\n",
-    "flood_wait": "{WARNING} *請不要頻繁操作！ 請等待{0 秒|1 秒|# 秒}後重新嘗試吧。*",
-    "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} *正在搜索\\\"*{terms}*\\\"...*",
-    "video_not_available": "{PENSIVE_FACE} *對不起，這個視頻現在無法下載，請稍後重試。*",
-    "size_limit_exceeded": "{PENSIVE_FACE} *對不起，這個視頻超過文件大小限制，請選擇其他視頻*",
-    "api_error": "{PENSIVE_FACE} *對不起，此請求操作無法被立即執行。請稍後重試!*",
+    "feedback_sent": "{HEAVY_CHECK_MARK} **你的回饋信息已經傳送，謝謝！**",
+    "showing_trending_results": "{FIRE} **顯示時下流行**\\n\\n",
+    "showing_youtube_results": "{RIGHT_POINTING_MAGNIFYING_GLASS} **\\\"**{terms}**\\\"在YouTube的搜索結果**\\n\\n",
+    "flood_wait": "{WARNING} **請不要頻繁操作！ 請等待{0 秒|1 秒|# 秒}後重新嘗試吧。**",
+    "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} **正在搜索\\\"**{terms}**\\\"...**",
+    "video_not_available": "{PENSIVE_FACE} **對不起，這個視頻現在無法下載，請稍後重試。**",
+    "size_limit_exceeded": "{PENSIVE_FACE} **對不起，這個視頻超過文件大小限制，請選擇其他視頻**",
+    "api_error": "{PENSIVE_FACE} **對不起，此請求操作無法被立即執行。請稍後重試!**",
     "select_language": [
-        "{GLOBE_WITH_MERIDIANS} *語言*\\n\\n",
+        "{GLOBE_WITH_MERIDIANS} **語言**\\n\\n",
         "選擇你的語言。"
     ],
     "language_selected": "{HEAVY_CHECK_MARK} 語言已被設定爲 {TAIWAN} 繁體中文。",
     "same_language_selected": "{THINKING_FACE} 機器人的語言已經被設定爲 {TAIWAN} 繁體中文",
-    "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *視頻正在處理...*",
+    "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} **視頻正在處理...**",
     "download_canceled": [
-        "{CROSS_MARK} *下載已取消\\n",
-        "點擊 *{command}* 重新下載。*"
+        "{CROSS_MARK} **下載已取消\\n",
+        "點擊 **{command}** 重新下載。**"
     ],
     "download_error": [
-        "{PENSIVE_FACE} *對不起，發生未知錯誤\\n",
-        "點擊重試 *{command}*。*"
+        "{PENSIVE_FACE} **對不起，發生未知錯誤\\n",
+        "點擊重試 **{command}**。**"
     ],
     "download_timeout": [
-        "{WARNING} *此下載需要花費超過60秒。\\n",
-        "你可以繼續添加其他任務，我們會在處理完畢後盡快通知你*"
+        "{WARNING} **此下載需要花費超過60秒。\\n",
+        "你可以繼續添加其他任務，我們會在處理完畢後盡快通知你**"
     ],
-    "download_successful": "{HEAVY_CHECK_MARK} *音頻文件下載成功！*",
+    "download_successful": "{HEAVY_CHECK_MARK} **音頻文件下載成功！**",
     "wait_previous_download": "{WARNING} 正等待上一條下載完成",
     "download_queue_full": "{WARNING} 下載隊列已滿，請稍後重試！",
     "help_1": [
-        "{OPEN_BOOK} *幫助手冊 (1 of 4)*\\n\\n",
+        "{OPEN_BOOK} **幫助手冊 (1 of 4)**\\n\\n",
         "你只需要獲得你想要下載音頻文件的YouTube視頻鏈接，例如：\\n\\n",
         "— https://youtu.be/SMWi7CLoZ2Q."
     ],
     "help_2": [
-        "{OPEN_BOOK} *幫助手冊 (2 of 4)*\\n\\n",
+        "{OPEN_BOOK} **幫助手冊 (2 of 4)**\\n\\n",
         "你有多種方法去獲得視頻鏈接，例如你可以：\\n\\n",
         "— 在YouTube應用程式中點擊分享按鈕\\n",
         "— 使用Telegram的內聯機器人 @vid 或者 @youtube \\n",
         "— 從你的瀏覽器中復制鏈接並粘帖到這裏"
     ],
     "help_3": [
-        "{OPEN_BOOK} *幫助手冊 (3 of 4)*\\n\\n",
+        "{OPEN_BOOK} **幫助手冊 (3 of 4)**\\n\\n",
         "當你已經獲得視頻鏈接，請傳送給我\\n\\n",
         "如果這個視頻曾經被其他人下載過，我會立即轉發給你。",
-        "如果沒有， {INBOX_TRAY} *下載* 按鈕會出現。點擊下載按鈕，",
+        "如果沒有， {INBOX_TRAY} **下載** 按鈕會出現。點擊下載按鈕，",
         "我們會儘快處理好你的下載請求，並將音頻文件傳送給你。"
     ],
     "help_4": [
-        "{OPEN_BOOK} *幫助手冊 (4 of 4)*\\n\\n",
-        "當你接收到音頻文件並且下載完畢後，點擊音頻文件右上角然後點擊*儲存至音樂庫* ",
+        "{OPEN_BOOK} **幫助手冊 (4 of 4)**\\n\\n",
+        "當你接收到音頻文件並且下載完畢後，點擊音頻文件右上角然後點擊**儲存至音樂庫** ",
         "音頻文件將會保存在你設備中的Music目錄下"
     ],
     "tip_1": [
-        "{LIGHT_BULB} *提示 (1 of 2)*\\n\\n",
+        "{LIGHT_BULB} **提示 (1 of 2)**\\n\\n",
         "你也可以傳送視頻ID給我，例如：\\n\\n",
         "— `SMWi7CLoZ2Q`."
     ],
     "tip_2": [
-        "{LIGHT_BULB} *提示 (2 of 2)*\\n\\n",
+        "{LIGHT_BULB} **提示 (2 of 2)**\\n\\n",
         "加入 @YTAudio 頻道獲取最新的消息和機器人更新日志！"
     ],
-    "hi": "{SPARKLES} *你好，{name}!*",
+    "hi": "{SPARKLES} **你好，{name}!**",
     "presentation": [
-        "*使用 *[YTAudioBot](https://ytaudiobot.ml)*，你可以下載YouTube視頻的音頻文件",
-        "並且保存在任何地方*"
+        "**使用 **[YTAudioBot](https://ytaudiobot.ml)**，你可以下載YouTube視頻的音頻文件",
+        "並且保存在任何地方**"
     ],
     "feedback": [
-        "{SPEECH_BALLOON} *回饋*\\n\\n",
+        "{SPEECH_BALLOON} **回饋**\\n\\n",
         "你好，{name}！你喜歡YTAudioBot嗎？"
     ],
     "about": [
-        "{NEWSPAPER} *關於*\\n\\n",
-        "*YTAudioBot for Telegram*\\n",
+        "{NEWSPAPER} **關於**\\n\\n",
+        "**YTAudioBot for Telegram**\\n",
         "{version} _{year}年{month}{day}號_\\n\\n",
-        "{LOUDSPEAKER} *頻道* - @YTAudio\\n",
-        "{LINK} *網站* - https://ytaudiobot.ml\\n",
-        "{ENVELOPE} *郵箱* - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
-        "{EYE} *評論* - {WHITE_MEDIUM_STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
+        "{LOUDSPEAKER} **頻道** - @YTAudio\\n",
+        "{LINK} **網站** - https://ytaudiobot.ml\\n",
+        "{ENVELOPE} **郵箱** - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
+        "{EYE} **評論** - {WHITE_MEDIUM_STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
         "{BUST_IN_SILHOUETTE} [{reviews_n}](https://storebot.me/bot/ytaudiobot)"
     ],
     "settings": [
-        "{GEAR} *設置*\\n\\n",
-        "{NEWSPAPER} *關於* - 機器人的詳細信息\\n",
-        "{BAR_CHART} *FAQ* - 常見問題\\n",
-        "{GLOBE_WITH_MERIDIANS} *語言* - 變更語言\\n",
-        "{SPEECH_BALLOON} *回饋* - 傳送你的回饋"
+        "{GEAR} **設置**\\n\\n",
+        "{NEWSPAPER} **關於** - 機器人的詳細信息\\n",
+        "{BAR_CHART} **FAQ** - 常見問題\\n",
+        "{GLOBE_WITH_MERIDIANS} **語言** - 變更語言\\n",
+        "{SPEECH_BALLOON} **回饋** - 傳送你的回饋"
     ],
     "faq_1": [
-        "{BAR_CHART} *常見問題*\\n\\n",
-        "`Q:` *1.我可以選擇音頻文件的格式嗎？*\\n",
+        "{BAR_CHART} **常見問題**\\n\\n",
+        "`Q:` **1.我可以選擇音頻文件的格式嗎？**\\n",
         "`A:` 我們十分在意服務質量、服務器性能和可靠性。爲了能夠",
         "將YouTube上的視頻文件高速轉換爲高音質音頻文件，我們只傳送使",
         "用AAC 128k 編碼的以MPEG-4 Part 14 (MP4)爲容器的M4A格式的",
@@ -165,48 +165,48 @@
         "我們會提供導出不同的音頻文件格式的服務。"
     ],
     "faq_2": [
-        "{BAR_CHART} *常見問題*\\n\\n",
-        "`Q:` *2. 什麼是AAC/M4A？*\\n",
+        "{BAR_CHART} **常見問題**\\n\\n",
+        "`Q:` **2. 什麼是AAC/M4A？**\\n",
         "`A:` AAC是一種比MP3格式更高階的音頻編碼方式，",
         "在與MP3格式保持相近比特率的同時擁有更高的音質。M4A是",
         "AAC編碼的一種文件格式，包含有以AAC編碼的音頻文件和音頻文件的標籤。"
     ],
     "faq_3": [
-        "{BAR_CHART} *常見問題*\\n\\n",
-        "`Q:` *3. 一些視頻的音頻文件無法正常獲取！*\\n",
+        "{BAR_CHART} **常見問題**\\n\\n",
+        "`Q:` **3. 一些視頻的音頻文件無法正常獲取！**\\n",
         "`A:` 由於YouTube的國家地區限制，一些視頻無法被我們的數據中心獲取。同",
         "時現在此機器人傳送的音頻文件有50 MB的大小限制，以後我們會改變這個限制。"
     ],
     "faq_4": [
-        "{BAR_CHART} *常見問題*\\n\\n",
-        "`Q:` *4. 爲什麼下載到的文件會出現奇怪的名稱？*\\n",
+        "{BAR_CHART} **常見問題**\\n\\n",
+        "`Q:` **4. 爲什麼下載到的文件會出現奇怪的名稱？**\\n",
         "`A:` 文件會被保存爲`標題 - 視頻ID.m4a`，但是這個`標題`也许不是跟視頻原標題完全一樣",
         "這是因爲視頻原標題含有我們無法識別的字符。不過關於這個視頻的正確信息是內嵌在音頻文件標籤裏面的",
         "，所以你不需要太擔心這個問題。"
     ],
     "faq_menu": [
-        "{BAR_CHART} *常見問題*\\n\\n",
-        "*1.* 我可以選擇音頻文件的格式嗎？\\n",
-        "*2.* 什麼是AAC/M4A？\\n",
-        "*3.* 一些視頻的音頻文件無法正常獲取！\\n",
-        "*4.* 爲什麼下載到的文件會出現奇怪的名稱？"
+        "{BAR_CHART} **常見問題**\\n\\n",
+        "**1.** 我可以選擇音頻文件的格式嗎？\\n",
+        "**2.** 什麼是AAC/M4A？\\n",
+        "**3.** 一些視頻的音頻文件無法正常獲取！\\n",
+        "**4.** 爲什麼下載到的文件會出現奇怪的名稱？"
     ],
     "contribute": [
-        "{FOLDED_HANDS} *協助翻譯*\\n\\n",
+        "{FOLDED_HANDS} **協助翻譯**\\n\\n",
         "{name}！如果你希望 @YTAudioBot 能夠使用你的語言或者改進現有的語言，請協助我們吧！\\n\\n",
         "我們寫了一份幫助你參與翻譯的文檔在 [這裏](https://github.com/ytaudiobot/ytaudiobot-l10n)。 ",
         "此項工作要求你擁有一點英語知識\\n\\n",
         "我們歡迎任何形式的語言和改進，請加入我們，我們衷心感謝你的任何幫助！"
     ],
     "contributors": [
-        "{BUSTS_IN_SILHOUETTE} *貢獻人員*\\n\\n",
+        "{BUSTS_IN_SILHOUETTE} **貢獻人員**\\n\\n",
         "{RED_HEART} 我們衷心感謝以下貢獻人員：\\n\\n",
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
     "donate": [
-        "{WRAPPED_GIFT} *繁體*\\n\\n",
-        "*感謝您考慮捐贈!*\\n\\n",
+        "{WRAPPED_GIFT} **繁體**\\n\\n",
+        "**感謝您考慮捐贈!**\\n\\n",
         "YTAudioBot 是完全免費的, 但是需要你們對它喜愛和支持提供動力！\\n\\n",
         "如果你真的喜歡這個機器人，請考慮小小[捐贈](https://paypal.me/delivrance/5) ",
         "來支持我們的開發，維護以及服務器開銷。"
@@ -263,25 +263,25 @@
     "donate_button": "{WRAPPED_GIFT} 捐贈",
     "donate_with_paypal_button": "{P_BUTTON} 使用PayPal捐贈",
     "search_item_template": [
-        "{HEADPHONE} *{title}*\\n",
+        "{HEADPHONE} **{title}**\\n",
         "{BUST_IN_SILHOUETTE} _{channel}_\\n",
         "{EYE} {view_count} {THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
         "{clock} {duration}: /dl\\_{encoded_video_id}\\n\\n"
     ],
     "extract_item_template": [
         "{HEADPHONE} [{title}](https://youtu.be/{video_id})\\n",
-        "{BUST_IN_SILHOUETTE} *{uploader}* ([{uploader_id}](https://youtube.com/user/{uploader_id}))\\n",
+        "{BUST_IN_SILHOUETTE} **{uploader}** ([{uploader_id}](https://youtube.com/user/{uploader_id}))\\n",
         "{EYE} {view_count}\\n",
         "{THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
         "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
     ],
     "history_item_template": [
-        "{HEADPHONE} *{index}.* {performer} - *{title}*\\n",
+        "{HEADPHONE} **{index}.** {performer} - **{title}**\\n",
         "_{natural_relative_time}_\\n\\n"
     ],
     "history_details_item_template": [
         "{listen_on_youtube}\\n",
-        "{HEADPHONE} {performer} - *{title}*\\n",
+        "{HEADPHONE} {performer} - **{title}**\\n",
         "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
     ]
 }

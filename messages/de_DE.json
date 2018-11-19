@@ -8,15 +8,15 @@
     "type_search_terms": "{MEMO} Schreibe deinen Suchbegriff",
     "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} Suche \\\"{terms}\\\" auf YouTube",
     "error": "{PENSIVE_FACE} Es ist ein Fehler aufgetreten. Versuche es später erneut.",
-    "longer_download_time": "{WARNING} *Der Download dieses Videos kann länger dauern als sonst und kann eventuell sogar fehlschlagen!*",
+    "longer_download_time": "{WARNING} **Der Download dieses Videos kann länger dauern als sonst und kann eventuell sogar fehlschlagen!**",
     "clear_history_warning": "{WARNING} Du bist gerade dabei, deinen gesamten Verlauf zu löschen!",
     "history_settings": [
-        "{HOURGLASS} *Verlauf deiner heruntergeladenen Audios*\\n\\n",
+        "{HOURGLASS} **Verlauf deiner heruntergeladenen Audios**\\n\\n",
         "{Es sind keine Dateien|Es ist eine Datei |Es sind # Dateien} im Download Verlauf vorhanden."
     ],
     "clear_history_confirmation": [
-        "{WASTEBASKET} *Den gesamten Verlauf löschen*\\n\\n",
-        "Bist du dir sicher, dass der gesamte Download Verlauf gelöscht werden soll? *Dies ist unwiderruflich.*"
+        "{WASTEBASKET} **Den gesamten Verlauf löschen**\\n\\n",
+        "Bist du dir sicher, dass der gesamte Download Verlauf gelöscht werden soll? **Dies ist unwiderruflich.**"
     ],
     "added_seconds_ago": "Vor {0 Sekunden|einer Sekunde|# Sekunden} hinzugefügt",
     "added_minutes_ago": "Vor {0 Minuten|einer Minute|# Minuten} hinzugefügt",
@@ -31,7 +31,7 @@
     "download_history_resumed": "{WHITE_HEAVY_CHECK_MARK} Download Verlauf fortgesetzt",
     "download_history_cleared": "{WASTEBASKET} Download Verlauf gelöscht",
     "file_expired": [
-        "{WARNING} *Datei abgelaufen*\\n\\n",
+        "{WARNING} **Datei abgelaufen**\\n\\n",
         "Drücke {command} zum erneuten Herunterladen."
     ],
     "file_info": [
@@ -43,169 +43,169 @@
     ],
     "listen_on_youtube": "{LINK} [Auf YouTube anhören](https://youtu.be/{video_id})",
     "like": [
-        "{SPARKLES} *Danke, {name}!*\\n\\n",
+        "{SPARKLES} **Danke, {name}!**\\n\\n",
         "Wir freuen uns, dass es dir gefällt.\\n\\n",
         "Du kannst diesen Bot mit\\n",
         "5 Sternen {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} bewerten:\\n",
         "https://t.me/storebot?start=YTAudioBot"
     ],
     "dislike": [
-        "{PENSIVE_FACE} *Tut uns leid, das zu hören, {name}.*\\n\\n",
+        "{PENSIVE_FACE} **Tut uns leid, das zu hören, {name}.**\\n\\n",
         "Funktioniert etwas mit diesem Bot nicht? Schreibe uns bitte an (in Englisch oder Italienisch):"
     ],
     "rating_message": [
-        "{WHITE_MEDIUM_STAR} *Bewerte YTAudioBot*\\n\\n",
+        "{WHITE_MEDIUM_STAR} **Bewerte YTAudioBot**\\n\\n",
         "{name}, findest du diesen Bot nützlich?\\n",
         "Nimm' dir bitte einen kurzen Moment Zeit und bewerte uns beim StoreBot."
     ],
-    "rate_later": "{HOURGLASS} *Okay, ich werde dich später erneut fragen!*",
-    "rate_never": "{PILE_OF_POO} *Okay, ich werde dich nicht noch einmal fragen.*",
+    "rate_later": "{HOURGLASS} **Okay, ich werde dich später erneut fragen!**",
+    "rate_never": "{PILE_OF_POO} **Okay, ich werde dich nicht noch einmal fragen.**",
     "send_feedback": [
-        "{MEMO} *Feedback senden*\\n\\n",
+        "{MEMO} **Feedback senden**\\n\\n",
         "Du kannst nun dem Entwickler Veränderungs- bzw. Verbesserungsvörschlage zu diesem Bot senden, Fehler melden, oder einen Kommentar abgeben ",
         "(in Englisch oder Italienisch)."
     ],
     "sending_feedback_enabled": "{MEMO} Schreibe dein Feedback",
-    "feedback_sent": "{HEAVY_CHECK_MARK} *Dein Feedback wurde versendet. Vielen Dank!*",
-    "showing_trending_results": "{FIRE} *Zeige Ergebnisse, die im Trend liegen*\\n\\n",
-    "showing_youtube_results": "{RIGHT_POINTING_MAGNIFYING_GLASS} *YouTube Ergebnisse für \\\"*{terms}*\\\"*\\n\\n",
-    "flood_wait": "{WARNING} *Nicht so schnell! Warte {0 Sekunden|eine Sekunde|# Sekunden} und versuche es erneut.*",
-    "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} *Suche nach \\\"*{terms}*\\\"...*",
-    "video_not_available": "{PENSIVE_FACE} *Entschuldigung, aber dieses Video ist im Moment nicht verfügbar. Versuche es später erneut. *",
-    "size_limit_exceeded": "{PENSIVE_FACE} *Entschuldigung, aber dieses Video überschreitet das Größen-Limit. Versuche es erneut mit einem anderen.*",
-    "api_error": "{PENSIVE_FACE} *Entschuldigung, aber die gewünschte Operation kann im Moment nicht durchgeführt werden. Versuche es später erneut.*",
+    "feedback_sent": "{HEAVY_CHECK_MARK} **Dein Feedback wurde versendet. Vielen Dank!**",
+    "showing_trending_results": "{FIRE} **Zeige Ergebnisse, die im Trend liegen**\\n\\n",
+    "showing_youtube_results": "{RIGHT_POINTING_MAGNIFYING_GLASS} **YouTube Ergebnisse für \\\"**{terms}**\\\"**\\n\\n",
+    "flood_wait": "{WARNING} **Nicht so schnell! Warte {0 Sekunden|eine Sekunde|# Sekunden} und versuche es erneut.**",
+    "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} **Suche nach \\\"**{terms}**\\\"...**",
+    "video_not_available": "{PENSIVE_FACE} **Entschuldigung, aber dieses Video ist im Moment nicht verfügbar. Versuche es später erneut. **",
+    "size_limit_exceeded": "{PENSIVE_FACE} **Entschuldigung, aber dieses Video überschreitet das Größen-Limit. Versuche es erneut mit einem anderen.**",
+    "api_error": "{PENSIVE_FACE} **Entschuldigung, aber die gewünschte Operation kann im Moment nicht durchgeführt werden. Versuche es später erneut.**",
     "select_language": [
-        "{GLOBE_WITH_MERIDIANS} *Sprache*\\n\\n",
+        "{GLOBE_WITH_MERIDIANS} **Sprache**\\n\\n",
         "Wähle eine Sprache aus."
     ],
     "language_selected": "{HEAVY_CHECK_MARK} Die Sprache wurde auf {GERMANY} Deutsch umgestellt.",
     "same_language_selected": "{THINKING_FACE} Die Sprache ist schon auf {GERMANY} Deutsch",
-    "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *Konvertierung im Gang...*",
+    "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} **Konvertierung im Gang...**",
     "download_canceled": [
-        "{CROSS_MARK} *Download abgebrochen.\\n",
-        "Drücke *{command}* um erneut herunterzuladen.*"
+        "{CROSS_MARK} **Download abgebrochen.\\n",
+        "Drücke **{command}** um erneut herunterzuladen.**"
     ],
     "download_error": [
-        "{PENSIVE_FACE} *Entschuldigung, aber ein unerwarteter Fehler ist aufgetreten.\\n",
-        "Versuche es erneut: *{command}*.*"
+        "{PENSIVE_FACE} **Entschuldigung, aber ein unerwarteter Fehler ist aufgetreten.\\n",
+        "Versuche es erneut: **{command}**.**"
     ],
     "download_timeout": [
-        "{WARNING} *Der Download braucht länger als 60 Sekunden.\\n",
-        "Du kannst bei Bedarf schon ein neues Video anfordern, ich sende dir das aktuelle sobald wie möglich!*"
+        "{WARNING} **Der Download braucht länger als 60 Sekunden.\\n",
+        "Du kannst bei Bedarf schon ein neues Video anfordern, ich sende dir das aktuelle sobald wie möglich!**"
     ],
-    "download_successful": "{HEAVY_CHECK_MARK} *Audio wurde erfolgreich heruntergeladen!*",
+    "download_successful": "{HEAVY_CHECK_MARK} **Audio wurde erfolgreich heruntergeladen!**",
     "wait_previous_download": "{WARNING} Warte bitte auf dein gerade eben angefordertes Video!",
     "download_queue_full": "{WARNING} Die Download-Warteschlange ist voll. Versuche es später erneut.",
     "help_1": [
-        "{OPEN_BOOK} *Hilfe (1 von 4)*\\n\\n",
+        "{OPEN_BOOK} **Hilfe (1 von 4)**\\n\\n",
         "Die URL von dem YouTube-Video, das du als Audiodatei downloaden möchtest, ist das Einzige, was du brauchst; ähnlich wie dieses Beispiel:\\n\\n",
         "— https://youtu.be/SMWi7CLoZ2Q."
     ],
     "help_2": [
-        "{OPEN_BOOK} *Hilfe (2 von 4)*\\n\\n",
+        "{OPEN_BOOK} **Hilfe (2 von 4)**\\n\\n",
         "Es gibt eine Vielzahl an Möglichkeiten, um die URL zu finden. Du kannst zum Beispiel:\\n\\n",
         "— Den 'Teilen'-Button der YouTube App benutzen.\\n",
         "— Die Telegram Inline Bots @vid oder @youtube benutzen.\\n",
         "— Den Link von deinem Browser kopieren und hier einfügen."
     ],
     "help_3": [
-        "{OPEN_BOOK} *Hilfe (3 von 4)*\\n\\n",
+        "{OPEN_BOOK} **Hilfe (3 von 4)**\\n\\n",
         "Schicke mir die URL, wenn du sie gefunden hast.\\n\\n",
         "Wenn das Video bereits von jemand anderem heruntergeladen wurde, wird dir die Audiodatei sofort gesendet, ",
-        "andernfalls wird {INBOX_TRAY} *Herunterladen* erscheinen. Nachdem du den Button gedrückt hast, wird die Audiodatei für dich kurz danach ",
+        "andernfalls wird {INBOX_TRAY} **Herunterladen** erscheinen. Nachdem du den Button gedrückt hast, wird die Audiodatei für dich kurz danach ",
         "verfügbar sein."
     ],
     "help_4": [
-        "{OPEN_BOOK} *Hilfe (4 von 4)*\\n\\n",
-        "Nachdem du die Audiodatei erhalten und heruntergeladen hast, kannst du auf *Musik speichern* drücken, ",
+        "{OPEN_BOOK} **Hilfe (4 von 4)**\\n\\n",
+        "Nachdem du die Audiodatei erhalten und heruntergeladen hast, kannst du auf **Musik speichern** drücken, ",
         "um die Audiodatei in dem Musik-Verzeichnis deines Handys zu speichern."
     ],
     "tip_1": [
-        "{LIGHT_BULB} *Tipp (1 von 2)*\\n\\n",
+        "{LIGHT_BULB} **Tipp (1 von 2)**\\n\\n",
         "Du kannst auch nur die Video ID senden, ähnlich wie dieses Beispiel:\\n\\n",
         "— `SMWi7CLoZ2Q`."
     ],
     "tip_2": [
-        "{LIGHT_BULB} *Tipp (2 von 2)*\\n\\n",
+        "{LIGHT_BULB} **Tipp (2 von 2)**\\n\\n",
         "Trete dem Kanal @YTAudio bei, um die neuesten News und Updates für diesen Bot zu erfahren!"
     ],
-    "hi": "{SPARKLES} *Hallo, {name}!*",
+    "hi": "{SPARKLES} **Hallo, {name}!**",
     "presentation": [
-        "*Mit dem *[YTAudioBot](https://ytaudiobot.ml)* kannst du YouTube-Videos als Audiodateien herunterladen und sie ",
-        "überall mit dabei haben.*"
+        "**Mit dem **[YTAudioBot](https://ytaudiobot.ml)** kannst du YouTube-Videos als Audiodateien herunterladen und sie ",
+        "überall mit dabei haben.**"
     ],
     "feedback": [
-        "{SPEECH_BALLOON} *Feedback*\\n\\n",
+        "{SPEECH_BALLOON} **Feedback**\\n\\n",
         "Hallo, {name}! Magst du den YTAudioBot?"
     ],
     "about": [
-        "{NEWSPAPER} *Über*\\n\\n",
-        "*YTAudioBot für Telegram*\\n",
+        "{NEWSPAPER} **Über**\\n\\n",
+        "**YTAudioBot für Telegram**\\n",
         "{version} _{day}. {month} {year}_\\n\\n",
-        "{LOUDSPEAKER} *Kanal* - @YTAudio\\n",
-        "{LINK} *Webseite* - https://ytaudiobot.ml\\n",
-        "{ENVELOPE} *E-Mail* - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
-        "{EYE} *Bewertungen* - {WHITE_MEDIUM_STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
+        "{LOUDSPEAKER} **Kanal** - @YTAudio\\n",
+        "{LINK} **Webseite** - https://ytaudiobot.ml\\n",
+        "{ENVELOPE} **E-Mail** - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
+        "{EYE} **Bewertungen** - {WHITE_MEDIUM_STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
         "{BUST_IN_SILHOUETTE} [{reviews_n}](https://storebot.me/bot/ytaudiobot)"
     ],
     "settings": [
-        "{GEAR} *Einstellungen*\\n\\n",
-        "{NEWSPAPER} *Über* - Infos über diesen Bot\\n",
-        "{BAR_CHART} *FAQ* - Häufig gestellte Fragen\\n",
-        "{GLOBE_WITH_MERIDIANS} *Sprache* - Sprache ändern\\n",
-        "{SPEECH_BALLOON} *Feedback* - Sende dein Feedback"
+        "{GEAR} **Einstellungen**\\n\\n",
+        "{NEWSPAPER} **Über** - Infos über diesen Bot\\n",
+        "{BAR_CHART} **FAQ** - Häufig gestellte Fragen\\n",
+        "{GLOBE_WITH_MERIDIANS} **Sprache** - Sprache ändern\\n",
+        "{SPEECH_BALLOON} **Feedback** - Sende dein Feedback"
     ],
     "faq_1": [
-        "{BAR_CHART} *Häufig gestellte Fragen*\\n\\n",
-        "`F:` *1. Ich möchte gern das Audio-Format auswählen!*\\n",
+        "{BAR_CHART} **Häufig gestellte Fragen**\\n\\n",
+        "`F:` **1. Ich möchte gern das Audio-Format auswählen!**\\n",
         "`A:` Wir fokussieren uns auf Qualität, Stabilität und Verlässlichkeit. ",
         "Um unsere super-schnelle Konvertierung mit der bei YouTube am besten verfügbaren Qualität zu gewährleisten, senden wir derzeit ausschließlich ",
         "AAC 128k codierte Dateien in MPEG-4 Part 14 (MP4) mit M4A Dateinamenserweiterung und iTunes Infos zum Song. ",
         "Dies könnte sich in Zukunft ändern."
     ],
     "faq_2": [
-        "{BAR_CHART} *Häufig gestellte Fragen*\\n\\n",
-        "`F:` *2. Was heißt AAC/M4A?*\\n",
+        "{BAR_CHART} **Häufig gestellte Fragen**\\n\\n",
+        "`F:` **2. Was heißt AAC/M4A?**\\n",
         "`A:` AAC ist ein Audioformat, welches das MP3-Format ablöst. Dieses erreicht ",
         "trotz vergleichbarer Bit-Rate eine bessere Klangqualität als MP3. M4A ist eine Dateinamenserweiterung, die komprimierte Audiodateien im MPEG-4 Containerformat ",
         "beschreibt und wird für die eigentliche AAC Kodierung sowie für die Info des Audios verwendet."
     ],
     "faq_3": [
-        "{BAR_CHART} *Häufig gestellte Fragen*\\n\\n",
-        "`F:` *3. Manche Videos funktionieren nicht!*\\n",
+        "{BAR_CHART} **Häufig gestellte Fragen**\\n\\n",
+        "`F:` **3. Manche Videos funktionieren nicht!**\\n",
         "`A:` Aufgrund von Länderbeschränkungen auf YouTube kann es vorkommen, dass manche Videos für unseren Server nicht verfügbar sind. ",
         "Des weiteren kann der Bot im Moment nur Audiodateien bis zu einer Größe von 50 MB versenden. Dieses Limit könnte sich in Zukunft verändern."
     ],
     "faq_4": [
-        "{BAR_CHART} *Häufig gestellte Fragen*\\n\\n",
-        "`F:` *4. Warum haben die Dateien komische Namen?*\\n",
+        "{BAR_CHART} **Häufig gestellte Fragen**\\n\\n",
+        "`F:` **4. Warum haben die Dateien komische Namen?**\\n",
         "`A:` Die Dateien sind als `Titel - VideoId.m4a` gespeichert, wobei der `Titel` aufgrund ungültiger Zeichen nicht zu 100% dem Titel des ",
         "Videos entsprechen könnte. Dies ist normalerweise kein Problem, da die korrekte Info über ",
         "das Video in den Tags der Audiodatei vorhanden ist."
     ],
     "faq_menu": [
-        "{BAR_CHART} *Häufig gestellte Fragen*\\n\\n",
-        "*1.* Ich möchte gern das Audio-Format auswählen!\\n",
-        "*2.* Was heißt AAC/M4A?\\n",
-        "*3.* Manche Videos funktionieren nicht!\\n",
-        "*4.* Warum haben die Dateien komische Namen?"
+        "{BAR_CHART} **Häufig gestellte Fragen**\\n\\n",
+        "**1.** Ich möchte gern das Audio-Format auswählen!\\n",
+        "**2.** Was heißt AAC/M4A?\\n",
+        "**3.** Manche Videos funktionieren nicht!\\n",
+        "**4.** Warum haben die Dateien komische Namen?"
     ],
     "contribute": [
-        "{FOLDED_HANDS} *Helfe, den Bot zu übersetzen*\\n\\n",
+        "{FOLDED_HANDS} **Helfe, den Bot zu übersetzen**\\n\\n",
         "{name}! Wenn du möchstest, dass @YTAudioBot auch deine Sprache spricht, oder du eine schon verfügbare Sprache verbessern möchtest, kannst du uns gerne helfen!\\n\\n",
         "Wir haben diesbezüglich eine Anleitung vorbereitet, die du [hier](https://github.com/ytaudiobot/ytaudiobot-l10n) finden kannst. ",
         "Beachte, dass du über Grundkenntnisse der englischen Sprache verfügen musst.\\n\\n",
         "Wir freuen uns auf neue Sprachen und Verbesserungen! Schließe dich uns an - jede Hilfe wird dankend angenommen!"
     ],
     "contributors": [
-        "{BUSTS_IN_SILHOUETTE} *Freiwillige*\\n\\n",
+        "{BUSTS_IN_SILHOUETTE} **Freiwillige**\\n\\n",
         "{RED_HEART} Wir danken herzlich den folgenden Übersetzern:\\n\\n",
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
     "donate": [
-        "{WRAPPED_GIFT} *Spenden*\\n\\n",
-        "*Danke, dass du helfen möchtest!*\\n\\n",
+        "{WRAPPED_GIFT} **Spenden**\\n\\n",
+        "**Danke, dass du helfen möchtest!**\\n\\n",
         "YTAudioBot ist komplett kostenlos, angetrieben durch eure Liebe und Unterstützung!\\n\\n",
         "Wenn dir dieser Bot richtig gut gefällt, erwäge eine [Spende](https://paypal.me/delivrance/5) ",
         "um etwas zu Entwicklung, Betreuung und Serverkosten beizutragen."
@@ -262,25 +262,25 @@
     "donate_button": "{WRAPPED_GIFT} Spenden",
     "donate_with_paypal_button": "{P_BUTTON} Spende mit PayPal",
     "search_item_template": [
-        "{HEADPHONE} *{title}*\\n",
+        "{HEADPHONE} **{title}**\\n",
         "{BUST_IN_SILHOUETTE} _{channel}_\\n",
         "{EYE} {view_count} {THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
         "{clock} {duration}: /dl\\_{encoded_video_id}\\n\\n"
     ],
     "extract_item_template": [
         "{HEADPHONE} [{title}](https://youtu.be/{video_id})\\n",
-        "{BUST_IN_SILHOUETTE} *{uploader}* ([{uploader_id}](https://youtube.com/user/{uploader_id}))\\n",
+        "{BUST_IN_SILHOUETTE} **{uploader}** ([{uploader_id}](https://youtube.com/user/{uploader_id}))\\n",
         "{EYE} {view_count}\\n",
         "{THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
         "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
     ],
     "history_item_template": [
-        "{HEADPHONE} *{index}.* {performer} - *{title}*\\n",
+        "{HEADPHONE} **{index}.** {performer} - **{title}**\\n",
         "_{natural_relative_time}_\\n\\n"
     ],
     "history_details_item_template": [
         "{listen_on_youtube}\\n",
-        "{HEADPHONE} {performer} - *{title}*\\n",
+        "{HEADPHONE} {performer} - **{title}**\\n",
         "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
     ]
 }

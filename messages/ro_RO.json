@@ -8,15 +8,15 @@
     "type_search_terms": "{MEMO} Introdu termenii de căutare",
     "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} Caută \\\"{terms}\\\" pe YouTube",
     "error": "{PENSIVE_FACE} Ceva nu a mers bine. Încearcă mai târziu.",
-    "longer_download_time": "{WARNING} *Pentru acest clip ar putea să dureze mai mult decât de obicei. Descărcarea ar putea chiar să eșueze!*",
+    "longer_download_time": "{WARNING} **Pentru acest clip ar putea să dureze mai mult decât de obicei. Descărcarea ar putea chiar să eșueze!**",
     "clear_history_warning": "{WARNING} Ești pe cale să îți ștergi întregul istoric!",
     "history_settings": [
-        "{HOURGLASS} *Istoricul de descărcări*\\n\\n",
+        "{HOURGLASS} **Istoricul de descărcări**\\n\\n",
         "{Nu sunt obiecte|Există un singur obiect|Sunt # obiecte} în istoricul de descărcări."
     ],
     "clear_history_confirmation": [
-        "{WASTEBASKET} *Șterge întregul istoric*\\n\\n",
-        "Ești sigur că vrei să îți ștergi întregul istoric de descărcări? *Această acțiune nu poate fi remediată.*"
+        "{WASTEBASKET} **Șterge întregul istoric**\\n\\n",
+        "Ești sigur că vrei să îți ștergi întregul istoric de descărcări? **Această acțiune nu poate fi remediată.**"
     ],
     "added_seconds_ago": "Adăugat acum {0 secunde|o secundă|# secunde}",
     "added_minutes_ago": "Adăugat acum {0 minute|un minut|# minute}",
@@ -31,7 +31,7 @@
     "download_history_resumed": "{WHITE_HEAVY_CHECK_MARK} Istoricul a fost reluat",
     "download_history_cleared": "{WASTEBASKET} Istoricul a fost șters",
     "file_expired": [
-        "{WARNING} *Fișier expirat*\\n\\n",
+        "{WARNING} **Fișier expirat**\\n\\n",
         "Apasă {command} pentru a descărca din nou."
     ],
     "file_info": [
@@ -43,169 +43,169 @@
     ],
     "listen_on_youtube": "{LINK} [Ascultă pe YouTube](https://youtu.be/{video_id})",
     "like": [
-        "{SPARKLES} *Îți mulțumim, {name}!*\\n\\n",
+        "{SPARKLES} **Îți mulțumim, {name}!**\\n\\n",
         "Ne bucurăm că îți place.\\n\\n",
         "Poți să adaugi o recenzie, selectând\\n",
         "5 steluțe {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} aici:\\n",
         "https://t.me/storebot?start=YTAudioBot"
     ],
     "dislike": [
-        "{PENSIVE_FACE} *Ne pare rău să auzim asta, {name}.*\\n\\n",
+        "{PENSIVE_FACE} **Ne pare rău să auzim asta, {name}.**\\n\\n",
         "Ai găsit ceva în neregulă cu acest bot? Te rugăm, spune-ne (în Engleză sau Italiană):"
     ],
     "rating_message": [
-        "{WHITE_MEDIUM_STAR} *Adaugă o recenzie pentru YTAudioBot*\\n\\n",
+        "{WHITE_MEDIUM_STAR} **Adaugă o recenzie pentru YTAudioBot**\\n\\n",
         "{name}, îți place acest bot?\\n",
         "Fă-ți timp pentru a adăuga o recenzie în StoreBot."
     ],
-    "rate_later": "{HOURGLASS} *Bine, te voi întreba mai târziu!*",
-    "rate_never": "{PILE_OF_POO} *Bine, nu te voi mai întreba.*",
+    "rate_later": "{HOURGLASS} **Bine, te voi întreba mai târziu!**",
+    "rate_never": "{PILE_OF_POO} **Bine, nu te voi mai întreba.**",
     "send_feedback": [
-        "{MEMO} *Trimite o părere*\\n\\n",
+        "{MEMO} **Trimite o părere**\\n\\n",
         "Poți să sugerezi schimbări sau îmbunătățiri, să raportezi probleme, sau să trimiți un comentariu creatorilor ",
         "(în Engleză sau Italiană)."
     ],
     "sending_feedback_enabled": "{MEMO} Scrie-ți părerea",
-    "feedback_sent": "{HEAVY_CHECK_MARK} *Părerea ta a fost trimisă. Îți mulțumim!*",
-    "showing_trending_results": "{FIRE} *Arată rezultatele în vogă*\\n\\n",
-    "showing_youtube_results": "{RIGHT_POINTING_MAGNIFYING_GLASS} *Rezultate YouTube pentru \\\"*{terms}*\\\"*\\n\\n",
-    "flood_wait": "{WARNING} *Nu așa de repede! Așteaptă {0 secunde|o secundă|# secunde}, apoi încearcă din nou.*",
-    "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} *Se caută \\\"*{terms}*\\\"...*",
-    "video_not_available": "{PENSIVE_FACE} *Ne pare rău, acest clip nu este disponibil momentan. Încearcă mai târziu.*",
-    "size_limit_exceeded": "{PENSIVE_FACE} *Ne pare rău, acest clip depășește limita de mărime. Încearcă cu un altul.*",
-    "api_error": "{PENSIVE_FACE} *Ne pare rău, operațiunea nu poate fi efectuată chiar acum. Încearcă mai târziu.*",
+    "feedback_sent": "{HEAVY_CHECK_MARK} **Părerea ta a fost trimisă. Îți mulțumim!**",
+    "showing_trending_results": "{FIRE} **Arată rezultatele în vogă**\\n\\n",
+    "showing_youtube_results": "{RIGHT_POINTING_MAGNIFYING_GLASS} **Rezultate YouTube pentru \\\"**{terms}**\\\"**\\n\\n",
+    "flood_wait": "{WARNING} **Nu așa de repede! Așteaptă {0 secunde|o secundă|# secunde}, apoi încearcă din nou.**",
+    "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} **Se caută \\\"**{terms}**\\\"...**",
+    "video_not_available": "{PENSIVE_FACE} **Ne pare rău, acest clip nu este disponibil momentan. Încearcă mai târziu.**",
+    "size_limit_exceeded": "{PENSIVE_FACE} **Ne pare rău, acest clip depășește limita de mărime. Încearcă cu un altul.**",
+    "api_error": "{PENSIVE_FACE} **Ne pare rău, operațiunea nu poate fi efectuată chiar acum. Încearcă mai târziu.**",
     "select_language": [
-        "{GLOBE_WITH_MERIDIANS} *Limbă*\\n\\n",
+        "{GLOBE_WITH_MERIDIANS} **Limbă**\\n\\n",
         "Selectează limba."
     ],
     "language_selected": "{HEAVY_CHECK_MARK} Limba a fost setată în {ROMANIA} Română.",
     "same_language_selected": "{THINKING_FACE} Limba este deja setată în {ROMANIA} Română.",
-    "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *Se procesează clip-ul...*",
+    "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} **Se procesează clip-ul...**",
     "download_canceled": [
-        "{CROSS_MARK} *Descărcare anulată.\\n",
-        "Apasă *{command}* pentru a descărca din nou.*"
+        "{CROSS_MARK} **Descărcare anulată.\\n",
+        "Apasă **{command}** pentru a descărca din nou.**"
     ],
     "download_error": [
-        "{PENSIVE_FACE} *Ne pare rău, ceva nu a mers bine.\\n",
-        "Încearcă din nou: *{command}*.*"
+        "{PENSIVE_FACE} **Ne pare rău, ceva nu a mers bine.\\n",
+        "Încearcă din nou: **{command}**.**"
     ],
     "download_timeout": [
-        "{WARNING} *Desărcarea va dura mai mult de un minut.\\n",
-        "Simte-te liber să încerci cu un alt clip, acesta îți va fi trimis cât mai repede posibil!*"
+        "{WARNING} **Desărcarea va dura mai mult de un minut.\\n",
+        "Simte-te liber să încerci cu un alt clip, acesta îți va fi trimis cât mai repede posibil!**"
     ],
-    "download_successful": "{HEAVY_CHECK_MARK} *Formatul audio a fost descărcat cu succes!*",
+    "download_successful": "{HEAVY_CHECK_MARK} **Formatul audio a fost descărcat cu succes!**",
     "wait_previous_download": "{WARNING} Așteaptă pentru descărcarea anterioară!",
     "download_queue_full": "{WARNING} Lista pentru descărcări este plină. Încearcă mai târziu.",
     "help_1": [
-        "{OPEN_BOOK} *Ajutor (1 din 4)*\\n\\n",
+        "{OPEN_BOOK} **Ajutor (1 din 4)**\\n\\n",
         "Singurul lucru de care ai nevoie este link-ul URL al clip-ului de pe YouTube, din care vrei să extragi formatul audio, ca acesta:\\n\\n",
         "— https://youtu.be/SMWi7CLoZ2Q."
     ],
     "help_2": [
-        "{OPEN_BOOK} *Ajutor (2 din 4)*\\n\\n",
+        "{OPEN_BOOK} **Ajutor (2 din 4)**\\n\\n",
         "Sunt multe modalități de a găsi link-ul URL. Poți, de exemplu:\\n\\n",
         "— Să folosești butonul Share din aplicația YouTube.\\n",
         "— Să folosești comenzile 'inline' @vid sau @youtube.\\n",
         "— Să copiezi/inserezi link-ul direct din browser."
     ],
     "help_3": [
-        "{OPEN_BOOK} *Ajutor (3 din 4)*\\n\\n",
+        "{OPEN_BOOK} **Ajutor (3 din 4)**\\n\\n",
         "După ce ai găsit link-ul URL, trimite-mi-l.\\n\\n",
         "Dacă clip-ul a fost deja descărcat de altcineva formatul audio îți va fi trimis imediat, ",
-        "dacă nu, va apărea {INBOX_TRAY} *Descarcă* ca buton. Apasă-l, formatul audio îți va fi trimis ",
+        "dacă nu, va apărea {INBOX_TRAY} **Descarcă** ca buton. Apasă-l, formatul audio îți va fi trimis ",
         "imediat după."
     ],
     "help_4": [
-        "{OPEN_BOOK} *Ajutor (4 din 4)*\\n\\n",
-        "După ce l-ai primit și descărcat, poți apăsa mesajul audio, iar apoi butonul *Save to music* ",
+        "{OPEN_BOOK} **Ajutor (4 din 4)**\\n\\n",
+        "După ce l-ai primit și descărcat, poți apăsa mesajul audio, iar apoi butonul **Save to music** ",
         "pentru a salva fișierul audio în folderul Muzică din dispozitivul tău."
     ],
     "tip_1": [
-        "{LIGHT_BULB} *Pont (1 din 2)*\\n\\n",
+        "{LIGHT_BULB} **Pont (1 din 2)**\\n\\n",
         "Poți, de asemenea, să îmi trimiți doar ID-ul clip-ului, ca acesta:\\n\\n",
         "— `SMWi7CLoZ2Q`."
     ],
     "tip_2": [
-        "{LIGHT_BULB} *Pont (2 din 2)*\\n\\n",
+        "{LIGHT_BULB} **Pont (2 din 2)**\\n\\n",
         "Înscrie-te în canalul @YTAudio pentru ultimele noutăți și actualizări!"
     ],
-    "hi": "{SPARKLES} *Bună, {name}!*",
+    "hi": "{SPARKLES} **Bună, {name}!**",
     "presentation": [
-        "*Cu *[YTAudioBot](https://ytaudiobot.ml)*, poți descărca clip-uri de pe YouTube, în format audio, pentru a le lua cu tine ",
-        "oriunde mergi.*"
+        "**Cu **[YTAudioBot](https://ytaudiobot.ml)**, poți descărca clip-uri de pe YouTube, în format audio, pentru a le lua cu tine ",
+        "oriunde mergi.**"
     ],
     "feedback": [
-        "{SPEECH_BALLOON} *Părere*\\n\\n",
+        "{SPEECH_BALLOON} **Părere**\\n\\n",
         "Bună, {name}! Îți place YTAudioBot?"
     ],
     "about": [
-        "{NEWSPAPER} *Despre*\\n\\n",
-        "*YTAudioBot pentru Telegram*\\n",
+        "{NEWSPAPER} **Despre**\\n\\n",
+        "**YTAudioBot pentru Telegram**\\n",
         "{version} _{day} {month} {year}_\\n\\n",
-        "{LOUDSPEAKER} *Canal* - @YTAudio\\n",
-        "{LINK} *Website* - https://ytaudiobot.ml\\n",
-        "{ENVELOPE} *E-Mail* - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
-        "{EYE} *Recenzii* - {WHITE_MEDIUM_STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
+        "{LOUDSPEAKER} **Canal** - @YTAudio\\n",
+        "{LINK} **Website** - https://ytaudiobot.ml\\n",
+        "{ENVELOPE} **E-Mail** - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
+        "{EYE} **Recenzii** - {WHITE_MEDIUM_STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
         "{BUST_IN_SILHOUETTE} [{reviews_n}](https://storebot.me/bot/ytaudiobot)"
     ],
     "settings": [
-        "{GEAR} *Setări*\\n\\n",
-        "{NEWSPAPER} *Despre* - Informații despre bot\\n",
-        "{BAR_CHART} *FAQ* - Întrebări frecvente\\n",
-        "{GLOBE_WITH_MERIDIANS} *Limbă* - Schimbă limba\\n",
-        "{SPEECH_BALLOON} *Părere* - Trimite-ți părerea"
+        "{GEAR} **Setări**\\n\\n",
+        "{NEWSPAPER} **Despre** - Informații despre bot\\n",
+        "{BAR_CHART} **FAQ** - Întrebări frecvente\\n",
+        "{GLOBE_WITH_MERIDIANS} **Limbă** - Schimbă limba\\n",
+        "{SPEECH_BALLOON} **Părere** - Trimite-ți părerea"
     ],
     "faq_1": [
-        "{BAR_CHART} *Întrebări frecvente*\\n\\n",
-        "`Î:` *1. Vreau să aleg formatul audio!*\\n",
+        "{BAR_CHART} **Întrebări frecvente**\\n\\n",
+        "`Î:` **1. Vreau să aleg formatul audio!**\\n",
         "`R:` Ne focusăm pe calitate, performanța serviciilor și încredere. ",
         "Pentru a avea conversie audio super-rapidă, la cea mai înaltă calitate disponibilă pe YouTube, trimitem doar ",
         "fișiere codate AAC 128k, în interiorul unui recipient MPEG-4 Part 14 (MP4), cu extensia M4A, setat cu informațiile iTunes. ",
         "Această alegere se poate modifica în viitor."
     ],
     "faq_2": [
-        "{BAR_CHART} *Întrebări frecvente*\\n\\n",
-        "`Î:` *2. Ce înseamnă AAC/M4A?*\\n",
+        "{BAR_CHART} **Întrebări frecvente**\\n\\n",
+        "`Î:` **2. Ce înseamnă AAC/M4A?**\\n",
         "`R:` AAC este un mod de codare audio, proiectat pentru a fi succesorul formatului MP3 și, de obicei, realizează ",
         "o calitate mai bună a sunetului decât formatul MP3, la aceleași rate de biți. M4A este o extensie de fișier, știută și drept recipientul ",
         "atât a fișierelor audio codate AAC, cât și a tag-urilor audio în sine."
     ],
     "faq_3": [
-        "{BAR_CHART} *Întrebări frecvente*\\n\\n",
-        "`Î:` *3. Unele clip-uri nu funcționează!*\\n",
+        "{BAR_CHART} **Întrebări frecvente**\\n\\n",
+        "`Î:` **3. Unele clip-uri nu funcționează!**\\n",
         "`R:` Unele clip-uri, din cauza restricției YouTube pentru anumite țări, este posibil să nu fie disponibile centrului nostru de date. De asemenea, ",
         "bot-ul poate trimite fișiere audio nu mai mari de 50 MB, această limită s-ar putea schimba în viitor."
     ],
     "faq_4": [
-        "{BAR_CHART} *Întrebări frecvente*\\n\\n",
-        "`Î:` *4. De ce au fișierele nume străine?*\\n",
+        "{BAR_CHART} **Întrebări frecvente**\\n\\n",
+        "`Î:` **4. De ce au fișierele nume străine?**\\n",
         "`R:` Fișierele sunt salvate ca `Titlu - IDClip.m4a`, oricum, `Titlu` poate să nu reflecte 100% titlul ",
         "clip-ului, din cauza unor caractere invalide. De obicei, aceasta nu este o problemă, atât timp cât toate informațiile despre ",
         "clip sunt incorporate în tag-ul fișierului audio."
     ],
     "faq_menu": [
-        "{BAR_CHART} *Întrebări frecvente*\\n\\n",
-        "*1.* Vreau să aleg formatul audio!\\n",
-        "*2.* Ce înseamnă AAC/M4A?\\n",
-        "*3.* Unele clip-uri nu funcționează!\\n",
-        "*4.* De ce au fișierele nume străine?"
+        "{BAR_CHART} **Întrebări frecvente**\\n\\n",
+        "**1.** Vreau să aleg formatul audio!\\n",
+        "**2.** Ce înseamnă AAC/M4A?\\n",
+        "**3.** Unele clip-uri nu funcționează!\\n",
+        "**4.** De ce au fișierele nume străine?"
     ],
     "contribute": [
-        "{FOLDED_HANDS} *Ajută la tradus*\\n\\n",
+        "{FOLDED_HANDS} **Ajută la tradus**\\n\\n",
         "{name}! Dacă vrei ca @YTAudioBot să vorbească limba ta sau vrei doar să îmbunătățești o alta, ne poți ajuta!\\n\\n",
         "Am pregătit chiar și un ghid special pentru asta, [aici](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
         "Este necesar să cunoști limba engleză.\\n\\n",
         "Ne bucurăm să primim îmbunătățiri sau traduceri în alte limbi! Simte-te liber să ni te alături, orice ajutor este binevenit!"
     ],
     "contributors": [
-        "{BUSTS_IN_SILHOUETTE} *Contribuitori*\\n\\n",
+        "{BUSTS_IN_SILHOUETTE} **Contribuitori**\\n\\n",
         "{RED_HEART} Dorim să le mulțumim călduros, pentru ajutorul lor, următorilor:\\n\\n",
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
     "donate":  [
-        "{WRAPPED_GIFT} *Fă o donație*\\n\\n",
-        "*Îți mulțumim pentru că vrei să ajuți!*\\n\\n",
+        "{WRAPPED_GIFT} **Fă o donație**\\n\\n",
+        "**Îți mulțumim pentru că vrei să ajuți!**\\n\\n",
         "YTAudioBot este complet gratuit, dar sprijinit de dragostea și ajutorul tău!\\n\\n",
         "Dacă chiar îndrăgești acest bot, ia în considerare o [donație](https://paypal.me/delivrance/5) ",
         "pentru a susține dezvoltarea, întreținerea și plata server-ului."
@@ -262,25 +262,25 @@
     "donate_button": "{WRAPPED_GIFT} Fă o donație",
     "donate_with_paypal_button": "{P_BUTTON} Donează cu PayPal",
     "search_item_template": [
-        "{HEADPHONE} *{title}*\\n",
+        "{HEADPHONE} **{title}**\\n",
         "{BUST_IN_SILHOUETTE} _{channel}_\\n",
         "{EYE} {view_count} {THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
         "{clock} {duration}: /dl\\_{encoded_video_id}\\n\\n"
     ],
     "extract_item_template": [
         "{HEADPHONE} [{title}](https://youtu.be/{video_id})\\n",
-        "{BUST_IN_SILHOUETTE} *{uploader}* ([{uploader_id}](https://youtube.com/user/{uploader_id}))\\n",
+        "{BUST_IN_SILHOUETTE} **{uploader}** ([{uploader_id}](https://youtube.com/user/{uploader_id}))\\n",
         "{EYE} {view_count}\\n",
         "{THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
         "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
     ],
     "history_item_template": [
-        "{HEADPHONE} *{index}.* {performer} - *{title}*\\n",
+        "{HEADPHONE} **{index}.** {performer} - **{title}**\\n",
         "_{natural_relative_time}_\\n\\n"
     ],
     "history_details_item_template": [
         "{listen_on_youtube}\\n",
-        "{HEADPHONE} {performer} - *{title}*\\n",
+        "{HEADPHONE} {performer} - **{title}**\\n",
         "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
     ]
 }
