@@ -203,7 +203,13 @@
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
-    "donate": "Wesprzyj nas",
+    "donate": [
+        "{WRAPPED_GIFT} *Wesprzyj nas*\\n\\n",
+        "*Dziękujemy że chcesz pomóc!*\\n\\n",
+        "YTAudioBot jest darmowy, ale zasila go Wasza miłość i wsparcie!\\n\\n",
+        "Jeśli naprawdę lubisz tego bota, proszę rozważ [wsparcie nas](https://paypal.me/delivrance/5) ",
+        "aby umożliwić nam utrzymanie serwerów i dalszy rozwój."
+    ],
     "month_1": "Stycznia",
     "month_2": "Lutego",
     "month_3": "Marca",
