@@ -141,7 +141,7 @@
     "about": [
         "{NEWSPAPER} **关于**\\n\\n",
         "**YTAudioBot for Telegram**\\n",
-        "{version} _{year}年{month}{day}日_\\n\\n",
+        "{version} __{year}年{month}{day}日_\\n\\n",
         "{LOUDSPEAKER} **频道** - @YTAudio\\n",
         "{LINK} **网站** - https://ytaudiobot.ml\\n",
         "{ENVELOPE} **邮箱** - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
@@ -264,9 +264,9 @@
     "donate_with_paypal_button": "{P_BUTTON} 使用PayPal捐赠",
     "search_item_template": [
         "{HEADPHONE} **{title}**\\n",
-        "{BUST_IN_SILHOUETTE} _{channel}_\\n",
+        "{BUST_IN_SILHOUETTE} __{channel}__\\n",
         "{EYE} {view_count} {THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
-        "{clock} {duration}: /dl\\_{encoded_video_id}\\n\\n"
+        "{clock} {duration}: /dl_{encoded_video_id}\\n\\n"
     ],
     "extract_item_template": [
         "{HEADPHONE} [{title}](https://youtu.be/{video_id})\\n",
@@ -277,7 +277,7 @@
     ],
     "history_item_template": [
         "{HEADPHONE} **{index}.** {performer} - **{title}**\\n",
-        "_{natural_relative_time}_\\n\\n"
+        "__{natural_relative_time}__\\n\\n"
     ],
     "history_details_item_template": [
         "{listen_on_youtube}\\n",

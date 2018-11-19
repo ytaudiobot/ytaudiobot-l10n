@@ -139,7 +139,7 @@
     "about": [
         "{NEWSPAPER} **حول**\\n\\n",
         "**YTAudioBot للتليقرام**\\n",
-        "{version} _{month} {day}, {year}_\\n\\n",
+        "{version} __{month} {day}, {year}__\\n\\n",
         "{LOUDSPEAKER} **القناة** - @YTAudio\\n",
         "{LINK} **الموقع الالكتروني** - https://ytaudiobot.ml\\n",
         "{ENVELOPE} **البريد الالكتروني** - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
@@ -254,9 +254,9 @@
     "donate_with_paypal_button": null,
     "search_item_template": [
         "{HEADPHONE} **{title}**\\n",
-        "{BUST_IN_SILHOUETTE} _{channel}_\\n",
+        "{BUST_IN_SILHOUETTE} __{channel}__\\n",
         "{EYE} {view_count} {THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
-        "{clock} {duration}: /dl\\_{encoded_video_id}\\n\\n"
+        "{clock} {duration}: /dl_{encoded_video_id}\\n\\n"
     ],
     "extract_item_template": [
         "{HEADPHONE} [{title}](https://youtu.be/{video_id})\\n",
@@ -267,7 +267,7 @@
     ],
     "history_item_template": [
         "{HEADPHONE} **{index}.** {performer} - **{title}**\\n",
-        "_{natural_relative_time}_\\n\\n"
+        "__{natural_relative_time}__\\n\\n"
     ],
     "history_details_item_template": [
         "{listen_on_youtube}\\n",
