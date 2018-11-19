@@ -44,7 +44,7 @@ All you need is a text editor, knowledge of the English language and of course k
 - Source/fallback is in English (en_US), updated simultaneously with Italian (it_IT).
 - Locale files are stored under `messages` in JSON format: `{"key": "value"}`.
 - You only need to modify the `value` of the strings; do not translate the `key`.
-- Keep symbols like `*bold*`, `_italic_`, `` `code` ``, `\\n`, `\\\"` unaltered.
+- Keep symbols like `**bold**`, `__italic__`, `` `code` ``, `\\n`, `\\\"` unaltered.
 - Do not translate format fields such as `{EMOJI}` and `{keyword}`.
 - Do not add or omit any text, also try to keep the same string length.
 - Some strings are actually a `["list ", "of ", "strings"]`. This is a cosmetic need to make .json files tidy.
