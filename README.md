@@ -23,7 +23,6 @@ Language | Contributors | Translated
 :cn: **简体中文** ([zh_CN](messages/zh_CN.json)) | [Kris](//t.me/littlekris) | 100%
 :taiwan: **繁體中文** ([zh_TW](messages/zh_TW.json)) | [Kris](//t.me/littlekris) | 100%
 :saudi_arabia: **العربية** ([ar_SA](messages/ar_SA.json)) | [Mohammad Fahad](//twitter.com/mohmd1429) | [**98%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
-**(WIP)** :jp: **日本語** ([ja_JP](messages/ja_JP.json)) | [Rei](//github.com/unwind-protect) |  [**86%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
 :ukraine: **Українська** ([uk_UA](messages/uk_UA.json)) | [Denis Sikorsky](//t.me/D3sl0ng3r) | [**98%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
 :fr: **Français** ([fr_FR](messages/fr_FR.json)) | [Ev4si0n](//github.com/Ev4si0n) | [**98%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
 :white_flag: **Català** ([ca_ES](messages/ca_ES.json)) | [Artur](//github.com/Ecron) | 100%
