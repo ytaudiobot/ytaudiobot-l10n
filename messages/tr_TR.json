@@ -202,7 +202,13 @@
         "{contributors}\\n\\n",
         "— @YTAudioBot"
     ],
-    "donate": null,
+    "donate": [
+        "{WRAPPED_GIFT} *Bağış Yap*\\n\\n",
+        "*Yardım etmek istediğiniz için teşekkür ederiz!*\\n\\n",
+        "YTAudioBot tamamen ücretsizdir, fakat sizin sevginiz ve desteğiniz ile desteklenmektedir.\\n\\n",
+        "Bu bottan gerçekten hoşlanıyorsanız, botun gelişim, bakım ve sunucu maliyetlerini desteklemek için ",
+        "[bağış](https://paypal.me/delivrance/5) yapmayı düşünün."
+    ],
     "month_1": "Ocak",
     "month_2": "Şubat",
     "month_3": "Mart",
@@ -252,8 +258,8 @@
     "contribute_button": "{BUST_IN_SILHOUETTE} Katkıda Bulunanlar",
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Katkıda Bulunan",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Projeyi Aç",
-    "donate_button": null,
-    "donate_with_paypal_button": null,
+    "donate_button": "{WRAPPED_GIFT} Bağış Yap",
+    "donate_with_paypal_button": "{P_BUTTON} PayPal ile bağış yap",
     "search_item_template": [
         "{HEADPHONE} *{title}*\\n",
         "{BUST_IN_SILHOUETTE} _{channel}_\\n",
