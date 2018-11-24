@@ -139,7 +139,7 @@
     "about": [
         "{NEWSPAPER} **حول**\\n\\n",
         "**YTAudioBot للتليقرام**\\n",
-        "{version} __{month} {day}, {year}__\\n\\n",
+        "**{version}** - __{month} {day}, {year}__\\n\\n",
         "{LOUDSPEAKER} **القناة** - @YTAudio\\n",
         "{LINK} **الموقع الالكتروني** - https://ytaudiobot.ml\\n",
         "{ENVELOPE} **البريد الالكتروني** - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",

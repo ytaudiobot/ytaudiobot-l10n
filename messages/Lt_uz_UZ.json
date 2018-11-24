@@ -141,7 +141,7 @@
     "about": [
         "{NEWSPAPER} **Bot Haqida**\\n\\n",
         "**Telegram uchun YTAudioBot**\\n",
-        "{version} __{month} {day}, {year}__\\n\\n",
+        "**{version}** - __{month} {day}, {year}__\\n\\n",
         "{LOUDSPEAKER} **Kanal** - @YTAudio\\n",
         "{LINK} **Websayt** - https://ytaudiobot.ml\\n",
         "{ENVELOPE} **E-Mail** - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",

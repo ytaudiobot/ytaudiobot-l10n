@@ -141,7 +141,7 @@
     "about": [
         "{NEWSPAPER} **Tietoa**\\n\\n",
         "**YTAudioBot Telegramille**\\n",
-        "{version} __{day}. {month}ta {year}__\\n\\n",
+        "**{version}** - __{day}. {month}ta {year}__\\n\\n",
         "{LOUDSPEAKER} **Kanava** - @YTAudio\\n",
         "{LINK} **Kotisivu** - https://ytaudiobot.ml\\n",
         "{ENVELOPE} **Sähköpostiosoite** - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
