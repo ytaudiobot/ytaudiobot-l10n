@@ -6,12 +6,12 @@
         "Mirror: @YTAudio_Bot"
     ],
     "type_search_terms": "{MEMO} Nhập điều kiện tìm kiếm",
-    "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} Tìm kiếm \\\"{terms}\\\" trên YouTube",
+    "search_on_youtube": "{MAGNIFYING_GLASS_TILTED_RIGHT} Tìm kiếm \\\"{terms}\\\" trên YouTube",
     "error": "{PENSIVE_FACE} Có lỗi xãy ra. Vui lòng thử lại.",
     "longer_download_time": "{WARNING} **Video này mất một khoảng thời gian khá lớn. Tải về có thể sẽ lỗi!**",
     "clear_history_warning": "{WARNING} Bạn sắp xóa toàn bộ lịch sử của mình!",
     "history_settings": [
-        "{HOURGLASS} **Lịch sử tải xuống**\\n\\n",
+        "{HOURGLASS_DONE} **Lịch sử tải xuống**\\n\\n",
         "{Không có item nào|Có một item|Có # item} trong lịch sử tải xuống của bạn."
     ],
     "clear_history_confirmation": [
@@ -46,7 +46,7 @@
         "{SPARKLES} **Cám ơn bạn, {name}!**\\n\\n",
         "Chúng tôi rất vui vì bạn thích nó.\\n\\n",
         "Bạn có thể đánh giá và cài đặt\\n",
-        "5 sao {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} ở đây:\\n",
+        "5 sao {STAR}{STAR}{STAR}{STAR}{STAR} ở đây:\\n",
         "https://t.me/storebot?start=YTAudioBot"
     ],
     "dislike": [
@@ -54,11 +54,11 @@
         "Có lỗi gì với bot không? Vui lòng cho chúng tôi biết (bằng tiếng Anh hoặc tiếng Ý):"
     ],
     "rating_message": [
-        "{WHITE_MEDIUM_STAR} **Đánh giá YTAudioBot**\\n\\n",
+        "{STAR} **Đánh giá YTAudioBot**\\n\\n",
         "{name}, bạn có thích bot?\\n",
         "Dành chút thời gian để đánh giá trên StoreBot."
     ],
-    "rate_later": "{HOURGLASS} **Được rồi, chúng tôi sẽ hỏi bạn lại lần sau!**",
+    "rate_later": "{HOURGLASS_DONE} **Được rồi, chúng tôi sẽ hỏi bạn lại lần sau!**",
     "rate_never": "{PILE_OF_POO} **Được rồi, chúng tôi sẽ không hỏi bạn nữa!**",
     "send_feedback": [
         "{MEMO} **Gửi phản hồi**\\n\\n",
@@ -68,9 +68,9 @@
     "sending_feedback_enabled": "{MEMO} Viết phản hồi của bạn",
     "feedback_sent": "{HEAVY_CHECK_MARK} **Phản hồi đã được gửi, cảm ơn bạn!**",
     "showing_trending_results": "{FIRE} **Hiển thị kết quả xu hướng**\\n\\n",
-    "showing_youtube_results": "{RIGHT_POINTING_MAGNIFYING_GLASS} **Kết quả YouTube cho \\\"**{terms}**\\\"**\\n\\n",
+    "showing_youtube_results": "{MAGNIFYING_GLASS_TILTED_RIGHT} **Kết quả YouTube cho \\\"**{terms}**\\\"**\\n\\n",
     "flood_wait": "{WARNING} **Không nhanh lắm! Đợi {0 giây|1 giây|# giây} và thử lại.**",
-    "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} **Đang tìm kiếm cho \\\"**{terms}**\\\"...**",
+    "search_in_progress": "{MAGNIFYING_GLASS_TILTED_RIGHT} **Đang tìm kiếm cho \\\"**{terms}**\\\"...**",
     "video_not_available": "{PENSIVE_FACE} **Xin lỗi bạn, video này không có sẵn. Thử lại sau nha.**",
     "size_limit_exceeded": "{PENSIVE_FACE} **Xin lỗi bạn, video này đã quá giớ hạn kích cỡ. Thử với video khác nha.**",
     "api_error": "{PENSIVE_FACE} **Xin lỗi bạn,  không thể thực hiện thao tác được yêu cầu ngay bây giờ. Thử lại sau nha.**",
@@ -78,8 +78,8 @@
         "{GLOBE_WITH_MERIDIANS} **Ngôn ngữ**\\n\\n",
         "Vui lòng chọn ngôn ngữ."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} Ngôn ngữ cài đặt cho {VIETNAM} Việt Nam.",
-    "same_language_selected": "{THINKING_FACE} Ngôn ngữ của bot hiện đã là {VIETNAM} Việt Nam",
+    "language_selected": "{HEAVY_CHECK_MARK} Ngôn ngữ cài đặt cho {FLAG_VIETNAM} Việt Nam.",
+    "same_language_selected": "{THINKING_FACE} Ngôn ngữ của bot hiện đã là {FLAG_VIETNAM} Việt Nam",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} **Video đang xử lý...**",
     "download_canceled": [
         "{CROSS_MARK} **Đã hủy tải về.\\n",
@@ -145,7 +145,7 @@
         "{LOUDSPEAKER} **Kênh** - @YTAudio\\n",
         "{LINK} **Website** - https://ytaudiobot.ml\\n",
         "{ENVELOPE} **E-Mail** - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
-        "{EYE} **Đánh giá** - {WHITE_MEDIUM_STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
+        "{EYE} **Đánh giá** - {STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
         "{BUST_IN_SILHOUETTE} [{reviews_n}](https://storebot.me/bot/ytaudiobot)"
     ],
     "settings": [
@@ -223,7 +223,7 @@
     "month_11": "Tháng mười một",
     "month_12": "Tháng mười hai",
     "start_button": "{CHEQUERED_FLAG} Bắt đầu",
-    "language_button": "{VIETNAM} Việt Nam",
+    "language_button": "{FLAG_VIETNAM} Việt Nam",
     "file_info_button": "{PAGE_WITH_CURL} Thông tin tệp",
     "share_button": "{RIGHT_ARROW_CURVING_UP} Chia sẻ",
     "faq_button": "{BAR_CHART} FAQ",
@@ -241,15 +241,15 @@
     "cancel_button": "{CROSS_MARK} Hủy",
     "download_button": "{INBOX_TRAY} Tải xuống",
     "how_it_works_button": "{QUESTION_MARK} Nó hoạt động như thế nào",
-    "rate_now_button": "{WHITE_MEDIUM_STAR} Đánh giá ngay",
-    "later_button": "{HOURGLASS} Để sau",
+    "rate_now_button": "{STAR} Đánh giá ngay",
+    "later_button": "{HOURGLASS_DONE} Để sau",
     "no_thanks_button": "{PILE_OF_POO} Không, cám ơn",
     "channel_button": "{LOUDSPEAKER} Kênh",
     "website_button": "{LINK} Website",
     "email_button": "{ENVELOPE} E-Mail",
     "ratings_button": "{EYE} Đánh giá",
     "help_translate_button": "{FOLDED_HANDS} Trợ giúp dịch",
-    "history_button": "{HOURGLASS} Lịch sử",
+    "history_button": "{HOURGLASS_DONE} Lịch sử",
     "remove_button": "{CROSS_MARK} Xóa",
     "restore_button": "{HEAVY_PLUS_SIGN} Khôi phục",
     "view_button": "{EYE} Xem",

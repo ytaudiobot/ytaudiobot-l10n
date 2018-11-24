@@ -6,12 +6,12 @@
         "Дзеркало: @YTAudio_Bot"
     ],
     "type_search_terms": "{MEMO} Введіть ваші терміни пошуку",
-    "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} Шукати \\\"{terms}\\\" на YouTube",
+    "search_on_youtube": "{MAGNIFYING_GLASS_TILTED_RIGHT} Шукати \\\"{terms}\\\" на YouTube",
     "error": "{PENSIVE_FACE} Сталася помилка. Спробуйте знову пізніше.",
     "longer_download_time": "{WARNING} **Це відео може зайняти більше часу, ніж зазвичай. Завантаження навіть може не вдатися!**",
     "clear_history_warning": "{WARNING} Ви збираєтеся очистити усю вашу історію!",
     "history_settings": [
-        "{HOURGLASS} **Історія завантажень**\\n\\n",
+        "{HOURGLASS_DONE} **Історія завантажень**\\n\\n",
         "{Немає елементів|Є один елемент|Є # елементів} у вашій історії завантажень."
     ],
     "clear_history_confirmation": [
@@ -46,7 +46,7 @@
         "{SPARKLES} **Дякуємо, {name}!**\\n\\n",
         "Ми раді, що вам це сподобалося.\\n\\n",
         "Ми можете оцінити бота та поставити\\n",
-        "5 зірок {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} тут:\\n",
+        "5 зірок {STAR}{STAR}{STAR}{STAR}{STAR} тут:\\n",
         "https://t.me/storebot?start=YTAudioBot"
     ],
     "dislike": [
@@ -54,11 +54,11 @@
         "Щось не так із ботом? Будь ласка, скажіть нам (англійською чи італійською):"
     ],
     "rating_message": [
-        "{WHITE_MEDIUM_STAR} **Оцінити YTAudioBot**\\n\\n",
+        "{STAR} **Оцінити YTAudioBot**\\n\\n",
         "{name}, ви насолоджуєтеся ботом?\\n",
         "Виділіть хвилинку, щоб оцінити його на StoreBot."
     ],
-    "rate_later": "{HOURGLASS} **Добре, я запитаю вас знову іншого разу!**",
+    "rate_later": "{HOURGLASS_DONE} **Добре, я запитаю вас знову іншого разу!**",
     "rate_never": "{PILE_OF_POO} **Добре, я ніколи більше вас не питатиму.**",
     "send_feedback": [
         "{MEMO} **Надіслати відгук**\\n\\n",
@@ -68,9 +68,9 @@
     "sending_feedback_enabled": "{MEMO} Напишіть ваш відгук",
     "feedback_sent": "{HEAVY_CHECK_MARK} **Ваш відгук було надіслано. Дякуємо вам!**",
     "showing_trending_results": "{FIRE} **Показуємо популярні результати**\\n\\n",
-    "showing_youtube_results": "{RIGHT_POINTING_MAGNIFYING_GLASS} **Результати YouTube для \\\"**{terms}**\\\"**\\n\\n",
+    "showing_youtube_results": "{MAGNIFYING_GLASS_TILTED_RIGHT} **Результати YouTube для \\\"**{terms}**\\\"**\\n\\n",
     "flood_wait": "{WARNING} **Не так швидко! Зачекайте {0 секунд|секунду|# секунд} та спробуйте знову.**",
-    "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} **Шукаємо \\\"**{terms}**\\\"...**",
+    "search_in_progress": "{MAGNIFYING_GLASS_TILTED_RIGHT} **Шукаємо \\\"**{terms}**\\\"...**",
     "video_not_available": "{PENSIVE_FACE} **Вибачте, наразі це відео недоступне. Спробуйте знову пізніше.**",
     "size_limit_exceeded": "{PENSIVE_FACE} **Вибачте, це відео перевищує обмеження розміру. Спробуйте знову з іншим.**",
     "api_error": "{PENSIVE_FACE} **Вибачте, запрошену операцію неможливо виконати прямо зараз. Спробуйте знову пізніше.**",
@@ -78,8 +78,8 @@
         "{GLOBE_WITH_MERIDIANS} **Мова**\\n\\n",
         "Оберіть вашу мову."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} Налаштована мова - {UKRAINE} Українська.",
-    "same_language_selected": "{THINKING_FACE} Мова бота вже {UKRAINE} Українська",
+    "language_selected": "{HEAVY_CHECK_MARK} Налаштована мова - {FLAG_UKRAINE} Українська.",
+    "same_language_selected": "{THINKING_FACE} Мова бота вже {FLAG_UKRAINE} Українська",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} **Обробка відео у процесі...**",
     "download_canceled": [
         "{CROSS_MARK} **Завантаження скасовано.\\n",
@@ -145,7 +145,7 @@
         "{LOUDSPEAKER} **Канал** - @YTAudio\\n",
         "{LINK} **Веб-сайт** - https://ytaudiobot.ml\\n",
         "{ENVELOPE} **E-пошта** - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
-        "{EYE} **Відгуки** - {WHITE_MEDIUM_STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
+        "{EYE} **Відгуки** - {STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
         "{BUST_IN_SILHOUETTE} [{reviews_n}](https://storebot.me/bot/ytaudiobot)"
     ],
     "settings": [
@@ -217,7 +217,7 @@
     "month_11": "Листопада",
     "month_12": "Грудня",
     "start_button": "{CHEQUERED_FLAG} Почати",
-    "language_button": "{UKRAINE} Українська",
+    "language_button": "{FLAG_UKRAINE} Українська",
     "file_info_button": "{PAGE_WITH_CURL} Докладніше",
     "share_button": "{RIGHT_ARROW_CURVING_UP} Надіслати до...",
     "faq_button": "{BAR_CHART} ЧаПи",
@@ -235,15 +235,15 @@
     "cancel_button": "{CROSS_MARK} Скасувати",
     "download_button": "{INBOX_TRAY} Завантажити",
     "how_it_works_button": "{QUESTION_MARK} Як це працює",
-    "rate_now_button": "{WHITE_MEDIUM_STAR} Оцінити зараз",
-    "later_button": "{HOURGLASS} Пізніше",
+    "rate_now_button": "{STAR} Оцінити зараз",
+    "later_button": "{HOURGLASS_DONE} Пізніше",
     "no_thanks_button": "{PILE_OF_POO} Ні, дякую",
     "channel_button": "{LOUDSPEAKER} Канал",
     "website_button": "{LINK} Веб-сайт",
     "email_button": "{ENVELOPE} E-пошта",
     "ratings_button": "{EYE} Відгуки",
     "help_translate_button": "{FOLDED_HANDS} Допоможіть перекласти",
-    "history_button": "{HOURGLASS} Історія",
+    "history_button": "{HOURGLASS_DONE} Історія",
     "remove_button": "{CROSS_MARK} Вилучити",
     "restore_button": "{HEAVY_PLUS_SIGN} Відновити",
     "view_button": "{EYE} Переглянути",

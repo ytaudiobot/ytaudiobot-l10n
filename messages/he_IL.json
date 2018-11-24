@@ -6,12 +6,12 @@
         "Mirror: @YTAudio_Bot"
     ],
     "type_search_terms": "{MEMO} הכנס ביטויים לחיפוש",
-    "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} ביוטיוב \\\"{terms}\\\" חיפוש",
+    "search_on_youtube": "{MAGNIFYING_GLASS_TILTED_RIGHT} ביוטיוב \\\"{terms}\\\" חיפוש",
     "error": "{PENSIVE_FACE} קרתה תקלה. תנסה שוב מאוחר יותר.",
     "longer_download_time": "{WARNING} **הסרטון הזה יכול לקחת יותר זמן מבדרך כלל, ההורדה יכולה גם להיכשל!**",
     "clear_history_warning": "{WARNING} אתה עומד למחוק את כל ההיסטוריה שלך!",
     "history_settings": [
-        "{HOURGLASS} **היסטורית הורדות**\\n\\n",
+        "{HOURGLASS_DONE} **היסטורית הורדות**\\n\\n",
         "{אין פריטים|יש פריט אחד|יש # פריטים} בהיסטורית ההורדות שלך."
     ],
     "clear_history_confirmation": [
@@ -46,7 +46,7 @@
         "{SPARKLES} **תודה, {name}!**\\n\\n",
         "אנחנו שמחים שאהבת.\\n\\n",
         "אתה יכול לדרג את הבוט הזה\\n",
-        "5 כוכבים {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} פה:\\n",
+        "5 כוכבים {STAR}{STAR}{STAR}{STAR}{STAR} פה:\\n",
         "https://t.me/storebot?start=YTAudioBot"
     ],
     "dislike": [
@@ -54,11 +54,11 @@
         "האם יש תקלה בבוט הזה? בבקשה תספר לנו (באנגלית או איטלקית):"
     ],
     "rating_message": [
-        "{WHITE_MEDIUM_STAR} **דרג את YTAudioBot**\\n\\n",
+        "{STAR} **דרג את YTAudioBot**\\n\\n",
         "{name}, האם אתה נהנה מהבוט?\\n",
         "דרג את הבוט ב-StoreBot."
     ],
-    "rate_later": "{HOURGLASS} **אוקיי, אני אשאל אותך שוב בפעם אחרת!**",
+    "rate_later": "{HOURGLASS_DONE} **אוקיי, אני אשאל אותך שוב בפעם אחרת!**",
     "rate_never": "{PILE_OF_POO} **אוקיי, אני לא אשאל אותך שוב אף פעם.**",
     "send_feedback": [
         "{MEMO} **שלח משוב**\\n\\n",
@@ -68,9 +68,9 @@
     "sending_feedback_enabled": "{MEMO} כתוב את המשוב שלך",
     "feedback_sent": "{HEAVY_CHECK_MARK} **המשוב שלך נשלח. תודה!**",
     "showing_trending_results": "{FIRE} **מראה תוצאות פופולריות**\\n\\n",
-    "showing_youtube_results": "{RIGHT_POINTING_MAGNIFYING_GLASS} **תוצאות יוטיוב ל- \\\"**{terms}**\\\"**\\n\\n",
+    "showing_youtube_results": "{MAGNIFYING_GLASS_TILTED_RIGHT} **תוצאות יוטיוב ל- \\\"**{terms}**\\\"**\\n\\n",
     "flood_wait": "{WARNING} **לא כל כך מהר! חכה {0 שניות|שניות|# שניות} ונסה שוב.**",
-    "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} **מחפש את \\\"**{terms}**\\\"...**",
+    "search_in_progress": "{MAGNIFYING_GLASS_TILTED_RIGHT} **מחפש את \\\"**{terms}**\\\"...**",
     "video_not_available": "{PENSIVE_FACE} **מצטערים, הסרטון הזה לא זמין כרגע. נסה מאוחר יותר.**",
     "size_limit_exceeded": "{PENSIVE_FACE} **מצטערים, הסרטון הזה חורג מעבר למגבלת הגודל. נסה שוב מאוחר יותר.**",
     "api_error": "{PENSIVE_FACE} **מצטערים, הפעולה המבוקשת לא יכולה להתבצע כרגע. נסה שוב מאוחר יותר.**",
@@ -78,8 +78,8 @@
         "{GLOBE_WITH_MERIDIANS} **שפה**\\n\\n",
         "בחר את השפה שלך."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} השפה שנבחרה היא {ISRAEL} עברית.",
-    "same_language_selected": "{THINKING_FACE} השפה שנבחרה היא כבר {ISRAEL} עברית",
+    "language_selected": "{HEAVY_CHECK_MARK} השפה שנבחרה היא {FLAG_ISRAEL} עברית.",
+    "same_language_selected": "{THINKING_FACE} השפה שנבחרה היא כבר {FLAG_ISRAEL} עברית",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} **עיבוד הסרטון מתבצע...**",
     "download_canceled": [
         "{CROSS_MARK} **ההורדה בוטלה.\\n",
@@ -145,7 +145,7 @@
         "{LOUDSPEAKER} **ערוץ** - @YTAudio\\n",
         "{LINK} **אתר** - https://ytaudiobot.ml\\n",
         "{ENVELOPE} **אימייל** - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
-        "{EYE} **ביקורות** - {WHITE_MEDIUM_STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
+        "{EYE} **ביקורות** - {STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
         "{BUST_IN_SILHOUETTE} [{reviews_n}](https://storebot.me/bot/ytaudiobot)"
     ],
     "settings": [
@@ -223,7 +223,7 @@
     "month_11": "נובמבר",
     "month_12": "דצמבר",
     "start_button": "{CHEQUERED_FLAG} התחל",
-    "language_button": "{ISRAEL} עברית",
+    "language_button": "{FLAG_ISRAEL} עברית",
     "file_info_button": "{PAGE_WITH_CURL} אודות הקובץ",
     "share_button": "{RIGHT_ARROW_CURVING_UP} שתף",
     "faq_button": "{BAR_CHART} שו\\\"ת",
@@ -241,15 +241,15 @@
     "cancel_button": "{CROSS_MARK} בטל",
     "download_button": "{INBOX_TRAY} הורד",
     "how_it_works_button": "איך זה עובד {QUESTION_MARK}",
-    "rate_now_button": "{WHITE_MEDIUM_STAR} דרג עכשיו",
-    "later_button": "{HOURGLASS} אחר כך",
+    "rate_now_button": "{STAR} דרג עכשיו",
+    "later_button": "{HOURGLASS_DONE} אחר כך",
     "no_thanks_button": "{PILE_OF_POO} לא תודה",
     "channel_button": "{LOUDSPEAKER} ערוץ",
     "website_button": "{LINK} אתר",
     "email_button": "{ENVELOPE} אימייל",
     "ratings_button": "{EYE} ביקורות",
     "help_translate_button": "{FOLDED_HANDS} עזור לתרגם",
-    "history_button": "{HOURGLASS} היסטוריה",
+    "history_button": "{HOURGLASS_DONE} היסטוריה",
     "remove_button": "{CROSS_MARK} הסר",
     "restore_button": "{HEAVY_PLUS_SIGN} שחזר",
     "view_button": "{EYE} צפה",

@@ -6,12 +6,12 @@
         "Alternativa: @YTAudio_Bot"
     ],
     "type_search_terms": "{MEMO} Escriviu els termes a cercar",
-    "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} Cerca «{terms}» al YouTube",
+    "search_on_youtube": "{MAGNIFYING_GLASS_TILTED_RIGHT} Cerca «{terms}» al YouTube",
     "error": "{PENSIVE_FACE} S'ha produit un error. Torneu a provar-ho més tard.",
     "longer_download_time": "{WARNING} **Aquest vídeo pot trigar més temps del normal. La baixada podria fallar!**",
     "clear_history_warning": "{WARNING} Esteu a punt d'esborrar tot l'historial!",
     "history_settings": [
-        "{HOURGLASS} **Historial de baixades**\\n\\n",
+        "{HOURGLASS_DONE} **Historial de baixades**\\n\\n",
         "{No hi ha cap element|Hi ha un element|Hi ha # elements} a l'historial de baixades."
     ],
     "clear_history_confirmation": [
@@ -46,7 +46,7 @@
         "{SPARKLES} **Gràcies, {name}!**\\n\\n",
         "Ens alegra que us agradi.\\n\\n",
         "Podeu valorar el bot amb\\n",
-        "5 estreles {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} aquí:\\n",
+        "5 estreles {STAR}{STAR}{STAR}{STAR}{STAR} aquí:\\n",
         "https://t.me/storebot?start=YTAudioBot"
     ],
     "dislike": [
@@ -54,11 +54,11 @@
         "Hi ha cap problema amb el bot? Digueu-nos-ho (en anglès o italià):"
     ],
     "rating_message": [
-        "{WHITE_MEDIUM_STAR} **Valoreu el YTAudioBot**\\n\\n",
+        "{STAR} **Valoreu el YTAudioBot**\\n\\n",
         "{name}, us agrada el bot?\\n",
         "Valoreu-lo a la StoreBot."
     ],
-    "rate_later": "{HOURGLASS} **D'acord, vos ho tornaré a preguntar en un altre moment!**",
+    "rate_later": "{HOURGLASS_DONE} **D'acord, vos ho tornaré a preguntar en un altre moment!**",
     "rate_never": "{PILE_OF_POO} **D'acord, no vos ho tornaré a preguntar.**",
     "send_feedback": [
         "{MEMO} **Envieu comentaris**\\n\\n",
@@ -68,9 +68,9 @@
     "sending_feedback_enabled": "{MEMO} Escriviu el comentari",
     "feedback_sent": "{HEAVY_CHECK_MARK} **S'ha enviat el comentari. Gràcies!**",
     "showing_trending_results": "{FIRE} **Resultats a les Tendències**\\n\\n",
-    "showing_youtube_results": "{RIGHT_POINTING_MAGNIFYING_GLASS} **Resultats per a «**{terms}**» al Youtube**\\n\\n",
+    "showing_youtube_results": "{MAGNIFYING_GLASS_TILTED_RIGHT} **Resultats per a «**{terms}**» al Youtube**\\n\\n",
     "flood_wait": "{WARNING} **No tan ràpid! Espereu {0 segons|un segon|# segons} i torneu a provar-ho.**",
-    "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} **S'està cercant «**{terms}**»...**",
+    "search_in_progress": "{MAGNIFYING_GLASS_TILTED_RIGHT} **S'està cercant «**{terms}**»...**",
     "video_not_available": "{PENSIVE_FACE} **Aquest vídeo no es troba disponible. Torneu a provar-ho més tard.**",
     "size_limit_exceeded": "{PENSIVE_FACE} **Aquest vídeo supera la mida màxima. Torneu a provar-ho amb un altre.**",
     "api_error": "{PENSIVE_FACE} **L'operació sol·licitada no es pot realitzar en aquest moment. Torneu a provar-ho més tard.**",
@@ -145,7 +145,7 @@
         "{LOUDSPEAKER} **Canal** - @YTAudio\\n",
         "{LINK} **Lloc web** - https://ytaudiobot.ml\\n",
         "{ENVELOPE} **Adreça electrònica** - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
-        "{EYE} **Ressenyes** - {WHITE_MEDIUM_STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
+        "{EYE} **Ressenyes** - {STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
         "{BUST_IN_SILHOUETTE} [{reviews_n}](https://storebot.me/bot/ytaudiobot)"
     ],
     "settings": [
@@ -241,15 +241,15 @@
     "cancel_button": "{CROSS_MARK} Cancel·la",
     "download_button": "{INBOX_TRAY} Baixa",
     "how_it_works_button": "{QUESTION_MARK} Com funciona",
-    "rate_now_button": "{WHITE_MEDIUM_STAR} Valora'l ara",
-    "later_button": "{HOURGLASS} Més tard",
+    "rate_now_button": "{STAR} Valora'l ara",
+    "later_button": "{HOURGLASS_DONE} Més tard",
     "no_thanks_button": "{PILE_OF_POO} No, gràcies",
     "channel_button": "{LOUDSPEAKER} Canal",
     "website_button": "{LINK} Lloc web",
     "email_button": "{ENVELOPE} Adreça electrònica",
     "ratings_button": "{EYE} Ressenyes",
     "help_translate_button": "{FOLDED_HANDS} Ajudeu amb la traducció",
-    "history_button": "{HOURGLASS} Historial",
+    "history_button": "{HOURGLASS_DONE} Historial",
     "remove_button": "{CROSS_MARK} Elimina",
     "restore_button": "{HEAVY_PLUS_SIGN} Restaura",
     "view_button": "{EYE} Mostra",

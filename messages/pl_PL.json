@@ -6,12 +6,12 @@
         "Mirror: @YTAudio_Bot"
     ],
     "type_search_terms": "{MEMO} Wpisz poszukiwane hasło",
-    "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} Wyszukaj \\\"{terms}\\\" na YouTube",
+    "search_on_youtube": "{MAGNIFYING_GLASS_TILTED_RIGHT} Wyszukaj \\\"{terms}\\\" na YouTube",
     "error": "{PENSIVE_FACE} Wystąpił błąd. Spróbuj ponownie później.",
     "longer_download_time": "{WARNING} **Ten film może pobierać się dłużej niż zwykle! Pobieranie może się nie udać!**",
     "clear_history_warning": "{WARNING} Za chwilę wyczyścisz całą historię!",
     "history_settings": [
-        "{HOURGLASS} **Pobierz historię**\\n\\n",
+        "{HOURGLASS_DONE} **Pobierz historię**\\n\\n",
         "W twojej historii pobierania {jest jedna pozycja|są # pozycje|jest # pozycji}."
     ],
     "clear_history_confirmation": [
@@ -46,7 +46,7 @@
         "{SPARKLES} **Dziękujemy, {name}!**\\n\\n",
         "Cieszymy się, że lubisz naszego bota.\\n\\n",
         "Możesz dać temu botowi\\n",
-        "5 gwiazdek {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} tutaj:\\n",
+        "5 gwiazdek {STAR}{STAR}{STAR}{STAR}{STAR} tutaj:\\n",
         "https://telegram.me/storebot?start=YTAudioBot"
     ],
     "dislike": [
@@ -54,11 +54,11 @@
         "Czy coś jest nie tak z botem? Proszę napisz do nas (po Angielsku lub Włosku):"
     ],
     "rating_message": [
-        "{WHITE_MEDIUM_STAR} **Oceń YTAudioBota**\\n\\n",
+        "{STAR} **Oceń YTAudioBota**\\n\\n",
         "{name}, podoba Ci się bot?\\n",
         "Poświęć chwilę, by ocenić go na StoreBot."
     ],
-    "rate_later": "{HOURGLASS} **W porządku, spytam się innym razem!**",
+    "rate_later": "{HOURGLASS_DONE} **W porządku, spytam się innym razem!**",
     "rate_never": "{PILE_OF_POO} **W porządku, nigdy się już o to nie spytam**",
     "send_feedback": [
         "{MEMO} **Wyślij opinię**\\n\\n",
@@ -68,9 +68,9 @@
     "sending_feedback_enabled": "{MEMO} Napisz swoją opinię",
     "feedback_sent": "{HEAVY_CHECK_MARK} **Twoja wiadomość została wysłana, dziękujemy!**",
     "showing_trending_results": "{FIRE} **Najpopularniejsze wyniki**\\n\\n",
-    "showing_youtube_results": "{RIGHT_POINTING_MAGNIFYING_GLASS} **Wyniki z YouTube dla \\\"**{terms}**\\\"**\\n\\n",
+    "showing_youtube_results": "{MAGNIFYING_GLASS_TILTED_RIGHT} **Wyniki z YouTube dla \\\"**{terms}**\\\"**\\n\\n",
     "flood_wait": "{WARNING} **Nie tak szybko! Zaczekaj {sekundę|# sekundy|# sekund} i spróbuj ponownie.**",
-    "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} **Szukam\\\"**{terms}**\\\"...**",
+    "search_in_progress": "{MAGNIFYING_GLASS_TILTED_RIGHT} **Szukam\\\"**{terms}**\\\"...**",
     "video_not_available": "{PENSIVE_FACE} **Przepraszamy, ten film jest teraz niedostępny. Spróbuj ponownie później.**",
     "size_limit_exceeded": "{PENSIVE_FACE} **Przepraszamy, ten film przekracza limit rozmiaru. Spróbuj pobrać inny.**",
     "api_error": "{PENSIVE_FACE} **Przepraszamy, ta akcja nie może być teraz wyknonana. Spróbuj ponownie później.**",
@@ -78,8 +78,8 @@
         "{GLOBE_WITH_MERIDIANS} **Język**\\n\\n",
         "Wybierz swój język."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} Język ustawiony na {POLAND} Polski.",
-    "same_language_selected": "{THINKING_FACE} Język bota jest już ustawiony na {POLAND} Polski",
+    "language_selected": "{HEAVY_CHECK_MARK} Język ustawiony na {FLAG_POLAND} Polski.",
+    "same_language_selected": "{THINKING_FACE} Język bota jest już ustawiony na {FLAG_POLAND} Polski",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} **Przetwarzanie filmu...**",
     "download_canceled": [
         "{CROSS_MARK} **Pobieranie przerwane.\\n",
@@ -145,7 +145,7 @@
         "{LOUDSPEAKER} **Kanał** - @YTAudio\\n",
         "{LINK} **Strona** - https://ytaudiobot.ml\\n",
         "{ENVELOPE} **E-Mail** - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
-        "{EYE} **Recenzje** - {WHITE_MEDIUM_STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
+        "{EYE} **Recenzje** - {STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
         "{BUST_IN_SILHOUETTE} [{reviews_n}](https://storebot.me/bot/ytaudiobot)"
     ],
     "settings": [
@@ -217,7 +217,7 @@
     "month_11": "Listopada",
     "month_12": "Grudnia",
     "start_button": "{CHEQUERED_FLAG} Start",
-    "language_button": "{POLAND} Polski",
+    "language_button": "{FLAG_POLAND} Polski",
     "file_info_button": "{PAGE_WITH_CURL} Informacje",
     "share_button": "{RIGHT_ARROW_CURVING_UP} Udostępnij",
     "faq_button": "{BAR_CHART} FAQ",
@@ -235,15 +235,15 @@
     "cancel_button": "{CROSS_MARK} Anuluj",
     "download_button": "{INBOX_TRAY} Pobierz",
     "how_it_works_button": "{QUESTION_MARK} Jak to działa",
-    "rate_now_button": "{WHITE_MEDIUM_STAR} Oceń bota",
-    "later_button": "{HOURGLASS} Później",
+    "rate_now_button": "{STAR} Oceń bota",
+    "later_button": "{HOURGLASS_DONE} Później",
     "no_thanks_button": "{PILE_OF_POO} Nie, dziękuję",
     "channel_button": "{LOUDSPEAKER} Kanał",
     "website_button": "{LINK} Strona",
     "email_button": "{ENVELOPE} E-Mail",
     "ratings_button": "{EYE} Recenzje",
     "help_translate_button": "{FOLDED_HANDS} Pomóż w tłumaczeniu",
-    "history_button": "{HOURGLASS} Historia",
+    "history_button": "{HOURGLASS_DONE} Historia",
     "remove_button": "{CROSS_MARK} Usuń",
     "restore_button": "{HEAVY_PLUS_SIGN} Przywróć",
     "view_button": "{EYE} Wyświetl",

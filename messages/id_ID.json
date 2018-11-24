@@ -6,12 +6,12 @@
         "Alternatif: @YTAudio_Bot"
     ],
     "type_search_terms": "{MEMO} Ketikkan apa yang ingin anda cari",
-    "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} Cari \\\"{terms}\\\" di YouTube",
+    "search_on_youtube": "{MAGNIFYING_GLASS_TILTED_RIGHT} Cari \\\"{terms}\\\" di YouTube",
     "error": "{PENSIVE_FACE} Terjadi galat. Silahkan coba lagi nanti.",
     "longer_download_time": "{WARNING} **Video ini bisa lebih lama dari biasanya. Download bisa jadi gagal.**",
     "clear_history_warning": "{WARNING} Anda hendak menghapus seluruh riwayat anda!",
     "history_settings": [
-        "{HOURGLASS} **Riwayat Unduhan**\\n\\n",
+        "{HOURGLASS_DONE} **Riwayat Unduhan**\\n\\n",
         "{Nihil|Ada satu riwayat|Ada # riwayat} dalam catatan riwayat unduhan anda."
     ],
     "clear_history_confirmation": [
@@ -46,7 +46,7 @@
         "{SPARKLES} **Terima kasih, {name}!**\\n\\n",
         "Kami senang anda menyukainya.\\n\\n",
         "Anda dapat memberikan peringkat bot ini\\n",
-        "Setidaknya 5 {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} disini:\\n",
+        "Setidaknya 5 {STAR}{STAR}{STAR}{STAR}{STAR} disini:\\n",
         "https://t.me/storebot?start=YTAudioBot"
     ],
     "dislike": [
@@ -54,11 +54,11 @@
         "Apakah ada yang perlu ditingkatkan atas bot ini? Mohon beritahu kami (dalam Bahasa Inggris atau Italia):"
     ],
     "rating_message": [
-        "{WHITE_MEDIUM_STAR} **Peringkati YTAudioBot**\\n\\n",
+        "{STAR} **Peringkati YTAudioBot**\\n\\n",
         "{name}, apakah anda menikmati bot ini?\\n",
         "Mohon beri waktu sejenak memeringkati bot ini di StoreBot."
     ],
-    "rate_later": "{HOURGLASS} **Baik, akan saya ingatkan lagi di lain waktu!**",
+    "rate_later": "{HOURGLASS_DONE} **Baik, akan saya ingatkan lagi di lain waktu!**",
     "rate_never": "{PILE_OF_POO} **Baik, tidak akan saya ingatkan lagi.**",
     "send_feedback": [
         "{MEMO} **Kirim tanggapan**\\n\\n",
@@ -68,9 +68,9 @@
     "sending_feedback_enabled": "{MEMO} Tulis tanggapan anda",
     "feedback_sent": "{HEAVY_CHECK_MARK} **Tanggapan anda telah dikirim. Terima kasih!**",
     "showing_trending_results": "{FIRE} **Menunjukkan hasil terkini**\\n\\n",
-    "showing_youtube_results": "{RIGHT_POINTING_MAGNIFYING_GLASS} **Hasil YouTube untuk \\\"**{terms}**\\\"**\\n\\n",
+    "showing_youtube_results": "{MAGNIFYING_GLASS_TILTED_RIGHT} **Hasil YouTube untuk \\\"**{terms}**\\\"**\\n\\n",
     "flood_wait": "{WARNING} **Eitt! Tunggu {0 detik|sedetik|# detik} dan coba lagi.**",
-    "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} **Mencari \\\"**{terms}**\\\"...**",
+    "search_in_progress": "{MAGNIFYING_GLASS_TILTED_RIGHT} **Mencari \\\"**{terms}**\\\"...**",
     "video_not_available": "{PENSIVE_FACE} **Maaf, video ini tidak tersedia saat ini. Mohon coba lagi di lain waktu.**",
     "size_limit_exceeded": "{PENSIVE_FACE} **Maaf, video ini melampaui batas ukuran. Mohon coba video lainnya.**",
     "api_error": "{PENSIVE_FACE} **Maaf, perintah anda tidak dapat dilaksanakan saat ini. Mohon coba lagi di lain waktu.**",
@@ -78,8 +78,8 @@
         "{GLOBE_WITH_MERIDIANS} **Bahasa**\\n\\n",
         "Pilih bahasa anda."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} Bahasa terpilih: {INDONESIA} Bahasa Indonesia.",
-    "same_language_selected": "{THINKING_FACE} Bahasa terpilih: (masih) {INDONESIA} Bahasa Indonesia.",
+    "language_selected": "{HEAVY_CHECK_MARK} Bahasa terpilih: {FLAG_INDONESIA} Bahasa Indonesia.",
+    "same_language_selected": "{THINKING_FACE} Bahasa terpilih: (masih) {FLAG_INDONESIA} Bahasa Indonesia.",
     "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} **Memproses video...**",
     "download_canceled": [
         "{CROSS_MARK} **Unduhan dibatalkan.\\n",
@@ -145,7 +145,7 @@
         "{LOUDSPEAKER} **Kanal** - @YTAudio\\n",
         "{LINK} **Situs Web** - https://ytaudiobot.ml\\n",
         "{ENVELOPE} **E-Mail** - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
-        "{EYE} **Ulasan** - {WHITE_MEDIUM_STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
+        "{EYE} **Ulasan** - {STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
         "{BUST_IN_SILHOUETTE} [{reviews_n}](https://storebot.me/bot/ytaudiobot)"
     ],
     "settings": [
@@ -217,7 +217,7 @@
     "month_11": "November",
     "month_12": "Desember",
     "start_button": "{CHEQUERED_FLAG} Mulai",
-    "language_button": "{INDONESIA} Bahasa Indonesia",
+    "language_button": "{FLAG_INDONESIA} Bahasa Indonesia",
     "file_info_button": "{PAGE_WITH_CURL} Rincian",
     "share_button": "{RIGHT_ARROW_CURVING_UP} Kirim ke...",
     "faq_button": "{BAR_CHART} FAQ",
@@ -235,15 +235,15 @@
     "cancel_button": "{CROSS_MARK} Batalkan",
     "download_button": "{INBOX_TRAY} Unduh",
     "how_it_works_button": "{QUESTION_MARK} Cara kerja",
-    "rate_now_button": "{WHITE_MEDIUM_STAR} Beri peringkat",
-    "later_button": "{HOURGLASS} Nanti",
+    "rate_now_button": "{STAR} Beri peringkat",
+    "later_button": "{HOURGLASS_DONE} Nanti",
     "no_thanks_button": "{PILE_OF_POO} Tidak, terima kasih",
     "channel_button": "{LOUDSPEAKER} Kanal",
     "website_button": "{LINK} Situs web",
     "email_button": "{ENVELOPE} E-Mail",
     "ratings_button": "{EYE} Ulasan",
     "help_translate_button": "{FOLDED_HANDS} Bantu menerjemahkan",
-    "history_button": "{HOURGLASS} Riwayat",
+    "history_button": "{HOURGLASS_DONE} Riwayat",
     "remove_button": "{CROSS_MARK} Hapus",
     "restore_button": "{HEAVY_PLUS_SIGN} Pulihkan",
     "view_button": "{EYE} Lihat",
