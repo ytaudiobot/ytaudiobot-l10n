@@ -254,27 +254,5 @@
     "contributors_button": "{BUSTS_IN_SILHOUETTE} Tłumacze",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Pokaż projekt",
     "donate_button": null,
-    "donate_with_paypal_button": null,
-    "search_item_template": [
-        "{HEADPHONE} **{title}**\\n",
-        "{BUST_IN_SILHOUETTE} __{channel}__\\n",
-        "{EYE} {view_count} {THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
-        "{clock} {duration}: /dl_{encoded_video_id}\\n\\n"
-    ],
-    "extract_item_template": [
-        "{HEADPHONE} [{title}](https://youtu.be/{video_id})\\n",
-        "{BUST_IN_SILHOUETTE} **{uploader}** ([{uploader_id}](https://youtube.com/user/{uploader_id}))\\n",
-        "{EYE} {view_count}\\n",
-        "{THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
-        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
-    ],
-    "history_item_template": [
-        "{HEADPHONE} **{index}.** {performer} - **{title}**\\n",
-        "__{natural_relative_time}__\\n\\n"
-    ],
-    "history_details_item_template": [
-        "{listen_on_youtube}\\n",
-        "{HEADPHONE} {performer} - **{title}**\\n",
-        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
-    ]
+    "donate_with_paypal_button": null
 }
