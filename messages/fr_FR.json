@@ -250,7 +250,7 @@
     "clear_all_button": "{WASTEBASKET} Tout effacer",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Pause",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Reprendre",
-    "translate_button": "{BUST_IN_SILHOUETTE} Contribuer",
+    "translate_button": "{SPEAKING_HEAD} Contribuer",
     "translators_button": "{BUSTS_IN_SILHOUETTE} translateurs",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Ouvrir le projet",
     "donate_button": null,

@@ -250,7 +250,7 @@
     "clear_all_button": "{WASTEBASKET} Poista kaikki",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Pysäytä",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Jatka",
-    "translate_button": "{BUST_IN_SILHOUETTE} Avusta",
+    "translate_button": "{SPEAKING_HEAD} Avusta",
     "translators_button": "{BUSTS_IN_SILHOUETTE} Avustajat",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Avaa projekti",
     "donate_button": null,

@@ -247,7 +247,7 @@
     "clear_all_button": "{WASTEBASKET} حذف الكل",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} ايقاف مؤقت",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} استئناف",
-    "translate_button": "{BUST_IN_SILHOUETTE} ساهم",
+    "translate_button": "{SPEAKING_HEAD} ساهم",
     "translators_button": "{BUSTS_IN_SILHOUETTE} المساهمون",
     "open_project_button": "{CARD_INDEX_DIVIDERS} فتح مشروع",
     "donate_button": null,

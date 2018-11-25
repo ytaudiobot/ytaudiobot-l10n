@@ -250,7 +250,7 @@
     "clear_all_button": "{WASTEBASKET} Hapus semua",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Tunda",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Lanjutkan",
-    "translate_button": "{BUST_IN_SILHOUETTE} Kontribusi",
+    "translate_button": "{SPEAKING_HEAD} Kontribusi",
     "translators_button": "{BUSTS_IN_SILHOUETTE} Kontributor",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Buka proyek",
     "donate_button": null,
