@@ -189,17 +189,17 @@
         "**3.** Bazı videolar çalışmıyor!\\n",
         "**4.** Dosyalarda neden garip isimler var?"
     ],
-    "contribute": [
-        "{FOLDED_HANDS} **Tercüme et**\\n\\n",
+    "translate": [
+        "{SPEAKING_HEAD} **Tercüme et**\\n\\n",
         "{name}!@YTAudioBot'un sizin dilinizi konuşmasını istiyorsanız veya mevcut bir dilini geliştirmek istiyorsanız, bize yardım edebilirsiniz!\\n\\n",
         "Bunun için sadece bir rehber oluşturduk, [here](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
         "Bunun için sadece İngilizce bilgisi gerekiyor,.\\n\\n",
         "Yeni dilleri ve geliştirmeleri memnuniyetle karşılıyoruz! Bize katılmaktan çekinmeyin, her yardım minnetle kabul edilir!"
     ],
-    "contributors": [
+    "translators": [
         "{BUSTS_IN_SILHOUETTE} **Katkıda bulunan**\\n\\n",
         "{RED_HEART} Çeviri katılımcılarına sıcak bir şekilde teşekkürlerimizi sunarız:\\n\\n",
-        "{contributors}\\n\\n",
+        "{translators}\\n\\n",
         "— @YTAudioBot"
     ],
     "donate": [
@@ -247,7 +247,7 @@
     "website_button": "{LINK} Web sitesi",
     "email_button": "{ENVELOPE} E-Mail",
     "ratings_button": "{EYE} Yorumlar",
-    "help_translate_button": "{FOLDED_HANDS} Tercüme et",
+    "help_translate_button": "{SPEAKING_HEAD} Tercüme et",
     "history_button": "{HOURGLASS_DONE} Geçmiş",
     "remove_button": "{CROSS_MARK} Kaldır",
     "restore_button": "{HEAVY_PLUS_SIGN} Geri yükle",
@@ -255,8 +255,8 @@
     "clear_all_button": "{WASTEBASKET} Tümünü Temizle",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Durdur",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Devam Ettir",
-    "contribute_button": "{BUST_IN_SILHOUETTE} Katkıda Bulunanlar",
-    "contributors_button": "{BUSTS_IN_SILHOUETTE} Katkıda Bulunan",
+    "translate_button": "{BUST_IN_SILHOUETTE} Katkıda Bulunanlar",
+    "translators_button": "{BUSTS_IN_SILHOUETTE} Katkıda Bulunan",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Projeyi Aç",
     "donate_button": "{WRAPPED_GIFT} Bağış Yap",
     "donate_with_paypal_button": "{P_BUTTON} PayPal ile bağış yap"

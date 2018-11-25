@@ -190,17 +190,17 @@
         "**3.** Manche Videos funktionieren nicht!\\n",
         "**4.** Warum haben die Dateien komische Namen?"
     ],
-    "contribute": [
-        "{FOLDED_HANDS} **Helfe, den Bot zu übersetzen**\\n\\n",
+    "translate": [
+        "{SPEAKING_HEAD} **Helfe, den Bot zu übersetzen**\\n\\n",
         "{name}! Wenn du möchstest, dass @YTAudioBot auch deine Sprache spricht, oder du eine schon verfügbare Sprache verbessern möchtest, kannst du uns gerne helfen!\\n\\n",
         "Wir haben diesbezüglich eine Anleitung vorbereitet, die du [hier](https://github.com/ytaudiobot/ytaudiobot-l10n) finden kannst. ",
         "Beachte, dass du über Grundkenntnisse der englischen Sprache verfügen musst.\\n\\n",
         "Wir freuen uns auf neue Sprachen und Verbesserungen! Schließe dich uns an - jede Hilfe wird dankend angenommen!"
     ],
-    "contributors": [
+    "translators": [
         "{BUSTS_IN_SILHOUETTE} **Freiwillige**\\n\\n",
         "{RED_HEART} Wir danken herzlich den folgenden Übersetzern:\\n\\n",
-        "{contributors}\\n\\n",
+        "{translators}\\n\\n",
         "— @YTAudioBot"
     ],
     "donate": [
@@ -248,7 +248,7 @@
     "website_button": "{LINK} Webseite",
     "email_button": "{ENVELOPE} E-Mail",
     "ratings_button": "{EYE} Bewertungen",
-    "help_translate_button": "{FOLDED_HANDS} Diesen Bot übersetzen",
+    "help_translate_button": "{SPEAKING_HEAD} Diesen Bot übersetzen",
     "history_button": "{HOURGLASS_DONE} Verlauf",
     "remove_button": "{CROSS_MARK} Entfernen",
     "restore_button": "{HEAVY_PLUS_SIGN} Wiederherstellen",
@@ -256,8 +256,8 @@
     "clear_all_button": "{WASTEBASKET} Alles löschen",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Pause",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Fortsetzen",
-    "contribute_button": "{BUST_IN_SILHOUETTE} Mithelfen",
-    "contributors_button": "{BUSTS_IN_SILHOUETTE} Freiwillige",
+    "translate_button": "{BUST_IN_SILHOUETTE} Mithelfen",
+    "translators_button": "{BUSTS_IN_SILHOUETTE} Freiwillige",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Projekt öffnen",
     "donate_button": "{WRAPPED_GIFT} Spenden",
     "donate_with_paypal_button": "{P_BUTTON} Spende mit PayPal"

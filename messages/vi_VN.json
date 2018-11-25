@@ -190,17 +190,17 @@
         "**3.** Một vài video không hoạt động!\\n",
         "**4.** Tại sao các tập tin có tên lạ?"
     ],
-    "contribute": [
-        "{FOLDED_HANDS} **Trợ giúp chúng tôi dịch**\\n\\n",
+    "translate": [
+        "{SPEAKING_HEAD} **Trợ giúp chúng tôi dịch**\\n\\n",
         "{name}! Nếu bạn muốn @YTAudioBot nói ngôn ngữ của bạn hoặc muốn cải thiện ngôn ngữ nào đó, hãy giúp chúng tôi!\\n\\n",
         "Chúng tôi đã thiết lập một hướng dẫn cho việc này, [here](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
         "Biết tiếng Anh là một yêu cầu bắt buộc.\\n\\n",
         "Chúng tôi hoan nghênh ngôn ngữ mới và cải tiến! Hãy tham gia cùng chúng tôi, mọi sự giúp đỡ đều được đón nhận một cách biết ơn!"
     ],
-    "contributors": [
+    "translators": [
         "{BUSTS_IN_SILHOUETTE} **Cộng tác viên**\\n\\n",
         "{RED_HEART} Chúng tôi xin chân thành cảm ơn những người đóng góp dịch thuật:\\n\\n",
-        "{contributors}\\n\\n",
+        "{translators}\\n\\n",
         "— @YTAudioBot"
     ],
     "donate": [
@@ -248,7 +248,7 @@
     "website_button": "{LINK} Website",
     "email_button": "{ENVELOPE} E-Mail",
     "ratings_button": "{EYE} Đánh giá",
-    "help_translate_button": "{FOLDED_HANDS} Trợ giúp dịch",
+    "help_translate_button": "{SPEAKING_HEAD} Trợ giúp dịch",
     "history_button": "{HOURGLASS_DONE} Lịch sử",
     "remove_button": "{CROSS_MARK} Xóa",
     "restore_button": "{HEAVY_PLUS_SIGN} Khôi phục",
@@ -256,8 +256,8 @@
     "clear_all_button": "{WASTEBASKET} Xóa tất cả",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Dừng",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Tiếp tục",
-    "contribute_button": "{BUST_IN_SILHOUETTE} Góp phần",
-    "contributors_button": "{BUSTS_IN_SILHOUETTE} Cộng tác viên",
+    "translate_button": "{BUST_IN_SILHOUETTE} Góp phần",
+    "translators_button": "{BUSTS_IN_SILHOUETTE} Cộng tác viên",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Mở project",
     "donate_button": "{WRAPPED_GIFT} Đóng góp",
     "donate_with_paypal_button": "{P_BUTTON} Đóng góp bằng PayPal"

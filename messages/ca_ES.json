@@ -190,17 +190,17 @@
         "**3.** Alguns vídeos no funcionen!\\n",
         "**4.** Per què tenen els fitxers noms estranys?"
     ],
-    "contribute": [
-        "{FOLDED_HANDS} **Ajudeu amb la traducció**\\n\\n",
+    "translate": [
+        "{SPEAKING_HEAD} **Ajudeu amb la traducció**\\n\\n",
         "{name}! Si voleu que el @YTAudioBot parli la vostra llengua o voleu millorar la traducció actual, podeu ajudar-nos!\\n\\n",
         "Hem creat una guía per a fer-ho, [aquí](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
         "Cal que tingueu coneixements d'anglès.\\n\\n",
         "Acceptem llengues noves i millores! Us convidem a unir-vos-hi, tota ajuda és benvinguda!"
     ],
-    "contributors": [
+    "translators": [
         "{BUSTS_IN_SILHOUETTE} **Contribuïdors**\\n\\n",
         "{RED_HEART} Volem agrair de tot cor els contribuïdors per les traduccions:\\n\\n",
-        "{contributors}\\n\\n",
+        "{translators}\\n\\n",
         "— @YTAudioBot"
      ],
     "donate": [
@@ -248,7 +248,7 @@
     "website_button": "{LINK} Lloc web",
     "email_button": "{ENVELOPE} Adreça electrònica",
     "ratings_button": "{EYE} Ressenyes",
-    "help_translate_button": "{FOLDED_HANDS} Ajudeu amb la traducció",
+    "help_translate_button": "{SPEAKING_HEAD} Ajudeu amb la traducció",
     "history_button": "{HOURGLASS_DONE} Historial",
     "remove_button": "{CROSS_MARK} Elimina",
     "restore_button": "{HEAVY_PLUS_SIGN} Restaura",
@@ -256,8 +256,8 @@
     "clear_all_button": "{WASTEBASKET} Esborra-ho tot",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Pausa",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Reprén",
-    "contribute_button": "{BUST_IN_SILHOUETTE} Contribueix",
-    "contributors_button": "{BUSTS_IN_SILHOUETTE} Contribuïdors",
+    "translate_button": "{BUST_IN_SILHOUETTE} Contribueix",
+    "translators_button": "{BUSTS_IN_SILHOUETTE} Contribuïdors",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Obre el projecte",
     "donate_button": "{WRAPPED_GIFT} Doneu",
     "donate_with_paypal_button": "{P_BUTTON} Doneu amb PayPal"

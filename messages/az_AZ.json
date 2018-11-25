@@ -190,17 +190,17 @@
         "**3.** Bəzi videolar işləmir!\\n",
         "**4.** Niyə faylların qəribə adları var?"
     ],
-    "contribute": [
-        "{FOLDED_HANDS} **Tərcümə etməyə kömək et**\\n\\n",
+    "translate": [
+        "{SPEAKING_HEAD} **Tərcümə etməyə kömək et**\\n\\n",
         "{name}! Əgər @YTAudioBot botun sizin dilinizi danışmasını və ya hazırki dili inkişaf etdirmək istəyirsinizsə, bizə kömək edə bilərsiniz!\\n\\n",
         "Biz bunun üçün [burada](https://github.com/ytaudiobot/ytaudiobot-l10n) bələdçi hazırlamışıq. ",
         "İngilis dili bilikləri tələb olunandır.\\n\\n",
         "Biz yeni dilləri və təkmilləşdirmələri xoş qarşılayırıq! Bizə qoşulmaqda azad olun. Hər bir kömək təşəkkürlə qəbul olunur!"
     ],
-    "contributors": [
+    "translators": [
         "{BUSTS_IN_SILHOUETTE} **Töhfə verənlər**\\n\\n",
         "{RED_HEART} Biz töhfə verənlərə isti təşəkkürlərimizi bildirmək istərdik:\\n\\n",
-        "{contributors}\\n\\n",
+        "{translators}\\n\\n",
         "— @YTAudioBot"
     ],
     "donate": [
@@ -248,7 +248,7 @@
     "website_button": "{LINK} Vebsayt",
     "email_button": "{ENVELOPE} E-Mail",
     "ratings_button": "{EYE} Rəylər",
-    "help_translate_button": "{FOLDED_HANDS} Tərcüməyə kömək et",
+    "help_translate_button": "{SPEAKING_HEAD} Tərcüməyə kömək et",
     "history_button": "{HOURGLASS_DONE} Tarixçə",
     "remove_button": "{CROSS_MARK} Sil",
     "restore_button": "{HEAVY_PLUS_SIGN} Bərpa et",
@@ -256,8 +256,8 @@
     "clear_all_button": "{WASTEBASKET} Hamısını sil",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Dayandır",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Davam et",
-    "contribute_button": "{BUST_IN_SILHOUETTE} Töhfə ver",
-    "contributors_button": "{BUSTS_IN_SILHOUETTE} Töhfə verənlər",
+    "translate_button": "{BUST_IN_SILHOUETTE} Töhfə ver",
+    "translators_button": "{BUSTS_IN_SILHOUETTE} Töhfə verənlər",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Proyekti aç",
     "donate_button": "{WRAPPED_GIFT} İanə ver",
     "donate_with_paypal_button": "{P_BUTTON} PayPal ilə ianə ver"

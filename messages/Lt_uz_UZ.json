@@ -190,17 +190,17 @@
         "**3.** B'azi bir videolar ishlamayapti!\\n",
         "**4.** Nima uchun fayllar o'zgacha nomga ega?"
     ],
-    "contribute": [
-        "{FOLDED_HANDS} **Tarjimonga Yordam**\\n\\n",
+    "translate": [
+        "{SPEAKING_HEAD} **Tarjimonga Yordam**\\n\\n",
         "{name}! Agar siz @YTAudioBot ni o'z tilingizda gapirishini yoki hozirgi tilni yaxshilamoqchi bo'lsangiz, bizga yordam berishingiz mumkin!\\n\\n",
         "Buning uchun biz sizga qo'llanma tayyorlab qo'ydik, [buyerda](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
         "Ingliz tilini bilishingiz zarur.\\n\\n",
         "Qo'shimcha til va yaxshilashlarni yoqtiramiz! Bizga qo'shilishingiz mumkin, har bir yordam biz uchun juda qadrli!"
     ],
-    "contributors": [
+    "translators": [
         "{BUSTS_IN_SILHOUETTE} **Hissa qo'shganlar**\\n\\n",
         "{RED_HEART} Quyidagi tarjimonlarning qo'shgan hissasiga chin dildan rahmat deb qolamiz:\\n\\n",
-        "{contributors}\\n\\n",
+        "{translators}\\n\\n",
         "— @YTAudioBot"
     ],
     "donate": null,
@@ -242,7 +242,7 @@
     "website_button": "{LINK} Websayt",
     "email_button": "{ENVELOPE} E-Mail",
     "ratings_button": "{EYE} Ko'rib chiqishlar",
-    "help_translate_button": "{FOLDED_HANDS} Tarjimonga yordam berish",
+    "help_translate_button": "{SPEAKING_HEAD} Tarjimonga yordam berish",
     "history_button": "{HOURGLASS_DONE} Tarix",
     "remove_button": "{CROSS_MARK} Olib tashlash",
     "restore_button": "{HEAVY_PLUS_SIGN} Qayta tiklash",
@@ -250,8 +250,8 @@
     "clear_all_button": "{WASTEBASKET} Barchasini tozalash",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Pausa",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Davom etish",
-    "contribute_button": "{BUST_IN_SILHOUETTE} Hissa qo'shish",
-    "contributors_button": "{BUSTS_IN_SILHOUETTE} Tarjimonlar",
+    "translate_button": "{BUST_IN_SILHOUETTE} Hissa qo'shish",
+    "translators_button": "{BUSTS_IN_SILHOUETTE} Tarjimonlar",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Projektni ochish",
     "donate_button": null,
     "donate_with_paypal_button": null

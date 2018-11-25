@@ -190,17 +190,17 @@
         "**3.** Certaines vidéos ne fonctionnent pas !\\n",
         "**4.** Pourquoi les fichiers ont-ils des noms étranges ?"
     ],
-    "contribute": [
-        "{FOLDED_HANDS} **Aider à traduire**\\n\\n",
+    "translate": [
+        "{SPEAKING_HEAD} **Aider à traduire**\\n\\n",
         "{name} ! Si vous voulez que @YTAudioBot parle votre langue ou souhaitez en améliorer une existante, vous pouvez nous aider !\\n\\n",
         "Nous avons mis en place un guide pour cela, à [cette adresse](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
         "La compréhension de la langue anglaise est requise.\\n\\n",
         "Nous accueillons avec plaisir de nouvelles langues et améliorations ! N'hésitez pas à nous rejoindre, chaque contribution est grandement appréciée !"
     ],
-    "contributors": [
-        "{BUSTS_IN_SILHOUETTE} **Contributeurs**\\n\\n",
+    "translators": [
+        "{BUSTS_IN_SILHOUETTE} **translateurs**\\n\\n",
         "{RED_HEART} Nous souhaitons remercier chaleureusement tous ceux qui contribuent à la traduction :\\n\\n",
-        "{contributors}\\n\\n",
+        "{translators}\\n\\n",
         "— @YTAudioBot"
     ],
     "donate": null,
@@ -242,7 +242,7 @@
     "website_button": "{LINK} Site web",
     "email_button": "{ENVELOPE} Courriel",
     "ratings_button": "{EYE} Avis",
-    "help_translate_button": "{FOLDED_HANDS} Aider à traduire",
+    "help_translate_button": "{SPEAKING_HEAD} Aider à traduire",
     "history_button": "{HOURGLASS_DONE} Historique",
     "remove_button": "{CROSS_MARK} Supprimer",
     "restore_button": "{HEAVY_PLUS_SIGN} Restaurer",
@@ -250,8 +250,8 @@
     "clear_all_button": "{WASTEBASKET} Tout effacer",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Pause",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Reprendre",
-    "contribute_button": "{BUST_IN_SILHOUETTE} Contribuer",
-    "contributors_button": "{BUSTS_IN_SILHOUETTE} Contributeurs",
+    "translate_button": "{BUST_IN_SILHOUETTE} Contribuer",
+    "translators_button": "{BUSTS_IN_SILHOUETTE} translateurs",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Ouvrir le projet",
     "donate_button": null,
     "donate_with_paypal_button": null

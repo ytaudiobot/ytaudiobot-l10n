@@ -190,17 +190,17 @@
         "**3.** Unele clip-uri nu funcționează!\\n",
         "**4.** De ce au fișierele nume străine?"
     ],
-    "contribute": [
-        "{FOLDED_HANDS} **Ajută la tradus**\\n\\n",
+    "translate": [
+        "{SPEAKING_HEAD} **Ajută la tradus**\\n\\n",
         "{name}! Dacă vrei ca @YTAudioBot să vorbească limba ta sau vrei doar să îmbunătățești o alta, ne poți ajuta!\\n\\n",
         "Am pregătit chiar și un ghid special pentru asta, [aici](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
         "Este necesar să cunoști limba engleză.\\n\\n",
         "Ne bucurăm să primim îmbunătățiri sau traduceri în alte limbi! Simte-te liber să ni te alături, orice ajutor este binevenit!"
     ],
-    "contributors": [
+    "translators": [
         "{BUSTS_IN_SILHOUETTE} **Contribuitori**\\n\\n",
         "{RED_HEART} Dorim să le mulțumim călduros, pentru ajutorul lor, următorilor:\\n\\n",
-        "{contributors}\\n\\n",
+        "{translators}\\n\\n",
         "— @YTAudioBot"
     ],
     "donate":  [
@@ -248,7 +248,7 @@
     "website_button": "{LINK} Site web",
     "email_button": "{ENVELOPE} E-Mail",
     "ratings_button": "{EYE} Recenzii",
-    "help_translate_button": "{FOLDED_HANDS} Ajută la tradus",
+    "help_translate_button": "{SPEAKING_HEAD} Ajută la tradus",
     "history_button": "{HOURGLASS_DONE} Istoric",
     "remove_button": "{CROSS_MARK} Elimină",
     "restore_button": "{HEAVY_PLUS_SIGN} Restaurează",
@@ -256,8 +256,8 @@
     "clear_all_button": "{WASTEBASKET} Șterge tot",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Pauză",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Reia",
-    "contribute_button": "{BUST_IN_SILHOUETTE} Contribuie",
-    "contributors_button": "{BUSTS_IN_SILHOUETTE} Contribuitori",
+    "translate_button": "{BUST_IN_SILHOUETTE} Contribuie",
+    "translators_button": "{BUSTS_IN_SILHOUETTE} Contribuitori",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Vezi proiectul",
     "donate_button": "{WRAPPED_GIFT} Fă o donație",
     "donate_with_paypal_button": "{P_BUTTON} Donează cu PayPal"

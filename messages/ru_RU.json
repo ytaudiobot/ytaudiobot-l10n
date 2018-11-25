@@ -190,17 +190,17 @@
         "**3.** Некоторые видео не работают!\\n",
         "**4.** Почему файлы имеют странные имена?"
     ],
-    "contribute": [
-        "{FOLDED_HANDS} **Помогите перевести**\\n\\n",
+    "translate": [
+        "{SPEAKING_HEAD} **Помогите перевести**\\n\\n",
         "{name}! Если вы хотите, чтобы @YTAudioBot был на вашем языке, или хотите улучшить уже существующий, вы можете помочь нам!\\n\\n",
         "Мы создали руководство на [GitHub](https://github.com/ytaudiobot/ytaudiobot-l10n) именно для этого. ",
         "Требуется знание английского языка.\\n\\n",
         "Мы приветствуем новые языки и улучшения! Не стесняйтесь присоединиться к нам, мы будем благодарны вам за любую оказанную помощь!"
     ],
-    "contributors": [
+    "translators": [
         "{BUSTS_IN_SILHOUETTE} **Помощники**\\n\\n",
         "{RED_HEART} Мы хотели бы искренне поблагодарить авторов перевода:\\n\\n",
-        "{contributors}\\n\\n",
+        "{translators}\\n\\n",
         "— @YTAudioBot"
     ],
     "donate": [
@@ -248,7 +248,7 @@
     "website_button": "{LINK} Сайт",
     "email_button": "{ENVELOPE} E-Mail",
     "ratings_button": "{EYE} Отзывы",
-    "help_translate_button": "{FOLDED_HANDS} Помогите перевести",
+    "help_translate_button": "{SPEAKING_HEAD} Помогите перевести",
     "history_button": "{HOURGLASS_DONE} История",
     "remove_button": "{CROSS_MARK} Удалить",
     "restore_button": "{HEAVY_PLUS_SIGN} Восстановить",
@@ -256,8 +256,8 @@
     "clear_all_button": "{WASTEBASKET} Удалить всё",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Приостановить",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Возобновить",
-    "contribute_button": "{BUST_IN_SILHOUETTE} Помощник",
-    "contributors_button": "{BUSTS_IN_SILHOUETTE} Помощники",
+    "translate_button": "{BUST_IN_SILHOUETTE} Помощник",
+    "translators_button": "{BUSTS_IN_SILHOUETTE} Помощники",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Открыть проект",
     "donate_button": "{WRAPPED_GIFT} Пожертвовать",
     "donate_with_paypal_button": "{P_BUTTON} Пожертвовать с помощью PayPal"

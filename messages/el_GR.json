@@ -190,17 +190,17 @@
         "**3.** Κάποια videos δε δουλεύουν!\\n",
         "**4.** Γιατί κάποια αρχεία έχουν περίεργα ονόματα;"
     ],
-    "contribute": [
-        "{FOLDED_HANDS} **Βοήθησε να μεταφράσουμε**\\n\\n",
+    "translate": [
+        "{SPEAKING_HEAD} **Βοήθησε να μεταφράσουμε**\\n\\n",
         "{name}! Αν θες το @YTAudioBot να μιλάει τη γλώσσα σου ή να βελτιώσεις μια υπάρχουσα γλώσσα, μπορείς να μας βοηθήσεις!\\n\\n",
         "Φτιάξαμε έναν οδηγό αποκλειστικά γι' αυτό, [εδώ](https://github.com/ytaudiobot/ytaudiobot-l10n). (στα Αγγλικά) ",
         "Απαιτείται η γνώση της Αγγλικής γλώσσας.\\n\\n",
         "Καλωσορίζουμε νέες γλώσσες και βελτιώσεις! Νιώσε ελεύθερος να μας βοηθήσεις, δεχόμαστε με ευγνωμοσύνη κάθε βοήθεια!"
     ],
-    "contributors": [
+    "translators": [
         "{BUSTS_IN_SILHOUETTE} **Εθελοντές**\\n\\n",
         "{RED_HEART} Θα θέλαμε να ευχαριστήσουμε θερμά τους εθελοντές μεταφραστές:\\n\\n",
-        "{contributors}\\n\\n",
+        "{translators}\\n\\n",
         "— @YTAudioBot"
     ],
     "donate": null,
@@ -242,7 +242,7 @@
     "website_button": "{LINK} Website",
     "email_button": "{ENVELOPE} E-Mail",
     "ratings_button": "{EYE} Αξιολογήσεις",
-    "help_translate_button": "{FOLDED_HANDS} Βοήθησε να μεταφράσουμε",
+    "help_translate_button": "{SPEAKING_HEAD} Βοήθησε να μεταφράσουμε",
     "history_button": "{HOURGLASS_DONE} Ιστορικό",
     "remove_button": "{CROSS_MARK} Σβήσε",
     "restore_button": "{HEAVY_PLUS_SIGN} Επανάφερε",
@@ -250,8 +250,8 @@
     "clear_all_button": "{WASTEBASKET} Σβήσ' τα όλα",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Παύση",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Συνέχεια",
-    "contribute_button": "{BUST_IN_SILHOUETTE} Σύμβαλε",
-    "contributors_button": "{BUSTS_IN_SILHOUETTE} Εθελοντές",
+    "translate_button": "{BUST_IN_SILHOUETTE} Σύμβαλε",
+    "translators_button": "{BUSTS_IN_SILHOUETTE} Εθελοντές",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Ανοιχτό project",
     "donate_button": null,
     "donate_with_paypal_button": null

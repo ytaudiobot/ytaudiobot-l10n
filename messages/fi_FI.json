@@ -190,17 +190,17 @@
         "**3.** Jotkin videot eivät toimi!\\n",
         "**4.** Miksi tiedostoilla on outoja nimiä?"
     ],
-    "contribute": [
-        "{FOLDED_HANDS} **Auta kääntämään**\\n\\n",
+    "translate": [
+        "{SPEAKING_HEAD} **Auta kääntämään**\\n\\n",
         "{name}! Jos haluat @YTAudioBot:in puhumaan omaa kieltäsi tai parannella olemassa olevaa, voit auttaa meitä!\\n\\n",
         "Teimme ohjeen siihen, [täällä](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
         "Englannin kielen taitoa vaaditaan.\\n\\n",
         "Toivotamme tervetulleeksi kaikki uudet kielet ja parannukset! Voit vapaasti liittyä meihin, jokainen apu otetaan kiitollisena vastaan!"
     ],
-    "contributors": [
+    "translators": [
         "{BUSTS_IN_SILHOUETTE} **Avustajat**\\n\\n",
         "{RED_HEART} Haluamme lämpimästi kiittää seuraavia kääntäjiä:\\n\\n",
-        "{contributors}\\n\\n",
+        "{translators}\\n\\n",
         "— @YTAudioBot"
     ],
     "donate": null,
@@ -242,7 +242,7 @@
     "website_button": "{LINK} Kotisivu",
     "email_button": "{ENVELOPE} Sähköposti",
     "ratings_button": "{EYE} Arvostelut",
-    "help_translate_button": "{FOLDED_HANDS} Auta kääntämään",
+    "help_translate_button": "{SPEAKING_HEAD} Auta kääntämään",
     "history_button": "{HOURGLASS_DONE} Historia",
     "remove_button": "{CROSS_MARK} Poista",
     "restore_button": "{HEAVY_PLUS_SIGN} Palauta",
@@ -250,8 +250,8 @@
     "clear_all_button": "{WASTEBASKET} Poista kaikki",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Pysäytä",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Jatka",
-    "contribute_button": "{BUST_IN_SILHOUETTE} Avusta",
-    "contributors_button": "{BUSTS_IN_SILHOUETTE} Avustajat",
+    "translate_button": "{BUST_IN_SILHOUETTE} Avusta",
+    "translators_button": "{BUSTS_IN_SILHOUETTE} Avustajat",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Avaa projekti",
     "donate_button": null,
     "donate_with_paypal_button": null

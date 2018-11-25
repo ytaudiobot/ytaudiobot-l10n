@@ -191,17 +191,17 @@
         "**3.** Alcuni video non funzionano!\\n",
         "**4.** Perché i file hanno nomi strani?"
     ],
-    "contribute": [
-        "{FOLDED_HANDS} **Aiuta a tradurre**\\n\\n",
+    "translate": [
+        "{SPEAKING_HEAD} **Traduci**\\n\\n",
         "{name}! Se vuoi che @YTAudioBot parli la tua lingua oppure se vuoi migliorarne una già esistente, puoi aiutarci!\\n\\n",
         "Abbiamo creato una guida solo per questo, [qui](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
         "È richiesta la conoscenza della lingua Inglese.\\n\\n",
         "Accogliamo nuove lingue e miglioramenti! Sentiti libero di unirti a noi, ogni aiuto è ben accetto!"
     ],
-    "contributors": [
-        "{BUSTS_IN_SILHOUETTE} **Collaboratori**\\n\\n",
-        "{RED_HEART} Vorremmo ringraziare di cuore i collaboratori delle traduzioni:\\n\\n",
-        "{contributors}\\n\\n",
+    "translators": [
+        "{BUSTS_IN_SILHOUETTE} **Traduttori**\\n\\n",
+        "{RED_HEART} Vorremmo ringraziare di cuore i traduttori:\\n\\n",
+        "{translators}\\n\\n",
         "— @YTAudioBot"
     ],
     "donate": [
@@ -249,7 +249,7 @@
     "website_button": "{LINK} Sito web",
     "email_button": "{ENVELOPE} E-Mail",
     "ratings_button": "{EYE} Recensioni",
-    "help_translate_button": "{FOLDED_HANDS} Aiuta a tradurre",
+    "help_translate_button": "{SPEAKING_HEAD} Aiuta a tradurre",
     "history_button": "{HOURGLASS_DONE} Cronologia",
     "remove_button": "{CROSS_MARK} Rimuovi",
     "restore_button": "{HEAVY_PLUS_SIGN} Ripristina",
@@ -257,8 +257,8 @@
     "clear_all_button": "{WASTEBASKET} Cancella tutto",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Sospendi",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Riattiva",
-    "contribute_button": "{BUST_IN_SILHOUETTE} Collabora",
-    "contributors_button": "{BUSTS_IN_SILHOUETTE} Collaboratori",
+    "translate_button": "{BUST_IN_SILHOUETTE} Traduci",
+    "translators_button": "{BUSTS_IN_SILHOUETTE} Traduttori",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Apri progetto",
     "donate_button": "{WRAPPED_GIFT} Dona",
     "donate_with_paypal_button": "{P_BUTTON} Dona con PayPal"

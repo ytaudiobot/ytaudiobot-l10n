@@ -190,17 +190,17 @@
         "**3.** Sommige videos werken niet!\\n",
         "**4.** Waarom hebben de bestanden rare namen?"
     ],
-    "contribute": [
-        "{FOLDED_HANDS} **Help met vertalen**\\n\\n",
+    "translate": [
+        "{SPEAKING_HEAD} **Help met vertalen**\\n\\n",
         "{name}! Als je  @YTAudioBot in je eigen taal wilt of een wilt verbeteren, kan je ons helpen!\\n\\n",
         "We hebben daar [hier](https://github.com/ytaudiobot/ytaudiobot-l10n) een handleiding voor. ",
         "Kennis van de Engelse taal is benodigd.\\n\\n",
         "We verwelkomen alle talen en verbeteringen! Doe graag met ons mee, alle hulp zijn we dankbaar voor!"
     ],
-    "contributors": [
+    "translators": [
         "{BUSTS_IN_SILHOUETTE} **Bijdragers**\\n\\n",
         "{RED_HEART} We willen de vertalers graag hartelijk bedanken:\\n\\n",
-        "{contributors}\\n\\n",
+        "{translators}\\n\\n",
         "— @YTAudioBot"
     ],
     "donate": [
@@ -248,7 +248,7 @@
     "website_button": "{LINK} Website",
     "email_button": "{ENVELOPE} E-Mail",
     "ratings_button": "{EYE} Beoordelingen",
-    "help_translate_button": "{FOLDED_HANDS} Help vertalen",
+    "help_translate_button": "{SPEAKING_HEAD} Help vertalen",
     "history_button": "{HOURGLASS_DONE} Geschiedenis",
     "remove_button": "{CROSS_MARK} Verwijder",
     "restore_button": "{HEAVY_PLUS_SIGN} Herstel",
@@ -256,8 +256,8 @@
     "clear_all_button": "{WASTEBASKET} Wis alles",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Pauze",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Hervatten",
-    "contribute_button": "{BUST_IN_SILHOUETTE} Bijdragen",
-    "contributors_button": "{BUSTS_IN_SILHOUETTE} Bijdragers",
+    "translate_button": "{BUST_IN_SILHOUETTE} Bijdragen",
+    "translators_button": "{BUSTS_IN_SILHOUETTE} Bijdragers",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Open project",
     "donate_button": "{WRAPPED_GIFT} Doneren",
     "donate_with_paypal_button": "{P_BUTTON} Doneren met PayPal"

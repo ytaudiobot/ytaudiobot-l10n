@@ -190,17 +190,17 @@
         "**3.** Деякі відео не працюють!\\n",
         "**4.** Чому файли мають дивні назви?"
     ],
-    "contribute": [
-        "{FOLDED_HANDS} **Допоможіть перекласти**\\n\\n",
+    "translate": [
+        "{SPEAKING_HEAD} **Допоможіть перекласти**\\n\\n",
         "{name}! Якщо ви хочете, щоб @YTAudioBot розмовляв вашою мовою, чи хочете покращити вже існуючу, ви можете нам допомогти!\\n\\n",
         "Ми зробили для цього навіть зробили гід, [тут](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
         "Потрібне знання англійської мови.\\n\\n",
         "Ми вітаємо нові мови та покращення! Не бійтеся приєднатися до нас, кожна допомога велично приймається!"
     ],
-    "contributors": [
+    "translators": [
         "{BUSTS_IN_SILHOUETTE} **Помічники**\\n\\n",
         "{RED_HEART} Ми хотіли б тепло подякувати помічникам в перекладі:\\n\\n",
-        "{contributors}\\n\\n",
+        "{translators}\\n\\n",
         "— @YTAudioBot"
     ],
     "donate": null,
@@ -242,7 +242,7 @@
     "website_button": "{LINK} Веб-сайт",
     "email_button": "{ENVELOPE} E-пошта",
     "ratings_button": "{EYE} Відгуки",
-    "help_translate_button": "{FOLDED_HANDS} Допоможіть перекласти",
+    "help_translate_button": "{SPEAKING_HEAD} Допоможіть перекласти",
     "history_button": "{HOURGLASS_DONE} Історія",
     "remove_button": "{CROSS_MARK} Вилучити",
     "restore_button": "{HEAVY_PLUS_SIGN} Відновити",
@@ -250,8 +250,8 @@
     "clear_all_button": "{WASTEBASKET} Очистити все",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Призупинити",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Продовжити",
-    "contribute_button": "{BUST_IN_SILHOUETTE} Допомогти",
-    "contributors_button": "{BUSTS_IN_SILHOUETTE} Помічники",
+    "translate_button": "{BUST_IN_SILHOUETTE} Допомогти",
+    "translators_button": "{BUSTS_IN_SILHOUETTE} Помічники",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Відкрити проект",
     "donate_button": null,
     "donate_with_paypal_button": null

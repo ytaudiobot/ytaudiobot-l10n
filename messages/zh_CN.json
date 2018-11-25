@@ -191,17 +191,17 @@
         "**3.** 一些视频无法正常工作！\\n",
         "**4.** 为什么下载的文件会有一个奇怪的名字？"
     ],
-    "contribute": [
-        "{FOLDED_HANDS} **帮助翻译**\\n\\n",
+    "translate": [
+        "{SPEAKING_HEAD} **帮助翻译**\\n\\n",
         "{name}！如果你希望 @YTAudioBot 使用你的语言或者改进现有的语言，请帮助我们吧！\\n\\n",
         "我们写了一份帮助你参与翻译的文档在 [这里](https://github.com/ytaudiobot/ytaudiobot-l10n)。 ",
         "此工作要求你拥有一点英语的知识\\n\\n",
         "我们欢迎任何的语言和改进，请加入我们，我们衷心感谢你的任何帮助！"
     ],
-    "contributors": [
+    "translators": [
         "{BUSTS_IN_SILHOUETTE} **贡献者**\\n\\n",
         "{RED_HEART} 我们衷心感谢一些翻译贡献者：\\n\\n",
-        "{contributors}\\n\\n",
+        "{translators}\\n\\n",
         "— @YTAudioBot"
     ],
     "donate": [
@@ -249,7 +249,7 @@
     "website_button": "{LINK} 网站",
     "email_button": "{ENVELOPE} 电子邮箱",
     "ratings_button": "{EYE} 评论",
-    "help_translate_button": "{FOLDED_HANDS} 帮助翻译",
+    "help_translate_button": "{SPEAKING_HEAD} 帮助翻译",
     "history_button": "{HOURGLASS_DONE} 历史",
     "remove_button": "{CROSS_MARK} 删除",
     "restore_button": "{HEAVY_PLUS_SIGN} 还原",
@@ -257,8 +257,8 @@
     "clear_all_button": "{WASTEBASKET} 清除全部",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} 暂停",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} 继续",
-    "contribute_button": "{BUST_IN_SILHOUETTE} 参与贡献",
-    "contributors_button": "{BUSTS_IN_SILHOUETTE} 贡献者",
+    "translate_button": "{BUST_IN_SILHOUETTE} 参与贡献",
+    "translators_button": "{BUSTS_IN_SILHOUETTE} 贡献者",
     "open_project_button": "{CARD_INDEX_DIVIDERS} 访问项目",
     "donate_button": "{WRAPPED_GIFT} 捐赠",
     "donate_with_paypal_button": "{P_BUTTON} 使用PayPal捐赠"

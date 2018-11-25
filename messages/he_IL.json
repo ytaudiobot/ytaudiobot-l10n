@@ -190,17 +190,17 @@
         "**3.** חלק מהסרטונים לא עובדים!\\n",
         "**4.** למה לקבצים יש שמות מוזרים?"
     ],
-    "contribute": [
-        "{FOLDED_HANDS} **עזור לתרגם**\\n\\n",
+    "translate": [
+        "{SPEAKING_HEAD} **עזור לתרגם**\\n\\n",
         "היי {name}! אם אתה רוצה ש-@YTAudioBot ידבר בשפה שלך או רוצה לשפר שפה קיימת, אתה יכול לעזור לנו!\\n\\n",
         "כתבנו מדריך בדיוק בשביל זה, [פה](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
         "בשביל לתרגם חובה לדעת לדבר אנגלית.\\n\\n",
         "אנחנו מברכים שפות חדשות ושיפורים! תרגיש חופשי להצטרף אלינו, כל עזרה תתקבל בברכה!"
     ],
-    "contributors": [
+    "translators": [
         "{BUSTS_IN_SILHOUETTE} **מתרגמים**\\n\\n",
         "{RED_HEART} אנחנו שמחים להודות בחום למתרגמים שלנו:\\n\\n",
-        "{contributors}\\n\\n",
+        "{translators}\\n\\n",
         "— @YTAudioBot"
     ],
     "donate": [
@@ -248,7 +248,7 @@
     "website_button": "{LINK} אתר",
     "email_button": "{ENVELOPE} אימייל",
     "ratings_button": "{EYE} ביקורות",
-    "help_translate_button": "{FOLDED_HANDS} עזור לתרגם",
+    "help_translate_button": "{SPEAKING_HEAD} עזור לתרגם",
     "history_button": "{HOURGLASS_DONE} היסטוריה",
     "remove_button": "{CROSS_MARK} הסר",
     "restore_button": "{HEAVY_PLUS_SIGN} שחזר",
@@ -256,8 +256,8 @@
     "clear_all_button": "{WASTEBASKET} הסר הכל",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} עצור",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} המשך",
-    "contribute_button": "{BUST_IN_SILHOUETTE} תרגם",
-    "contributors_button": "{BUSTS_IN_SILHOUETTE} מתרגמים",
+    "translate_button": "{BUST_IN_SILHOUETTE} תרגם",
+    "translators_button": "{BUSTS_IN_SILHOUETTE} מתרגמים",
     "open_project_button": "{CARD_INDEX_DIVIDERS} פתח את הפרויקט",
     "donate_button": "{WRAPPED_GIFT} תרום",
     "donate_with_paypal_button": "{P_BUTTON} תרום עם פייפאל"

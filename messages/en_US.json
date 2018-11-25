@@ -190,17 +190,17 @@
         "**3.** Some videos don't work!\\n",
         "**4.** Why do files have strange names?"
     ],
-    "contribute": [
-        "{FOLDED_HANDS} **Help translate**\\n\\n",
+    "translate": [
+        "{SPEAKING_HEAD} **Translate**\\n\\n",
         "{name}! If you want @YTAudioBot to speak your language or want to improve an existing one, you can help us!\\n\\n",
         "We've set up a guide just for this, [here](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
         "Knowledge of the English language is required.\\n\\n",
         "We welcome new languages and improvements! Feel free to join us, every help is gratefully accepted!"
     ],
-    "contributors": [
-        "{BUSTS_IN_SILHOUETTE} **Contributors**\\n\\n",
-        "{RED_HEART} We would like to warmly thank the translation contributors:\\n\\n",
-        "{contributors}\\n\\n",
+    "translators": [
+        "{BUSTS_IN_SILHOUETTE} **Translators**\\n\\n",
+        "{RED_HEART} We would like to warmly thank the translators:\\n\\n",
+        "{translators}\\n\\n",
         "— @YTAudioBot"
     ],
     "donate": [
@@ -248,7 +248,7 @@
     "website_button": "{LINK} Website",
     "email_button": "{ENVELOPE} E-Mail",
     "ratings_button": "{EYE} Reviews",
-    "help_translate_button": "{FOLDED_HANDS} Help translate",
+    "help_translate_button": "{SPEAKING_HEAD} Help translate",
     "history_button": "{HOURGLASS_DONE} History",
     "remove_button": "{CROSS_MARK} Remove",
     "restore_button": "{HEAVY_PLUS_SIGN} Restore",
@@ -256,8 +256,8 @@
     "clear_all_button": "{WASTEBASKET} Clear all",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Pause",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Resume",
-    "contribute_button": "{BUST_IN_SILHOUETTE} Contribute",
-    "contributors_button": "{BUSTS_IN_SILHOUETTE} Contributors",
+    "translate_button": "{BUST_IN_SILHOUETTE} Translate",
+    "translators_button": "{BUSTS_IN_SILHOUETTE} Translators",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Open project",
     "donate_button": "{WRAPPED_GIFT} Donate",
     "donate_with_paypal_button": "{P_BUTTON} Donate with PayPal"

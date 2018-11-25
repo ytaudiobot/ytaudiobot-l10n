@@ -190,17 +190,17 @@
         "**3.** ¡Algunos vídeos no funcionan!\\n",
         "**4.** ¿Por qué los archivos tienen nombres raros?"
     ],
-    "contribute": [
-        "{FOLDED_HANDS} **Ayuda a traducir**\\n\\n",
+    "translate": [
+        "{SPEAKING_HEAD} **Ayuda a traducir**\\n\\n",
         "¡{name}! Si quieres que @YTAudioBot hable tu idioma o quieres mejorar uno existente, ¡puedes ayudarnos!\\n\\n",
         "Hemos preparado [una guía](https://github.com/ytaudiobot/ytaudiobot-l10n) sólo para esto. ",
         "Se requiere conocimiento del idioma inglés.\\n\\n",
         "¡Aceptamos nuevos idiomas y mejoras! ¡Únete a nosotros, toda ayuda es bienvenida!"
     ],
-    "contributors": [
+    "translators": [
         "{BUSTS_IN_SILHOUETTE} **Colaboradores**\\n\\n",
         "{RED_HEART} Queremos agradecer a los siguientes traductores:\\n\\n",
-        "{contributors}\\n\\n",
+        "{translators}\\n\\n",
         "— @YTAudioBot"
     ],
     "donate": [
@@ -248,7 +248,7 @@
     "website_button": "{LINK} Web",
     "email_button": "{ENVELOPE} Email",
     "ratings_button": "{EYE} Reseñas",
-    "help_translate_button": "{FOLDED_HANDS} Traducir",
+    "help_translate_button": "{SPEAKING_HEAD} Traducir",
     "history_button": "{HOURGLASS_DONE} Historial",
     "remove_button": "{CROSS_MARK} Quitar",
     "restore_button": "{HEAVY_PLUS_SIGN} Restaurar",
@@ -256,8 +256,8 @@
     "clear_all_button": "{WASTEBASKET} Borrar todo",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Pausar",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Reanudar",
-    "contribute_button": "{BUST_IN_SILHOUETTE} Contribuir",
-    "contributors_button": "{BUSTS_IN_SILHOUETTE} Contribuidores",
+    "translate_button": "{BUST_IN_SILHOUETTE} Contribuir",
+    "translators_button": "{BUSTS_IN_SILHOUETTE} Contribuidores",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Ver proyecto",
     "donate_button": "{WRAPPED_GIFT} Donar",
     "donate_with_paypal_button": "{P_BUTTON} Donar con PayPal"
