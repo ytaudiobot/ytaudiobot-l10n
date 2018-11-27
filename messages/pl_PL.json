@@ -141,7 +141,7 @@
     "about": [
         "{NEWSPAPER} **O bocie**\\n\\n",
         "**YTAudioBot dla Telegrama**\\n",
-        "**{version}** - __{day} {month}, {year}__\\n\\n",
+        "**v{version}** - __{day} {month}, {year}__\\n\\n",
         "{LOUDSPEAKER} **Kanał** - @YTAudio\\n",
         "{LINK} **Strona** - https://ytaudiobot.ml\\n",
         "{ENVELOPE} **E-Mail** - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",

@@ -141,7 +141,7 @@
     "about": [
         "{NEWSPAPER} **אודות**\\n\\n",
         "**YTAudioBot לטלגרם**\\n",
-        "**{version}** - __{month} {day}, {year}__\\n\\n",
+        "**v{version}** - __{month} {day}, {year}__\\n\\n",
         "{LOUDSPEAKER} **ערוץ** - @YTAudio\\n",
         "{LINK} **אתר** - https://ytaudiobot.ml\\n",
         "{ENVELOPE} **אימייל** - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
