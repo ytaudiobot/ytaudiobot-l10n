@@ -203,7 +203,13 @@
         "{translators}\\n\\n",
         "— @YTAudioBot"
     ],
-    "donate": null,
+    "donate": [
+        "{WRAPPED_GIFT} **Wesprzyj nas**\\n\\n",
+        "**Dziękujemy że chcesz pomóc!**\\n\\n",
+        "YTAudioBot jest darmowy, ale zasila go Wasza miłość i wsparcie!\\n\\n",
+        "Jeśli naprawdę lubisz tego bota, proszę rozważ [wsparcie nas](https://paypal.me/delivrance/5) ",
+        "aby umożliwić nam utrzymanie serwerów i dalszy rozwój."
+    ],
     "month_1": "Stycznia",
     "month_2": "Lutego",
     "month_3": "Marca",
@@ -253,6 +259,6 @@
     "translate_button": "{SPEAKING_HEAD} Dołącz do nas!",
     "translators_button": "{BUSTS_IN_SILHOUETTE} Tłumacze",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Pokaż projekt",
-    "donate_button": null,
-    "donate_with_paypal_button": null
+    "donate_button": "{WRAPPED_GIFT} Wesprzyj nas",
+    "donate_with_paypal_button": "{P_BUTTON} Wesprzyj nas przez PayPal"
 }
