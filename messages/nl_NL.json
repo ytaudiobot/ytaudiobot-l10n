@@ -6,17 +6,17 @@
         "Mirror: @YTAudio_Bot"
     ],
     "type_search_terms": "{MEMO} Typ je zoektermen",
-    "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} Zoek \\\"{terms}\\\" op YouTube",
+    "search_on_youtube": "{MAGNIFYING_GLASS_TILTED_RIGHT} Zoek \\\"{terms}\\\" op YouTube",
     "error": "{PENSIVE_FACE} Er is een fout opgetreden. Probeer het later opnieuw.",
-    "longer_download_time": "{WARNING} *Deze video kan langer duren dan normaal. De download kan falen!*",
+    "longer_download_time": "{WARNING} **Deze video kan langer duren dan normaal. De download kan falen!**",
     "clear_history_warning": "{WARNING} Je staat op het punt je hele geschiedenis te wissen!",
     "history_settings": [
-        "{HOURGLASS} *Downloadgeschiedenis*\\n\\n",
+        "{HOURGLASS_DONE} **Downloadgeschiedenis**\\n\\n",
         "{Er zijn geen items|Er is één item|Er zijn # items} in je downloadgeschiedenis.."
     ],
     "clear_history_confirmation": [
-        "{WASTEBASKET} *Wis alle downloadgeschiedenis*\\n\\n",
-        "Weet je zeker dat je je hele downloadgeschiedenis wilt wissen? *Je kan dit niet ongedaan maken.*"
+        "{WASTEBASKET} **Wis alle downloadgeschiedenis**\\n\\n",
+        "Weet je zeker dat je je hele downloadgeschiedenis wilt wissen? **Je kan dit niet ongedaan maken.**"
     ],
     "added_seconds_ago": "{0 seconden|één seconde|# seconden} geleden toegevoegd",
     "added_minutes_ago": "{0 minuten|één minuut|# minuten} geleden",
@@ -31,7 +31,7 @@
     "download_history_resumed": "{WHITE_HEAVY_CHECK_MARK} Download geschiedenis hervat",
     "download_history_cleared": "{WASTEBASKET} Download geschiedenis gewist",
     "file_expired": [
-        "{WARNING} *Bestand verlopen*\\n\\n",
+        "{WARNING} **Bestand verlopen**\\n\\n",
         "Druk op {command} om opnieuw te downloaden."
     ],
     "file_info": [
@@ -43,169 +43,169 @@
     ],
     "listen_on_youtube": "{LINK} [Luister op YouTube](https://youtu.be/{video_id})",
     "like": [
-        "{SPARKLES} *Bedankt, {name}!*\\n\\n",
+        "{SPARKLES} **Bedankt, {name}!**\\n\\n",
         "We zijn blij dat je het leuk vindt.\\n\\n",
         "Je kan de bot beoordelen en hem\\n",
-        "5 sterren geven {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} op deze site:\\n",
+        "5 sterren geven {STAR}{STAR}{STAR}{STAR}{STAR} op deze site:\\n",
         "https://t.me/storebot?start=YTAudioBot"
     ],
     "dislike": [
-        "{PENSIVE_FACE} *Het spijt ons dit te horen, {name}.*\\n\\n",
+        "{PENSIVE_FACE} **Het spijt ons dit te horen, {name}.**\\n\\n",
         "Is er iets mis met de bot? Vertel het ons alstublieft (in het Engels of Italiaans):"
     ],
     "rating_message": [
-        "{WHITE_MEDIUM_STAR} *Beoordeel YTAudioBot*\\n\\n",
+        "{STAR} **Beoordeel YTAudioBot**\\n\\n",
         "{name}, vind je de bot leuk?\\n",
         "Neem even de tijd om hem te beoordelen op StoreBot."
     ],
-    "rate_later": "{HOURGLASS} *Oké, ik zal je het een andere keer vragen!*",
-    "rate_never": "{PILE_OF_POO} *Okay, ik zal het je niet meer vragen.*",
+    "rate_later": "{HOURGLASS_DONE} **Oké, ik zal je het een andere keer vragen!**",
+    "rate_never": "{PILE_OF_POO} **Okay, ik zal het je niet meer vragen.**",
     "send_feedback": [
-        "{MEMO} *Stuur feedback*\\n\\n",
+        "{MEMO} **Stuur feedback**\\n\\n",
         "Je kan wijzigingen of verbeteringen aan de bot voorstellen, bugs melden of een reactie sturen naar de makers",
         "(in het Engels of Italiaans)."
     ],
     "sending_feedback_enabled": "{MEMO} Schrijf je feedback",
-    "feedback_sent": "{HEAVY_CHECK_MARK} *Je feedback is verstuurd. Bedankt!*",
-    "showing_trending_results": "{FIRE} *Trending resultaten*\\n\\n",
-    "showing_youtube_results": "{RIGHT_POINTING_MAGNIFYING_GLASS} *YouTube resultaten voor \\\"*{terms}*\\\"*\\n\\n",
-    "flood_wait": "{WARNING} *Niet zo snel! Wacht {0 seconden|één seconde|# seconden} en probeer het opnieuw.*",
-    "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} *Zoeken naar \\\"*{terms}*\\\"...*",
-    "video_not_available": "{PENSIVE_FACE} *Sorry, deze video is nu niet beschikbaar. Probeer het later nog eens.*",
-    "size_limit_exceeded": "{PENSIVE_FACE} *Sorry, deze video overschijdt het bestandsgrootte limiet. Probeer het met een andere.*",
-    "api_error": "{PENSIVE_FACE} *Sorry, de gevraagde bewerking kan nu niet worden uitgevoerd. Probeer het later nogmaals.*",
+    "feedback_sent": "{HEAVY_CHECK_MARK} **Je feedback is verstuurd. Bedankt!**",
+    "showing_trending_results": "{FIRE} **Trending resultaten**\\n\\n",
+    "showing_youtube_results": "{MAGNIFYING_GLASS_TILTED_RIGHT} **YouTube resultaten voor \\\"**{terms}**\\\"**\\n\\n",
+    "flood_wait": "{WARNING} **Niet zo snel! Wacht {0 seconden|één seconde|# seconden} en probeer het opnieuw.**",
+    "search_in_progress": "{MAGNIFYING_GLASS_TILTED_RIGHT} **Zoeken naar \\\"**{terms}**\\\"...**",
+    "video_not_available": "{PENSIVE_FACE} **Sorry, deze video is nu niet beschikbaar. Probeer het later nog eens.**",
+    "size_limit_exceeded": "{PENSIVE_FACE} **Sorry, deze video overschijdt het bestandsgrootte limiet. Probeer het met een andere.**",
+    "api_error": "{PENSIVE_FACE} **Sorry, de gevraagde bewerking kan nu niet worden uitgevoerd. Probeer het later nogmaals.**",
     "select_language": [
-        "{GLOBE_WITH_MERIDIANS} *Taal*\\n\\n",
+        "{GLOBE_WITH_MERIDIANS} **Taal**\\n\\n",
         "Kies je taal"
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} Taal ingesteld op {NETHERLANDS} Nederlands..",
-    "same_language_selected": "{THINKING_FACE} Taal is al ingesteld op {NETHERLANDS} Nederlands",
-    "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *Video verwerking is bezig...*",
+    "language_selected": "{HEAVY_CHECK_MARK} Taal ingesteld op {FLAG_NETHERLANDS} Nederlands..",
+    "same_language_selected": "{THINKING_FACE} Taal is al ingesteld op {FLAG_NETHERLANDS} Nederlands",
+    "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} **Video verwerking is bezig...**",
     "download_canceled": [
-        "{CROSS_MARK} *Download geannuleerd.\\n",
-        "Druk op  *{command}* om opnieuw te downloaden.*"
+        "{CROSS_MARK} **Download geannuleerd.\\n",
+        "Druk op  **{command}** om opnieuw te downloaden.**"
     ],
     "download_error": [
-        "{PENSIVE_FACE} *Sorry, er is een fout opgetreden.\\n",
-        "Probeer het opnieuw: *{command}*.*"
+        "{PENSIVE_FACE} **Sorry, er is een fout opgetreden.\\n",
+        "Probeer het opnieuw: **{command}**.**"
     ],
     "download_timeout": [
-        "{WARNING} *De download duurt langer dan 60 seconden.\\n",
-        "Vraag gerust nog een video aan, deze wordt zo spoedig mogelijk verstuurd!*"
+        "{WARNING} **De download duurt langer dan 60 seconden.\\n",
+        "Vraag gerust nog een video aan, deze wordt zo spoedig mogelijk verstuurd!**"
     ],
-    "download_successful": "{HEAVY_CHECK_MARK} *Audio succesvol gedownload!*",
+    "download_successful": "{HEAVY_CHECK_MARK} **Audio succesvol gedownload!**",
     "wait_previous_download": "{WARNING} Wacht op je vorige download!!",
     "download_queue_full": "{WARNING} Download wachtrij is vol. Probeer het later opnieuw.",
     "help_1": [
-        "{OPEN_BOOK} *Help (1 van 4)*\\n\\n",
+        "{OPEN_BOOK} **Help (1 van 4)**\\n\\n",
         "Alles dat je nodig hebt is de URL van de YouTube video waar je het geluid van wilt, zoals:\\n\\n",
         "— https://youtu.be/SMWi7CLoZ2Q."
     ],
     "help_2": [
-        "{OPEN_BOOK} *Help (2 van 4)*\\n\\n",
+        "{OPEN_BOOK} **Help (2 van 4)**\\n\\n",
         "Er zijn meerdere manieren om de URL te krijgen. Je kan bijvoorbeeld:\\n\\n",
         "— De Deel knop gebruiken in de YouTube app.\\n",
         "— Gebruik Telegram's inline bots @vid of @youtube.\\n",
         "— Kopieer/Plak de link uit je browser."
     ],
     "help_3": [
-        "{OPEN_BOOK} *Help (3 van 4)*\\n\\n",
+        "{OPEN_BOOK} **Help (3 van 4)**\\n\\n",
         "Als je de URL hebt gevonden, stuur je hem naar mij.\\n\\n",
         "Als de video al door iemand anders gedownload is wordt hij onmiddelijk verstuurd, ",
-        "En anders verschijnt de knop  {INBOX_TRAY} *Download*. Druk er op, en je audio bestand zal snel ",
+        "En anders verschijnt de knop  {INBOX_TRAY} **Download**. Druk er op, en je audio bestand zal snel ",
         "beschikbaar zijn."
     ],
     "help_4": [
-        "{OPEN_BOOK} *Help (4 van 4)*\\n\\n",
-        "Nadat je hem ontvangen en gedownload hebt, kan je op het audiobericht drukken en op  *Opslaan naar Muziek* ",
+        "{OPEN_BOOK} **Help (4 van 4)**\\n\\n",
+        "Nadat je hem ontvangen en gedownload hebt, kan je op het audiobericht drukken en op  **Opslaan naar Muziek** ",
         "drukken om hem naar de Muziek map van je apparaat op te slaan."
     ],
     "tip_1": [
-        "{LIGHT_BULB} *Tip (1 of 2)*\\n\\n",
+        "{LIGHT_BULB} **Tip (1 of 2)**\\n\\n",
         "Je kan me ook alleen een video ID sturen, zoals deze:\\n\\n",
         "— `SMWi7CLoZ2Q`."
     ],
     "tip_2": [
-        "{LIGHT_BULB} *Tip (2 van 2)*\\n\\n",
+        "{LIGHT_BULB} **Tip (2 van 2)**\\n\\n",
         "Word lid van het kanaal @YTAudio voor het laatste nieuws en bot-updates!"
     ],
-    "hi": "{SPARKLES} *Hi, {name}!*",
+    "hi": "{SPARKLES} **Hi, {name}!**",
     "presentation": [
-        "*Met *[YTAudioBot](https://ytaudiobot.ml)*, kan je YouTube-video's downloaden als audiobestanden ",
-        "om overal mee te nemen.*"
+        "**Met **[YTAudioBot](https://ytaudiobot.ml)**, kan je YouTube-video's downloaden als audiobestanden ",
+        "om overal mee te nemen.**"
     ],
     "feedback": [
-        "{SPEECH_BALLOON} *Feedback*\\n\\n",
+        "{SPEECH_BALLOON} **Feedback**\\n\\n",
         "Hallo, {name}! Geniet je van YTAudioBot?"
     ],
     "about": [
-        "{NEWSPAPER} *Over*\\n\\n",
-        "*YTAudioBot voor Telegram*\\n",
-        "{version} _{month} {day}, {year}_\\n\\n",
-        "{LOUDSPEAKER} *Kanaal* - @YTAudio\\n",
-        "{LINK} *Website* - https://ytaudiobot.ml\\n",
-        "{ENVELOPE} *E-Mail* - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
-        "{EYE} *Beoordelingen* - {WHITE_MEDIUM_STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
+        "{NEWSPAPER} **Over**\\n\\n",
+        "**YTAudioBot voor Telegram**\\n",
+        "**v{version}** - __{month} {day}, {year}__\\n\\n",
+        "{LOUDSPEAKER} **Kanaal** - @YTAudio\\n",
+        "{LINK} **Website** - https://ytaudiobot.ml\\n",
+        "{ENVELOPE} **E-Mail** - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
+        "{EYE} **Beoordelingen** - {STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
         "{BUST_IN_SILHOUETTE} [{reviews_n}](https://storebot.me/bot/ytaudiobot)"
     ],
     "settings": [
-        "{GEAR} *Instellingen*\\n\\n",
-        "{NEWSPAPER} *Over* - Info over de bot\\n",
-        "{BAR_CHART} *FAQ* - Vaak gestelde vragen\\n",
-        "{GLOBE_WITH_MERIDIANS} *Taal* - Verander Taal\\n",
-        "{SPEECH_BALLOON} *Feedback* - Stuur je feedback"
+        "{GEAR} **Instellingen**\\n\\n",
+        "{NEWSPAPER} **Over** - Info over de bot\\n",
+        "{BAR_CHART} **FAQ** - Vaak gestelde vragen\\n",
+        "{GLOBE_WITH_MERIDIANS} **Taal** - Verander Taal\\n",
+        "{SPEECH_BALLOON} **Feedback** - Stuur je feedback"
     ],
     "faq_1": [
-        "{BAR_CHART} *Vaak gestelde vragen*\\n\\n",
-        "`V:` *1. Ik wil het bestandsformaat selecteren!*\\n",
+        "{BAR_CHART} **Vaak gestelde vragen**\\n\\n",
+        "`V:` **1. Ik wil het bestandsformaat selecteren!**\\n",
         "`A:` We focussen ons op kwaliteit, dienst prestatie en betrouwbaarheid. ",
         "Om snelle converies van geluid op de hoogste kwaliteit van YouTube te bereiken, sturen we alleen ",
         "AAC 128k bestanden in een MPEG-4 Part 14 (MP4) container met M4A extensie, inclusief iTunes informatie. ",
         "Deze keuze kan in de toekomst veranderen."
     ],
     "faq_2": [
-        "{BAR_CHART} *Vaak gestelde vragen*\\n\\n",
-        "`V:` *2. Wat betekent AAC/M4A?*\\n",
+        "{BAR_CHART} **Vaak gestelde vragen**\\n\\n",
+        "`V:` **2. Wat betekent AAC/M4A?**\\n",
         "`A:` AAC is een audio encoding formaat, ontworpen als opvolger van MP3 en behaalt gemiddeld ",
         "hogere kwaliteit dan MP3 met vergelijkbare bitrates. is een extensie, ookwel bekend als de container ",
         "van zowel de AAC gecodeerde audio en de informatie van de audio zelf.."
     ],
     "faq_3": [
-        "{BAR_CHART} *Vaak gestelde vragen*\\n\\n",
-        "`V:` *3. Sommige videos werken niet!*\\n",
+        "{BAR_CHART} **Vaak gestelde vragen**\\n\\n",
+        "`V:` **3. Sommige videos werken niet!**\\n",
         "`A:` Sommige video's, door YouTube's beperkingen, zijn niet beschikbaar voor ons datacanter. Ook ",
         "kan de bot bestanden sturen tot maximaal 50MB. Dit kan veranderen in de toekomst."
     ],
     "faq_4": [
-        "{BAR_CHART} *Vaak gestelde vragen*\\n\\n",
-        "`V:` *4. Waarom hebben de bestanden rare namen?*\\n",
+        "{BAR_CHART} **Vaak gestelde vragen**\\n\\n",
+        "`V:` **4. Waarom hebben de bestanden rare namen?**\\n",
         "`A:` De bestanden wordne opgeslagen als `Title - VideoId.m4a`, maar de titel is niet met zekerheid de echte ",
         "titel, door eventuele ongeldige tekens. Dit is meestal geen probleem, omdat alle correcte informatie  ",
         "over de video al in de bestands informatie zitten."
     ],
     "faq_menu": [
-        "{BAR_CHART} *Vaak gestelde vragen*\\n\\n",
-        "*1.* Ik wil het bestandsformaat selecteren!\\n",
-        "*2.* Wat betekent AAC/M4A?\\n",
-        "*3.* Sommige videos werken niet!\\n",
-        "*4.* Waarom hebben de bestanden rare namen?"
+        "{BAR_CHART} **Vaak gestelde vragen**\\n\\n",
+        "**1.** Ik wil het bestandsformaat selecteren!\\n",
+        "**2.** Wat betekent AAC/M4A?\\n",
+        "**3.** Sommige videos werken niet!\\n",
+        "**4.** Waarom hebben de bestanden rare namen?"
     ],
-    "contribute": [
-        "{FOLDED_HANDS} *Help met vertalen*\\n\\n",
+    "translate": [
+        "{SPEAKING_HEAD} **Help met vertalen**\\n\\n",
         "{name}! Als je  @YTAudioBot in je eigen taal wilt of een wilt verbeteren, kan je ons helpen!\\n\\n",
         "We hebben daar [hier](https://github.com/ytaudiobot/ytaudiobot-l10n) een handleiding voor. ",
         "Kennis van de Engelse taal is benodigd.\\n\\n",
         "We verwelkomen alle talen en verbeteringen! Doe graag met ons mee, alle hulp zijn we dankbaar voor!"
     ],
-    "contributors": [
-        "{BUSTS_IN_SILHOUETTE} *Bijdragers*\\n\\n",
+    "translators": [
+        "{BUSTS_IN_SILHOUETTE} **Bijdragers**\\n\\n",
         "{RED_HEART} We willen de vertalers graag hartelijk bedanken:\\n\\n",
-        "{contributors}\\n\\n",
+        "{translators}\\n\\n",
         "— @YTAudioBot"
     ],
     "donate": [
-        "{WRAPPED_GIFT} *Doneren*\\n\\n",
-        "*Bedankt dat je wilt helpen!*\\n\\n",
+        "{WRAPPED_GIFT} **Doneren**\\n\\n",
+        "**Bedankt dat je wilt helpen!**\\n\\n",
         "YTAudioBot is gratis, dankzij jullie liefde en ondersteuning!\\n\\n",
         "Als je echt van deze bot geniet, overweeg dan een [donatie](https://paypal.me/delivrance/5) ",
         "ter ondersteuning van de ontwikkeling, onderhoud en serverkosten"
@@ -223,7 +223,7 @@
     "month_11": "November",
     "month_12": "December",
     "start_button": "{CHEQUERED_FLAG} Start",
-    "language_button": "{NETHERLANDS} Nederlands",
+    "language_button": "{FLAG_NETHERLANDS} Nederlands",
     "file_info_button": "{PAGE_WITH_CURL} Bestandsinformatie",
     "share_button": "{RIGHT_ARROW_CURVING_UP} Delen",
     "faq_button": "{BAR_CHART} FAQ",
@@ -241,46 +241,24 @@
     "cancel_button": "{CROSS_MARK} Annuleren",
     "download_button": "{INBOX_TRAY} Download",
     "how_it_works_button": "{QUESTION_MARK} Hoe werkt het",
-    "rate_now_button": "{WHITE_MEDIUM_STAR} Beoordelen",
-    "later_button": "{HOURGLASS} Later",
+    "rate_now_button": "{STAR} Beoordelen",
+    "later_button": "{HOURGLASS_DONE} Later",
     "no_thanks_button": "{PILE_OF_POO} Nee, bedankt",
     "channel_button": "{LOUDSPEAKER} Kanaal",
     "website_button": "{LINK} Website",
     "email_button": "{ENVELOPE} E-Mail",
     "ratings_button": "{EYE} Beoordelingen",
-    "help_translate_button": "{FOLDED_HANDS} Help vertalen",
-    "history_button": "{HOURGLASS} Geschiedenis",
+    "help_translate_button": "{SPEAKING_HEAD} Help vertalen",
+    "history_button": "{HOURGLASS_DONE} Geschiedenis",
     "remove_button": "{CROSS_MARK} Verwijder",
     "restore_button": "{HEAVY_PLUS_SIGN} Herstel",
     "view_button": "{EYE} Tonen",
     "clear_all_button": "{WASTEBASKET} Wis alles",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Pauze",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Hervatten",
-    "contribute_button": "{BUST_IN_SILHOUETTE} Bijdragen",
-    "contributors_button": "{BUSTS_IN_SILHOUETTE} Bijdragers",
+    "translate_button": "{SPEAKING_HEAD} Bijdragen",
+    "translators_button": "{BUSTS_IN_SILHOUETTE} Bijdragers",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Open project",
     "donate_button": "{WRAPPED_GIFT} Doneren",
-    "donate_with_paypal_button": "{P_BUTTON} Doneren met PayPal",
-    "search_item_template": [
-        "{HEADPHONE} *{title}*\\n",
-        "{BUST_IN_SILHOUETTE} _{channel}_\\n",
-        "{EYE} {view_count} {THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
-        "{clock} {duration}: /dl\\_{encoded_video_id}\\n\\n"
-    ],
-    "extract_item_template": [
-        "{HEADPHONE} [{title}](https://youtu.be/{video_id})\\n",
-        "{BUST_IN_SILHOUETTE} *{uploader}* ([{uploader_id}](https://youtube.com/user/{uploader_id}))\\n",
-        "{EYE} {view_count}\\n",
-        "{THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
-        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
-    ],
-    "history_item_template": [
-        "{HEADPHONE} *{index}.* {performer} - *{title}*\\n",
-        "_{natural_relative_time}_\\n\\n"
-    ],
-    "history_details_item_template": [
-        "{listen_on_youtube}\\n",
-        "{HEADPHONE} {performer} - *{title}*\\n",
-        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
-    ]
+    "donate_with_paypal_button": "{P_BUTTON} Doneren met PayPal"
 }

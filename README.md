@@ -11,7 +11,7 @@ Language | Contributors | Translated
 :us: **English** ([en_US](messages/en_US.json)) | [Dan](//github.com/delivrance) | 100%
 :it: **Italiano** ([it_IT](messages/it_IT.json)) | [Dan](//github.com/delivrance) | 100%
 :es: **Español** ([es_ES](messages/es_ES.json)) | [Gerardo](//github.com/balboag) | 100%
-:brazil: **Português** ([pt_BR](messages/pt_BR.json)) | [Rafael](//github.com/rafaelsturmer), [MarioJuniorDev](//github.com/MarioJuniorDev), [Anna e só](//github.com/contraexemplo) | 100%
+:brazil: **Português** ([pt_BR](messages/pt_BR.json)) | [Rafael](//github.com/rafaelsturmer), [MarioJuniorDev](//github.com/MarioJuniorDev), [Anna e só](//github.com/contraexemplo), [Rafyan16](https://github.com/Rafyan16) | 100%
 :israel: **עברית** ([he_IL](messages/he_IL.json)) | [PhantomGitHub](//github.com/PhantomGitHub) | 100%
 :de: **Deutsch** ([de_DE](messages/de_DE.json)) | [Julian](//github.com/jwsp1), [Alex](//github.com/BalanceBreaker), [LoGazer](//github.com/LoGazer) | 100%
 :finland: **Suomi** ([fi_FI](messages/fi_FI.json)) | [Elias](//github.com/theel0ja) | [**98%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
@@ -19,11 +19,10 @@ Language | Contributors | Translated
 :romania: **Română** ([ro_RO](messages/ro_RO.json)) | [NicuG](//t.me/nicug) | 100%
 :uzbekistan: **O'zbek** ([Lt_uz_UZ](messages/Lt_uz_UZ.json)) | [HusanboyBayern](//t.me/HusanboyBayern) | [**98%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
 :indonesia: **Bahasa Indonesia** ([id_ID](messages/id_ID.json)) | [Aldian Hudaya](//t.me/oichidan) | [**98%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
-:tr: **Türkçe** ([tr_TR](messages/tr_TR.json)) | [EypCnn](//github.com/EypCnn), [Ilker Binzet](//github.com/binzet) | [**98%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
+:tr: **Türkçe** ([tr_TR](messages/tr_TR.json)) | [EypCnn](//github.com/EypCnn), [Ilker Binzet](//github.com/binzet), [Furoin](https://github.com/Furoin) | 100%
 :cn: **简体中文** ([zh_CN](messages/zh_CN.json)) | [Kris](//t.me/littlekris) | 100%
 :taiwan: **繁體中文** ([zh_TW](messages/zh_TW.json)) | [Kris](//t.me/littlekris) | 100%
 :saudi_arabia: **العربية** ([ar_SA](messages/ar_SA.json)) | [Mohammad Fahad](//twitter.com/mohmd1429) | [**98%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
-**(WIP)** :jp: **日本語** ([ja_JP](messages/ja_JP.json)) | [Rei](//github.com/unwind-protect) |  [**86%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
 :ukraine: **Українська** ([uk_UA](messages/uk_UA.json)) | [Denis Sikorsky](//t.me/D3sl0ng3r) | [**98%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
 :fr: **Français** ([fr_FR](messages/fr_FR.json)) | [Ev4si0n](//github.com/Ev4si0n) | [**98%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
 :white_flag: **Català** ([ca_ES](messages/ca_ES.json)) | [Artur](//github.com/Ecron) | 100%
@@ -45,7 +44,7 @@ All you need is a text editor, knowledge of the English language and of course k
 - Source/fallback is in English (en_US), updated simultaneously with Italian (it_IT).
 - Locale files are stored under `messages` in JSON format: `{"key": "value"}`.
 - You only need to modify the `value` of the strings; do not translate the `key`.
-- Keep symbols like `*bold*`, `_italic_`, `` `code` ``, `\\n`, `\\\"` unaltered.
+- Keep symbols like `**bold**`, `__italic__`, `` `code` ``, `\\n`, `\\\"` unaltered.
 - Do not translate format fields such as `{EMOJI}` and `{keyword}`.
 - Do not add or omit any text, also try to keep the same string length.
 - Some strings are actually a `["list ", "of ", "strings"]`. This is a cosmetic need to make .json files tidy.

@@ -6,17 +6,17 @@
         "Mirror: @YTAudio_Bot"
     ],
     "type_search_terms": "{MEMO} הכנס ביטויים לחיפוש",
-    "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} ביוטיוב \\\"{terms}\\\" חיפוש",
+    "search_on_youtube": "{MAGNIFYING_GLASS_TILTED_RIGHT} ביוטיוב \\\"{terms}\\\" חיפוש",
     "error": "{PENSIVE_FACE} קרתה תקלה. תנסה שוב מאוחר יותר.",
-    "longer_download_time": "{WARNING} *הסרטון הזה יכול לקחת יותר זמן מבדרך כלל, ההורדה יכולה גם להיכשל!*",
+    "longer_download_time": "{WARNING} **הסרטון הזה יכול לקחת יותר זמן מבדרך כלל, ההורדה יכולה גם להיכשל!**",
     "clear_history_warning": "{WARNING} אתה עומד למחוק את כל ההיסטוריה שלך!",
     "history_settings": [
-        "{HOURGLASS} *היסטורית הורדות*\\n\\n",
+        "{HOURGLASS_DONE} **היסטורית הורדות**\\n\\n",
         "{אין פריטים|יש פריט אחד|יש # פריטים} בהיסטורית ההורדות שלך."
     ],
     "clear_history_confirmation": [
-        "{WASTEBASKET} *מחק היסטורית הורדות*\\n\\n",
-        "האם אתה בטוח שאתה רוצה למחוק את כל היסטורית ההורדות שלך? *אי אפשר לבטל פעולה זאת.*"
+        "{WASTEBASKET} **מחק היסטורית הורדות**\\n\\n",
+        "האם אתה בטוח שאתה רוצה למחוק את כל היסטורית ההורדות שלך? **אי אפשר לבטל פעולה זאת.**"
     ],
     "added_seconds_ago": "נוסף לפני {0 שניות|שניה|# שניות}",
     "added_minutes_ago": "נוסף לפני {0 דקות|דקה|# דקות}",
@@ -31,7 +31,7 @@
     "download_history_resumed": "{WHITE_HEAVY_CHECK_MARK} היסטורית הורדות הומשכה",
     "download_history_cleared": "{WASTEBASKET} היסטורית הורדות נמחקה",
     "file_expired": [
-        "{WARNING} *הקובץ פג תוקף*\\n\\n",
+        "{WARNING} **הקובץ פג תוקף**\\n\\n",
         "תלחץ {command} על מנת להוריד שוב."
     ],
     "file_info": [
@@ -43,169 +43,169 @@
     ],
     "listen_on_youtube": "{LINK} [הקשב ביוטיוב](https://youtu.be/{video_id})",
     "like": [
-        "{SPARKLES} *תודה, {name}!*\\n\\n",
+        "{SPARKLES} **תודה, {name}!**\\n\\n",
         "אנחנו שמחים שאהבת.\\n\\n",
         "אתה יכול לדרג את הבוט הזה\\n",
-        "5 כוכבים {WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR}{WHITE_MEDIUM_STAR} פה:\\n",
+        "5 כוכבים {STAR}{STAR}{STAR}{STAR}{STAR} פה:\\n",
         "https://t.me/storebot?start=YTAudioBot"
     ],
     "dislike": [
-        "{PENSIVE_FACE} *אנחנו מצטערים לשמוע את זה, {name}.*\\n\\n",
+        "{PENSIVE_FACE} **אנחנו מצטערים לשמוע את זה, {name}.**\\n\\n",
         "האם יש תקלה בבוט הזה? בבקשה תספר לנו (באנגלית או איטלקית):"
     ],
     "rating_message": [
-        "{WHITE_MEDIUM_STAR} *דרג את YTAudioBot*\\n\\n",
+        "{STAR} **דרג את YTAudioBot**\\n\\n",
         "{name}, האם אתה נהנה מהבוט?\\n",
         "דרג את הבוט ב-StoreBot."
     ],
-    "rate_later": "{HOURGLASS} *אוקיי, אני אשאל אותך שוב בפעם אחרת!*",
-    "rate_never": "{PILE_OF_POO} *אוקיי, אני לא אשאל אותך שוב אף פעם.*",
+    "rate_later": "{HOURGLASS_DONE} **אוקיי, אני אשאל אותך שוב בפעם אחרת!**",
+    "rate_never": "{PILE_OF_POO} **אוקיי, אני לא אשאל אותך שוב אף פעם.**",
     "send_feedback": [
-        "{MEMO} *שלח משוב*\\n\\n",
+        "{MEMO} **שלח משוב**\\n\\n",
         "אתה יכול להציע שינויים או שיפורים לבוט, לדווח על באגים, או לשלוח הודעה ליוצרים",
         "(באנגלית או איטלקית)."
     ],
     "sending_feedback_enabled": "{MEMO} כתוב את המשוב שלך",
-    "feedback_sent": "{HEAVY_CHECK_MARK} *המשוב שלך נשלח. תודה!*",
-    "showing_trending_results": "{FIRE} *מראה תוצאות פופולריות*\\n\\n",
-    "showing_youtube_results": "{RIGHT_POINTING_MAGNIFYING_GLASS} *תוצאות יוטיוב ל- \\\"*{terms}*\\\"*\\n\\n",
-    "flood_wait": "{WARNING} *לא כל כך מהר! חכה {0 שניות|שניות|# שניות} ונסה שוב.*",
-    "search_in_progress": "{RIGHT_POINTING_MAGNIFYING_GLASS} *מחפש את \\\"*{terms}*\\\"...*",
-    "video_not_available": "{PENSIVE_FACE} *מצטערים, הסרטון הזה לא זמין כרגע. נסה מאוחר יותר.*",
-    "size_limit_exceeded": "{PENSIVE_FACE} *מצטערים, הסרטון הזה חורג מעבר למגבלת הגודל. נסה שוב מאוחר יותר.*",
-    "api_error": "{PENSIVE_FACE} *מצטערים, הפעולה המבוקשת לא יכולה להתבצע כרגע. נסה שוב מאוחר יותר.*",
+    "feedback_sent": "{HEAVY_CHECK_MARK} **המשוב שלך נשלח. תודה!**",
+    "showing_trending_results": "{FIRE} **מראה תוצאות פופולריות**\\n\\n",
+    "showing_youtube_results": "{MAGNIFYING_GLASS_TILTED_RIGHT} **תוצאות יוטיוב ל- \\\"**{terms}**\\\"**\\n\\n",
+    "flood_wait": "{WARNING} **לא כל כך מהר! חכה {0 שניות|שניות|# שניות} ונסה שוב.**",
+    "search_in_progress": "{MAGNIFYING_GLASS_TILTED_RIGHT} **מחפש את \\\"**{terms}**\\\"...**",
+    "video_not_available": "{PENSIVE_FACE} **מצטערים, הסרטון הזה לא זמין כרגע. נסה מאוחר יותר.**",
+    "size_limit_exceeded": "{PENSIVE_FACE} **מצטערים, הסרטון הזה חורג מעבר למגבלת הגודל. נסה שוב מאוחר יותר.**",
+    "api_error": "{PENSIVE_FACE} **מצטערים, הפעולה המבוקשת לא יכולה להתבצע כרגע. נסה שוב מאוחר יותר.**",
     "select_language": [
-        "{GLOBE_WITH_MERIDIANS} *שפה*\\n\\n",
+        "{GLOBE_WITH_MERIDIANS} **שפה**\\n\\n",
         "בחר את השפה שלך."
     ],
-    "language_selected": "{HEAVY_CHECK_MARK} השפה שנבחרה היא {ISRAEL} עברית.",
-    "same_language_selected": "{THINKING_FACE} השפה שנבחרה היא כבר {ISRAEL} עברית",
-    "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} *עיבוד הסרטון מתבצע...*",
+    "language_selected": "{HEAVY_CHECK_MARK} השפה שנבחרה היא {FLAG_ISRAEL} עברית.",
+    "same_language_selected": "{THINKING_FACE} השפה שנבחרה היא כבר {FLAG_ISRAEL} עברית",
+    "video_processing_in_progress": "{CLOCKWISE_VERTICAL_ARROWS} **עיבוד הסרטון מתבצע...**",
     "download_canceled": [
-        "{CROSS_MARK} *ההורדה בוטלה.\\n",
-        "תלחץ *{command}* על מנת להוריד שוב.*"
+        "{CROSS_MARK} **ההורדה בוטלה.\\n",
+        "תלחץ **{command}** על מנת להוריד שוב.**"
     ],
     "download_error": [
-        "{PENSIVE_FACE} *מצטערים, הייתה שגיאה לא צפויה.\\n",
-        "נסה שוב: *{command}*.*"
+        "{PENSIVE_FACE} **מצטערים, הייתה שגיאה לא צפויה.\\n",
+        "נסה שוב: **{command}**.**"
     ],
     "download_timeout": [
-        "{WARNING} *ההורדה לוקחת יותר מ-60 שניות.\\n",
-        "תרגיש חופשי לבקש סרטון נוסף, הסרטון הזה ישלח אליך בהקדם האפשרי!*"
+        "{WARNING} **ההורדה לוקחת יותר מ-60 שניות.\\n",
+        "תרגיש חופשי לבקש סרטון נוסף, הסרטון הזה ישלח אליך בהקדם האפשרי!**"
     ],
-    "download_successful": "{HEAVY_CHECK_MARK} *האודיו הורד בהצלחה!*",
+    "download_successful": "{HEAVY_CHECK_MARK} **האודיו הורד בהצלחה!**",
     "wait_previous_download": "{WARNING} המתן להורדה הקודמת שלך!",
     "download_queue_full": "{WARNING} תור ההורדה מלא. תנסה שוב בפעם אחרת.",
     "help_1": [
-        "{OPEN_BOOK} *עזרה (1 מתוך 4)*\\n\\n",
+        "{OPEN_BOOK} **עזרה (1 מתוך 4)**\\n\\n",
         "הדבר היחיד שאתה צריך זה את ה-URL של הסרטון ביוטיוב שאתה רוצה לחלץ ממנו אודיו כמו זה למשל:\\n\\n",
         "— https://youtu.be/SMWi7CLoZ2Q."
     ],
     "help_2": [
-        "{OPEN_BOOK} *עזרה (2 מתוך 4)*\\n\\n",
+        "{OPEN_BOOK} **עזרה (2 מתוך 4)**\\n\\n",
         "יש הרבה דרכים למצוא URL, למשל:\\n\\n",
         "— השתמש בכפתור השיתוף באפליקצית יוטיוב.\\n",
         "— השתמש בבוטים של טלגרם @vid או @youtube.\\n",
         "— העתק/הדבק את הלינק מהדפדפן שלך."
     ],
     "help_3": [
-        "{OPEN_BOOK} *עזרה (3 מתוך 4)*\\n\\n",
+        "{OPEN_BOOK} **עזרה (3 מתוך 4)**\\n\\n",
         "כשמצאת את הURL, תשלח אותו אליי.\\n\\n",
         "אם הסרטון הורד על ידי מישהו אחר הוא ישלח אליך מיידית, ",
-        "אחרת, הכפתור {INBOX_TRAY} *הורד* יופיע. תלחץ עליו, וקובץ האודיו יהיה זמין ",
+        "אחרת, הכפתור {INBOX_TRAY} **הורד** יופיע. תלחץ עליו, וקובץ האודיו יהיה זמין ",
         "תוך זמן קצר."
     ],
     "help_4": [
-        "{OPEN_BOOK} *עזרה (4 מתוך 4)*\\n\\n",
-        "לאחר שקיבלת והורדת אותו, אתה יכול ללחוץ על הודעת האודיו ולבחור *שמור למוזיקה* ",
+        "{OPEN_BOOK} **עזרה (4 מתוך 4)**\\n\\n",
+        "לאחר שקיבלת והורדת אותו, אתה יכול ללחוץ על הודעת האודיו ולבחור **שמור למוזיקה** ",
         "על מנת לשמור את קובץ האודיו לתיקיית המוזיקה במכשיר שלך."
     ],
     "tip_1": [
-        "{LIGHT_BULB} *טיפ (1 מתוך 2)*\\n\\n",
+        "{LIGHT_BULB} **טיפ (1 מתוך 2)**\\n\\n",
         "אתה יכול גם לשלוח לי רק את המזהה של הסרטון, כמו למשל:\\n\\n",
         "— `SMWi7CLoZ2Q`."
     ],
     "tip_2": [
-        "{LIGHT_BULB} *טיפ (2 מתוך 2)*\\n\\n",
+        "{LIGHT_BULB} **טיפ (2 מתוך 2)**\\n\\n",
         "הצטרף לערוץ @YTAudio בשביל החדשות האחרונות והעדכונים על הבוט!"
     ],
-    "hi": "{SPARKLES} *היי, {name}!*",
+    "hi": "{SPARKLES} **היי, {name}!**",
     "presentation": [
-        "*בעזרת *[YTAudioBot](https://ytaudiobot.ml)*, אתה יכול להוריד סרטונים מיוטיוב כקבצי אודיו לשמוע ",
-        "בכל מקום שתרצה.*"
+        "**בעזרת **[YTAudioBot](https://ytaudiobot.ml)**, אתה יכול להוריד סרטונים מיוטיוב כקבצי אודיו לשמוע ",
+        "בכל מקום שתרצה.**"
     ],
     "feedback": [
-        "{SPEECH_BALLOON} *משוב*\\n\\n",
+        "{SPEECH_BALLOON} **משוב**\\n\\n",
         "היי, {name}! האם אתה אוהב את YTAudioBot?"
     ],
     "about": [
-        "{NEWSPAPER} *אודות*\\n\\n",
-        "*YTAudioBot לטלגרם*\\n",
-        "{version} _{month} {day}, {year}_\\n\\n",
-        "{LOUDSPEAKER} *ערוץ* - @YTAudio\\n",
-        "{LINK} *אתר* - https://ytaudiobot.ml\\n",
-        "{ENVELOPE} *אימייל* - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
-        "{EYE} *ביקורות* - {WHITE_MEDIUM_STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
+        "{NEWSPAPER} **אודות**\\n\\n",
+        "**YTAudioBot לטלגרם**\\n",
+        "**v{version}** - __{month} {day}, {year}__\\n\\n",
+        "{LOUDSPEAKER} **ערוץ** - @YTAudio\\n",
+        "{LINK} **אתר** - https://ytaudiobot.ml\\n",
+        "{ENVELOPE} **אימייל** - [admin@ytaudiobot.ml](https://email.ytaudiobot.ml)\\n",
+        "{EYE} **ביקורות** - {STAR} [{rating}](https://storebot.me/bot/ytaudiobot) ",
         "{BUST_IN_SILHOUETTE} [{reviews_n}](https://storebot.me/bot/ytaudiobot)"
     ],
     "settings": [
-        "{GEAR} *הגדרות*\\n\\n",
-        "{NEWSPAPER} *אודות* - מידע על הבוט\\n",
-        "{BAR_CHART} *שו\\\"ת* - שאלות ותשובות\\n",
-        "{GLOBE_WITH_MERIDIANS} *שפה* - שנה שפה\\n",
-        "{SPEECH_BALLOON} *משוב* - שלח את המשוב שלך"
+        "{GEAR} **הגדרות**\\n\\n",
+        "{NEWSPAPER} **אודות** - מידע על הבוט\\n",
+        "{BAR_CHART} **שו\\\"ת** - שאלות ותשובות\\n",
+        "{GLOBE_WITH_MERIDIANS} **שפה** - שנה שפה\\n",
+        "{SPEECH_BALLOON} **משוב** - שלח את המשוב שלך"
     ],
     "faq_1": [
-        "{BAR_CHART} *שאלות ותשובות*\\n\\n",
-        "`ש:` *1.* אני רוצה לבחור את הפורמט!\\n",
+        "{BAR_CHART} **שאלות ותשובות**\\n\\n",
+        "`ש:` **1.** אני רוצה לבחור את הפורמט!\\n",
         "`ת:` אנחנו משקיעים באיכות, ביצועים ואמינות. ",
         "על מנת להשיג המרות אודיו מהירות באיכות הכי גבוהה ביוטיוב אנחנו שולחים רק ",
         "קבצים בקידוד AAC 128k בתוך קונטיינרים (MPEG-4 Part 14 (MP4 עם סיומת M4A. ",
         "בחירה זאת יכולה להשתנות בעתיד."
     ],
     "faq_2": [
-        "{BAR_CHART} *שאלות ותשובות*\\n\\n",
-        "`ש:` *2.* מה המשמעות של AAC/M4A?\\n",
+        "{BAR_CHART} **שאלות ותשובות**\\n\\n",
+        "`ש:` **2.** מה המשמעות של AAC/M4A?\\n",
         "`ת:` AAC הוא פורמט אודיו שתוכנן להיות הממשיך של הפורמט MP3 ובאופן כללי משיג ",
         "איכות שמע טובה יותר מ-MP3 ב-bit rate דומה. M4A היא סיומת קובץ אודיו, או בשם אחר קונטיינר ",
         "של האודיו והתאגים שלו ביחד."
     ],
     "faq_3": [
-        "{BAR_CHART} *שאלות ותשובות*\\n\\n",
-        "`ש:` *3.* חלק מהסרטונים לא עובדים!\\n",
+        "{BAR_CHART} **שאלות ותשובות**\\n\\n",
+        "`ש:` **3.** חלק מהסרטונים לא עובדים!\\n",
         "`ת:` חלק מהסרטונים, בגלל הגבלות על מדינות של יוטיוב, יכולים להיות לא זמינים עבור מרכז המידע שלנו, ",
         "כרגע הבוט יכול לשלוח קבצי אודיו של עד 50MB, הגבלה זאת יכולה להשתנות בעתיד."
     ],
     "faq_4": [
-        "{BAR_CHART} *שאלות ותשובות*\\n\\n",
-        "`ש:` *4.* למה לקבצים יש שמות מוזרים?\\n",
+        "{BAR_CHART} **שאלות ותשובות**\\n\\n",
+        "`ש:` **4.** למה לקבצים יש שמות מוזרים?\\n",
         "`ת:` הקבצים נשמרים כ- `כותרת - מזהה הסרטון.m4a`, אבל, `כותרת` לא תמיד מייצגת ב-100% את הכותרת ",
         "של הסרטון בגלל תווים לא חוקיים. זאת בדרך כלל לא בעיה בגלל שכל המידע על ",
         "הסרטון מותמע בקובץ האודיו."
     ],
     "faq_menu": [
-        "{BAR_CHART} *שאלות ותשובות*\\n\\n",
-        "*1.* אני רוצה לבחור את הפורמט!\\n",
-        "*2.* מה המשמעות של AAC/M4A?\\n",
-        "*3.* חלק מהסרטונים לא עובדים!\\n",
-        "*4.* למה לקבצים יש שמות מוזרים?"
+        "{BAR_CHART} **שאלות ותשובות**\\n\\n",
+        "**1.** אני רוצה לבחור את הפורמט!\\n",
+        "**2.** מה המשמעות של AAC/M4A?\\n",
+        "**3.** חלק מהסרטונים לא עובדים!\\n",
+        "**4.** למה לקבצים יש שמות מוזרים?"
     ],
-    "contribute": [
-        "{FOLDED_HANDS} *עזור לתרגם*\\n\\n",
+    "translate": [
+        "{SPEAKING_HEAD} **עזור לתרגם**\\n\\n",
         "היי {name}! אם אתה רוצה ש-@YTAudioBot ידבר בשפה שלך או רוצה לשפר שפה קיימת, אתה יכול לעזור לנו!\\n\\n",
         "כתבנו מדריך בדיוק בשביל זה, [פה](https://github.com/ytaudiobot/ytaudiobot-l10n). ",
         "בשביל לתרגם חובה לדעת לדבר אנגלית.\\n\\n",
         "אנחנו מברכים שפות חדשות ושיפורים! תרגיש חופשי להצטרף אלינו, כל עזרה תתקבל בברכה!"
     ],
-    "contributors": [
-        "{BUSTS_IN_SILHOUETTE} *מתרגמים*\\n\\n",
+    "translators": [
+        "{BUSTS_IN_SILHOUETTE} **מתרגמים**\\n\\n",
         "{RED_HEART} אנחנו שמחים להודות בחום למתרגמים שלנו:\\n\\n",
-        "{contributors}\\n\\n",
+        "{translators}\\n\\n",
         "— @YTAudioBot"
     ],
     "donate": [
-        "{WRAPPED_GIFT} *תרום*\\n\\n",
-        "*תודה על הרצון לעזור!*\\n\\n",
+        "{WRAPPED_GIFT} **תרום**\\n\\n",
+        "**תודה על הרצון לעזור!**\\n\\n",
         "‏YTAudioBot הוא חינמי לחלוטין, אבל מונע בעזרת האהבה והתמיכה שלך!\\n\\n",
         "אם אתה ממש נהנה מבוט זה, תשקול [תרומה](https://paypal.me/delivrance/5) ",
         "בשביל לתמוך בפיתוח, תחזוקה, ועלות השרתים."
@@ -223,7 +223,7 @@
     "month_11": "נובמבר",
     "month_12": "דצמבר",
     "start_button": "{CHEQUERED_FLAG} התחל",
-    "language_button": "{ISRAEL} עברית",
+    "language_button": "{FLAG_ISRAEL} עברית",
     "file_info_button": "{PAGE_WITH_CURL} אודות הקובץ",
     "share_button": "{RIGHT_ARROW_CURVING_UP} שתף",
     "faq_button": "{BAR_CHART} שו\\\"ת",
@@ -241,46 +241,24 @@
     "cancel_button": "{CROSS_MARK} בטל",
     "download_button": "{INBOX_TRAY} הורד",
     "how_it_works_button": "איך זה עובד {QUESTION_MARK}",
-    "rate_now_button": "{WHITE_MEDIUM_STAR} דרג עכשיו",
-    "later_button": "{HOURGLASS} אחר כך",
+    "rate_now_button": "{STAR} דרג עכשיו",
+    "later_button": "{HOURGLASS_DONE} אחר כך",
     "no_thanks_button": "{PILE_OF_POO} לא תודה",
     "channel_button": "{LOUDSPEAKER} ערוץ",
     "website_button": "{LINK} אתר",
     "email_button": "{ENVELOPE} אימייל",
     "ratings_button": "{EYE} ביקורות",
-    "help_translate_button": "{FOLDED_HANDS} עזור לתרגם",
-    "history_button": "{HOURGLASS} היסטוריה",
+    "help_translate_button": "{SPEAKING_HEAD} עזור לתרגם",
+    "history_button": "{HOURGLASS_DONE} היסטוריה",
     "remove_button": "{CROSS_MARK} הסר",
     "restore_button": "{HEAVY_PLUS_SIGN} שחזר",
     "view_button": "{EYE} צפה",
     "clear_all_button": "{WASTEBASKET} הסר הכל",
     "pause_button": "{BALLOT_BOX_WITH_CHECK} עצור",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} המשך",
-    "contribute_button": "{BUST_IN_SILHOUETTE} תרגם",
-    "contributors_button": "{BUSTS_IN_SILHOUETTE} מתרגמים",
+    "translate_button": "{SPEAKING_HEAD} תרגם",
+    "translators_button": "{BUSTS_IN_SILHOUETTE} מתרגמים",
     "open_project_button": "{CARD_INDEX_DIVIDERS} פתח את הפרויקט",
     "donate_button": "{WRAPPED_GIFT} תרום",
-    "donate_with_paypal_button": "{P_BUTTON} תרום עם פייפאל",
-    "search_item_template": [
-        "{HEADPHONE} *{title}*\\n",
-        "{BUST_IN_SILHOUETTE} _{channel}_\\n",
-        "{EYE} {view_count} {THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
-        "{clock} {duration}: /dl\\_{encoded_video_id}\\n\\n"
-    ],
-    "extract_item_template": [
-        "{HEADPHONE} [{title}](https://youtu.be/{video_id})\\n",
-        "{BUST_IN_SILHOUETTE} *{uploader}* ([{uploader_id}](https://youtube.com/user/{uploader_id}))\\n",
-        "{EYE} {view_count}\\n",
-        "{THUMBS_UP} {like_count} {THUMBS_DOWN} {dislike_count}\\n",
-        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
-    ],
-    "history_item_template": [
-        "{HEADPHONE} *{index}.* {performer} - *{title}*\\n",
-        "_{natural_relative_time}_\\n\\n"
-    ],
-    "history_details_item_template": [
-        "{listen_on_youtube}\\n",
-        "{HEADPHONE} {performer} - *{title}*\\n",
-        "{clock} {duration} {FLOPPY_DISK} {file_size} MB"
-    ]
+    "donate_with_paypal_button": "{P_BUTTON} תרום עם פייפאל"
 }
