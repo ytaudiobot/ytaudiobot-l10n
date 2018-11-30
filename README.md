@@ -28,7 +28,7 @@ Language | Contributors | Translated
 :white_flag: **Català** ([ca_ES](messages/ca_ES.json)) | [Artur](//github.com/Ecron) | 100%
 :ru: **Русский** ([ru_RU](messages/ru_RU.json)) | [Rakleed](//github.com/Rakleed) | 100%
 :azerbaijan: **Azərbaycanca** ([az_AZ](messages/az_AZ.json)) | [Nazar Nasirzada](//github.com/nnasirzada) | 100%
-:poland: **Polski** ([pl_PL](messages/pl_PL.json)) | [Veleth](//github.com/veleth) | [**98%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
+:poland: **Polski** ([pl_PL](messages/pl_PL.json)) | [Veleth](//github.com/veleth) | 100%
 :vietnam: **Việt Nam** ([vi_VN](messages/vi_VN.json)) | [Thiều Quang Huy](//github.com/abcd123huy) | 100%
 :netherlands: **Nederlands** ([nl_NL](messages/nl_NL.json)) | [jrnwndr](//github.com/jrnwndr) | 100%
 
