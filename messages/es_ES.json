@@ -2,7 +2,7 @@
     "position": 2,
     "right_to_left": false,
     "description": [
-        "¡Descarga vídeos de YouTube como audio para llevar siempre contigo!\\n\\n",
+        "¡Descarga vídeos de YouTube como audio para llevarlos siempre contigo!\\n\\n",
         "Mirror: @YTAudio_Bot"
     ],
     "type_search_terms": "{MEMO} Escribe tus términos de búsqueda",
@@ -257,7 +257,7 @@
     "pause_button": "{BALLOT_BOX_WITH_CHECK} Pausar",
     "resume_button": "{WHITE_HEAVY_CHECK_MARK} Reanudar",
     "translate_button": "{SPEAKING_HEAD} Contribuir",
-    "translators_button": "{BUSTS_IN_SILHOUETTE} Contribuidores",
+    "translators_button": "{BUSTS_IN_SILHOUETTE} Contribuyentes",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Ver proyecto",
     "donate_button": "{WRAPPED_GIFT} Donar",
     "donate_with_paypal_button": "{P_BUTTON} Donar con PayPal"
