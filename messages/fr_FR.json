@@ -253,6 +253,6 @@
     "translate_button": "{SPEAKING_HEAD} Contribuer",
     "translators_button": "{BUSTS_IN_SILHOUETTE} translateurs",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Ouvrir le projet",
-    "donate_button": null,
-    "donate_with_paypal_button": null
+    "donate_button": "{WRAPPED_GIFT} Donner",
+    "donate_with_paypal_button": "{P_BUTTON} Donner avec PayPal"
 }
