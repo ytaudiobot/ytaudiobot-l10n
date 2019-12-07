@@ -17,7 +17,7 @@ Language | Contributors | Translated
 :finland: **Suomi** ([fi_FI](messages/fi_FI.json)) | [Elias](//github.com/theel0ja) | [**98%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
 :greece: **Ελληνικά** ([el_GR](messages/el_GR.json)) | [stamsarger](//github.com/stamsarger) | [**98%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
 :romania: **Română** ([ro_RO](messages/ro_RO.json)) | [NicuG](//t.me/nicug) | 100%
-:uzbekistan: **O'zbek** ([Lt_uz_UZ](messages/Lt_uz_UZ.json)) | [HusanboyBayern](//t.me/HusanboyBayern) | [**98%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
+:uzbekistan: **O'zbek** ([Lt_uz_UZ](messages/Lt_uz_UZ.json)) | [Husanboy Qodirov](//t.me/husanboyqodirov) | [**98%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
 :indonesia: **Bahasa Indonesia** ([id_ID](messages/id_ID.json)) | [Aldian Hudaya](//t.me/oichidan) | [**98%**](//github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
 :tr: **Türkçe** ([tr_TR](messages/tr_TR.json)) | [EypCnn](//github.com/EypCnn), [Ilker Binzet](//github.com/binzet), [Furoin](https://github.com/Furoin) | 100%
 :cn: **简体中文** ([zh_CN](messages/zh_CN.json)) | [Kris](//t.me/littlekris) | 100%
