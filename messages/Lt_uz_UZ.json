@@ -203,7 +203,7 @@
         "{translators}\\n\\n",
         "— @YTAudioBot"
     ],
-    "donate": null,
+    "donate": "Ehson qilish",
     "month_1": "Yanvar",
     "month_2": "Febral",
     "month_3": "Mart",
@@ -253,6 +253,6 @@
     "translate_button": "{SPEAKING_HEAD} Hissa qo'shish",
     "translators_button": "{BUSTS_IN_SILHOUETTE} Tarjimonlar",
     "open_project_button": "{CARD_INDEX_DIVIDERS} Projektni ochish",
-    "donate_button": null,
-    "donate_with_paypal_button": null
+    "donate_button": "Ehson qilish",
+    "donate_with_paypal_button": "PayPal bilan ehson qilish"
 }
